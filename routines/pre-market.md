@@ -55,8 +55,8 @@ STEP 4 — Write a dated entry to memory/RESEARCH-LOG.md:
 STEP 5 — COMMIT AND PUSH (mandatory):
   git add memory/RESEARCH-LOG.md
   git commit -m "pre-market research $DATE"
-  git push origin main
-On push failure: git pull --rebase origin main, then push again.
+  git push origin master
+On push failure: git pull --rebase origin master, then push again.
 Never force-push.
 
 STEP 6 — Post pre-market summary to ClickUp Chat:

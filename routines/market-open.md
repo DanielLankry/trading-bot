@@ -54,8 +54,8 @@ Date, ticker, side, shares, entry price, stop level, thesis, target, R:R.
 STEP 7 — COMMIT AND PUSH (mandatory if any trades executed):
   git add memory/TRADE-LOG.md
   git commit -m "market-open trades $DATE"
-  git push origin main
-Skip commit if no trades fired. On push failure: git pull --rebase origin main,
+  git push origin master
+Skip commit if no trades fired. On push failure: git pull --rebase origin master,
 then push again. Never force-push.
 
 STEP 8 — Post market-open summary to ClickUp Chat:
