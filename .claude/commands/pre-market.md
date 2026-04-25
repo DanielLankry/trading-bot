@@ -34,3 +34,12 @@ STEP 4 — Write a dated entry to memory/RESEARCH-LOG.md:
 - 2-3 actionable trade ideas WITH catalyst + entry/stop/target
 - Risk factors for the day
 - Decision: trade or HOLD (default HOLD — patience > activity)
+
+STEP 5 — Post pre-market summary to ClickUp Chat:
+  CLICKUP_MSG="**Pre-Market $DATE**
+  - Equity: [value] | Cash: [value] | BP: [value]
+  - VIX: [level] | S&P futures: [direction] | Oil: [price]
+  - Key catalysts: [top 1-2]
+  - Trade ideas: [ticker(s) or NONE]
+  - Decision: TRADE / HOLD"
+  bash scripts/clickup.sh "$CLICKUP_MSG"

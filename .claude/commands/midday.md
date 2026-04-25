@@ -30,3 +30,11 @@ if not at -7% yet. Document reasoning in TRADE-LOG.
 
 STEP 6 — Optional intraday research via Perplexity if something is moving
 sharply with no obvious cause. Append afternoon addendum to RESEARCH-LOG.
+
+STEP 7 — Post midday update to ClickUp Chat:
+  CLICKUP_MSG="**Midday Scan $DATE**
+  - Cuts: [ticker @ price, realized P&L — or NONE]
+  - Stop adjustments: [ticker old→new trail% — or NONE]
+  - Thesis breaks: [ticker — reason — or NONE]
+  - Open positions: [count] | Portfolio: [equity]"
+  bash scripts/clickup.sh "$CLICKUP_MSG"

@@ -48,3 +48,13 @@ STEP 5 — COMMIT AND PUSH (mandatory — tomorrow's Day P&L depends on this):
   git push origin main
 On push failure: git pull --rebase origin main, then push again.
 Never force-push.
+
+STEP 6 — Post EOD summary to ClickUp Chat:
+  CLICKUP_MSG="**EOD Summary $DATE**
+  - Portfolio: [equity] | Cash: [X%]
+  - Day P&L: [±$X (±X%)] | Phase P&L: [±$X (±X%)]
+  - Open positions: [list or NONE]
+  - Trades today: [count or NONE]
+  - Notes: [one-line plain-english]"
+  bash scripts/clickup.sh "$CLICKUP_MSG"
+If CLICKUP_API_KEY is not set, script auto-falls back — no action needed.
