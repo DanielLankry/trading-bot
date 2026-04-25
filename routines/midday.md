@@ -49,8 +49,8 @@ sharply with no obvious cause. Append afternoon addendum to RESEARCH-LOG.
 STEP 7 — COMMIT AND PUSH (if any memory files changed):
   git add memory/TRADE-LOG.md memory/RESEARCH-LOG.md
   git commit -m "midday scan $DATE"
-  git push origin main
-Skip commit if no-op. On push failure: git pull --rebase origin main,
+  git push origin master
+Skip commit if no-op. On push failure: git pull --rebase origin master,
 then push again. Never force-push.
 
 STEP 8 — Post midday update to ClickUp Chat:

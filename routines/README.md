@@ -15,7 +15,7 @@ The env-var check block and the commit-and-push step are load-bearing.
 
 1. Claude Code cloud → Routines → New Routine
 2. Name it (e.g. "Trading bot pre-market")
-3. Select your repo, branch: main
+3. Select your repo, branch: master
 4. Add all environment variables (see env.template)
 5. Toggle on **Allow unrestricted branch pushes**
 6. Set the cron schedule and timezone

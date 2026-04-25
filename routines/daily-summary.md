@@ -45,8 +45,8 @@ STEP 4 — Append EOD snapshot to memory/TRADE-LOG.md:
 STEP 5 — COMMIT AND PUSH (mandatory — tomorrow's Day P&L depends on this):
   git add memory/TRADE-LOG.md
   git commit -m "EOD snapshot $DATE"
-  git push origin main
-On push failure: git pull --rebase origin main, then push again.
+  git push origin master
+On push failure: git pull --rebase origin master, then push again.
 Never force-push.
 
 STEP 6 — Post EOD summary to ClickUp Chat:

@@ -57,9 +57,9 @@ in the review.
 STEP 6 — COMMIT AND PUSH (mandatory):
   git add memory/WEEKLY-REVIEW.md memory/TRADING-STRATEGY.md
   git commit -m "weekly review $DATE"
-  git push origin main
+  git push origin master
 If TRADING-STRATEGY.md didn't change, add just WEEKLY-REVIEW.md.
-On push failure: git pull --rebase origin main, then push again.
+On push failure: git pull --rebase origin master, then push again.
 Never force-push.
 
 STEP 7 — Post weekly review summary to ClickUp Chat:

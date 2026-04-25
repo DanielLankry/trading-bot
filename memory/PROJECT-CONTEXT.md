@@ -4,7 +4,8 @@
 - What: Autonomous trading bot challenge
 - Starting capital: ~$10,000
 - Platform: Alpaca
-- Duration: [your challenge window]
+- Duration: 30-day challenge — 2026-04-28 to 2026-05-27 (trading days only)
+- Benchmark: Beat S&P 500 total return over the same window
 - Strategy: Swing trading stocks, no options
 
 ## Rules
