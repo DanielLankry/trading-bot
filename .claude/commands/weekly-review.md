@@ -28,3 +28,12 @@ STEP 4 — Append full review section to memory/WEEKLY-REVIEW.md:
 - Key lessons, adjustments for next week, overall letter grade (A-F)
 
 STEP 5 — If a rule needs to change, also update memory/TRADING-STRATEGY.md.
+
+STEP 6 — Post weekly review summary to ClickUp Chat:
+  CLICKUP_MSG="**Weekly Review $DATE**
+  - Week return: [±$X (±X%)] vs S&P [±X%]
+  - Trades: [W/L/open] | Win rate: [X%] | Profit factor: [X]
+  - Best: [ticker +X%] | Worst: [ticker -X%]
+  - Grade: [A-F]
+  - Key lesson: [one sentence]"
+  bash scripts/clickup.sh "$CLICKUP_MSG"

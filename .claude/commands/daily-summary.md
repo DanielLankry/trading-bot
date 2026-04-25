@@ -26,3 +26,12 @@ STEP 4 — Append EOD snapshot to memory/TRADE-LOG.md:
 **Portfolio:** $X | **Cash:** $X (X%) | **Day P&L:** ±$X (±X%) | **Phase P&L:** ±$X (±X%)
 | Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
 **Notes:** one-paragraph plain-english summary.
+
+STEP 5 — Post EOD summary to ClickUp Chat:
+  CLICKUP_MSG="**EOD Summary $DATE**
+  - Portfolio: [equity] | Cash: [X%]
+  - Day P&L: [±$X (±X%)] | Phase P&L: [±$X (±X%)]
+  - Open positions: [list or NONE]
+  - Trades today: [count or NONE]
+  - Notes: [one-line plain-english]"
+  bash scripts/clickup.sh "$CLICKUP_MSG"

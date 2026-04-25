@@ -58,3 +58,14 @@ STEP 5 — COMMIT AND PUSH (mandatory):
   git push origin main
 On push failure: git pull --rebase origin main, then push again.
 Never force-push.
+
+STEP 6 — Post pre-market summary to ClickUp Chat:
+Construct the message from data gathered above, then run:
+  CLICKUP_MSG="**Pre-Market $DATE**
+  - Equity: [value] | Cash: [value] | BP: [value]
+  - VIX: [level] | S&P futures: [direction] | Oil: [price]
+  - Key catalysts: [top 1-2 from economic calendar / news]
+  - Trade ideas: [ticker(s) or NONE]
+  - Decision: TRADE / HOLD"
+  bash scripts/clickup.sh "$CLICKUP_MSG"
+If CLICKUP_API_KEY is not set, the script auto-falls back to a local file — no action needed.

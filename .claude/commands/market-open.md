@@ -33,3 +33,11 @@ If also blocked, queue the stop in TRADE-LOG as "PDT-blocked, set tomorrow AM".
 
 STEP 6 — Append each trade to memory/TRADE-LOG.md (matching existing format):
 Date, ticker, side, shares, entry price, stop level, thesis, target, R:R.
+
+STEP 7 — Post market-open summary to ClickUp Chat:
+  CLICKUP_MSG="**Market Open $DATE**
+  - Trades fired: [ticker @ price, stop @ price — or NONE]
+  - Skipped: [ticker — reason — or NONE]
+  - Portfolio: [equity] | Open positions: [count/6]
+  - Trades this week: [count/3]"
+  bash scripts/clickup.sh "$CLICKUP_MSG"

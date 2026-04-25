@@ -52,3 +52,12 @@ STEP 7 — COMMIT AND PUSH (if any memory files changed):
   git push origin main
 Skip commit if no-op. On push failure: git pull --rebase origin main,
 then push again. Never force-push.
+
+STEP 8 — Post midday update to ClickUp Chat:
+  CLICKUP_MSG="**Midday Scan $DATE**
+  - Cuts: [ticker @ price, realized P&L — or NONE]
+  - Stop adjustments: [ticker old→new trail% — or NONE]
+  - Thesis breaks: [ticker — reason — or NONE]
+  - Open positions: [count] | Portfolio: [equity]"
+  bash scripts/clickup.sh "$CLICKUP_MSG"
+If CLICKUP_API_KEY is not set, script auto-falls back — no action needed.

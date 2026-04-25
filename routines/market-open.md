@@ -57,3 +57,12 @@ STEP 7 — COMMIT AND PUSH (mandatory if any trades executed):
   git push origin main
 Skip commit if no trades fired. On push failure: git pull --rebase origin main,
 then push again. Never force-push.
+
+STEP 8 — Post market-open summary to ClickUp Chat:
+  CLICKUP_MSG="**Market Open $DATE**
+  - Trades fired: [ticker @ price, stop @ price — or NONE]
+  - Skipped: [ticker — reason — or NONE]
+  - Portfolio: [equity] | Open positions: [count/6]
+  - Trades this week: [count/3]"
+  bash scripts/clickup.sh "$CLICKUP_MSG"
+If CLICKUP_API_KEY is not set, script auto-falls back — no action needed.

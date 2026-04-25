@@ -61,3 +61,13 @@ STEP 6 — COMMIT AND PUSH (mandatory):
 If TRADING-STRATEGY.md didn't change, add just WEEKLY-REVIEW.md.
 On push failure: git pull --rebase origin main, then push again.
 Never force-push.
+
+STEP 7 — Post weekly review summary to ClickUp Chat:
+  CLICKUP_MSG="**Weekly Review $DATE**
+  - Week return: [±$X (±X%)] vs S&P [±X%]
+  - Trades: [W/L/open] | Win rate: [X%] | Profit factor: [X]
+  - Best: [ticker +X%] | Worst: [ticker -X%]
+  - Grade: [A-F]
+  - Key lesson: [one sentence]"
+  bash scripts/clickup.sh "$CLICKUP_MSG"
+If CLICKUP_API_KEY is not set, script auto-falls back — no action needed.
