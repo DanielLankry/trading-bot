@@ -49,8 +49,8 @@ Template for each entry:
 | Starting portfolio | $100,000.00 |
 | Ending portfolio | $100,000.00 |
 | Week return | $0.00 (0.00%) |
-| S&P 500 week | ~+1.8% (SPX 6,355 → 6,472) |
-| Bot vs S&P | -1.8% (cash vs invested) |
+| S&P 500 week | ~+0.80% (SPX closed 7,165.08 on Apr 24) |
+| Bot vs S&P | -0.80% (cash vs invested) |
 | Trades | 0 (W:0 / L:0 / open:0) |
 | Win rate | N/A |
 | Best trade | N/A |
@@ -58,8 +58,8 @@ Template for each entry:
 | Profit factor | N/A |
 
 > **Note:** Pre-launch setup week. Challenge officially begins Monday 2026-04-28.
-> Account initialized with $100,000 paper capital. Trade Log baseline recorded at $10,000 sub-allocation.
-> No trades possible — bot was not yet active.
+> Account: $100,000 paper capital, fully in cash. No trades executed.
+> Market context: SPX at all-time highs (~7,165), ~25% of S&P 500 companies reported Q1 with ~80% beating estimates.
 
 ### Closed Trades
 | Ticker | Entry | Exit | P&L | Notes |
@@ -72,30 +72,31 @@ Template for each entry:
 | — | — | — | — | — |
 
 ### What Worked
-- No rule violations — discipline maintained before first trade
-- Environment verified: all API keys set, wrappers functional
-- Memory files initialized and committed correctly
+- No rule violations — stayed in cash as required before challenge launch
+- All API keys verified, wrapper scripts functional (Alpaca + Perplexity + ClickUp)
+- Memory files initialized and committed to repository correctly
 - Strategy reviewed; decision tree confirmed as working framework
-- Pre-market routine structure confirmed ready for Monday launch
+- Perplexity research pipeline tested and working
 
 ### What Didn't Work
-- No active capital deployment — missed ~+1.8% S&P move this week
-- No research entries logged (no active session ran this week)
-- No trade setups were evaluated or screened
-- Challenge baseline in Trade Log ($10,000) does not match actual account equity ($100,000) — needs clarification on sizing intent
-- No watchlist built yet for Monday open
+- No capital deployed — missed ~+0.80% S&P gain this week
+- No pre-market research entries logged (routines not yet active)
+- No watchlist built for Monday challenge launch
+- SPX entering all-time high territory (~7,165) — extended market may limit clean pullback setups at open
+- Trade Log baseline ($10,000 sub-allocation note) vs actual account ($100,000) inconsistency unresolved
 
 ### Key Lessons
-- Sitting in cash has a cost — even pre-launch, should begin scanning for setups on Thursday/Friday so Monday open is ready
-- Confirm account sizing convention before first trade: does the 1–2% risk rule apply to $10,000 or $100,000?
-- Market this week: SPX resilient (+1.8%), VIX reportedly cooling from elevated levels — conditions may be improving for entries next week
+- Market is at all-time highs entering the challenge — must wait for pullbacks to SMAs, not chase breakouts
+- Q1 earnings season active (25% reported, 80% beat rate) — screen every ticker for upcoming earnings before entry
+- VIX and macro context must be checked Monday AM before placing any orders
+- Sitting in cash is a valid position when no clean setup exists
 
 ### Adjustments for Next Week
 - Run pre-market routine Monday AM (April 28) — first live session of the challenge
-- Build watchlist over the weekend using Perplexity: target 3–5 stocks above SMA 150/200 with valid pullback setups
-- Confirm with user: position sizing against $10,000 sub-allocation or full $100,000 account equity
-- VIX check at open — if still above 25, reduce size or hold cash
-- Max 3 trades this week (hard rule); max 6 open positions
+- Build weekend watchlist: 3–5 stocks above SMA 150/200 with valid pullback setups
+- Position sizing: 1–2% risk rule applies to $100,000 account equity
+- VIX check at open — if above 25, reduce size or hold cash
+- Hard caps: max 3 trades this week, max 6 open positions at any time
 
 ### Overall Grade: B
-> Rationale: No violations, all systems operational, but zero activity in a +1.8% market week. Grade reflects clean process execution with no capital deployed. First real week starts Monday.
+> Rationale: Clean process execution, no violations, all systems operational. Zero capital deployed by design (pre-launch week). Missed +0.80% market move. First real test begins Monday April 28.
