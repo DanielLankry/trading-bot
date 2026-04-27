@@ -68,3 +68,12 @@ TRADE or HOLD (default HOLD if no edge)
 
 ### Decision
 **HOLD** — FOMC Wednesday is a binary risk event. No valid confirmed SMA pullback setup on watchlist stocks today. Patience is the position. Re-evaluate Thursday morning post-FOMC + PCE data. Watchlist: XLI (entry near SMA 150 on pullback), XOM (post-earnings clarity).
+
+### Midday Addendum (12:00 ET)
+- S&P 500 midday: ~7,175–7,200 — holding above ATH, uptrend intact ✓
+- VIX: implied low (below 25 threshold) based on record-high price action ✓
+- Intraday leadership: Semis surging — QCOM +11%, INTC record high on AI/earnings, NVDA retakes $5T; DOJ drops Powell probe (risk-positive)
+- Nasdaq: +1.1% intraday; S&P +0.27%
+- No breaking news affecting XLI or XOM thesis
+- **No action taken** — cash 100%, holding per pre-market HOLD decision
+- FOMC (Wed Apr 29) remains the gating event; do not enter before then
