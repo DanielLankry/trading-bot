@@ -32,6 +32,43 @@ TRADE or HOLD (default HOLD if no edge)
 
 ---
 
+## 2026-04-28 — Pre-market Research
+
+### Account
+- Equity: $100,000.00
+- Cash: $100,000.00
+- Buying power: $200,000.00 (2× margin)
+- Daytrade count: 0
+- Open positions: none
+- Open orders: none
+
+### Market Context
+- WTI: CLM26 (June contract) +2.09% Apr 27, +2.84% intraday Apr 28 — running on stalled US-Iran nuclear talks; Apr 17 Brent spot ~$96.18; oil volatile
+- S&P 500 futures (ESM26): ~7,217–7,222, flat vs prior close $7,217; Polymarket 66% odds market opens DOWN today
+- VIX: 18.71 (Apr 24 last confirmed close) — below 25 threshold ✓; normal volatility
+- Today's catalysts: FOMC Day 1 of 2 (meeting Apr 28–29); chip stocks rally continuing (AI/TSMC); no single dominant macro shock today
+- Earnings before open: No major US companies BMO; European names only (Boliden, ASSA ABLOY)
+- Economic calendar: BLS Veterans Employment report 10 AM (non-market-moving); NO CPI/PPI/GDP/FOMC decision today. FOMC decision Wednesday Apr 29 2 PM ET (99.9% hold at 3.50–3.75% expected); Core PCE Thursday Apr 30; Jobs May 8; CPI May 12
+- Sector momentum YTD (Apr 17 data): Energy +24–38% #1, Materials +20% #2, Industrials +19% #3, Financials +12% #4, S&P 500 ~+11%
+
+### Trade Ideas
+1. **XLI (Industrial Select Sector ETF)** — Industrials #3 sector YTD +19%; price ~$172.47 (Apr 24), SMA 200 ~$153–159 (well above ✓); SMA 150 unconfirmed but est. ~$160–165; NOT at pullback — price extended near 52-wk high ($178.90). Entry ONLY on dip to SMA 150 (~$160–165) with confirmed daily close back above. Stop: daily close below SMA 150. Target $185+. R:R ~2:1. **Gate: post-FOMC clarity (Apr 29 PM)**
+2. **XLE (Energy Select Sector ETF)** — Energy leading YTD; avoids single-stock earnings risk (vs XOM); oil rising on Iran tensions. SMA 150/200 position needs chart verification. Watch for pullback setup post-FOMC. Cleaner vehicle than XOM given imminent earnings risk on individual names.
+3. **XOM (ExxonMobil)** — Energy leader, price ~$148.85; oil tailwind from Iran tensions; Q1 earnings likely early May (unconfirmed date — risk). SMA 150/200 unconfirmed. Do not enter with earnings approaching. Monitor post-Q1 earnings for re-entry if SMA structure holds.
+
+### Risk Factors
+- FOMC decision tomorrow Apr 29 — binary event; J.P. Morgan warns of hawkish risk from Iran oil shock driving inflation
+- Core PCE Thursday Apr 30 — inflation surprise risk
+- Oil extreme volatility driven by US-Iran geopolitical tension
+- XLI extended above SMAs — no valid pullback entry today
+- XOM earnings imminent (est. early May) — hold-through earnings is a rules violation
+- Polymarket 66% odds market opens DOWN today — cautious tone
+
+### Decision
+**HOLD** — FOMC Day 1 of 2 meeting today; decision announced tomorrow Apr 29 at 2 PM ET. No valid SMA pullback entry on watchlist. XLI extended, XOM earnings risk. Patience is the position. Reassess Thursday morning post-FOMC + Core PCE data. Watchlist: XLI (entry on SMA 150 dip ~$160–165), XLE (energy sector play, verify SMA structure).
+
+---
+
 ## 2026-04-27 — Pre-market Research
 
 ### Account
