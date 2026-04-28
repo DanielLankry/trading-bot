@@ -32,6 +32,17 @@ TRADE or HOLD (default HOLD if no edge)
 
 ---
 
+## 2026-04-28 — Midday Addendum (12:00 ET)
+- S&P 500: ~7,136.51, down -0.52% intraday (range 7,129–7,153); prior close 7,173.91 — still above SMA 200 (~6,789 est.), uptrend intact but soft day
+- VIX: no fresh intraday print; assumed sub-25 per premarket reading of 18.71
+- XLI / XLE: intraday SMA data unavailable; no chart verification until EOD; no valid pullback setups confirmed
+- FOMC Day 1 in progress — market showing mild caution ahead of tomorrow's decision
+- No positions open; no cuts, no stop adjustments, no thesis breaks — cash 100%
+- **No action taken.** Watchlist unchanged: XLI (entry on SMA 150 dip ~$160–165), XLE (verify SMA structure post-FOMC)
+- Continue to hold cash; re-evaluate Thursday morning post-FOMC (Apr 29 2 PM ET) + Core PCE (Apr 30)
+
+---
+
 ## 2026-04-28 — Pre-market Research
 
 ### Account
