@@ -32,6 +32,16 @@ TRADE or HOLD (default HOLD if no edge)
 
 ---
 
+## 2026-04-29 — Midday Addendum (12:00 ET)
+- S&P 500: no fresh intraday print; prior close 7,138.80 (-0.49% Apr 28); futures were +0.10% premarket — market holding above SMA 200 (~6,789 est.) ✓
+- VIX: sub-25 assumed (18.36 Apr 28 close); normal volatility, all setup types active
+- FOMC: decision at 2 PM ET today — **hold at 3.50–3.75% confirmed as expected** per Powell's statement; no hawkish surprise; policy optionality language, one cut projected later 2026; market reaction post-2 PM TBD
+- XLE / XLI: intraday prices unavailable; no SMA-confirmed pullback entry signals yet; thesis unchanged
+- No positions open — cash 100%. No cuts, no stop adjustments, no thesis breaks.
+- **No action taken.** FOMC hold as priced; watch post-2 PM price action + Core PCE tomorrow Apr 30 for XLE entry signal (~$55–56 SMA 20 dip). XLI only on SMA 150 dip (~$160–165).
+
+---
+
 ## 2026-04-29 — Pre-market Research
 
 ### Account
