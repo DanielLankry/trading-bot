@@ -1,60 +1,101 @@
-# Trading Strategy — Micha Stocks Method (שיטת מיכו)
+# Trading Strategy — Aggressive Micha Method (30-Day SPY-Beat Edition)
+
+**Active challenge:** Beat S&P 500 over 30 trading days (2026-04-28 → 2026-05-27). Starting capital ~$10,000. Aggressive variant of the classical Micha Method (שיטת מיכו) — concentration, leverage core, faster setups, tighter rotation.
+
+---
 
 ## Philosophy
-Classical technical analysis rooted in Edwards & Magee. Price action and moving averages tell you everything. No emotions, no noise — only structure. Swing trading to medium-term (days to months). US equities and ETFs only. No day trading.
+Classical TA still drives entries (price + SMAs), but for this 30-day sprint we trade with concentration and leverage. We don't add patience-only Micha pullbacks. We hunt 5 setup types, run a leveraged ETF as the core beta-juicer, and cut fast. Single rule that survives unchanged: **never move a stop down.**
 
 ---
 
-## PRIMARY METHOD — SMA 150 / SMA 200
+## CAPITAL ALLOCATION (Hybrid Core + Satellite)
 
-### Trend Filter (non-negotiable before any entry)
-- Price must be ABOVE both SMA 150 and SMA 200 on the daily chart
-- Both SMAs must be sloping upward
-- If either condition fails → DO NOT enter long. Period.
-
-### Entry Logic
-- Buy pullbacks TOWARD SMA 150 or SMA 200 — not breakouts
-- Wait for a daily candle to close back above the SMA after a dip (confirmation)
-- Never chase. If the move already happened, wait for the next setup.
-
-### Stop Loss
-- Hard stop: daily close BELOW SMA 150
-- Exit on structure break, not percentage loss alone
-- A dip to the SMA is normal. A close below it is a signal.
-
-### Exit / Take Profit
-- Partial exit when price is extended far above SMA 200 (overextended = rising risk)
-- Full exit on confirmed structural breakdown: close below SMA 150 + SMA starts sloping down
+- **Leveraged ETF Core: 40–50% ($4–5K)** — TQQQ (preferred), SOXL, or SPXL. **One position at a time.** No stacking.
+- **High-Beta Single Names: 40–50% ($4–5K)** — 2–3 conviction names
+- **Cash Buffer: 5–10% ($500–1K)** — for opportunistic adds and momentum probes
 
 ---
 
-## SECONDARY METHOD — SMA 20 (Short-Term Swing)
+## UNIVERSE — Single Names
 
-Used for faster trades or tighter entries within an established uptrend.
+High-beta, liquid, market cap ≥ $5B, optionable. Rotating watchlist:
 
-- Macro trend must still be valid: price above SMA 150 and SMA 200
-- Use SMA 20 for precise entry timing on the daily chart
-- Buy the bounce off SMA 20
-- Stop: daily close below SMA 20
+- **Mega-cap tech / AI:** NVDA, AVGO, META, MSFT, GOOGL, AMZN, TSLA, AMD, MU, ARM, MRVL, ASML
+- **High-beta growth:** PLTR, CRWD, NET, SNOW, MELI, SHOP
+- **Crypto-adjacent (size carefully):** COIN, MSTR, HOOD
+- **ETF satellites if no single-name setup:** SMH, ARKK, IBIT
 
----
-
-## ADDITIONAL TECHNICAL TOOLS (priority order)
-
-1. **Support & Resistance** — horizontal levels where price has historically reacted; marked manually
-2. **Trendlines** — connecting higher lows (uptrend) / lower highs (downtrend); break = warning
-3. **Chart Patterns** — Cup & Handle, Head & Shoulders, flags, wedges; entry on confirmed breakout with volume
-4. **Fibonacci Retracement** — golden zone (0.618–0.786) as secondary confirmation for pullback entries
-5. **Volume** — breakout or bounce without volume is suspect; require volume confirmation on key moves
+**Banned:** biotech, < $5B caps, foreign listings, penny stocks.
 
 ---
 
-## MACRO FILTER (check before any entry)
+## SETUP TYPES (5 total)
 
-- S&P 500 and Nasdaq must be in uptrend (above their own SMA 150/200)
-- VIX above 25–30 → reduce position sizes or stay in cash
-- Individual stock setups are invalid if the index is in breakdown
-- Do not fight the market
+### Type 1 — SMA 150/200 Pullback (highest conviction)
+- Stock above SMA 150 AND SMA 200, both sloping up
+- Pullback toward SMA, daily close back above SMA
+- **Risk: 3–4% of capital (full size)**
+- **Stop: daily close below SMA 150**
+
+### Type 2 — Breakout
+- Stock above SMA 150/200, both sloping up
+- Consolidation / chart pattern (cup & handle, flag, base) breaking out on volume > 1.5× avg
+- **Risk: 3–4% of capital (full size)**
+- **Stop: daily close below breakout level OR SMA 50, whichever is closer**
+
+### Type 3 — SMA 20/50 Pullback (faster swing)
+- Macro trend intact (above SMA 150/200)
+- Pullback to SMA 20 or SMA 50, bounce confirmation
+- **Risk: 3–4% of capital (full size)**
+- **Stop: daily close below the SMA being used**
+
+### Type 4 — Momentum Probe (most aggressive)
+- Strong relative-strength leader, gap-up continuation OR new high breakout without clean pullback
+- **Risk: 1.5–2% of capital (HALF size)**
+- **Stop: 5% below entry OR 1×ATR, whichever tighter**
+- **Time stop: exit within 5 trading days regardless of price**
+- Max 2 momentum probes open at any time
+
+### Type 5 — Leveraged ETF Core
+- Underlying (QQQ / SMH / SPY) above its own SMA 50, sloping up
+- Enter on **underlying** pullback to SMA 50 — NOT the leveraged ETF's own chart
+- **Risk: 4–5% of capital (the beta-juicer)**
+- **Stop: underlying daily close below SMA 50** OR leveraged ETF intraday drop ≥ 8% from entry (whipsaw guard)
+
+---
+
+## MACRO FILTER
+
+- SPY AND QQQ above own SMA 50 → **all 5 setup types active**
+- SPY OR QQQ between SMA 50 and SMA 150 → **only Type 1 + Type 3**, no leveraged ETF, no momentum probes
+- SPY OR QQQ below SMA 150 → **cash, exit longs**
+- VIX > 25 → reduce all sizes by 25%
+- VIX > 30 → exit leveraged ETF, single names at half size only
+- VIX > 35 → cash
+
+---
+
+## POSITION LIMITS
+
+- **Max 4 positions total** (1 leveraged ETF + 2–3 single names). Concentration, not diversification.
+- Max 1 leveraged ETF position
+- Max 2 momentum probes
+- **No weekly trade cap** (30-day sprint)
+- One position per name. No averaging up. No averaging down.
+
+---
+
+## STOPS & EXITS
+
+- **Never move a stop down. Ever.** (Only Micha rule that survives unchanged.)
+- **Trailing rules on single names:**
+  - Up ≥ +15% → ratchet stop to entry (breakeven)
+  - Up ≥ +20% → take 1/3 off (lock partial profit, runner stays)
+  - Up ≥ +30% → trail at SMA 20
+- **Time stop on momentum probes:** 5 trading days max, exit regardless
+- **Leveraged ETF intraday whipsaw guard:** −8% from entry intraday → exit
+- **Earnings:** cut to half size or exit before earnings. **No full-size hold through earnings.** Earnings are coinflips with no edge.
 
 ---
 
@@ -62,53 +103,60 @@ Used for faster trades or tighter entries within an established uptrend.
 
 For every stock analyzed, query Perplexity for:
 1. Recent news and catalysts (last 30 days)
-2. Upcoming earnings date
+2. Upcoming earnings date (critical for sizing)
 3. Sector performance and relative strength
 4. Macro events that could impact the stock
 
 **Perplexity query format:**
 "Give me a concise research brief on [TICKER]: recent news, upcoming earnings, sector context, and any macro risks. Focus on the last 30 days. Be specific, no fluff."
 
+**SMA check query:**
+"Is [TICKER] currently above its 150-day and 200-day simple moving averages on the daily chart? Are both SMAs sloping upward? Also: where is its SMA 20 and SMA 50 relative to current price?"
+
 Research feeds INTO technical analysis — fundamentals are context, not the trigger. The trigger is always price + SMA structure.
-
----
-
-## POSITION SIZING & RISK MANAGEMENT
-
-- Max risk per trade: 1–2% of total capital
-- Position size = (Capital × Risk%) ÷ (Entry Price − Stop Loss Price)
-- Never average down on a losing trade
-- Max open positions: 5–8
-- Hold cash if no valid setups — sitting out is a position
 
 ---
 
 ## DECISION TREE (run in this exact order before every trade)
 
-1. Is the market (S&P/Nasdaq) in uptrend? → No = stay out
-2. Is the stock above SMA 150 AND SMA 200, both sloping up? → No = no trade
-3. Is there a valid pullback / pattern setup? → No = wait
-4. What does Perplexity research say — any upcoming risk events? → If yes, size down or wait
-5. Where is my stop? Is my risk within 1–2% of capital? → If not, don't take the trade
-6. Enter. Set stop. Don't move the stop down.
+1. SPY AND QQQ above own SMA 50? → No = restricted setup mode (Type 1, Type 3 only) or stay out if below SMA 150
+2. VIX check → > 30 = no leveraged ETF; > 35 = cash
+3. Identify setup type (1–5). Does the stock/ETF qualify for that type's entry rules?
+4. Position cap check: would this leave ≤ 4 total positions? ≤ 1 leveraged ETF? ≤ 2 momentum probes?
+5. Perplexity research — earnings within 5 trading days? → Half size or skip
+6. Stop defined per setup type? Risk within budget for setup type?
+7. Enter. Place stop. **Don't move it down.**
 
 ---
 
-## WHAT I DO NOT DO
+## EXPECTED RETURN PROFILE (30 days)
 
-- Do not trade stocks below SMA 150 and SMA 200
-- Do not buy because something "looks cheap" — only structure matters
-- Do not hold through earnings without a deliberate plan
-- Do not add to losers
-- Do not trade on tips, social media, or gut feeling
+- Best case (clean trend, leveraged ETF + 2–3 single names work): +18–25%
+- Realistic case (mixed market): +5–12%
+- Worst case (chop, multiple stops): −15 to −20%
+- SPY beat target: roughly +3–5% over SPY
+
+---
+
+## WHAT STAYS BANNED (non-negotiable)
+
+- No options, ever
+- No day trading
+- No averaging down losers
+- No moving stops down
+- No full-size holds through earnings
+- No tips / social media trades
+- No < $5B market cap
+- No buying because something "looks cheap" — only structure
 
 ---
 
 ## ALPACA EXECUTION NOTES
 
 - Order shapes: market buy (day TIF), trailing stop or fixed stop (GTC)
-- trail_percent is a string ("10"), qty is also a string
-- Market data URL: data.alpaca.markets | Trading URL: api.alpaca.markets
-- quote.ap = ask, quote.bp = bid; wide spread or zero = halted/illiquid → skip
+- `trail_percent` is a string ("10"), `qty` is also a string
+- Market data URL: `data.alpaca.markets` | Trading URL: `api.alpaca.markets`
+- `quote.ap` = ask, `quote.bp` = bid; wide spread or zero = halted/illiquid → skip
 - Trailing stops only work during market hours
 - All API keys set as cloud routine environment variables — no .env file in cloud
+- For SMA-based stops (no native Alpaca order type for "close below SMA"), set fixed stop GTC slightly below current SMA level; recompute and update each EOD via midday/EOD routines (never moving the stop down)

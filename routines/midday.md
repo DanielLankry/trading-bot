@@ -28,20 +28,38 @@ STEP 2 — Pull current state:
   bash scripts/alpaca.sh positions
   bash scripts/alpaca.sh orders
 
-STEP 3 — Cut losers immediately. For every position where
-unrealized_plpc <= -0.07:
+STEP 3 — Stop discipline + structural cuts. For each open position
+(check setup type from TRADE-LOG):
+- If the GTC stop has triggered and filled — log the exit, cancel any
+  paired orders, move on.
+- Type 5 (leveraged ETF) intraday whipsaw guard: if unrealized_plpc
+  <= -0.08 from entry, close immediately even if SMA-based stop
+  hasn't triggered. Log "leveraged ETF -8% whipsaw exit".
+- Type 4 (momentum probe) time-stop check: if today >= the 5-day
+  deadline logged in TRADE-LOG, close the position regardless of P&L.
+  Log "Type 4 time-stop hit (5 trading days)".
+
   bash scripts/alpaca.sh close SYM
-  bash scripts/alpaca.sh cancel ORDER_ID   # cancel its trailing stop
-Log the exit to TRADE-LOG: exit price, realized P&L, "cut at -7% per rule".
+  bash scripts/alpaca.sh cancel ORDER_ID   # cancel its protective stop
 
-STEP 4 — Tighten trailing stops on winners. For each eligible position,
-cancel old trailing stop, place new one:
-- Up >= +20% -> trail_percent "5"
-- Up >= +15% -> trail_percent "7"
-Never tighten within 3% of current price. Never move a stop down.
+STEP 4 — Tiered trailing on winners. For each open single-name position,
+compute unrealized_plpc and apply:
+- Up >= +30% -> raise stop to current SMA 20 level (query Perplexity for
+  SMA 20 of the ticker; convert to fixed stop price). Cancel old stop,
+  place new one.
+- Up >= +20% -> take 1/3 off (partial sell), keep stop where it is.
+  Mark "partial profit-take +20%" in TRADE-LOG.
+- Up >= +15% -> raise stop to entry price (breakeven). Cancel old stop,
+  place new one.
+Never move a stop down. Never tighten within 2% of current price.
+Type 5 (leveraged ETF) uses underlying SMA 50 trail — recompute via
+Perplexity if underlying has run.
 
-STEP 5 — Thesis check. If a thesis broke intraday, cut the position even
-if not at -7% yet. Document reasoning in TRADE-LOG.
+STEP 5 — Thesis / earnings check. For each position:
+- Original thesis still valid? If broken intraday, cut even if not
+  stopped. Document reasoning in TRADE-LOG.
+- Earnings within 5 trading days? Cut to half size or exit per strategy
+  (no full holds through earnings).
 
 STEP 6 — Optional intraday research via Perplexity if something is moving
 sharply with no obvious cause. Append afternoon addendum to RESEARCH-LOG.
@@ -55,9 +73,10 @@ then push again. Never force-push.
 
 STEP 8 — Post midday update to ClickUp Chat:
   CLICKUP_MSG="**Midday Scan $DATE**
-  - Cuts: [ticker @ price, realized P&L — or NONE]
-  - Stop adjustments: [ticker old→new trail% — or NONE]
-  - Thesis breaks: [ticker — reason — or NONE]
-  - Open positions: [count] | Portfolio: [equity]"
+  - Cuts: [ticker @ price, realized P&L, reason — or NONE]
+  - Stop raises: [ticker old→new (BE/SMA20/etc) — or NONE]
+  - Partials: [ticker 1/3 sold @ price — or NONE]
+  - Thesis / earnings actions: [ticker — reason — or NONE]
+  - Open positions: [count/4] | Portfolio: [equity]"
   bash scripts/clickup.sh "$CLICKUP_MSG"
 If CLICKUP_API_KEY is not set, script auto-falls back — no action needed.
