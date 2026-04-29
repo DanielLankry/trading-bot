@@ -26,3 +26,14 @@ No positions yet. Bot launches tomorrow (2026-04-28).
 | — | — | — | — | — | — | — |
 
 **Notes:** Day 1 of the 30-day challenge (2026-04-28 → 2026-05-27). Account remains fully in cash at $100,000 with no open positions and no orders executed. No qualifying setups met all entry criteria today — market conditions and/or individual stock setups did not satisfy the strategy's SMA 150/200 pullback requirements. Trades this week: 0 of 3.
+
+---
+
+### Apr 29 — EOD Snapshot (Day 2, Wednesday)
+**Portfolio:** $100,000.00 | **Cash:** $100,000.00 (100%) | **Day P&L:** $0.00 (0.00%) | **Phase P&L:** $0.00 (0.00%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| — | — | — | — | — | — | — |
+
+**Notes:** Day 2 of the 30-day challenge. Account remains fully in cash at $100,000 with no open positions and no orders executed. No trades taken today. Trades this week: 0.
