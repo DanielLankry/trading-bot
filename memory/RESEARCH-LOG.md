@@ -32,6 +32,48 @@ TRADE or HOLD (default HOLD if no edge)
 
 ---
 
+## 2026-04-29 — Pre-market Research
+
+### Account
+- Equity: $100,000.00
+- Cash: $100,000.00
+- Buying power: $200,000.00 (2× margin)
+- Daytrade count: 0
+- Open positions: none
+- Open orders: none
+
+### Market Context
+- WTI: $102.22 (Apr 28 close, +2.95%); rallying on unresolved US-Iran talks + Strait of Hormuz risk; oil up from mid-Apr lows ~$82
+- Brent: no fresh quote; tracking WTI direction (est. ~$105 area)
+- S&P 500: closed 7,138.80 Apr 28 (-0.49%); futures premarket +0.10% (modest green); Polymarket 61% odds UP open
+- VIX: 18.36 (Apr 28 close) — below 25 threshold ✓; normal volatility
+- Today's catalysts: **FOMC rate decision 2 PM ET** (hold at 3.50-3.75% expected, 99% probability; likely Powell's last meeting); megacap tech earnings after close (MSFT, AMZN); oil geopolitics
+- Earnings BMO: No major S&P 500 companies reporting before open
+- Economic calendar: FOMC decision 2 PM ET only major release today; **Core PCE tomorrow Apr 30** (watch)
+- Sector momentum YTD (thru March): Energy +26% #1 | Consumer Staples +11% #2 | Industrials +10% #3 | S&P ~flat to -1%
+
+### SMA Check (Perplexity)
+- **XLI**: Price ~$177.23 | SMA 200 ~$153.23 | SMA 150 — "Buy" all timeframes. Extended 23%+ above 200-day. NOT at pullback. Entry only on dip to ~$160-165.
+- **XLE**: Price ~$57-59 | SMA 200 ~$44.87 | SMA 150 — "Buy." Recovered above 50-day SMA Apr 28. Above both long-term SMAs ✓. Oil tailwind. Potential pullback entry if SMA 20 dip materializes post-FOMC.
+
+### Trade Ideas
+1. **XLE (Energy Select Sector ETF)** — Energy #1 sector YTD +26%; price ~$57-59, above SMA 150 & 200, recovered above 50-day SMA Apr 28; WTI at $102 provides tailwind. Watch for dip toward SMA 20 (~$55-56) post-FOMC volatility as entry trigger. Entry ~$55-56 on confirmed daily close back above SMA 20, stop daily close below SMA 150 (~$46-48), target $65-67. R:R ~3:1. **Gate: FOMC clarity today + Core PCE clear tomorrow; verify SMA slopes upward before entry.**
+2. **XLI (Industrial Select Sector ETF)** — Industrials #3 sector YTD +10%; price ~$177 extended far above SMA 150 (~$160-165). No valid pullback entry. Entry ONLY on dip to SMA 150. Watch patiently.
+3. **Cash is the position** — FOMC binary event + PCE tomorrow = no edge for entry today. Post-event clarity (Thu morning) is the re-evaluation point.
+
+### Risk Factors
+- FOMC 2 PM ET — hawkish surprise (stalled inflation, Iran oil shock) could break indices; binary event even if hold is priced in
+- Core PCE Thu Apr 30 — inflation print could move markets sharply
+- Megacap tech earnings tonight (MSFT, AMZN AMC) — post-close moves could gap the market Thu
+- WTI at $102 — extreme oil volatility; geopolitical escalation risk
+- S&P 500 down -0.49% yesterday consolidating near highs; no clear directional conviction pre-FOMC
+- XLI and XLE both extended — no SMA pullback setups confirmed today
+
+### Decision
+**HOLD** — FOMC decision 2 PM ET today is a binary event; Core PCE follows tomorrow. No valid confirmed SMA pullback entries on watchlist. XLE is technically sound (above SMA 150/200, oil tailwind) but no dip-entry signal yet. Patience. Re-evaluate Thu morning post-FOMC + PCE data. Watchlist: XLE (energy, entry on SMA 20 dip ~$55-56 post-FOMC), XLI (entry on SMA 150 dip ~$160-165 only). Trades this week: 0 of 3.
+
+---
+
 ## 2026-04-28 — Midday Addendum (12:00 ET)
 - S&P 500: ~7,136.51, down -0.52% intraday (range 7,129–7,153); prior close 7,173.91 — still above SMA 200 (~6,789 est.), uptrend intact but soft day
 - VIX: no fresh intraday print; assumed sub-25 per premarket reading of 18.71
