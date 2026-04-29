@@ -20,36 +20,54 @@ IMPORTANT — PERSISTENCE:
   commit and push to main. You MUST commit and push at STEP 7.
 
 STEP 1 — Read memory for today's plan:
-- memory/TRADING-STRATEGY.md
+- memory/TRADING-STRATEGY.md (Aggressive Micha — 5 setup types, 4-position cap)
 - TODAY's entry in memory/RESEARCH-LOG.md (if missing, run pre-market
-  STEPS 1-3 inline)
-- tail of memory/TRADE-LOG.md (for weekly trade count)
+  STEPS 1-3 inline). Each planned ticker MUST have setup type (1-5)
+  documented and stop level pre-computed.
+- tail of memory/TRADE-LOG.md (for current open positions / leveraged ETF /
+  momentum probe counts)
 
 STEP 2 — Re-validate with live data:
   bash scripts/alpaca.sh account
   bash scripts/alpaca.sh positions
   bash scripts/alpaca.sh quote <each planned ticker>
+  bash scripts/perplexity.sh "Current SPY and QQQ price vs their SMA 50 and SMA 150. Current VIX level."
 
 STEP 3 — Hard-check rules BEFORE every order. Skip any trade that fails
 and log the reason:
-- Total positions after trade <= 6
-- Trades this week <= 3
-- Position cost <= 20% of equity
-- Catalyst documented in today's RESEARCH-LOG
+- Macro filter: SPY/QQQ status determines allowed setup types this session
+- VIX gate: > 30 blocks leveraged ETF; > 35 blocks all entries
+- Total positions after trade <= 4
+- Leveraged ETF positions after trade <= 1
+- Momentum probes (Type 4) after trade <= 2
+- Risk per trade matches setup type (1-3: 3-4%; 4: 1.5-2%; 5: 4-5%)
+- Catalyst + setup type + stop level documented in today's RESEARCH-LOG
+- Earnings check: no full-size entry within 5 trading days of earnings
 - daytrade_count leaves room (PDT: 3/5 rolling business days)
 
 STEP 4 — Execute the buys (market orders, day TIF):
   bash scripts/alpaca.sh order '{"symbol":"SYM","qty":"N","side":"buy","type":"market","time_in_force":"day"}'
 Wait for fill confirmation before placing the stop.
 
-STEP 5 — Immediately place 10% trailing stop GTC for each new position:
-  bash scripts/alpaca.sh order '{"symbol":"SYM","qty":"N","side":"sell","type":"trailing_stop","trail_percent":"10","time_in_force":"gtc"}'
-If Alpaca rejects with PDT error, fall back to fixed stop 10% below entry:
+STEP 5 — Immediately place protective stop GTC. Stop type depends on
+setup type from RESEARCH-LOG:
+- Type 1/2/3 (SMA-based): fixed stop GTC at SMA level documented
+  in RESEARCH-LOG (recomputed each session via Perplexity)
+- Type 4 (momentum probe): fixed stop 5% below entry OR 1xATR
+  (whichever tighter), GTC. Also log the 5-day time-stop deadline in
+  TRADE-LOG.
+- Type 5 (leveraged ETF core): fixed stop GTC at price corresponding to
+  underlying SMA 50 break (compute via Perplexity), AND set an intraday
+  alert mentally for -8% whipsaw guard.
+
   bash scripts/alpaca.sh order '{"symbol":"SYM","qty":"N","side":"sell","type":"stop","stop_price":"X.XX","time_in_force":"gtc"}'
-If also blocked, queue the stop in TRADE-LOG as "PDT-blocked, set tomorrow AM".
+
+If Alpaca rejects (PDT or other), queue in TRADE-LOG as "stop-blocked,
+set next session" and surface in ClickUp summary.
 
 STEP 6 — Append each trade to memory/TRADE-LOG.md (matching existing format):
-Date, ticker, side, shares, entry price, stop level, thesis, target, R:R.
+Date, ticker, setup type (1-5), side, shares, entry price, stop level,
+risk %, thesis, target, R:R, time-stop deadline (Type 4 only).
 
 STEP 7 — COMMIT AND PUSH (mandatory if any trades executed):
   git add memory/TRADE-LOG.md
@@ -60,9 +78,10 @@ then push again. Never force-push.
 
 STEP 8 — Post market-open summary to ClickUp Chat:
   CLICKUP_MSG="**Market Open $DATE**
-  - Trades fired: [ticker @ price, stop @ price — or NONE]
+  - Macro: SPY [above/below SMA 50/150] | QQQ [...] | VIX [value]
+  - Trades fired: [ticker (Type N) @ price, stop @ price — or NONE]
   - Skipped: [ticker — reason — or NONE]
-  - Portfolio: [equity] | Open positions: [count/6]
-  - Trades this week: [count/3]"
+  - Portfolio: [equity] | Open positions: [count/4]
+  - Leveraged ETF: [ticker or NONE] | Momentum probes: [count/2]"
   bash scripts/clickup.sh "$CLICKUP_MSG"
 If CLICKUP_API_KEY is not set, script auto-falls back — no action needed.
