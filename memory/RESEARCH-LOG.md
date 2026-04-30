@@ -5,6 +5,16 @@ Format each entry:
 
 ---
 
+## 2026-04-30 — Midday Addendum (13:11 ET)
+- **Positions:** None — no cuts, no stop adjustments, no thesis breaks. Cash 100%.
+- **Account:** Equity $100,000.00 | Cash $100,000.00 | Buying power $200,000.
+- **GDP/PCE actual prints (8:30 AM ET):** Perplexity unable to confirm results (no post-8:30 AM data indexed); GDPNow as of Apr 29 was tracking near -0.32% — potential contraction print; no market reaction data available. Macro filter status: unconfirmed — treating as uncertain until clarity.
+- **XLE** (watchlist, Type 3 candidate): Quote $59.51/$59.52 — ABOVE SMA 20 entry zone (~$56–57). Dip never materialized; price extended upward from yesterday's $58.28 close. No actionable entry. Thesis intact, watchlist maintained.
+- **GNRC** (Type 4 momentum probe candidate): Quote $240.54 bid / $256.93 ask — **$16 spread (6.4%) = halted/illiquid signal → SKIP per rules.** Pre-market gap (+10.45% to $239.80) has stalled; bid only $240.54 above entry. Wide spread disqualifies intraday entry regardless. Removing from today's actionable list.
+- **Decision:** No trades taken. Continue to hold 100% cash. Await GDP/PCE reaction clarity + XLE dip to SMA 20 (~$56–57) for first position entry. GNRC probe dropped from today's list.
+
+---
+
 ## 2026-04-30 — Pre-market Research (Day 3)
 
 ### Account
