@@ -3,6 +3,67 @@
 Daily pre-market research entries will be appended here.
 Format each entry:
 
+---
+
+## 2026-04-30 — Pre-market Research (Day 3)
+
+### Account
+- Equity: $100,000.00
+- Cash: $100,000.00
+- Buying power: $200,000.00 (2× margin)
+- Daytrade count: 0
+- Open positions: none
+- Open orders: none
+
+### Market Context
+- WTI: $108.34 (Apr 30 session, range $106.50–$110.90, +1.37%); prior session +6.95% surge to $106.88; Polymarket assigns 100% odds WTI hits $110 this month; Middle East tensions still driving; $160 price targets circulating
+- Brent: ~$111–115 est. (tracking WTI direction; no clean Apr 30 quote available)
+- S&P 500: SPY ~711–712 (Apr 28 close); futures premarket mildly green (+0.10–0.22%); SPY above SMA 50 (~659–679) and SMA 150 (~675) ✓ — macro filter: all 5 setup types active
+- VIX: 18.81 (Apr 29 close), up +5.50% from 17.83; below 25 threshold ✓; watch for expansion
+- **TODAY'S MAJOR RELEASES (8:30 AM ET — triple print):**
+  - Q1 2026 GDP Advance Estimate (Q4 2025 was only +0.7%)
+  - March Core PCE (Fed's preferred gauge; Feb: 3.0% YoY, trend down from 3.1% Jan)
+  - Q1 Employment Cost Index
+  - Note: these releases may have already printed by session open — data reaction is today's key variable
+- Earnings BMO: No major S&P 500 companies reporting BMO today
+- MSFT (AMC Apr 29): BEAT — Revenue $82.9B (+18% YoY, ~2% above est.), EPS $4.27 (+21%); Azure and cloud accelerated; M365 +33%; capex guidance $190B in 2026 (vs $156B est.); stock slipped premarket despite beat (sell-the-news risk) → cautious signal for tech
+- AMZN (AMC Apr 29): Earnings not confirmed via Perplexity; BusinessInsider references "massive tech earnings day" with Amazon; gap risk at open unquantified — watch
+- Economic calendar: No CPI/PPI/NFP today; NFP May 8; CPI May 12
+
+### Sector Momentum (YTD 2026)
+| Rank | Sector | Status |
+|------|--------|--------|
+| 1 | Energy (XLE) | +22% leader; oil WTI $108+ tailwind |
+| 2 | Materials (XLB) | +11% trailing 6-mo |
+| 3 | Industrials (XLI) | +5–10% YTD |
+| 4 | Consumer Staples (XLP) | defensive bid |
+| 8–11 | Tech/Comms/ConsDisc/Financials | −7 to −8.5% trailing 6-mo; lagging |
+
+### SMA Check
+- **XLE**: Price $58.28 (Apr 29 close), up 4 straight sessions from Apr 24 low $56.77; Apr 17 low $53.41. Uptrend intact. Currently EXTENDED — not at pullback. SMA 20 est. ~$56–57 (mean of recent 20 closes). SMA 150/200 position: above both per prior research ✓. **No clean entry today** — need dip back toward SMA 20.
+- **XLI**: Price ~$170.98 (Apr 28 close); SMA 50 ~$167.91; SMA 200 ~$155.16. Price only 1.8% above SMA 50 — pullback to SMA 50 would trigger Type 3 entry. SMA 150 est. ~$160–165 (Type 1 entry zone). Above both SMAs ✓.
+
+### Trade Ideas
+1. **XLE (Energy Select Sector ETF)** — Energy YTD #1; WTI $108+ is direct tailwind. Type 3 setup: watch for intraday/daily pullback toward SMA 20 (~$56–57). Entry on confirmed close or bounce off SMA 20. Stop: daily close below SMA 20. Target: $63–65 (prior March highs). R:R ~3:1. **Gate: GDP/PCE data clear + dip to SMA 20 materialized.**
+2. **XLI (Industrial Select Sector ETF)** — Type 3 setup: price $170.98 vs SMA 50 $167.91. Monitor for dip to ~$167–168 SMA 50 zone. Entry on bounce confirmation. Stop: daily close below SMA 50. Target $177–180. R:R ~2:1. **Gate: GDP data must not show recession signal; confirm SMA 50 bounce.**
+3. **GNRC (Generac Holdings)** — Type 4 Momentum Probe candidate: premarket +10.45% to $239.80 on strong Q1 beat (EPS beat $0.30, revenue beat $46.6M) and raised FY26 guidance. Market cap ~$13–15B (qualifies). Entry: gap continuation at open IF gap holds above $235, stop 5% below entry (~$223–226), time stop 5 trading days. HALF SIZE (1.5–2% risk only). **Gate: verify SMA 20/50 upslope; macro filter must hold after PCE/GDP; position cap check (would be 1st position — ok).**
+
+### Risk Factors
+- Q1 GDP advance estimate (8:30 AM today) — Q4 2025 was only +0.7%; contraction print = recession scare, risk-off, stop all entries
+- Core PCE March (8:30 AM today) — if re-accelerates above 3%, stagflation narrative spikes VIX
+- WTI at $108 and climbing — exacerbates inflation data; if GDP weak + PCE hot = stagflation cocktail
+- VIX ticked up +5.5% yesterday to 18.81 — watch for further expansion above 20
+- AMZN earnings result unknown — gap-down risk at open
+- MSFT slipped despite beat — sell-the-news behavior signals tech distribution
+- 3rd straight day of HOLD — patience required; do not force trades to justify research
+
+### Decision
+**HOLD → re-evaluate post-8:30 AM ET data.** GDP + Core PCE + ECI triple print is today's gating event. If all three are benign (GDP > 0%, PCE trend down or flat, ECI in line): GNRC Type 4 probe and XLE dip-entry both become live candidates at market open. If GDP contracts or PCE re-accelerates: stay in cash, no entries. Default: cash is the position until data confirms macro filter intact.
+
+Watchlist priority: GNRC (Type 4, half size, if gap holds + macro clear) > XLE (Type 3, dip to SMA 20) > XLI (Type 3, dip to SMA 50). Challenge day: 3 of 30. Phase P&L: $0.
+
+---
+
 ## YYYY-MM-DD — Pre-market Research
 
 ### Account
