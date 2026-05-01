@@ -248,3 +248,68 @@ TRADE or HOLD (default HOLD if no edge)
 - No breaking news affecting XLI or XOM thesis
 - **No action taken** — cash 100%, holding per pre-market HOLD decision
 - FOMC (Wed Apr 29) remains the gating event; do not enter before then
+
+---
+
+## 2026-05-01 — Pre-market Research (Day 4)
+
+### Account
+- Equity: $100,000.00
+- Cash: $100,000.00
+- Buying power: $200,000.00 (2× margin)
+- Daytrade count: 0
+- Open positions: none
+- Open orders: none
+
+### Macro Filter
+- SPY: ~$711 | SMA 50 ~$678 ✓ | SMA 150 ~$675 ✓ | SMA 200 ~$667 ✓ → **above all SMAs**
+- QQQ: ~$714 | SMA 50 ~$611 ✓ → **well above SMA 50**
+- **→ ALL 5 SETUP TYPES ACTIVE** ✓
+- VIX: ~17.38 (Apr 30 close, -7.6% on day) — below 25 ✓ → full sizing; leveraged ETF allowed ✓
+
+### Market Context
+- WTI: ~$105–106/bbl | Brent: ~$110.5–111/bbl (touched $114 intraday Apr 30) — elevated; inflation risk
+- S&P 500 futures (ESM26): ~7,248–7,255 (+0.07% to +0.15%) premarket — slightly green
+- VIX: 17.38 Apr 30 close (down from 18.81 on Apr 29 post-FOMC) — benign
+- FOMC: Rate hold confirmed Apr 29 (~3.50–3.75%); market rallied +1.02% Apr 30 → bullish resolution ✓
+- Today's key events:
+  - **10:00 AM ET — ISM Manufacturing PMI** (April; prior: 52.7 in March — expanding)
+  - **AMC tonight — MEGA-CAP EARNINGS: MSFT, META, GOOGL, AMZN** all report after close ← binary event
+  - CVX (Chevron) earnings BMO today — energy sector beat/miss TBD
+- Economic calendar: No NFP today (Apr jobs report due May 8); ISM Mfg is the primary print
+- Sector momentum YTD (thru early May): Energy (XLE) #1 ~26%, Consumer Staples (XLP) #2 ~11%, Industrials (XLI) #3 ~10%; Tech/Comms/Discretionary lag
+
+### Trade Ideas
+
+**1. NVDA — Type 3 SMA 20/50 Pullback (highest priority watchlist)**
+- Catalyst: AI capex >$600B in 2026; "Dip & Rip" pattern flagged Apr 30; no earnings until May 27 (>5 trading days → full size OK)
+- SMA structure: price ~$191–209 (sources vary); SMA 20 ~$182–196; SMA 50 ~$180–187; SMA 200 ~$173–184 → price above all SMAs ✓
+- Entry trigger: confirm daily close today bouncing off or above SMA 20; enter tomorrow at open if close confirms
+- Stop: daily close below SMA 20 (~$182–196 zone — verify exact level)
+- Target: analyst avg $275 (+30–40%); take 1/3 off at +20%, trail SMA 20 at +30%
+- Size: 3–4% risk = $3,000–4,000 / (entry − stop) = shares; ~$15–20K position (15–20% capital)
+- Risk: oil/inflation feeding into rate re-pricing; ISM data today
+
+**2. META — Type 2 Breakout (TOMORROW only — post-earnings)**
+- Catalyst: reports AMC tonight; if strong beat + raised guidance → gap-up breakout candidate
+- DO NOT enter today (earnings tonight = rules violation for full-size hold)
+- Entry trigger: tomorrow morning, gap-up open with volume >1.5× avg; confirm above prior resistance
+- Stop: daily close below breakout level or SMA 50 (whichever is closer)
+- Size: 3–4% risk (full size) if macro filter still green and VIX < 25
+- Risk: earnings miss or weak guidance → gap-down; wait for confirmed reaction
+
+**3. TQQQ — Type 5 Leveraged ETF Core (watch for entry zone)**
+- Macro filter GREEN ✓; VIX 17.38 ✓; FOMC resolved ✓
+- Barrier: QQQ ~$714 vs SMA 50 ~$611 = 17% above → no pullback setup today
+- Entry zone: QQQ pullback to ~$640–650 (near SMA 50) triggers TQQQ entry at 40–50% capital (~$40–50K)
+- Stop: QQQ daily close below SMA 50 OR TQQQ intraday -8% from entry
+- Monitor: if tonight's big-tech earnings disappoint and QQQ sells off toward $640–650, that's the entry
+
+### Risk Factors
+- ISM Manufacturing 10 AM — miss could spook markets post-FOMC relief rally
+- MSFT / META / GOOGL / AMZN all reporting AMC tonight — most concentrated binary event of the sprint; holds through open tomorrow carry overnight gap risk
+- Oil at $110+ — sustained above $100 is an inflation drag; potential Fed re-pricing
+- Challenge: Day 4 of 30, still fully in cash — opportunity cost building; balance patience vs. deployment
+
+### Decision
+**HOLD** — Four mega-cap names (MSFT, META, GOOGL, AMZN) all report tonight AMC. Entering any of them today = earnings hold violation. ISM Manufacturing at 10 AM is additional binary risk. Best action: let tonight's earnings clear, then assess tomorrow morning for META/MSFT post-earnings breakout or NVDA Type 3 SMA 20 pullback entry. NVDA is the cleanest near-term setup candidate (earnings May 27, AI tailwinds, pullback forming). TQQQ core entry requires QQQ to pull back ~17% to SMA 50 — not imminent.
