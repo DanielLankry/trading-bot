@@ -313,3 +313,20 @@ TRADE or HOLD (default HOLD if no edge)
 
 ### Decision
 **HOLD** — Four mega-cap names (MSFT, META, GOOGL, AMZN) all report tonight AMC. Entering any of them today = earnings hold violation. ISM Manufacturing at 10 AM is additional binary risk. Best action: let tonight's earnings clear, then assess tomorrow morning for META/MSFT post-earnings breakout or NVDA Type 3 SMA 20 pullback entry. NVDA is the cleanest near-term setup candidate (earnings May 27, AI tailwinds, pullback forming). TQQQ core entry requires QQQ to pull back ~17% to SMA 50 — not imminent.
+
+---
+
+## 2026-05-01 — Midday Addendum (~12:00 ET)
+
+### Positions / Account
+- Open positions: NONE | Cash: $100,000.00 | Equity: $100,000.00
+- Steps 3/4/5: N/A — no cuts, no stop adjustments, no thesis breaks
+
+### Intraday Observations
+- **NVDA:** Down ~5–6% intraday; trading $197–202 range (open near $199–213, low ~$197). Approaching SMA 20 zone (~$182–196). Type 3 SMA 20/50 pullback thesis developing but no confirmed bounce yet — wait for EOD close above SMA 20 before entry. No earnings until May 27 → full-size eligible.
+- **Big-tech earnings tonight AMC:** MSFT, META, GOOGL, AMZN still pending. Pre-market HOLD decision unchanged. No entries today.
+- **ISM Manufacturing (10 AM):** Data not confirmed intraday; market appears choppy ahead of earnings.
+- **GOOGL:** Reportedly up sharply intraday on AI cloud growth signals — monitor for post-earnings breakout setup tomorrow if confirmed.
+
+### Decision
+**HOLD — no new entries today.** NVDA pullback is noted and developing; confirm EOD close near/above SMA 20 for potential Type 3 entry at tomorrow's open. All mega-cap entries (META, MSFT, GOOGL, AMZN) require post-earnings reaction confirmation tomorrow morning.
