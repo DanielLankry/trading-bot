@@ -35,6 +35,8 @@ Open these in order before doing anything:
 - Max 2 momentum probes
 - No weekly trade cap (30-day sprint)
 
+**Daily Trade Floor:** Every trading day = one new entry OR an explicit `NO-TRADE-DAY` note with a valid reason (zero qualified setups across all 5 types AND leveraged ETF core, or macro/VIX-35 cash mode). The rule forces the *scan*, not a bad trade — never enter a setup that fails its entry rules.
+
 **Universal rules:**
 - Never move a stop down. Ever.
 - Stops are SMA-based or ATR-based per setup type — not flat 10%

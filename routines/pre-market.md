@@ -33,24 +33,45 @@ STEP 2 — Pull live account state:
 
 STEP 3 — Research market context via Perplexity. Run
 bash scripts/perplexity.sh "<query>" for each:
-- "WTI and Brent oil price right now"
 - "S&P 500 futures premarket today"
+- "QQQ premarket level today"
 - "VIX level today"
 - "Top stock market catalysts today $DATE"
-- "Earnings reports today before market open"
 - "Economic calendar today CPI PPI FOMC jobs data"
-- "S&P 500 sector momentum YTD"
+- "Earnings reports today before market open"
 - News on any currently-held ticker
+
+STEP 3b — Macro filter (mandatory):
+- Confirm SPY above its SMA 50 → all setup types active
+- Confirm QQQ above its SMA 50 → leveraged ETF core (Type 5) active
+- VIX > 25 = downsize 25%; > 30 = no leveraged ETF; > 35 = cash
+
+STEP 3c — Scan ALL 5 setup types across the strategy universe.
+Universe (TRADING-STRATEGY.md): NVDA, AVGO, META, MSFT, GOOGL, AMZN, TSLA,
+AMD, MU, ARM, MRVL, ASML, PLTR, CRWD, NET, SNOW, MELI, SHOP, COIN, MSTR,
+HOOD + ETF satellites SMH, ARKK, IBIT + leveraged core TQQQ/SOXL/SPXL.
+
+For each candidate run BOTH Perplexity queries from TRADING-STRATEGY.md
+(research brief + SMA position) and classify which Setup Type it qualifies
+for (1, 2, 3, 4, or 5), or NONE. Pay equal attention to Type 5 — the
+leveraged ETF core is meant to be running by default whenever QQQ is above
+its SMA 50 and we don't already hold one.
 
 If Perplexity exits 3, fall back to native WebSearch and note the
 fallback in the log entry.
 
 STEP 4 — Write a dated entry to memory/RESEARCH-LOG.md:
 - Account snapshot (equity, cash, buying power, daytrade count)
-- Market context (oil, indices, VIX, today's releases)
-- 2-3 actionable trade ideas WITH catalyst + entry/stop/target
+- Market context (indices, VIX, today's releases)
+- Macro filter result (which setup types are active today)
+- Scan table: per universe ticker → setup type qualified (1/2/3/4/5/NONE)
+- Top 2-3 ranked candidates WITH setup type + entry/stop/size/target
 - Risk factors for the day
-- Decision: trade or HOLD (default HOLD — patience > activity)
+- Decision: TRADE (specify ticker + setup) or NO-TRADE-DAY (only if zero
+  qualified setups across the entire universe AND leveraged ETF core).
+  Per Daily Trade Floor (TRADING-STRATEGY.md §"Daily Trade Floor"), every
+  trading day requires either a trade or an explicit NO-TRADE-DAY note
+  with a one-line reason.
 
 STEP 5 — COMMIT AND PUSH (mandatory):
   git add memory/RESEARCH-LOG.md
