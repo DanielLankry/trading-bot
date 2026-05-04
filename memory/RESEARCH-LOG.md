@@ -5,6 +5,88 @@ Format each entry:
 
 ---
 
+## 2026-05-04 — Pre-market Research (Day 6)
+
+### Account
+- Equity: $100,000.00
+- Cash: $100,000.00
+- Buying power: $200,000.00 (2× margin)
+- Daytrade count: 0
+- Open positions: none
+- Open orders: none
+
+### Macro Filter
+- SPY: ~$720.65 | SMA 50 ~$680 ✓ | SMA 150 ~$676 ✓ | SMA 200 ~$671 ✓ → above all SMAs, sloping up
+- QQQ: ~$674–676 | SMA 50 ~$611–616 ✓ → comfortably above SMA 50
+- **→ ALL 5 SETUP TYPES ACTIVE** ✓
+- VIX: ~16.89 (April avg; estimated 16–17 today) — below 25 ✓ → full sizing; leveraged ETF allowed ✓
+
+### Market Context
+- WTI: ~$101.50 (symmetrical triangle $90–$110; fell below $110 for 2nd consecutive session; Robinhood PM ~$101–102 range); prior closes: May 1 $107.65, Apr 30 $111.25
+- Brent: ~$116 (May 1 ref; tracking WTI lower)
+- S&P 500 futures (ESM26): +0.23% premarket; Goldman Sachs warns S&P surge past 7,100 is "froth"
+- VIX: ~16–17 est. (benign; last confirmed April avg 16.89, March was 30.61 — resolved)
+- Today's events: **No major releases** — JOLTS (Tue May 5), NFP (Fri May 8), PPI (May 13), CPI unscheduled
+- Earnings BMO today: None of consequence
+- Earnings AMC this week: None in strategy universe today
+- Mega-cap earnings reaction (all reported AMC May 1):
+  - META: Beat big (EPS $10.44 vs $6.67 est, rev $56.3B +33%); stock -9.1% to ~$608 on AI capex fear ($125–145B guidance)
+  - MSFT: Beat (Azure strong, rev +18% YoY); slipped slightly post-earnings
+  - GOOGL: Beat (cloud strong); positive reaction
+  - AMZN: Beat; mixed reaction
+
+### Sector Momentum (YTD thru Apr 30)
+| Rank | Sector | YTD Return | Status |
+|------|--------|-----------|--------|
+| 1 | Energy (XLE) | ~+22% | Leader; oil still elevated |
+| 2 | Materials | ~+17% | Strong |
+| 3 | Industrials (XLI) | ~+11–12% | Solid |
+| 4 | Consumer Staples | ~+7–10% | Defensive bid |
+| 5+ | Tech/Comms/Financials/Disc | Mixed/lagging | Rotation away from mega-cap |
+
+### SMA Checks
+- **NVDA**: Price ~$198.45 | SMA 20 ~$197 | SMA 50 ~$187 | SMA 150 & 200 (both Buy, sloping up) → price pulling back TO SMA 20 ✓ **Type 3 setup active**
+- **META**: Price ~$608 | SMA 20 ~$670 | SMA 50 ~$630 → price BELOW both → not a valid entry (no SMA bounce; gap-down distribution)
+- **TQQQ (via QQQ)**: QQQ ~$676 vs SMA 50 ~$611 = 10.6% above → no Type 5 pullback entry
+- **XLE**: Price ~$58–59 (est); SMA 20 ~$57 (est); oil pulling back → watch for dip to SMA 20 zone
+
+### Trade Ideas
+
+**1. NVDA — Type 3 SMA 20/50 Pullback (PRIMARY — action today)**
+- Catalyst: AI supercycle (hyperscaler $710B+ capex, Big 4); Nemotron 3 AI model launch; Pentagon AI deals; no earnings until May 20 (~12 trading days → full size eligible now, exit by May 13)
+- SMA structure: above SMA 20/50/150/200 all sloping up ✓; price at SMA 20 pullback zone
+- Entry: $198–200 at open, confirm price holds/bounces above SMA 20 (~$197) in first 30 min
+- Stop: daily close below SMA 20 (~$194–196; confirm exact level at open)
+- Target: $225–230 (prior resistance / chart resistance zone)
+- R:R: ~3:1 ($25 target vs ~$5 stop)
+- Size: 3–4% risk = ~$3,500 max loss; position ~$40–50K (200–250 shares)
+- Gate: price must confirm above SMA 20 at open; no gap-down through $194
+
+**2. XLE — Type 3 SMA 20 Pullback (SECONDARY — watch)**
+- Catalyst: Energy still YTD #1 sector; WTI pulling back from $111 → potential dip-buy toward SMA 20
+- Entry: intraday dip to ~$56–57 SMA 20 zone with bounce confirmation
+- Stop: daily close below SMA 20
+- Target: $63–65
+- R:R: ~3:1
+- Gate: WTI must hold above $95; no breach of SMA 20 to the downside without reversal signal
+
+**3. TQQQ — Type 5 Core (NOT VIABLE)**
+- QQQ ~$676 vs SMA 50 ~$611 → 10.6% above SMA 50; no pullback entry available
+
+### Risk Factors
+- WTI fell below $110 two sessions in a row — potential deflation of energy thesis if breaks $95
+- Goldman Sachs "froth" warning on S&P above 7,100; rally may be extended
+- META 9.1% post-earnings gap-down signals market punishing AI capex spend — NVDA benefits from AI demand but market may de-rate AI infrastructure plays broadly
+- NVDA overhead supply after 50% rally from March lows; "blow-off top" debate in analyst community; $197.5 puts expiring today (May 4) suggest tight SMA 20 zone is key level
+- NFP Friday May 8 — weak print (+62K consensus) could rattle markets and trigger defensive rotation
+- JOLTS Tuesday — labor market data adds to weekly macro noise
+- Day 6 of 30 — still 100% cash; NVDA Type 3 is most actionable setup seen to date
+
+### Decision
+**TRADE — NVDA Type 3 SMA 20 pullback is LIVE.** All gates met: macro filter green ✓, VIX < 25 ✓, no earnings for 12 days ✓, SMA structure intact ✓, position cap 0/4 ✓. Enter at open if price confirms above SMA 20 (~$197). Stop: daily close below SMA 20. Target $225–230. Watch XLE secondary if NVDA open is a gap-up (pushes entry risk too high). TQQQ core entry requires QQQ at SMA 50 — not today.
+
+---
+
 ## 2026-04-30 — Midday Addendum (13:11 ET)
 - **Positions:** None — no cuts, no stop adjustments, no thesis breaks. Cash 100%.
 - **Account:** Equity $100,000.00 | Cash $100,000.00 | Buying power $200,000.
