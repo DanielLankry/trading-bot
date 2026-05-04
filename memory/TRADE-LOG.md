@@ -77,3 +77,14 @@ No positions yet. Bot launches tomorrow (2026-04-28).
 - **TQQQ** — Type 5 core; QQQ ~10.6% above SMA 50 — no pullback entry. Not viable.
 
 **Trades this week:** 1 of 3
+
+---
+
+### May 04 — EOD Snapshot (Day 6, Monday)
+**Portfolio:** $99,929.58 | **Cash:** $80,137.98 (80.2%) | **Day P&L:** -$70.42 (-0.07%) | **Phase P&L:** -$70.42 (-0.07%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| NVDA | 100 | $198.62 | $197.92 | -0.27% | -$70.42 | ~$178.66 (10% trail GTC) |
+
+**Notes:** Day 6 of the 30-day challenge (Week 2 opens). Initiated first live position: NVDA 100 shares @ $198.62 as a Type 3 SMA 20/50 pullback play on the AI/hyperscaler capex theme (no earnings until May 20). Position ended the session modestly underwater — NVDA drifted -0.27% from prior close, leaving the portfolio -$70.42 (-0.07%) on the day. Trailing stop (10% GTC, initial level ~$178.66) is live. No additional setups qualified today. Trades this week: 1.
