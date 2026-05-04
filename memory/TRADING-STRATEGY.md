@@ -94,6 +94,13 @@ Every trading day must produce either **(a)** at least one new entry, or
 - Pre-market scan must cover **all 5 setup types** across the full universe
   + leveraged ETF core. Cash drift from omission (scanning the wrong
   tickers, or only checking Type 1) is a process violation.
+- **Single-name coverage is mandatory.** The single-name universe (NVDA,
+  AVGO, META, MSFT, GOOGL, AMZN, TSLA, AMD, MU, ARM, MRVL, ASML, PLTR,
+  CRWD, NET, SNOW, MELI, SHOP, COIN, MSTR, HOOD + SMH/ARKK/IBIT) must be
+  scanned every day. A leveraged-ETF entry alone does NOT satisfy the
+  floor if any single name qualifies for Setups 1–4. Capital allocation
+  still requires 40–50% in single names — defaulting to TQQQ/SOXL and
+  skipping single-name scans is a process violation.
 - A `NO-TRADE-DAY` is only valid if **all** of the following are true:
   - Zero universe tickers qualify for any of Setup Types 1–4 today, AND
   - Leveraged ETF core (Type 5) does not qualify (QQQ not at SMA 50
