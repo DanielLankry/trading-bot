@@ -59,3 +59,21 @@ No positions yet. Bot launches tomorrow (2026-04-28).
 | — | — | — | — | — | — | — |
 
 **Notes:** Day 4 of the 30-day challenge (end of Week 1). Account remains fully in cash at $100,000 with no open positions and no orders executed. No trades taken today or this week (0 weekly slots used). Strategy continues to wait for qualifying setups meeting all entry criteria.
+
+---
+
+### May 04 — Market-Open Trades (Day 6, Monday — Week 2)
+**Portfolio:** $100,006.98 | **Cash:** $80,137.98 | **Long MV:** $19,869 | **Phase P&L:** +$6.98
+
+| Ticker | Shares | Entry | Stop | Thesis | Target | R:R |
+|--------|--------|-------|------|--------|--------|-----|
+| NVDA | 100 | $198.62 | $178.66 (10% trail, order id 4a709b23) | Type 3 SMA 20/50 pullback; AI supercycle, hyperscaler capex >$710B; no earnings until May 20 ✓ | $225–230 | ~1.3:1 (trail) / ~5.7:1 (SMA 20 stop ~$194) |
+
+**Trades fired:**
+- **NVDA BUY** — 100 shares @ $198.62 (market, 9:53 AM ET). Fill confirmed via positions. Trailing stop 10% placed GTC (stop id `4a709b23`), initial stop $178.66.
+
+**Skipped:**
+- **XLE** — Type 3 SMA 20 pullback candidate; current price $58.60 is above SMA 20 zone (~$56–57). No dip entry signal. Watchlist maintained.
+- **TQQQ** — Type 5 core; QQQ ~10.6% above SMA 50 — no pullback entry. Not viable.
+
+**Trades this week:** 1 of 3
