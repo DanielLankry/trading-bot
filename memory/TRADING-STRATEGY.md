@@ -86,6 +86,29 @@ High-beta, liquid, market cap ≥ $5B, optionable. Rotating watchlist:
 
 ---
 
+## DAILY TRADE FLOOR (30-day sprint rule)
+
+Every trading day must produce either **(a)** at least one new entry, or
+**(b)** an explicit `NO-TRADE-DAY` note in RESEARCH-LOG.md with the reason.
+
+- Pre-market scan must cover **all 5 setup types** across the full universe
+  + leveraged ETF core. Cash drift from omission (scanning the wrong
+  tickers, or only checking Type 1) is a process violation.
+- A `NO-TRADE-DAY` is only valid if **all** of the following are true:
+  - Zero universe tickers qualify for any of Setup Types 1–4 today, AND
+  - Leveraged ETF core (Type 5) does not qualify (QQQ not at SMA 50
+    pullback, OR a leveraged ETF is already held), AND
+  - Macro filter forces restricted/cash mode, OR VIX > 35.
+- If a `NO-TRADE-DAY` is logged with no qualifier above met, it counts as
+  a missed-trade day and must be flagged in the next weekly review.
+- **This rule does NOT override risk discipline.** Never enter a setup
+  that fails its Setup-Type entry rules just to satisfy the floor. The
+  floor's purpose is to force the *scan*, not force a bad trade.
+- Position cap (max 4) and earnings/macro filters still apply — they are
+  valid `NO-TRADE-DAY` reasons.
+
+---
+
 ## STOPS & EXITS
 
 - **Never move a stop down. Ever.** (Only Micha rule that survives unchanged.)
