@@ -88,3 +88,23 @@ No positions yet. Bot launches tomorrow (2026-04-28).
 | NVDA | 100 | $198.62 | $197.92 | -0.27% | -$70.42 | ~$178.66 (10% trail GTC) |
 
 **Notes:** Day 6 of the 30-day challenge (Week 2 opens). Initiated first live position: NVDA 100 shares @ $198.62 as a Type 3 SMA 20/50 pullback play on the AI/hyperscaler capex theme (no earnings until May 20). Position ended the session modestly underwater — NVDA drifted -0.27% from prior close, leaving the portfolio -$70.42 (-0.07%) on the day. Trailing stop (10% GTC, initial level ~$178.66) is live. No additional setups qualified today. Trades this week: 1.
+
+---
+
+### May 05 — Market-Open (Day 7, Tuesday — NO-TRADE-DAY)
+**Portfolio:** $100,035.99 | **Cash:** $80,137.98 (80.1%) | **Long MV:** $19,898.01 | **Phase P&L:** +$35.99
+
+| Ticker | Shares | Entry | Stop | Status |
+|--------|--------|-------|------|--------|
+| NVDA | 100 | $198.62 | $179.96 (10% trail, HWM $199.96) | HOLD — trailing stop ratcheted up |
+
+**Trades fired:** NONE
+
+**Skipped:**
+- **AMD** — Pre-market Type 3 SMA 20/50 candidate. Disqualified on two hard rules: (1) Q1 2026 earnings reported TONIGHT (May 5 AMC) — within 5 trading days, cannot enter. (2) Price ~$343 is 48% above SMA 50 (~$232) — no pullback zone exists. Skip confirmed.
+- **TQQQ** — Type 5 core; QQQ still ~10.6% above SMA 50. No pullback entry.
+- No other universe tickers showed qualifying setups (pre-market full-universe scan covered).
+
+**NO-TRADE-DAY reason:** All single-name candidates fail entry rules (AMD: earnings tonight + not at SMA pullback); leveraged ETF core not viable. Valid per strategy — floor forces the scan, not a bad trade.
+
+**Trades this week:** 1
