@@ -125,3 +125,14 @@ No positions yet. Bot launches tomorrow (2026-04-28).
 **Thesis check:** INTACT — AI capex supercycle thesis unchanged. NVDA -0.84 from yesterday close on no material news. Asia semis surged overnight (SK Hynix +12.5%) — positive read-through. Slight drift normal; no thesis break.
 
 **Earnings reminder:** NVDA earnings May 20. Must cut to half size (50 shares) or exit by May 13 (5 trading days prior).
+
+---
+
+### May 05 — EOD Snapshot (Day 7, Tuesday)
+**Portfolio:** $99,763.98 | **Cash:** $80,137.98 (80.3%) | **Day P&L:** -$165.60 (-0.17%) | **Phase P&L:** -$236.02 (-0.24%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| NVDA | 100 | $198.62 | $196.26 | -1.12% | -$236.02 | $180.216 (10% trail GTC, HWM $200.24) |
+
+**Notes:** Day 7 of the 30-day challenge (Week 2, Day 2). NVDA continued to drift lower, closing at $196.26 (-1.12% on the session), pushing unrealized P&L to -$236.02. Portfolio ends the day at $99,763.98, down -$165.60 (-0.17%) from yesterday's EOD of $99,929.58. Trailing stop remains at $180.216 (HWM $200.24) — no manual adjustments warranted; position is -1.17% from entry, well above the -8% intraday whipsaw guard and the -10% trailing stop. Thesis intact: AI/hyperscaler capex supercycle thesis unchanged; no material news catalyst for the decline. NO-TRADE-DAY confirmed: AMD disqualified (earnings tonight + not at SMA pullback zone); TQQQ not viable (QQQ >10% above SMA 50). Trades this week: 1 (NVDA entry Monday). Earnings hard-rule reminder: must cut NVDA to 50 shares or exit by May 13 (5 trading days before May 20 earnings).
