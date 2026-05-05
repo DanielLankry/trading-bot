@@ -5,6 +5,104 @@ Format each entry:
 
 ---
 
+## 2026-05-05 — Pre-market Research (Day 7)
+
+### Account
+- Equity: $100,000.98
+- Cash: $80,137.98
+- Buying power: $180,138.96 (2× margin)
+- Daytrade count: 0
+- Open positions: NVDA — 100 shares @ $198.62 avg; current $198.63; unrealized P&L +$0.98
+- Open orders: Trailing stop 10% GTC on NVDA (order `4a709b23`); stop $179.28; HWM $199.20
+
+### Macro Filter
+- SPY/QQQ: Prior session levels intact (SPY ~$720+, QQQ ~$676); S&P futures +0.10% premarket (+6.50 pts); market trending green
+- **→ ALL 5 SETUP TYPES ACTIVE** (assumed; no SMA 50 breach signaled)
+- VIX: 18.51 (May 4 close, +8.95% day-over-day); May VIX futures 19.45; below 25 threshold ✓ → full sizing allowed; leveraged ETF allowed ✓
+- Note: VIX uptick warrants monitoring — not concerning at 18.51 but if approaches 25, reduce sizing 25%
+
+### Market Context
+- **WTI:** ~$104/bbl (CME last quote $104.31, May 4 close ~$105); declining from $111.25 Apr 30 high → oil deflating
+- **Brent:** ~mid-$110s (May 1 was $116.10); tracking WTI lower
+- **S&P 500 futures:** +0.10% premarket; Dow +0.12%; Nasdaq +0.07%; modest green across the board
+- **Key catalysts today:**
+  - US-Iran ceasefire developments — positive risk-on signal if confirmed; oil easing on news
+  - Tariff worries still an overhang (US/EU)
+  - Asia chip stocks surging overnight: Kospi +5.1%, Samsung +5.4%, SK Hynix +12.5%
+  - Palantir (PLTR) -2.7% premarket despite raising 2026 revenue outlook (missed elevated expectations)
+  - UPS -10.5% on Amazon logistics expansion fears
+- **Economic releases today:**
+  - 7:30 AM ET — March Trade Balance
+  - 9:00 AM ET — ISM Services PMI (April)
+  - 10:00 AM ET — JOLTS Job Openings (March)
+  - **Friday May 8** — NFP (April Employment Situation) ← binary event; no big trades before Friday
+  - **May 12** — CPI April 2026
+  - **May 13** — PPI April 2026
+- **Earnings BMO today:** Life Time Group Holdings (LTH) — not in universe; no material strategy names
+- **Earnings AMC tonight:** None identified in universe (PALANTIR already moved premarket)
+
+### Sector Momentum (YTD 2026)
+| Rank | Sector | YTD | Note |
+|------|--------|-----|------|
+| 1 | Energy (XLE) | +26-38% | Still leading but oil declining $111→$104; watch for fade |
+| 2 | Consumer Staples | ~+10% | Defensive; not our universe |
+| 3 | Industrials (XLI) | ~+9-10% | Steady |
+| 4 | Materials | ~+17% trailing 6-mo | |
+| 5+ | Tech / Semis | Lagging YTD but Asia semis surging overnight | Monitoring for rotation |
+
+### NVDA Position Review
+- Entry $198.62 | Current $198.63 | Unrealized P&L: +$0.98 (flat)
+- Trailing stop: 10% GTC, stop at $179.28, HWM $199.20 — stop moves up only as NVDA makes new highs
+- **Earnings: May 20, 2026 — 11 trading days away**
+- Strategy rule: must cut to half size OR exit before earnings (no full-size hold)
+- **Action required by May 13** (5 trading days before May 20 earnings): reduce to 50 shares or exit
+- Thesis intact: AI capex supercycle, supply-constrained demand; Asia semis surging overnight is positive read-through for NVDA
+- Jensen Huang GTC keynote May 31 (Taipei) — additional catalyst post-earnings
+- Risk: Alphabet (GOOG) TPU hardware to 3rd parties → competition narrative; $3-4T AI factory buildout still supports NVDA long-term
+
+### SMA Checks (Perplexity-derived)
+- **NVDA**: Still at ~SMA 20 zone (~$197); price barely above entry; trending sideways day 1. Type 3 thesis intact — stop holds at $179.28 (trailing). No new entry (already in position).
+- **TQQQ (via QQQ)**: QQQ ~$676 vs SMA 50 ~$611 = 10.6% above SMA 50 → still no Type 5 pullback entry. Not viable.
+- **XLE**: Oil declining from $111→$104 → energy sector tailwind weakening. No chase — wait for clean SMA 20 bounce IF oil stabilizes. Watch but no entry today.
+- **AMD**: Asia semis surging overnight (SK Hynix +12.5%). AMD could benefit from chip sector rotation. SMA check needed — **flag for post-open verification**.
+
+### Trade Ideas
+
+**1. NVDA — HOLD existing Type 3 position (no new action)**
+- Trailing stop managing risk. Position flat. Earnings 11 days out.
+- Action: calendar alert for May 13 to evaluate size reduction / exit ahead of May 20 earnings.
+
+**2. AMD — Type 3 SMA 20/50 Pullback candidate (WATCH)**
+- Catalyst: Asia semis surging overnight; AI chip demand read-through; earnings not this week
+- Need: Perplexity SMA confirmation that AMD is above SMA 150/200, sloping up, and near SMA 20/50
+- If AMD has pulled back to SMA 20/50 zone: Entry at open, stop at daily close below SMA, target +15-20%
+- Risk: 3-4% capital; would bring position count to 2/4 (room available)
+- **Gate: ISM Services at 9 AM must not disappoint; AMD must confirm SMA structure; no earnings within 5 days**
+
+**3. TQQQ — Type 5 Core (NOT VIABLE today)**
+- QQQ 10.6% above SMA 50. Entry requires QQQ pullback to ~$611-616. Not actionable.
+
+### Risk Factors
+- NFP Friday May 8 — large binary; weak print could break indices and invalidate setups entered this week
+- VIX rose 8.95% yesterday to 18.51 — trending higher off lows; watch for further expansion above 20
+- Oil declining ($111→$104) — good for inflation narrative but energy sector losing momentum
+- NVDA earnings May 20 → must manage exit before then; 11 trading days remaining
+- JOLTS 10 AM — labor market signal ahead of NFP; surprise risk
+- ISM Services 9 AM — if misses, risk-off and further caution
+- US-Iran ceasefire: positive for markets short-term but geopolitically fragile; reversal = oil spike
+- Challenge Day 7 of 30 — 1 position open (NVDA), 80% cash. Underdeployed vs strategy target of 40-50% single names + 40-50% leveraged ETF. Pressure to deploy but discipline over activity.
+
+### Decision
+**HOLD — no new entries before ISM Services (9 AM) and JOLTS (10 AM) data clear.**
+
+NVDA position intact; trailing stop managing downside. AMD is the next candidate if ISM/JOLTS benign and SMA structure confirms on open. NFP Friday is a looming binary — any new position must have stop defined and risk sized accordingly. Do NOT add TQQQ until QQQ pulls back to SMA 50 (~$611).
+
+Priority for intraday: verify AMD SMA structure at open; if Type 3 confirmed, enter AMD at 3-4% risk sizing (position 2 of 4). Else NO-TRADE-DAY with explanation.
+
+Challenge P&L: +$0.98 | Challenge day: 7 of 30 | Positions: 1/4 | Cash: $80,137.98
+
+---
+
 ## 2026-05-04 — Pre-market Research (Day 6)
 
 ### Account
