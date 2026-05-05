@@ -108,3 +108,20 @@ No positions yet. Bot launches tomorrow (2026-04-28).
 **NO-TRADE-DAY reason:** All single-name candidates fail entry rules (AMD: earnings tonight + not at SMA pullback); leveraged ETF core not viable. Valid per strategy — floor forces the scan, not a bad trade.
 
 **Trades this week:** 1
+
+---
+
+### May 05 — Midday Scan (Day 7, Tuesday)
+**Portfolio:** ~$99,802 | **Cash:** $80,137.98 | **Long MV:** $19,764.01 | **Phase P&L:** ~-$198
+
+| Ticker | Shares | Entry | Current | Unrealized P&L | Stop (trail) | HWM |
+|--------|--------|-------|---------|----------------|-------------|-----|
+| NVDA | 100 | $198.62 | $197.64 | -$98.01 (-0.49%) | $180.22 (10% GTC) | $200.24 |
+
+**Cuts:** NONE — NVDA at -0.49%, far above -7% threshold.
+
+**Stop adjustments:** NONE — trailing stop auto-ratcheted to $180.216 (HWM $200.24, up from $199.96 at open). NVDA not up 15%+ from entry; no manual tightening warranted.
+
+**Thesis check:** INTACT — AI capex supercycle thesis unchanged. NVDA -0.84 from yesterday close on no material news. Asia semis surged overnight (SK Hynix +12.5%) — positive read-through. Slight drift normal; no thesis break.
+
+**Earnings reminder:** NVDA earnings May 20. Must cut to half size (50 shares) or exit by May 13 (5 trading days prior).
