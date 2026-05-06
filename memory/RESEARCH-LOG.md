@@ -5,6 +5,107 @@ Format each entry:
 
 ---
 
+## 2026-05-06 — Pre-market Research (Day 8)
+
+### Account
+- Equity: $100,258.98
+- Cash: $80,137.98
+- Buying power: $180,396.96 (2× margin)
+- Daytrade count: 0
+- Open positions: NVDA — 100 shares @ $198.62 avg; premarket $201.19; unrealized P&L +$256.98 (+1.29%)
+- Open orders: Trailing stop 10% GTC on NVDA (order `4a709b23`); stop $180.216; HWM $200.24 → will ratchet today given PM price above HWM
+
+### Macro Filter
+- SPY: ~$730 est. (S&P futures 7,303–7,314, +0.22%); QQQ May 5 close $681.61 | SMA 50 ~$611 → QQQ 11.5% above SMA 50 ✓
+- **→ ALL 5 SETUP TYPES ACTIVE** ✓ (SPY and QQQ comfortably above SMA 50)
+- VIX: 17.44 (May 5 spot per CBOE, -4.65% on day); May 4 close 18.29; below 25 ✓ → full sizing; leveraged ETF allowed ✓
+- Risk-on sentiment: AMD +16% AH, Asia semis rallying, Iran ceasefire positive, Samsung joins $1T club
+
+### Market Context
+- **WTI:** ~$102.56 (May 6 latest; down from $104–105 range — oil retreating from highs); Brent: ~$110–115 est.
+- **S&P 500 futures (ESM26):** 7,303.25, +16.00 (+0.22%) — green premarket; DraftKings prediction markets pricing >$6,925 at 10AM ET confirms strong open
+- **VIX:** 17.44 (declining trend → benign)
+- **Key catalysts today:**
+  - **AMD +16% AH** — Monster Q1 beat: rev $10.3B, DC $5.8B (+57% YoY), non-GAAP EPS $1.37 vs $1.25 est., Q2 guide $11.2B ± $300M (above consensus). Semiconductor AI demand confirmed.
+  - Jensen Huang (NVDA CEO) on CNBC today — direct NVDA catalyst
+  - Samsung joins $1T club; Asia tech rally (Bloomberg) — semi read-through
+  - AVGO +3% PM, MRVL edging higher PM, MU at 52-week highs — broad semi rally
+  - Iran ceasefire narrative continuing → risk-on
+- **Economic releases today:**
+  - 10:00 AM ET — State Employment/Unemployment (March) — non-market-moving
+  - **Thursday May 7** — Productivity & Costs Q1 2026 (8:30 AM)
+  - **Friday May 8** — NFP April Employment Situation (8:30 AM ET) ← major binary event; positions held through Friday carry gap risk
+- **Earnings BMO today:** None in strategy universe
+- **Earnings AMC today:** None flagged
+
+### Sector Momentum (YTD 2026)
+| Rank | Sector | YTD | Note |
+|------|--------|-----|------|
+| 1 | Energy (XLE) | +38% | Still leading; WTI retreating ~$103 from highs |
+| 2 | Info Tech | +52.7% trailing 12mo | Semi/AI subsector ripping on AMD |
+| 3 | Industrials (XLI) | ~+10% | Steady |
+| 4 | Materials | ~+17% trailing 6mo | |
+| 5+ | Financials, Consumer Disc | Lagging YTD | |
+
+### NVDA Position Review
+- Entry $198.62 | Premarket $201.19 | Unrealized: +$256.98 (+1.29%)
+- Trailing stop: 10% GTC, stop $180.216, HWM $200.24 — premarket above HWM; stop will auto-ratchet intraday to ~$181.07 (new HWM × 90%)
+- **Earnings May 20 → hard exit/reduce cutoff: May 13** (5 trading days prior). Today is May 6 = 5 trading days remain (May 7, 8, 9, 12, 13).
+- Thesis: INTACT and strengthening. AMD Data Center +57% YoY confirms AI chip demand supercycle. Jensen Huang on CNBC today = additional catalyst. Microsoft proprietary chip investment is a risk narrative but orders still dominated by NVIDIA H200/B200.
+- Action: HOLD with trailing stop managing downside. No new NVDA add.
+
+### SMA Checks
+- **NVDA**: SMA 20 ~$197 (price ~$201 = above SMA 20 ✓); SMA 50 ~$187; SMA 150/200 both below and sloping up ✓. Type 3 thesis intact.
+- **AMD**: SMA 20 $297.65 | SMA 50 $241.38 | SMA 200 $213.28 (Barchart May 6). Premarket ~$398 = 34% above SMA 20, 65% above SMA 50. NOT a pullback setup. **Classic post-earnings gap-up = Type 4 Momentum Probe.**
+- **TQQQ (via QQQ)**: QQQ $681.61 vs SMA 50 ~$611 = 11.5% above. AMD gap-up pushes QQQ further from SMA 50. **Type 5 core not viable today.**
+- **AVGO**: +3% PM; hitting recent highs; no confirmed SMA pullback — watch only.
+- **MRVL**: Edging higher PM; 52-week high zone; no SMA pullback — watch only.
+
+### Trade Ideas
+
+**1. AMD — Type 4 Momentum Probe (PRIMARY — actionable today)**
+- Catalyst: Q1 2026 blowout (DC +57% YoY, non-GAAP EPS $1.37 vs $1.25, Q2 guide $11.2B). Confirms AI semiconductor demand cycle. Gap-up continuation = Type 4 setup definition.
+- SMA structure: Price ~$398 premarket, all major SMAs well below — strong uptrend; gap-up is extension move, not pullback. Type 4 entry rules explicitly allow gap-up continuation post-catalyst.
+- Earnings: AMD next earnings Q2 ~August 2026 → no earnings within 5 trading days ✓
+- Entry: Wait for gap to stabilize at open (first 15–30 min). Buy if price holds above $390–395; if AMD opens and immediately fades, skip. Target entry ~$395–405.
+- Stop: 5% below entry → stop ~$375–385 (if entry $395: stop $375.25). Risk/share ~$20.
+- Size: Half size per Type 4 rules. 1.5% of $100,259 = $1,504 risk. Shares = $1,504 / $20 = ~75 shares (~$29,625 position = 29.6% capital, funded by cash buffer ✓).
+- Target: +15–20% from entry → $455–480. Take partial off at +15%, trail remainder.
+- R:R: $60 target / $20 stop = 3:1
+- Time stop: 5 trading days max → **exit by May 13** (also NVDA earnings sizing cutoff — both actions converge that day).
+- Position cap check: NVDA (1) + AMD (2) = 2/4 total ✓; 0 leveraged ETFs ✓; 1 momentum probe ≤ 2 limit ✓
+- **Gate: gap must hold at open; NFP Friday May 8 is a risk — accept it within Type 4 time stop framework**
+
+**2. NVDA — HOLD existing Type 3 position**
+- Trailing stop managing risk; earnings May 20 cutoff approaching. HOLD. No new add.
+
+**3. TQQQ — Type 5 Core (NOT VIABLE)**
+- QQQ 11.5% above SMA 50. AMD gap further extends QQQ from entry zone. No Type 5 entry.
+
+### Risk Factors
+- **NFP Friday May 8** (8:30 AM ET) — major binary; weak April jobs print could gap indices and trigger defensive rotation. Any AMD or NVDA position held through Friday carries gap risk.
+- **AMD "sell the news" risk** — 16% gap-up already prices good news; further fading possible if market rotates. Gap must stabilize; don't buy a collapsing open.
+- **VIX trending lower (17.44)** — complacent market; could spike rapidly on a bad NFP or geopolitical shock.
+- **NVDA earnings May 20** — must reduce to 50 shares or exit by May 13 (5 trading days). Convergence with AMD time stop on May 13.
+- **WTI declining (~$102)** — oil weakness good for inflation narrative but energy sector losing momentum; XLE thesis degrading.
+- **Microsoft/Alphabet chip competition narrative** — overhang on NVDA long-term; not thesis-breaking near-term.
+- **Challenge Day 8 of 30** — portfolio $100,259 (+0.26% from start). 1 position open (NVDA). AMD would bring to 2/4.
+
+### Decision
+**TRADE — AMD Type 4 Momentum Probe if gap stabilizes at open (first 15–30 min).**
+
+AMD earnings blowout (DC +57% YoY, EPS beat, strong Q2 guide) is the cleanest Type 4 gap-up continuation setup in the current universe. Half size (1.5% risk = ~75 shares). Entry gate: gap holds above $390 in first 30 min of session; if AMD immediately reverses after open, abort entry. Stop 5% below entry. Time stop May 13.
+
+NVDA: HOLD with trailing stop. AMD read-through is bullish for NVDA thesis.
+
+TQQQ: Not actionable (QQQ 11.5% above SMA 50).
+
+NFP Friday is the primary risk; AMD time stop exits before any damage, worst case by May 13.
+
+Challenge P&L: +$258.98 (+0.26%) | Day 8 of 30 | Positions: 1/4 (2/4 post-AMD entry) | Cash: $80,137.98
+
+---
+
 ## 2026-05-05 — Pre-market Research (Day 7)
 
 ### Account
