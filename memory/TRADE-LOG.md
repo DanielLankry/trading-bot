@@ -179,3 +179,14 @@ No positions yet. Bot launches tomorrow (2026-04-28).
 
 **Earnings reminder:** NVDA May 20 → must cut to 50 shares or exit by **May 13** (5 trading days).
 **Trades this week:** 2 of 3
+
+---
+
+### May 06 — EOD Snapshot (Day 8, Wednesday)
+**Portfolio:** $99,898.02 | **Cash:** $79,153.02 (79.2%) | **Day P&L:** +$110.04 (+0.11%) | **Phase P&L:** -$101.98 (-0.10%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| NVDA | 100 | $198.62 | $207.45 | +5.57% | +$882.98 | $187.44 (10% trail GTC, HWM $208.27) |
+
+**Notes:** Day 8 of the 30-day challenge (Week 2, Day 3). AMD was entered at open (46 shares @ $424.79, Type 4 momentum probe) but stopped out at $403.38 intraday low — realized loss -$985.16. NVDA surged +5.57% on the session ($196.50 → $207.45) on strong AI sentiment and AMD blowout earnings read-through, with unrealized P&L moving to +$882.98 (+4.45% from entry $198.62). NVDA gains more than offset the AMD stop-out, leaving portfolio up +$110.04 on the day. Trailing stop ratcheted to $187.44 (new HWM $208.27, 10% trail GTC). Phase P&L stands at -$101.98 (-0.10%). Trades this week: 2 (NVDA Monday entry, AMD Wednesday entered + stopped same day). Hard rule reminder: NVDA earnings May 20 — must cut to 50 shares or exit by May 13.
