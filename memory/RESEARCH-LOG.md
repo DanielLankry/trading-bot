@@ -104,6 +104,12 @@ NFP Friday is the primary risk; AMD time stop exits before any damage, worst cas
 
 Challenge P&L: +$258.98 (+0.26%) | Day 8 of 30 | Positions: 1/4 (2/4 post-AMD entry) | Cash: $80,137.98
 
+### Afternoon Addendum — Midday Scan
+- **AMD:** Stop `6ff03a94` triggered at intraday low $402.29 (fill $403.38, ~10:20 AM ET). Realized P&L: -$985.16. Stock recovered to close $418.37 (+17.76% session). Classic post-earnings whipsaw at intraday trough. Fundamental thesis (DC +57% YoY, strong Q2 guide) fully intact — position closed per hard stop rule, no re-entry today. AMD high/low range today: $430.45 / $402.29. Volume 53.4M (elevated, confirming post-earnings distribution then buyers stepped in).
+- **NVDA:** Trading $204.67, HWM $207.18 hit intraday. Trailing stop auto-ratcheted to $186.46. Jensen Huang CNBC appearance today positive for sentiment. No material news driving move; AMD read-through bullish. Thesis fully intact.
+- **Portfolio:** $99,610.03 equity | 1 open position (NVDA) | Phase P&L: -$389.97 (-0.39%). AMD loss (-$985) partially offset by NVDA gain (+$605).
+- **Upcoming:** NFP Friday May 8 (8:30 AM ET) — major binary event. NVDA earnings May 20 → size-cut to 50 shares by May 13. No new entries identified intraday.
+
 ---
 
 ## 2026-05-05 — Pre-market Research (Day 7)

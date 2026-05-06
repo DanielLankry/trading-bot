@@ -155,4 +155,27 @@ No positions yet. Bot launches tomorrow (2026-04-28).
 
 **Open positions after open:** NVDA 100 @ $198.62 (trail stop $181.44, HWM $201.60) | AMD 46 @ $424.79 (fixed stop $403.55)
 **Time stop reminder:** AMD must exit by **May 13** (5 trading days). Also convergence date for NVDA earnings size-cut.
+
+---
+
+### May 06 — Midday Scan (Day 8, Wednesday)
+**Portfolio:** $99,610.03 | **Cash:** $79,153.02 | **Long MV:** $20,457.01 | **Phase P&L:** -$389.97 (-0.39%)
+
+| Ticker | Shares | Entry | Current | Unrealized P&L | Stop | HWM |
+|--------|--------|-------|---------|----------------|------|-----|
+| NVDA | 100 | $198.62 | $204.67 | +$604.98 (+3.05%) | $186.46 (10% trail GTC) | $207.18 |
+
+**Cuts:** NONE — NVDA at +3.05%, no cut threshold triggered.
+
+**Auto-stop execution (AMD):**
+- **AMD SELL** — 46 shares @ $403.38 fill (10:20 AM ET). Stop order `6ff03a94` triggered at intraday low ($402.29). **Realized P&L: -$985.16.** ("stop fired per rules")
+- AMD intraday: opened ~$409, dipped to low $402.29, then recovered to close $418.37 (+17.76%). Whipsawed by post-earnings volatility at the intraday trough. Stop fired correctly per Type 4 rules — no override possible (never move stop down).
+
+**Stop adjustments (NVDA):** NONE — NVDA at +3.05%, below +15% threshold for manual tightening. Trailing stop auto-ratcheted to $186.46 (HWM $207.18, 10% trail).
+
+**Thesis check:**
+- **NVDA:** INTACT. Trading $204.67; AI capex supercycle confirmed by AMD blowout + Jensen Huang CNBC appearance today. HWM $207.18 reached intraday.
+- **AMD:** Position closed. Fundamental thesis intact (DC +57% YoY, Q2 guide $11.2B) but stopped out at intraday low. No re-entry — Type 4 time stop (May 13) and no fresh setup post-whipsaw.
+
+**Earnings reminder:** NVDA May 20 → must cut to 50 shares or exit by **May 13** (5 trading days).
 **Trades this week:** 2 of 3
