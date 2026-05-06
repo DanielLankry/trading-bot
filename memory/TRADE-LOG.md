@@ -136,3 +136,23 @@ No positions yet. Bot launches tomorrow (2026-04-28).
 | NVDA | 100 | $198.62 | $196.26 | -1.12% | -$236.02 | $180.216 (10% trail GTC, HWM $200.24) |
 
 **Notes:** Day 7 of the 30-day challenge (Week 2, Day 2). NVDA continued to drift lower, closing at $196.26 (-1.12% on the session), pushing unrealized P&L to -$236.02. Portfolio ends the day at $99,763.98, down -$165.60 (-0.17%) from yesterday's EOD of $99,929.58. Trailing stop remains at $180.216 (HWM $200.24) — no manual adjustments warranted; position is -1.17% from entry, well above the -8% intraday whipsaw guard and the -10% trailing stop. Thesis intact: AI/hyperscaler capex supercycle thesis unchanged; no material news catalyst for the decline. NO-TRADE-DAY confirmed: AMD disqualified (earnings tonight + not at SMA pullback zone); TQQQ not viable (QQQ >10% above SMA 50). Trades this week: 1 (NVDA entry Monday). Earnings hard-rule reminder: must cut NVDA to 50 shares or exit by May 13 (5 trading days before May 20 earnings).
+
+---
+
+### May 06 — Market-Open Trades (Day 8, Wednesday — Week 2)
+**Portfolio:** ~$100,197 | **Cash:** ~$60,598 | **Long MV:** ~$39,599 | **Phase P&L:** +$196.84
+
+| Ticker | Shares | Entry | Stop | Thesis | Target | R:R |
+|--------|--------|-------|------|--------|--------|-----|
+| AMD | 46 | $424.79 | $403.55 (fixed stop GTC, order id 6ff03a94) | Type 4 Momentum Probe; Q1 2026 blowout — DC +57% YoY, EPS $1.37 vs $1.25, Q2 guide $11.2B above consensus; gap-up continuation; next earnings Q2 ~Aug 2026 ✓ | $488–$510 (+15–20%) | 3:1 |
+
+**Trades fired:**
+- **AMD BUY** — 46 shares @ $424.79 avg (market, ~9:36 AM ET). Fill confirmed via positions. Fixed stop 5% GTC placed at $403.55 (order id `6ff03a94`). Size constrained to 46 shares (20% position-cost cap: $19,540 = 19.5% equity). Risk: ~$989 ≈ 1.0% capital.
+
+**Skipped:**
+- **NVDA** — HOLD existing 100-share position; no new add.
+- **TQQQ** — Type 5 core; QQQ ~11.5% above SMA 50. Not viable.
+
+**Open positions after open:** NVDA 100 @ $198.62 (trail stop $181.44, HWM $201.60) | AMD 46 @ $424.79 (fixed stop $403.55)
+**Time stop reminder:** AMD must exit by **May 13** (5 trading days). Also convergence date for NVDA earnings size-cut.
+**Trades this week:** 2 of 3
