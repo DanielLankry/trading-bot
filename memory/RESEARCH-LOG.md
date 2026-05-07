@@ -751,3 +751,27 @@ TRADE or HOLD (default HOLD if no edge)
 
 ### Decision
 **NO-TRADE-DAY** — SMA structure unconfirmed for all Type 1–4 candidates via Perplexity (primary SMA data source per rules); TQQQ not at SMA 50 pullback; AMD re-entry too soon post stop-out. NVDA position healthy with active trailing stop. 1 weekly slot preserved for higher-conviction SMA-confirmed entry. Challenge day 8 of 30. Phase P&L: ~−$144 (AMD realized −$985, NVDA unrealized +$841).
+
+---
+
+## 2026-05-07 — Afternoon Addendum (Midday Scan)
+
+**Trigger:** NVDA up +2.21% intraday on high macro event day (PPI, ISM Services, FOMC Minutes 1PM ET, NFP tomorrow). Perplexity check run to validate thesis.
+
+### NVDA Midday Thesis Check
+**Drivers confirmed:**
+- Dollar Index weakness driving broad tech tailwind
+- AI inference demand inflection — major workload shift supporting NVIDIA
+- Blackwell Ultra ramping ahead of schedule; Rubin on track 2026
+- CEO Jensen Huang: $3–4T AI factory buildout projected through 2030
+- AMD blowout earnings (DC +57% YoY) providing sector-wide read-through
+
+**Risks noted (known, not new):**
+- H200 China sales restrictions — ongoing overhang, no new development
+- Competition concerns flagged but "largely irrelevant at this point" (per analyst consensus)
+- FOMC Minutes (1 PM ET): no hawkish surprise flagged
+- NFP tomorrow (May 8): binary overnight risk — trailing stop at $192.78 protects
+
+**Conclusion:** AI/DC thesis INTACT. No thesis break. Hold NVDA 100 shares. Trailing stop GTC $192.78 (HWM $214.20, 10% trail) provides downside protection through NFP event.
+
+**Hard rule reminder:** NVDA earnings May 20 → cut to 50 shares or exit by May 13 (4 trading days away).
