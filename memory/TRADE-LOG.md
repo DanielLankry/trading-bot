@@ -219,3 +219,14 @@ No positions yet. Bot launches tomorrow (2026-04-28).
 | NVDA | 100 | $198.62 | $207.03 | −0.38% | +$840.98 (+4.23%) | 10% trail (HWM $208.39, stop $187.55) |
 
 **NO-TRADE-DAY.** All candidates failed hard-check rules: META/PLTR SMA structure unconfirmed via Perplexity; TQQQ not at SMA 50 pullback (QQQ 13% above); AMD re-entry too soon post stop-out. NVDA trailing stop active. Trades this week: 2 of 3 (1 slot remaining). NVDA earnings May 20 → size-cut deadline May 13.
+
+---
+
+### May 07 — EOD Snapshot (Day 9, Thursday)
+**Portfolio:** $100,342.98 | **Cash:** $79,153.01 (78.9%) | **Day P&L:** +$406.97 (+0.41%) | **Phase P&L:** +$342.98 (+0.34%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| NVDA | 100 | $198.62 | $211.90 | +1.96% | +$1,327.95 | $192.78 (10% trail GTC, HWM $214.20) |
+
+**Notes:** Day 9 of the 30-day challenge (Week 2, Day 4). No new trades today (NO-TRADE-DAY — no qualifying setups across all types). NVDA continued grinding higher, closing at $211.90 (+1.96%), lifting unrealized P&L to +$1,327.95 (+6.69% from entry). Day gain of +$406.97 driven entirely by NVDA. Trailing stop held at $192.78 (HWM $214.20, 10% trail GTC — intraday high was $214.20, stop did not ratchet further at close). Phase P&L turns positive at +$342.98 (+0.34%) — AMD stop-out loss fully recovered. Trades this week: 2. Hard rule: NVDA earnings May 20 → must cut to 50 shares or exit by May 13 (4 trading days away).
