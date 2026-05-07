@@ -711,3 +711,43 @@ TRADE or HOLD (default HOLD if no edge)
 
 ### Decision
 **HOLD — no new entries today.** NVDA pullback is noted and developing; confirm EOD close near/above SMA 20 for potential Type 3 entry at tomorrow's open. All mega-cap entries (META, MSFT, GOOGL, AMZN) require post-earnings reaction confirmation tomorrow morning.
+
+---
+
+## 2026-05-07 — Market-Open Research (Day 8)
+
+### Account
+- Equity: $99,858.01
+- Cash: $79,153.01
+- Buying power: $179,011.02
+- Daytrade count: 1 (AMD same-day buy+sell May 6)
+- Open positions: 1 — NVDA 100sh @ $198.62 avg
+- Open orders: 1 — NVDA trailing stop 10% GTC (HWM $208.39, stop $187.55)
+- Note: May 4–6 research log entries missing (process gap); NVDA entered May 4, AMD entered+stopped May 6
+
+### Macro Filter
+- SPY ~$729 | SMA 50 ~$679–682 | SMA 150 ~$677 → above all SMAs ✓
+- QQQ ~$695 | SMA 50 ~$612–617 → 13% above SMA 50 ✓
+- **→ ALL 5 SETUP TYPES ACTIVE** ✓
+- VIX ~18.29 (May 4 close) — below 25 ✓; full sizing; leveraged ETF allowed ✓
+
+### Market Context
+- S&P 500 +1.46%, Nasdaq 100 +2.08% (May 6); broad tech/AI earnings rally
+- AMD Q1 strong beat; AMD rallied day after our stop-out
+- US-Iran peace hopes aiding market; no major macro today
+- NFP May 8, CPI May 12 on deck
+
+### Candidates Scanned
+
+| Ticker | Setup Type | Quote (bid/ask) | Decision | Reason |
+|--------|------------|-----------------|----------|--------|
+| TQQQ | Type 5 core | $71.90 / $71.91 | SKIP | QQQ 13% above SMA 50 (~$695 vs ~$612); no pullback setup |
+| META | Type 3 / Type 2 | $622 / $625 | SKIP | SMA structure unconfirmed via Perplexity; no confirmed SMA 20 bounce; mid-range position |
+| PLTR | Type 3 / Type 4 | $136.83 / $136.89 | SKIP | Post-earnings sell-the-news (down ~5% on beat); SMA unconfirmed; not a gap-up/new-high setup |
+| AMD | Type 4 | $415 / $425 | SKIP | Stopped out May 6; re-entry too soon; wide spread |
+| NVDA | HELD | $207.71 / $209 | HOLD | +4.23%; trailing stop active; no +15% threshold crossed |
+| GOOGL | Type 3? | $397.55 / $399.50 | No entry | Insufficient SMA research; earnings recently cleared but setup unconfirmed |
+| MSFT | Type 3? | $424 / $427.13 | No entry | Earnings cleared Apr 29 (beat, sell-the-news); SMA unconfirmed |
+
+### Decision
+**NO-TRADE-DAY** — SMA structure unconfirmed for all Type 1–4 candidates via Perplexity (primary SMA data source per rules); TQQQ not at SMA 50 pullback; AMD re-entry too soon post stop-out. NVDA position healthy with active trailing stop. 1 weekly slot preserved for higher-conviction SMA-confirmed entry. Challenge day 8 of 30. Phase P&L: ~−$144 (AMD realized −$985, NVDA unrealized +$841).
