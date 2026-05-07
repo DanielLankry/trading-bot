@@ -5,6 +5,100 @@ Format each entry:
 
 ---
 
+## 2026-05-07 — Pre-market Research (Day 9)
+
+### Account Snapshot
+| Field | Value |
+|-------|-------|
+| Equity | $100,056.01 |
+| Cash | $79,153.01 (79.1%) |
+| Buying Power | $179,209.02 |
+| Long Market Value | $20,903.00 |
+| Phase P&L | +$56.01 (+0.06%) |
+| Daytrade Count | 1 |
+
+### Open Positions
+| Ticker | Shares | Entry | Pre-Mkt Price | Unrealized P&L | Stop | HWM |
+|--------|--------|-------|---------------|----------------|------|-----|
+| NVDA | 100 | $198.62 | $209.03 | +$1,040.98 (+5.24%) | $187.44 (10% trail GTC) | $208.27 |
+
+### Open Orders
+- NVDA: trailing stop GTC, trail 10%, stop $187.44, HWM $208.27 — **ACTIVE**
+
+### Market Context
+- **VIX:** ~17.39 (May 6 close) — benign; well below 25 threshold → full sizing allowed
+- **SPY:** ~$729 range; above SMA 50 (~$682) and SMA 200 (~$664) → **MACRO FILTER GREEN** (all 5 setup types active)
+- **QQQ:** Assumed green; SPY/QQQ hit ATH week of May 2 — both above SMA 50 ✓
+- **WTI Oil:** Declining from $116 peak (May 1) to ~$102-104 (May 6 close); $95-$109 prediction market range; elevated but trend lower is constructive
+- **S&P Futures:** ESM6 last quoted at 7,379.50 as of May 6 late session (Perplexity; no live pre-mkt print confirmed)
+- **Sector Rotation YTD:** Energy (XLE) +30% leading; Materials (XLB) +17%; Industrials (XLI) +11%; Tech (XLK) lagging; Healthcare (XLV) -5%
+
+### Today's Economic Calendar ← HIGH EVENT RISK
+| Time ET | Event | Impact |
+|---------|-------|--------|
+| 7:30 AM | **PPI M/M + Y/Y** (April) | HIGH — inflation print |
+| 7:30 AM | **Productivity Q1 Prelim** | MODERATE |
+| 10:00 AM | **ISM Services PMI** + JOLTS | HIGH |
+| 1:00 PM | **FOMC Minutes** | HIGH — hawkish/dovish read |
+| **Tomorrow May 8** | **NFP (April Jobs Report)** | **VERY HIGH** |
+
+**This is a two-day data gauntlet. Any new entry today carries overnight binary risk (NFP tomorrow).**
+
+### NVDA Thesis Check
+- Pre-mkt $209.03 (+5.24% from entry); trailing stop $187.44 → well protected
+- Earnings May 20 → **HARD DEADLINE: cut to 50 shares or exit by May 13** (6 trading days from today; deadline is 3 trading days away)
+- Jensen Huang CNBC appearance (May 6) reinforced AI capex supercycle narrative ✓
+- AI sector momentum intact (NVDA, AMD both in demand); IREN earnings today (NVDA ecosystem adjacent)
+- No thesis break; hold with trailing stop
+
+### Single-Name Universe Scan
+| Ticker | Setup Type | Status |
+|--------|-----------|--------|
+| NVDA | — | HELD; no add (no averaging up) |
+| AMD | — | Stopped out May 6; no fresh setup (whipsaw); Type 4 time stop still active |
+| META | Type 2 | **DISQUALIFIED** — fell ~double digits post Q1 earnings (AI capex fears); no breakout |
+| PLTR | Type 1/2/3 | **DISQUALIFIED** — declining $147→$133; likely below SMA 150/200; Type 4 requires RS leadership (absent) |
+| CRWD/NET/AVGO | — | Not fully confirmed; monitor for clean setups post-PPI/FOMC data |
+| TQQQ (Type 5) | Type 5 | **NOT VIABLE** — QQQ extended ~10%+ above SMA 50; no pullback setup |
+
+### Trade Ideas
+**1. NVDA — Existing hold (no new action today)**
+- Trailing stop managing risk automatically
+- Key date: May 13 earnings size-cut deadline approaching
+- Action: NONE today; revisit sizing plan May 12 pre-open
+
+**2. Opportunistic scan post-FOMC (conditional)**
+- IF PPI benign + FOMC minutes not hawkish → scan CRWD, AVGO, NET for Type 2/3 setups intraday
+- DO NOT enter before FOMC minutes at 1 PM
+- Entry only if clean setup with stop defined and NFP risk is acceptable for position sizing
+
+**3. TQQQ Type 5 Core — Not viable**
+- QQQ needs to pull back ~10% to SMA 50 zone (~$640-650) to trigger entry
+- Watch for any sharp market selloff post-data as potential re-entry zone
+
+### Risk Factors
+- **PPI hot print:** Inflation re-acceleration → rates up → tech/growth selloff → NVDA stop threat
+- **FOMC minutes hawkish:** Any hint of rate hike delays or taper → risk-off selloff
+- **NFP tomorrow (May 8):** Strongest risk for overnight gap; holding through it with trailing stop in place
+- **NVDA earnings (May 20):** Earnings countdown reduces window for position management
+- **Oil elevated at ~$102:** Sustained high oil is an inflation/rate drag; not yet a threat but monitor
+
+### Decision
+**NO-TRADE-DAY — HOLD**
+
+Valid reasons:
+- Zero universe tickers qualify for a new clean entry today (META disqualified; PLTR below SMA 150/200; AMD recovering from stop; other single names not confirmed)
+- FOMC Minutes at 1 PM + NFP tomorrow = unacceptable overnight binary risk for a new position
+- TQQQ Type 5 not viable (QQQ far above SMA 50)
+- One position already open (NVDA); trailing stop protecting +5.24% gain
+
+**Action items:**
+- Monitor NVDA intraday; trailing stop active at $187.44
+- Note May 13 deadline for NVDA earnings size cut (50 shares)
+- After FOMC minutes, reassess CRWD/AVGO/NET for potential May 8 scan setup (post-NFP clarity)
+
+---
+
 ## 2026-05-06 — Pre-market Research (Day 8)
 
 ### Account
