@@ -775,3 +775,109 @@ TRADE or HOLD (default HOLD if no edge)
 **Conclusion:** AI/DC thesis INTACT. No thesis break. Hold NVDA 100 shares. Trailing stop GTC $192.78 (HWM $214.20, 10% trail) provides downside protection through NFP event.
 
 **Hard rule reminder:** NVDA earnings May 20 → cut to 50 shares or exit by May 13 (4 trading days away).
+
+---
+
+## 2026-05-08 — Pre-Market Research (Day 10)
+
+### Account Snapshot
+| Field | Value |
+|-------|-------|
+| Equity | $100,508.01 |
+| Cash | $79,153.01 (78.7%) |
+| Buying Power | $179,661.02 |
+| Long Market Value | $21,355.00 |
+| Phase P&L | +$508.01 (+0.51%) |
+| Daytrade Count | 1 |
+
+### Open Positions
+| Ticker | Shares | Entry | Current | Unrealized P&L | Stop |
+|--------|--------|-------|---------|----------------|------|
+| NVDA | 100 | $198.62 | $213.55 | +$1,492.98 (+7.52%) | $192.78 (10% trail GTC, HWM $214.20) |
+
+**Open orders:** NVDA trailing stop 10% GTC (`4a709b23`), stop $192.78, HWM $214.20.
+
+### Market Context
+| Indicator | Level | Signal |
+|-----------|-------|--------|
+| WTI Crude | ~$96/bbl (May 7 close $94.87, spot ~$96) | Elevated; geopolitical premium |
+| Brent Crude | ~$98/bbl (slight premium to WTI) | Elevated |
+| S&P 500 Futures (ESM26) | ~7,362–7,363, +0.03% premarket | Flat/slightly green |
+| VIX | ~17.1 (May 7 close 17.39, range 17.08–17.53) | Benign — full sizing active |
+| Macro Filter | SPY & QQQ above SMA 50 | ALL 5 SETUP TYPES ACTIVE ✓ |
+| VIX sizing | <25 | Full size, leveraged ETF allowed ✓ |
+
+### Key Economic Releases Today
+- **NFP April 2026 — 8:30 AM ET** (HIGH IMPACT): Forecast 65K jobs vs prior 178K (March). Significant deceleration expected. Binary event — miss sub-40K could rattle markets; beat +100K bullish catalyst.
+- CPI April 2026: Tuesday May 12 (next key macro event after today).
+- No FOMC today.
+
+### Sector Momentum YTD 2026
+| Sector | YTD Return |
+|--------|-----------|
+| Energy | +30.7% |
+| Utilities | +9.0% |
+| Technology | +8.1% |
+| Industrials | +11.4% |
+| Financials | −5.3% |
+
+S&P 500 at all-time highs — strongest monthly gain since 2020 in April (closed at 7,209). Nasdaq at records. SMH +28.8% YTD, QLD +32%. Tech/AI and energy leading.
+
+### NVDA Thesis Update
+- **Thesis: INTACT.** Multiple new catalysts confirmed:
+  - IREN Partnership: 5 GW AI infrastructure, NVIDIA investing up to $2.1B
+  - Corning Partnership: optical connectivity 10× capacity increase, 3 new U.S. plants
+  - Blackwell Ultra ramping; $3–4T AI factory buildout narrative via Jensen Huang
+- **Upcoming earnings: May 20, 2026 (Q1 FY2027)** — CONFIRMED. GTC Keynote June 1.
+- **CRITICAL DEADLINE: Cut to 50 shares by May 13** (3 trading days: May 11, 12, 13).
+- Risks: China export controls, capex cyclicality, power/grid constraints, rich valuation (~$5.2T mkt cap, 42× P/E).
+
+### Candidate Scan
+
+| Ticker | Setup Type | Status | Notes |
+|--------|------------|--------|-------|
+| TQQQ | Type 5 core | SKIP | QQQ ~13% above SMA 50 — no pullback setup |
+| NVDA | HOLD | HOLD | +7.52%; stop active; no +15% threshold yet; earnings cut May 13 |
+| CRWD | Type 4 momentum probe | CANDIDATE | Strong technical momentum (mentioned in multiple May 2026 trend analyses). SMA 150/200 structure needs Perplexity confirmation at open. Half-size (~$1,000–1,500 risk at 1.5–2%). Time stop: May 15. |
+| PLTR | Type 3 SMA 20/50 pullback | CANDIDATE | Government AI/analytics, high RS. Post-earnings sell-the-news May 6 may have reset to cleaner SMA level. Needs SMA 20/50 bounce confirmation at open. Full-size potential if setup confirmed. |
+| AMD | Type 4 | SKIP | Stopped out May 6; re-entry too soon post-whipsaw |
+| XLE | Type 2 breakout | MONITOR | Energy sector +30.7% YTD. ETF satellite per rules. Viable if no single-name setup qualifies; breakout continuation on volume. |
+| META | Type 3 | SKIP | SMA structure unconfirmed; no confirmed SMA 20 bounce |
+| MSFT | Type 3 | SKIP | Post-earnings sell-the-news Apr 29; SMA unconfirmed |
+
+### Trade Ideas
+
+**Idea 1 — CRWD (Type 4 Momentum Probe)**
+- **Catalyst:** Cybersecurity sector leader; named in multiple May 2026 technical momentum analyses; strong YTD trend continuation.
+- **Entry:** Gap-up or new-high breakout post-NFP at open, confirm on volume.
+- **Size:** HALF (~$750–1,000 risk = 1.5–2% of $100K equity).
+- **Stop:** 5% below entry or 1× ATR (whichever tighter).
+- **Target:** +10–15% swing; time stop May 15 (5 trading days).
+- **Gate:** Requires SMA 150/200 above price and upward slope (Perplexity check at open).
+
+**Idea 2 — PLTR (Type 3 SMA 20/50 Pullback)**
+- **Catalyst:** Government AI contracts; post-earnings pullback may have reset to SMA 50 level creating a cleaner entry; sector tailwinds (tech +8.1% YTD).
+- **Entry:** Bounce confirmation off SMA 20 or SMA 50 at open.
+- **Size:** Full size (~$3,000–3,500, 3–4% risk).
+- **Stop:** Daily close below SMA being used.
+- **Target:** +12–18% to next resistance.
+- **Gate:** Confirm stock above SMA 150/200 with upward slope; check earnings (no earnings within 5 days).
+
+**Idea 3 — XLE (Type 2 Breakout — ETF Satellite)**
+- **Catalyst:** Energy sector +30.7% YTD; oil at $96/bbl with geopolitical premium (US-Iran tensions); breakout continuation.
+- **Entry:** Break to new highs on 1.5× average volume post-open.
+- **Size:** Full size (3–4% risk). Only if no single-name setup qualifies (ETF satellite by rule).
+- **Stop:** Close below breakout level or SMA 50, whichever closer.
+- **Gate:** Single-name setups (CRWD, PLTR) take priority per allocation rules.
+
+### Risk Factors
+- **NFP Binary (8:30 AM ET):** Sub-40K print or negative revision could spike VIX; wait for reaction before entering.
+- **VIX futures at 22.96 (May 19 expiry):** Market pricing in some volatility post-NFP week.
+- **NVDA earnings May 20:** Must action size-cut by May 13 regardless of price.
+- **Position concentration:** 78.7% cash — underweight for 30-day sprint; deploying capital is a priority but not at expense of bad setups.
+- **Oil at $96 elevated:** Energy risk premium could reverse if geopolitical de-escalation; watch for macro impact on tech multiples.
+
+### Decision
+**TRADE — CONDITIONAL.** Wait for NFP reaction at 8:30 AM ET. If no disaster (<35K or negative), proceed to SMA-confirm CRWD and PLTR at open. Priority order: PLTR (Type 3, larger size) > CRWD (Type 4, half size). If both SMA structures confirmed → target 1–2 new positions today. If NFP severely misses and VIX spikes >25 → reduce sizing by 25%; if VIX >30 → single names only, no TQQQ.
+
+**Capital deployment imperative:** Day 10 of 30; running 78.7% cash is drag on challenge performance. Need to fill single-name slots (40–50% allocation target).
