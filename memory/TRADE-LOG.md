@@ -230,3 +230,28 @@ No positions yet. Bot launches tomorrow (2026-04-28).
 | NVDA | 100 | $198.62 | $211.90 | +1.96% | +$1,327.95 | $192.78 (10% trail GTC, HWM $214.20) |
 
 **Notes:** Day 9 of the 30-day challenge (Week 2, Day 4). No new trades today (NO-TRADE-DAY — no qualifying setups across all types). NVDA continued grinding higher, closing at $211.90 (+1.96%), lifting unrealized P&L to +$1,327.95 (+6.69% from entry). Day gain of +$406.97 driven entirely by NVDA. Trailing stop held at $192.78 (HWM $214.20, 10% trail GTC — intraday high was $214.20, stop did not ratchet further at close). Phase P&L turns positive at +$342.98 (+0.34%) — AMD stop-out loss fully recovered. Trades this week: 2. Hard rule: NVDA earnings May 20 → must cut to 50 shares or exit by May 13 (4 trading days away).
+
+---
+
+### May 08 — Market-Open Snapshot (Day 10, Friday — NFP Day)
+**Portfolio:** $100,674.01 | **Cash:** $79,153.01 (78.6%) | **Phase P&L:** +$674.01 (+0.67%) | **Daytrade count:** 1
+
+| Ticker | Shares | Entry | Current | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|---------|---------|----------------|------|
+| NVDA | 100 | $198.62 | $215.23 | +1.76% | +$1,661 (+8.36%) | Trailing 10% GTC, HWM $215.46, stop $193.91 |
+
+**Trades fired:** NONE
+
+**Pre-market candidates checked at open:**
+- **CRWD** — Spread $473 bid / $520 ask (9.1%) → halted/illiquid per rules. **SKIP.**
+- **PLTR** — Confirmed below SMA 20 ($140.86), SMA 50 ($145.71), SMA 200 ($164.03) at $134. Not above SMA 150/200 → fails all Type 1/2/3/4 entry rules. **DISQUALIFIED.**
+- **META** — Below SMA 20 (~$724), SMA 50 (~$742), SMA 200 (~$677) at $616. **DISQUALIFIED.**
+- **TSLA** — 50/150 and 50/200 MA crossovers both Sell (death cross); below SMA 200. **DISQUALIFIED.**
+- **AVGO** — Spread $412 bid / $426 ask (3.4%) at open. **ILLIQUID — SKIP.**
+- **SMH** — $554; SMA 20 ~$481 (+15% extended). No pullback entry. **SKIP.**
+- **TQQQ** — QQQ $702 vs SMA 50 ~$611 (+15%). No Type 5 entry. **SKIP.**
+
+**NO-TRADE-DAY** — Pre-market candidates CRWD and PLTR both failed hard rules at open. Full additional scan (META, TSLA, AVGO, SMH, TQQQ, SOXL) found zero qualifying setups. ⚠ Condition 3 (macro/VIX) not met — market at ATH, VIX likely sub-20. **Missed-trade day — flag in weekly review.**
+
+**Trades this week:** 2 of 3 (1 slot remaining)
+**NVDA earnings May 20:** Cut to 50 shares by **May 13** (3 trading days).

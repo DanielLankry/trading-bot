@@ -881,3 +881,35 @@ S&P 500 at all-time highs — strongest monthly gain since 2020 in April (closed
 **TRADE — CONDITIONAL.** Wait for NFP reaction at 8:30 AM ET. If no disaster (<35K or negative), proceed to SMA-confirm CRWD and PLTR at open. Priority order: PLTR (Type 3, larger size) > CRWD (Type 4, half size). If both SMA structures confirmed → target 1–2 new positions today. If NFP severely misses and VIX spikes >25 → reduce sizing by 25%; if VIX >30 → single names only, no TQQQ.
 
 **Capital deployment imperative:** Day 10 of 30; running 78.7% cash is drag on challenge performance. Need to fill single-name slots (40–50% allocation target).
+
+---
+
+## 2026-05-08 — Market-Open Addendum (~9:38 AM ET)
+
+### Account (live at open)
+- Equity: $100,674.01 (+$674 vs start, +$331 vs May 7 close)
+- Cash: $79,153.01 | Long MV: $21,521 | Daytrade count: 1
+- NVDA: 100 @ $198.62, current $215.23 (+$1,661, +8.36%) | Stop: 10% trail, HWM $215.46, stop $193.91
+
+### NFP Reaction
+- SPY at $735.14 at open (+0.8% from yesterday close) → market reaction to NFP is **POSITIVE/BENIGN**
+- QQQ at $701.83 → both well above SMA 50; macro filter GREEN ✓
+- VIX assumed sub-20 (SPY near ATH, no distress signals)
+
+### Candidate Execution Check
+| Ticker | Pre-Market Plan | Outcome at Open |
+|--------|----------------|-----------------|
+| CRWD | Type 4 probe — SMA confirm at open | Spread $473/$520 (9.1%) = ILLIQUID → SKIP |
+| PLTR | Type 3 SMA 20/50 pullback | Confirmed below SMA 20 ($141), SMA 50 ($146), SMA 200 ($164) at $134 → NOT above SMA 150/200 → DISQUALIFIED |
+| META | Type 3 monitor | Below SMA 20 (~$724), SMA 50 (~$742) at $616 → DISQUALIFIED |
+| TSLA | Type 3 monitor | Death cross (50/150, 50/200 Sell); below SMA 200 → DISQUALIFIED |
+| AVGO | Type 3 monitor | Spread $412/$426 (3.4%) at open → ILLIQUID SKIP |
+| SMH | Type 2/3 satellite | $554 = 15% above SMA 20 ($481); extended, no pullback → SKIP |
+| TQQQ | Type 5 core | QQQ 15% above SMA 50; no entry → SKIP |
+
+### Decision
+**NO-TRADE-DAY.** Both pre-market candidates failed hard rules at open (CRWD illiquid; PLTR below SMAs). Full scan found zero qualifying setups. Semiconductor sector extended; internet/EV/software in SMA-downtrend correction.
+
+⚠ **Missed-trade day flag:** Condition 3 (macro/VIX forces cash or VIX>35) NOT met. Must flag in weekly review. Next scan priority: ARM, MRVL, GOOGL, NET, MELI for Monday pre-market (post-CPI May 12).
+
+**NVDA action required by May 13:** Cut to 50 shares (earnings May 20 = T-5 from May 13).
