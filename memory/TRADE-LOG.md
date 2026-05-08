@@ -272,3 +272,14 @@ No positions yet. Bot launches tomorrow (2026-04-28).
 **Thesis check:** INTACT — NFP print benign (SPY +0.8% at open, market near ATH, QQQ $701.83 at open). NVDA hit intraday high $217.80 before modest afternoon pullback to $215.47 (-1.1% off high). AI capex supercycle thesis strengthened by IREN partnership ($2.1B NVDA investment) and Corning optical connectivity partnership announced pre-market. No new adverse news. No thesis break.
 
 **Earnings reminder:** NVDA May 20 → must cut to 50 shares by **May 13** (3 trading days: May 11, 12, 13). Plan: sell 50 shares at Monday May 13 open.
+
+---
+
+### May 08 — EOD Snapshot (Day 10, Friday)
+**Portfolio:** $100,650.01 | **Cash:** $79,153.01 (78.6%) | **Day P&L:** +$347.00 (+0.35%) | **Phase P&L:** +$650.01 (+0.65%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| NVDA | 100 | $198.62 | $214.97 | +1.64% | +$1,634.98 (+8.23%) | $196.02 (10% trail GTC, HWM $217.80) |
+
+**Notes:** Day 10 of the 30-day challenge (Week 2, Friday). Second consecutive NO-TRADE-DAY — full scan at open found zero qualifying setups across all 5 setup types (CRWD/PLTR/META/TSLA/AVGO/SMH/TQQQ/SOXL all disqualified; full detail in market-open snapshot). NVDA closed at $214.97 (+1.64%), lifting phase P&L to +$650.01 (+0.65%) — fully above starting capital. Trailing stop GTC held at $196.02 (HWM $217.80, 10% trail) as afternoon close pulled back from midday high of $217.80; stop did not ratchet further. Trades this week: 2. ⚠ **Hard action item Monday May 13:** sell 50 NVDA shares at open — earnings May 20 rule, cannot hold full size through earnings.
