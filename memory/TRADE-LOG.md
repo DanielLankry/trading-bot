@@ -1,5 +1,27 @@
 # Trade Log
 
+### May 11 — Market-Open Pre-Execution (Day 11, Monday)
+**Portfolio:** $100,563.14 | **Cash:** $79,153.01 (78.7%) | **Phase P&L:** +$563.14 (+0.56%) | **Daytrade count:** 1
+
+| Ticker | Shares | Entry | Pre-Mkt | Unrealized P&L | Stop |
+|--------|--------|-------|---------|----------------|------|
+| NVDA | 100 | $198.62 | $214.15 | +$1,552.98 (+7.82%) | ⚠ STOP CANCELLED (earnings cut in progress) |
+
+**Pre-open action (07:30 AM ET):**
+- Cancelled trailing stop GTC order `4a709b23` (NVDA 100sh, trail 10%, stop $196.02)
+- Placed market sell 50 NVDA — order `b0d9a9c5`, day TIF, pending fill at 9:30 AM open
+- qty_available now 50 (50 reserved by pending sell)
+
+**Pending at 9:30 AM open:**
+1. Confirm NVDA 50sh sell filled → note fill price
+2. Place new 10% trailing stop GTC on remaining 50 NVDA shares
+3. Check CRWD spread at open (≤2% required) + re-confirm SMA 150/200 → if met, enter Type 4 probe (HALF size)
+4. GOOGL: only if CRWD skipped
+
+**NVDA earnings cut rationale:** NVDA earnings May 20. T-5 deadline = May 13. Executing 2 days early (May 11) to avoid deadline risk on a clean no-data day. Post-cut: 50 shares, exposure ~$10,700, unrealized +$776.
+
+---
+
 ## Day 0 — EOD Snapshot (pre-launch baseline)
 **Portfolio:** $100,000.00 | **Cash:** $100,000.00 (100%) | **Day P&L:** $0 | **Phase P&L:** $0
 
