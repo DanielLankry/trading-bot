@@ -5,6 +5,129 @@ Format each entry:
 
 ---
 
+## 2026-05-11 — Pre-Market Research (Day 11)
+
+### Account Snapshot
+| Field | Value |
+|-------|-------|
+| Equity | $100,563.01 |
+| Cash | $79,153.01 (78.7%) |
+| Buying Power | $179,716.02 |
+| Long Market Value | $21,410.00 |
+| Phase P&L | +$563.01 (+0.56%) |
+| Daytrade Count | 1 |
+
+### Open Positions
+| Ticker | Shares | Entry | Pre-Mkt Price | Unrealized P&L | Stop | HWM |
+|--------|--------|-------|---------------|----------------|------|-----|
+| NVDA | 100 | $198.62 | $214.10 | +$1,547.98 (+7.79%) | $196.02 (10% trail GTC) | $217.80 |
+
+**Open orders:** NVDA trailing stop GTC (`4a709b23`), trail 10%, stop $196.02, HWM $217.80 — ACTIVE. Note: qty_available = 0 (all 100 shares reserved by stop order).
+
+### ⚠️ CRITICAL ACTION ITEM — NVDA Earnings Cut
+- NVDA earnings: **May 20, 2026**
+- Hard rule: cut to 50 shares or exit by **May 13** (T-5 trading days before earnings)
+- Remaining window: May 11 (today), May 12, May 13 — **3 trading days left**
+- To execute: cancel stop order `4a709b23` → sell 50 shares at market → re-place trailing stop (10% GTC) on remaining 50 shares
+- Recommend executing at **today's open** to avoid procrastinating to the deadline
+
+### Market Context
+| Indicator | Level | Signal |
+|-----------|-------|--------|
+| WTI Crude | ~$98.91/bbl (+3.7% intraday, Middle East tensions) | Elevated; geopolitical premium |
+| Brent Crude | ~$100-101/bbl est. | Elevated |
+| S&P 500 Futures (ESM26) | 7,412.50 / -0.09% premarket | Flat; hovering near ATH ~7,398 |
+| VIX | ~17.08 (May 7 close; today est. similar ~16-17) | Benign — full sizing active |
+| Macro Filter | SPY & QQQ above SMA 50 | ALL 5 SETUP TYPES ACTIVE ✓ |
+| QQQ | ~$710 vs SMA 50 est. ~$615-625 | ~14% above SMA 50 → TQQQ Type 5 NOT viable |
+
+### Key Economic Releases This Week
+| Date | Event | Time ET | Impact |
+|------|-------|---------|--------|
+| **Mon May 11** | **NONE major** | — | Clean day |
+| **Tue May 12** | **CPI April** | 8:30 AM | **HIGH — #1 catalyst this week** |
+| **Wed May 13** | **PPI April** | 8:30 AM | HIGH |
+| **Thu May 14** | Retail Sales + Trump-Xi AI Summit | 8:30 AM | MODERATE-HIGH |
+| Fri May 15 | UMich Consumer Sentiment | 10:00 AM | MODERATE |
+
+CPI consensus: headline +0.6% MoM / 3.7% YoY; core +0.3% MoM / 2.7% YoY. Hot core (>0.3%) = risk-off. No FOMC this week.
+
+**BMO earnings today:** No universe names. Hain Celestial (HAIN) only confirmed BMO.
+**Earnings this week in universe:** Applied Materials (AMAT), Cisco (CSCO) — confirm dates before entry near those names.
+
+### Key Market Catalysts
+- **US-Iran peace deal optimism**: Geopolitical relief sent S&P to record high last week; WTI also rebounding on residual Middle East tensions
+- **Cybersecurity sector lift**: Fortinet (FTNT) soared post-earnings, lifting CRWD and peers; CRWD launched AI cybersecurity product + partner app (May 7), named Gartner SIEM Customers' Choice (Apr 15)
+- **NVDA**: Strong bull trend; IREN partnership ($2.1B investment, 5 GW AI infrastructure) + Corning optical connectivity deal confirmed; GPU smuggling to China via Bloomberg (known risk). Earnings May 20.
+- **GOOGL**: +27.64% YTD, bullish post-earnings momentum; Trump-Xi AI summit Thu May 14 = potential tech catalyst
+- **Sector rotation**: Tech/semis leading market rally; Energy elevated on geopolitics; Materials +17%; Tech/AI holding ATH
+
+### Universe Scan — All 5 Setup Types
+| Ticker | Setup Type | Quote | Decision | Reason |
+|--------|------------|-------|----------|--------|
+| NVDA | HOLD | $214.10 | HOLD + size cut at open | +7.79%; stop $196.02; earnings May 20 → cut to 50 shares TODAY |
+| CRWD | Type 4 Momentum Probe | TBD at open | **CANDIDATE** | AI cybersecurity catalysts; Fortinet lift; "new highs + strong trend" (May analysis); SMA 50 ~$385 (price ~$390-410 area). Verify spread (<2%) and SMA 150/200 at open |
+| GOOGL | Type 3 SMA 20/50 Pullback | ~$399 | **CANDIDATE** | +27.64% YTD; post-earnings uptrend; $399 price vs SMA structure unconfirmed — verify at open |
+| TQQQ | Type 5 Core | — | SKIP | QQQ ~14% above SMA 50; no pullback entry |
+| META | Type 3 | ~$609-655 | DISQUALIFIED | Below SMA 200 (~$642-690); death cross confirmed |
+| MRVL | Type 3 | — | DISQUALIFIED | Below 20-day ($106), 50-day ($111) SMAs; bearish short-term |
+| AMD | Type 4 | — | SKIP | Too soon post stop-out (May 6); no fresh setup |
+| TSLA | All | — | DISQUALIFIED | Death cross; below SMA 200 |
+| PLTR | All | ~$134 | DISQUALIFIED | Below SMA 20/50/200; not in uptrend |
+| SOXL/TQQQ | Type 5 | — | SKIP | Underlying indices too far above SMA 50 |
+
+### Trade Ideas
+
+**1. NVDA — CUT TO 50 SHARES (action, not new trade)**
+- Execute at market open: cancel stop `4a709b23` → sell 50 shares market → replace stop GTC 10% trail on 50 remaining
+- Retains exposure to NVDA AI thesis through earnings; limits earnings-night binary risk
+- Post-cut: 50 shares @ $198.62, unrealized ~+$775, stop resets on new HWM
+
+**2. CRWD — Type 4 Momentum Probe (primary new entry — conditional)**
+- **Catalyst:** AI cybersecurity platform expansion (new products May 7), Gartner SIEM recognition, Americas partner awards, Fortinet earnings lift to sector. Strong relative strength trend.
+- **Entry gate:** (a) spread at open ≤2%, (b) price confirms above SMA 150/200 via quote check, (c) price near or making new highs — not a gap-down open
+- **Perplexity SMA check needed at open:** "Is CRWD above its 150-day and 200-day SMAs? Are both sloping up?"
+- **Size:** HALF size — 1.5-2% risk ($1,500-2,000 risk). Shares = $1,500 / 5% stop distance.
+- **Stop:** 5% below entry or 1×ATR, whichever tighter.
+- **Target:** +15-20% swing; time stop **May 18** (5 trading days from today).
+- **CPI risk:** If CRWD moves into this position, the 5% stop protects against a CPI gap-down tomorrow. Accept this risk within Type 4 framework.
+- **Position cap post-entry:** NVDA 50sh (1) + CRWD (2) = 2/4 total ✓; 0 leveraged ETFs ✓; 1 momentum probe ≤ 2 ✓
+
+**3. GOOGL — Type 3 SMA 20/50 Pullback (secondary candidate)**
+- **Catalyst:** +27.64% YTD momentum; post-Q1 earnings uptrend; cloud AI strength; Trump-Xi summit Thu = potential tech catalyst
+- **Gate:** Confirm above SMA 150/200 at open (price ~$399; need to verify SMA levels); no earnings within 5 days (Q2 est. ~July); spread tight
+- **Size:** Full size (3-4% risk) if Type 3 entry conditions met
+- **Stop:** Daily close below SMA being used (20 or 50)
+- Lower priority than CRWD — run Perplexity SMA check at open if bandwidth allows
+
+**4. TQQQ — NOT viable.** QQQ ~14% above SMA 50. No entry.
+
+### Risk Factors
+- **CPI Tuesday May 12 (8:30 AM):** Week's #1 binary. Hot core inflation (>0.3% MoM) = risk-off sell-off. Any new position today carries overnight CPI gap risk.
+- **PPI Wednesday May 13 (8:30 AM):** Second inflation print in 2 days. Wednesday also = NVDA earnings deadline (May 13 is T-5).
+- **NVDA earnings May 20:** Must cut 50 shares by May 13. Failure to act = rules violation.
+- **WTI elevated $98-100:** Sustained above $90 keeps inflation narrative alive; risk if geopolitical de-escalation removes premium suddenly.
+- **CRWD spread was 9.1% illiquid on May 8 open:** Re-confirm spread tight today before entry. If illiquid again, skip.
+- **GPU smuggling news on NVDA (Bloomberg):** Known risk, not new — but could weigh on sentiment.
+- **Day 11 of 30, 78.7% cash:** Under-deployed. CPI/PPI binary this week creates legitimate caution, but no new trade for 3 straight days after Monday's miss (May 8). Need to find entry today if setup confirms.
+
+### Decision
+**CONDITIONAL TRADE — CRWD at open if spread tight and SMA structure confirmed; NVDA cut to 50 shares at open (mandatory action).**
+
+Rationale:
+- Today is the only clean window this week (no macro data); CPI binary tomorrow is accepted risk within Type 4 HALF-size framework
+- CRWD has multiple AI/cybersecurity catalysts from the past week + sector lift from Fortinet earnings
+- 78.7% cash on Day 11 = capital deployment is urgent; a half-size probe is appropriate
+- NVDA cut is non-negotiable → execute at open regardless of market conditions
+- Default to HOLD on GOOGL unless CRWD is skipped AND GOOGL SMA structure fully confirmed at open
+
+**Priority order at open:**
+1. NVDA: Cancel stop → sell 50 shares → replace stop on 50 shares
+2. CRWD: Verify spread + SMA 150/200 → if both confirmed, enter Type 4 probe (HALF size)
+3. GOOGL: Verify SMA structure → if Type 3 setup confirmed, enter (only if CRWD skipped)
+
+---
+
 ## 2026-05-07 — Pre-market Research (Day 9)
 
 ### Account Snapshot
@@ -740,7 +863,7 @@ TRADE or HOLD (default HOLD if no edge)
 ### Candidates Scanned
 
 | Ticker | Setup Type | Quote (bid/ask) | Decision | Reason |
-|--------|------------|-----------------|----------|--------|
+|--------|------------|-----------------|----------|---------|
 | TQQQ | Type 5 core | $71.90 / $71.91 | SKIP | QQQ 13% above SMA 50 (~$695 vs ~$612); no pullback setup |
 | META | Type 3 / Type 2 | $622 / $625 | SKIP | SMA structure unconfirmed via Perplexity; no confirmed SMA 20 bounce; mid-range position |
 | PLTR | Type 3 / Type 4 | $136.83 / $136.89 | SKIP | Post-earnings sell-the-news (down ~5% on beat); SMA unconfirmed; not a gap-up/new-high setup |
@@ -814,7 +937,7 @@ TRADE or HOLD (default HOLD if no edge)
 
 ### Sector Momentum YTD 2026
 | Sector | YTD Return |
-|--------|-----------|
+|--------|----------|
 | Energy | +30.7% |
 | Utilities | +9.0% |
 | Technology | +8.1% |
@@ -898,7 +1021,7 @@ S&P 500 at all-time highs — strongest monthly gain since 2020 in April (closed
 
 ### Candidate Execution Check
 | Ticker | Pre-Market Plan | Outcome at Open |
-|--------|----------------|-----------------|
+|--------|----------------|------------------|
 | CRWD | Type 4 probe — SMA confirm at open | Spread $473/$520 (9.1%) = ILLIQUID → SKIP |
 | PLTR | Type 3 SMA 20/50 pullback | Confirmed below SMA 20 ($141), SMA 50 ($146), SMA 200 ($164) at $134 → NOT above SMA 150/200 → DISQUALIFIED |
 | META | Type 3 monitor | Below SMA 20 (~$724), SMA 50 (~$742) at $616 → DISQUALIFIED |
