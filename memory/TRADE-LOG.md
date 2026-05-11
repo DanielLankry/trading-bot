@@ -1,24 +1,24 @@
 # Trade Log
 
-### May 11 — Market-Open Pre-Execution (Day 11, Monday)
-**Portfolio:** $100,563.14 | **Cash:** $79,153.01 (78.7%) | **Phase P&L:** +$563.14 (+0.56%) | **Daytrade count:** 1
+### May 11 — Market-Open Execution (Day 11, Monday)
+**Portfolio:** $100,704.91 | **Cash:** $89,901.41 (89.3%) | **Phase P&L:** +$704.91 (+0.70%) | **Daytrade count:** 1
 
-| Ticker | Shares | Entry | Pre-Mkt | Unrealized P&L | Stop |
+| Ticker | Shares | Entry | Current | Unrealized P&L | Stop |
 |--------|--------|-------|---------|----------------|------|
-| NVDA | 100 | $198.62 | $214.15 | +$1,552.98 (+7.82%) | ⚠ STOP CANCELLED (earnings cut in progress) |
+| NVDA | 50 | $198.62 | $216.09 | +$873.43 (+8.79%) | $194.022 (10% trail GTC, order `2c99cd23`, HWM $215.58) |
 
-**Pre-open action (07:30 AM ET):**
-- Cancelled trailing stop GTC order `4a709b23` (NVDA 100sh, trail 10%, stop $196.02)
-- Placed market sell 50 NVDA — order `b0d9a9c5`, day TIF, pending fill at 9:30 AM open
-- qty_available now 50 (50 reserved by pending sell)
+**Trades fired:**
+- **NVDA SELL 50sh** — filled @ $214.97 (market, ~9:32 AM ET). Earnings cut: T-5 before May 20 earnings. Proceeds $10,748.40. Realized P&L on 50sh sold: +$811.75 [(214.97 − 198.62) × 50].
+- **NVDA new trailing stop placed** — 10% GTC, order `2c99cd23`, initial stop $194.022, HWM $215.58.
 
-**Pending at 9:30 AM open:**
-1. Confirm NVDA 50sh sell filled → note fill price
-2. Place new 10% trailing stop GTC on remaining 50 NVDA shares
-3. Check CRWD spread at open (≤2% required) + re-confirm SMA 150/200 → if met, enter Type 4 probe (HALF size)
-4. GOOGL: only if CRWD skipped
+**New entries scanned:**
+- **CRWD** — Spread $495.95 bid / $551.25 ask (10.56%) → illiquid. **SKIP** (same issue as May 8).
+- **GOOGL** — Spread 0.34% ✓, but Type 3 SMA 20/50 pullback FAILS: price ~$394 is extended 22% above SMA 20 (~$322) and SMA 50 (~$320). Not at pullback zone. Earnings July 23-28 (no issue). **DISQUALIFIED — wrong setup structure.**
+- **TQQQ/leveraged ETF** — QQQ ~14% above SMA 50. No Type 5 entry.
 
-**NVDA earnings cut rationale:** NVDA earnings May 20. T-5 deadline = May 13. Executing 2 days early (May 11) to avoid deadline risk on a clean no-data day. Post-cut: 50 shares, exposure ~$10,700, unrealized +$776.
+**NO-TRADE-DAY** (new entries): Zero universe tickers qualify for any setup type. NVDA earnings cut was mandatory risk management, not a new entry. Full scan covered all 5 setup types.
+
+**Trades this week:** 1 (NVDA earnings cut — position management, Day 11)
 
 ---
 
