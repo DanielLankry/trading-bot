@@ -126,6 +126,12 @@ Rationale:
 2. CRWD: Verify spread + SMA 150/200 → if both confirmed, enter Type 4 probe (HALF size)
 3. GOOGL: Verify SMA structure → if Type 3 setup confirmed, enter (only if CRWD skipped)
 
+### Afternoon Addendum (Midday Scan)
+- **NVDA:** $220.51 (+2.47% intraday from $215.20 close). No specific catalyst — tech momentum continuation. IREN −9% on profit-taking after Friday's 8% rally on $3.4B NVDA AI cloud partnership announcement (IREN-specific, not NVDA fundamental). NVDA bull flag / uptrend technicals noted. HWM $222.30 intraday.
+- **Thesis check:** INTACT. No basis to cut.
+- **Stop status:** 10% trail, stop $200.07, HWM $222.30 — trailing correctly.
+- **No position changes.**
+
 ---
 
 ## 2026-05-07 — Pre-market Research (Day 9)
@@ -863,7 +869,7 @@ TRADE or HOLD (default HOLD if no edge)
 ### Candidates Scanned
 
 | Ticker | Setup Type | Quote (bid/ask) | Decision | Reason |
-|--------|------------|-----------------|----------|---------|
+|--------|------------|-----------------|----------|----------|
 | TQQQ | Type 5 core | $71.90 / $71.91 | SKIP | QQQ 13% above SMA 50 (~$695 vs ~$612); no pullback setup |
 | META | Type 3 / Type 2 | $622 / $625 | SKIP | SMA structure unconfirmed via Perplexity; no confirmed SMA 20 bounce; mid-range position |
 | PLTR | Type 3 / Type 4 | $136.83 / $136.89 | SKIP | Post-earnings sell-the-news (down ~5% on beat); SMA unconfirmed; not a gap-up/new-high setup |
