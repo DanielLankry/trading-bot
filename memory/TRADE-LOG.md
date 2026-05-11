@@ -1,5 +1,15 @@
 # Trade Log
 
+### May 11 — Midday Scan (Day 11, Monday)
+**NVDA:** 50sh | Current $220.51 | Unrealized +$1,094.54 (+11.02%) | Stop $200.07 (10% trail, HWM $222.30, order `2c99cd23`)
+
+- **Cuts:** NONE
+- **Stop adjustments:** NONE — +15% tighten threshold not reached ($228.41 needed, at $220.51)
+- **Thesis:** INTACT — no specific NVDA catalyst today; IREN −9% on profit-taking (IREN not NVDA); broad tech momentum continuation
+- **Action:** HOLD all 50sh
+
+---
+
 ### May 11 — Market-Open Execution (Day 11, Monday)
 **Portfolio:** $100,704.91 | **Cash:** $89,901.41 (89.3%) | **Phase P&L:** +$704.91 (+0.70%) | **Daytrade count:** 1
 
