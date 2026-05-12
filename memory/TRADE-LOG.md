@@ -21,6 +21,17 @@
 
 ---
 
+### May 12 — EOD Snapshot (Day 12, Tuesday)
+**Portfolio:** $100,919.54 | **Cash:** $89,901.40 (89.1%) | **Day P&L:** +$46.14 (+0.05%) | **Phase P&L:** +$919.54 (+0.92%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| NVDA | 50 | $198.62 | $220.36 | +0.42% | +$1,087.13 (+10.95%) | $201.375 (10% trail GTC, HWM $223.75) |
+
+**Notes:** Day 12 of the 30-day challenge (Week 3, Tuesday). No new trades today — third consecutive NO-TRADE-DAY (CRWD spread 10.99% illiquid, AMAT/CSCO reporting tonight, TQQQ extended 15% above SMA 50). NVDA held at 50 shares (post earnings-cut), closing at $220.36 (+0.42%). Trailing stop ratcheted to $201.375 (HWM $223.75, 10% trail GTC). Phase P&L hits new high +$919.54 (+0.92%). Cash at 89.1% — actively scanning but no qualified setups.
+
+---
+
 ### May 11 — Midday Scan (Day 11, Monday)
 **NVDA:** 50sh | Current $220.51 | Unrealized +$1,094.54 (+11.02%) | Stop $200.07 (10% trail, HWM $222.30, order `2c99cd23`)
 
