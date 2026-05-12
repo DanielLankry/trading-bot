@@ -1,5 +1,26 @@
 # Trade Log
 
+### May 12 — Market-Open Snapshot (Day 12, Tuesday — CPI Day)
+**Portfolio:** $100,807.33 | **Cash:** $89,901.40 (89.2%) | **Phase P&L:** +$807.33 (+0.81%) | **Daytrade count:** 1
+
+| Ticker | Shares | Entry | Current | Unrealized P&L | Stop | HWM |
+|--------|--------|-------|---------|----------------|------|-----|
+| NVDA | 50 | $198.62 | $218.24 | +$980.99 (+9.88%) | $200.07 (10% trail GTC, order `2c99cd23`) | $222.30 |
+
+**Trades fired:** NONE
+
+**Candidates checked at open:**
+- **CRWD** — Spread $513.95 bid / $570.43 ask (10.99%) → **SKIP** (3rd consecutive illiquid open: May 8 9.1%, May 11 10.56%, May 12 10.99%). Spread gate (≤2%) fails regardless of CPI print.
+- **AMAT / CSCO** — Earnings AMC tonight → **SKIP** (no entry same day as earnings).
+- **TQQQ** — QQQ $707 vs SMA 50 ~$615 (~15% above SMA 50) → Type 5 NOT viable.
+- **All other names** — Previously disqualified (GOOGL extended, META/TSLA/PLTR below SMAs, AMD too soon post stop-out).
+
+**NO-TRADE-DAY** — Zero qualifying setups across all 5 setup types. CRWD's persistent illiquidity at open is the primary blocker. VIX ~18.81 (<25 → full sizing active); macro filter green (SPY/QQQ above SMA 50). Valid reason per strategy: no qualified setups.
+
+**Trades this week (Week 3):** 1 (NVDA earnings cut, Day 11)
+
+---
+
 ### May 11 — Midday Scan (Day 11, Monday)
 **NVDA:** 50sh | Current $220.51 | Unrealized +$1,094.54 (+11.02%) | Stop $200.07 (10% trail, HWM $222.30, order `2c99cd23`)
 
