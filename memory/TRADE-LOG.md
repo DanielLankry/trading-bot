@@ -1,5 +1,26 @@
 # Trade Log
 
+### May 13 — Midday Scan (Day 13, Wednesday — PPI Day)
+**Portfolio:** ~$101,258 | **Cash:** $89,901.40 (88.8%) | **Long MV:** $11,357 | **Phase P&L:** +$1,258 (+1.26%)
+
+| Ticker | Shares | Entry | Current | Unrealized P&L | Stop | HWM |
+|--------|--------|-------|---------|----------------|------|-----|
+| NVDA | 50 | $198.62 | $227.14 | +$1,425.74 (+14.36%) | $205.06 (10% trail GTC, order `2c99cd23`) | $227.84 |
+
+**Cuts:** NONE — NVDA at +14.36%, well above −7% cut threshold.
+
+**Stop adjustments:** NONE — NVDA at +14.36%, below +15% threshold ($228.41) for manual trail tightening. Trailing stop auto-ratcheted to $205.06 (HWM $227.84, 10% trail GTC). Stop already above breakeven ($198.62) ✓. Watch: +15% tighten trigger at $228.41 — just $0.57 above today's intraday HWM.
+
+**Thesis check:** INTACT and strengthened.
+- Jensen Huang confirmed on Trump's Air Force One to Beijing (Trump-Xi summit May 14-15). Focus: H200/chip export restriction easing. China revenue historically ~20-25% of NVDA total.
+- BofA raised PT to $320 (Overweight) citing $1.7T AI data center forecast.
+- Chip sector resilient despite hot PPI (Core MoM +0.5%). Market forward-looking on China catalyst.
+- NVDA +2.88% intraday on known catalyst — no thesis break, no unexpected moves.
+
+**Earnings reminder:** NVDA May 20 (7 trading days). Already 50sh (half-size) ✓. At +20% ($238.34) → take 1/3 off per strategy rules.
+
+---
+
 ### May 13 — Market-Open Snapshot (Day 13, Wednesday — PPI Day)
 **Portfolio:** $101,241.90 | **Cash:** $89,901.40 (88.8%) | **Phase P&L:** +$1,241.90 (+1.24%) | **Daytrade count:** 0
 
@@ -141,7 +162,7 @@ No positions yet. Bot launches tomorrow (2026-04-28).
 ---
 
 ### May 01 — EOD Snapshot (Day 4, Friday)
-**Portfolio:** $100,000.00 | **Cash:** $100,000.00 (100%) | **Day P&L:** $0.00 (0.00%) | **Phase P&L:** $0.00 (0.00%)
+**Portfolio:** $100,000.00 | **Cash:** $100,000.00 (100%) | **Day P&L:** $0.00 (0.00%) | **Phase P&L:** +$0.00 (0.00%)
 
 | Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
 |--------|--------|-------|-------|---------|----------------|------|

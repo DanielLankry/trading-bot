@@ -75,7 +75,7 @@ Format each entry:
 
 **2. CRWD — Type 4 Momentum Probe (conditional, primary candidate)**
 - **Catalyst:** AI cybersecurity leader; above all major SMAs; chip/tech rally momentum; sector tailwinds
-- **SMA structure:** Above 200-day (~$432-458), above 50-day ($429), above 20-day (~$464) — all sloping up ✓
+- **SMA structure:** Above SMA 150/200, both sloping up ✓. Price well above SMA 20/50 = momentum extension (Type 4 characteristic, not disqualifier)
 - **Entry gates (ALL must pass):**
   - (a) PPI April print at 8:30 AM ≤ +4.5% YoY / core MoM ≤ 0.4% (not hot)
   - (b) Spread at open ≤ 2% [**CRITICAL GATE** — has been 9.1-11% for 3 straight opens; if illiquid again → skip]
@@ -109,6 +109,12 @@ Format each entry:
 1. Check PPI 8:30 AM + VIX reaction
 2. Check CRWD spread bid/ask
 3. Log decision (trade or NO-TRADE-DAY)
+
+### Afternoon Addendum — Midday Scan (~12:00 PM ET)
+- **NVDA:** $227.14 (+2.88% intraday). Intraday HWM $227.84; trailing stop auto-ratcheted to $205.06 (10% trail GTC, order `2c99cd23`). Unrealized +$1,425.74 (+14.36%).
+- **Thesis:** INTACT and strengthened. Jensen Huang confirmed on Trump delegation to Beijing (Trump-Xi summit May 14-15) — focus on H200/chip export easing; represents potential unlock of ~20-25% NVDA China revenue. BofA raised PT to $320 from $265 citing $1.7T AI data center forecast. Chip sector resilient despite hot PPI (Core MoM +0.5%).
+- **Action:** HOLD. No cuts. No stop adjustments (at +14.36%, just below +15% tightening trigger at $228.41; trailing stop already above breakeven).
+- **Watch:** +15% threshold at $228.41 — $0.57 above today's intraday HWM. If triggered, tighten trail to 7%. At +20% ($238.34) → take 1/3 off.
 
 ---
 
