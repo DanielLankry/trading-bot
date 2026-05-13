@@ -1,5 +1,30 @@
 # Trade Log
 
+### May 13 — Market-Open Snapshot (Day 13, Wednesday — PPI Day)
+**Portfolio:** $101,241.90 | **Cash:** $89,901.40 (88.8%) | **Phase P&L:** +$1,241.90 (+1.24%) | **Daytrade count:** 0
+
+| Ticker | Shares | Entry | Current | Unrealized P&L | Stop | HWM |
+|--------|--------|-------|---------|----------------|------|-----|
+| NVDA | 50 | $198.62 | $226.84 | +$1,411.00 (+14.21%) | $204.44 (10% trail GTC, order `2c99cd23`) | $227.16 |
+
+**Trades fired:** NONE
+
+**Candidates checked at open:**
+- **CRWD** — Spread $538.00 bid / $580.06 ask (7.25%) → **SKIP** (4th consecutive illiquid open: May 8 9.1%, May 11 10.56%, May 12 10.99%, May 13 7.25%). Spread gate (≤2%) fails. Also: PPI core MoM ~0.5% (hot, >0.4% gate) independently triggers NO-TRADE per research plan.
+- **AVGO** — $408-411 at open (−4% additional from May 12 close of $428). Still selling off; no bounce confirmation for Type 3 SMA pullback entry. SMA 150/200 structure unconfirmed via Perplexity. **SKIP.**
+- **TQQQ** — QQQ extended above SMA 50. Type 5 NOT viable.
+- **All other names** — Previously disqualified (META/TSLA/PLTR below SMAs, AMD too soon post stop-out, MSTR/COIN/HOOD no setup).
+
+**PPI print (8:30 AM):** Headline YoY ~2.2%, Core MoM ~0.5% — higher than gate threshold (≤0.4%). Macro caution elevated.
+
+**NO-TRADE-DAY** — Zero qualifying setups across all 5 setup types. CRWD persistent illiquidity is primary blocker (4th consecutive fail); PPI hot provides secondary confirmation. Valid reason per strategy.
+
+**NVDA update:** Trailing stop auto-ratcheted to $204.44 (HWM $227.16, 10% trail GTC). Stop already above breakeven ($198.62) ✓. Approaching +15% threshold at $228.41 — not yet triggered. At +20% ($238.34) → take 1/3 off.
+
+**Trades this week (Week 3):** 1 (NVDA earnings cut, Day 11)
+
+---
+
 ### May 12 — Market-Open Snapshot (Day 12, Tuesday — CPI Day)
 **Portfolio:** $100,807.33 | **Cash:** $89,901.40 (89.2%) | **Phase P&L:** +$807.33 (+0.81%) | **Daytrade count:** 1
 
