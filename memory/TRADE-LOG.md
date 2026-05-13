@@ -1,5 +1,16 @@
 # Trade Log
 
+### May 13 — EOD Snapshot (Day 13, Wednesday)
+**Portfolio:** $101,195.90 | **Cash:** $89,901.40 (88.8%) | **Day P&L:** +$255.50 (+0.25%) | **Phase P&L:** +$1,195.90 (+1.20%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| NVDA | 50 | $198.62 | $225.90 | +2.32% | +$1,363.91 (+13.73%) | $205.06 (10% trail GTC, HWM $227.84) |
+
+**Notes:** Day 13 of the 30-day challenge (Week 3, Wednesday). Fourth consecutive NO-TRADE-DAY — zero qualifying setups across all 5 types (CRWD persistent spread illiquidity 7.25%, PPI Core MoM hot at +0.5%, AVGO selling off with no bounce confirmation, TQQQ extended above SMA 50). NVDA surged +2.32% to $225.90 on China trade optimism (Trump-Xi summit May 14–15, H200 export restriction easing speculation) and BofA PT raise to $320. Trailing stop ratcheted to $205.06 (HWM $227.84, 10% trail GTC) — well above breakeven ✓. Phase P&L new high +$1,195.90 (+1.20%). Trades this week: 1 (NVDA earnings size-cut May 11). NVDA earnings May 20 (5 trading days) — already at 50sh (half-size) ✓; next trigger: +20% at $238.34 → take 1/3 off.
+
+---
+
 ### May 13 — Midday Scan (Day 13, Wednesday — PPI Day)
 **Portfolio:** ~$101,258 | **Cash:** $89,901.40 (88.8%) | **Long MV:** $11,357 | **Phase P&L:** +$1,258 (+1.26%)
 
