@@ -5,6 +5,113 @@ Format each entry:
 
 ---
 
+## 2026-05-13 — Pre-Market Research (Day 13)
+
+### Account Snapshot
+| Field | Value |
+|-------|-------|
+| Equity | $101,163.90 |
+| Cash | $89,901.40 (88.9%) |
+| Buying Power | $191,065.30 |
+| Long Market Value | $11,262.50 |
+| Phase P&L | +$1,163.90 (+1.16%) |
+| Daytrade Count | 0 |
+
+### Open Positions
+| Ticker | Shares | Entry | Pre-Mkt Price | Unrealized P&L | Stop | HWM |
+|--------|--------|-------|---------------|----------------|------|-----|
+| NVDA | 50 | $198.62 | $225.25 | +$1,331.49 (+13.41%) | $201.375 (10% trail GTC, order `2c99cd23`) | $223.75 |
+
+**Note:** NVDA pre-mkt at $225.25 is above prior HWM $223.75 → trailing stop will auto-ratchet to ~$202.73 ($225.25 × 0.90) at market open. Approaching +15% threshold for manual breakeven ratchet (trigger: $228.35 = $198.62 × 1.15).
+**Earnings:** NVDA May 20 (7 trading days). Already at half-size (50sh) ✓. No further sizing action needed.
+
+### Market Context
+| Indicator | Level | Signal |
+|-----------|-------|--------|
+| WTI Crude (CLM26) | ~$101.21/bbl (+2.99% day) | Elevated; geopolitical premium (Iran + Middle East) |
+| Brent Crude | ~$104.50/bbl (+3.21% day) | Elevated |
+| S&P 500 Futures (ESM26) | 7,436.25 (+0.13%) | Slightly green premarket; market near ATH |
+| VIX | ~18.81 (May 12 close) | Rising trend but below 25 → full sizing active ✓ |
+| Macro Filter | SPY & QQQ above SMA 50 (confirmed) | ALL 5 SETUP TYPES ACTIVE ✓ |
+| QQQ vs SMA 50 | ~15% above SMA 50 (~$615) | TQQQ Type 5 NOT viable |
+
+### Key Economic Release Today
+| Time ET | Event | Prior | Consensus | Impact |
+|---------|-------|-------|-----------|--------|
+| **8:30 AM** | **PPI April 2026** | Mar +4.0% YoY | ~+4.2% YoY | **HIGH — day's gating event** |
+
+**Yesterday (May 12) CPI actual:** Headline +3.8% YoY, Core +2.8% YoY — in-line. Market digested positively (S&P +0.79%, indices hit record highs). PPI today is the follow-through print.
+
+**No FOMC today.** No major earnings BMO in universe (HMC, TSEM reporting — not relevant).
+
+### Key Market Catalysts
+1. **Jensen Huang on Air Force One to China (MEGA CATALYST):** Trump confirmed NVDA CEO last-minute addition to delegation heading to Beijing for Trump-Xi summit (May 14-15). Focus: H200/chip export restriction easing. Raising hopes for China revenue unlock (historically ~20-25% NVDA revenue). NVDA pre-mkt +2.05% on news. Broadens positive sentiment to AMD, AVGO, MU.
+2. **Chip sector at 18-session win streak; S&P near ATH.** Philadelphia Semiconductor Index on tear.
+3. **CPI in-line (May 12):** Hot energy (Iran war), but core benign (+2.8% YoY). Market forward-looking; PPI today closes the inflation week.
+4. **Wells Fargo raised NVDA PT to $315 from $265** (Overweight reaffirmed) — analyst community bullish pre-earnings.
+
+### Universe Scan — All 5 Setup Types
+| Ticker | Setup Type | Status | Decision | Reason |
+|--------|------------|--------|----------|--------|
+| NVDA | HOLD | Pre-mkt $225.25 (+13.41%) | **HOLD; monitor +15% trigger** | Half-size ✓; trailing stop auto-ratcheting; earnings May 20 managed; Jensen Huang China trip = major positive catalyst; no add per rules (no averaging up) |
+| CRWD | Type 4 Momentum Probe | $543.84 (May 12 close) | **CONDITIONAL CANDIDATE** | Above SMA 200 (~$432-458) ✓, above SMA 50 ($429) ✓, above SMA 20 (~$464) ✓ — strong uptrend. Gates: (a) PPI in-line 8:30 AM, (b) spread ≤2% at open [was 10.99% May 12 — must re-confirm], (c) price ≥$540 |
+| AVGO | Type 3 SMA 20/50 | ~$428 (May 12 -3.55%) | WATCH | China/chip catalyst positive; declined -3.55% yesterday; SMA 150/200 structure not confirmed via Perplexity → needs open confirmation. Lower priority than CRWD |
+| TQQQ | Type 5 Core | — | SKIP | QQQ ~15% above SMA 50; no pullback setup |
+| META | All | — | DISQUALIFIED | Below SMA 200 (prior confirmation) |
+| TSLA | All | — | DISQUALIFIED | Death cross; below SMA 200 |
+| PLTR | All | — | DISQUALIFIED | Below SMA 20/50/200 (confirmed May 8) |
+| AMD | All | — | SKIP | Post stop-out May 6; no fresh setup |
+| MSTR/COIN/HOOD | All | — | SKIP | Crypto-adjacent; no setup confirmed |
+| SMH | All | — | SKIP | ETF extended; no pullback |
+
+### Trade Ideas
+
+**1. NVDA — HOLD (no action, monitor threshold)**
+- 50sh @ $198.62; stop auto-ratcheting to ~$202.73 today
+- Approaching +15% threshold ($228.35): if touched intraday → manually confirm stop is at breakeven ($198.62) or better
+- At +20% ($238.34) → take 1/3 off (sell ~16sh, keep ~34sh runner)
+- Jensen Huang China trip = potential gap-up continuation; NVDA could hit new ATH today
+- Earnings May 20 — no further action; half-size managed ✓
+
+**2. CRWD — Type 4 Momentum Probe (conditional, primary candidate)**
+- **Catalyst:** AI cybersecurity leader; above all major SMAs; chip/tech rally momentum; sector tailwinds
+- **SMA structure:** Above 200-day (~$432-458), above 50-day ($429), above 20-day (~$464) — all sloping up ✓
+- **Entry gates (ALL must pass):**
+  - (a) PPI April print at 8:30 AM ≤ +4.5% YoY / core MoM ≤ 0.4% (not hot)
+  - (b) Spread at open ≤ 2% [**CRITICAL GATE** — has been 9.1-11% for 3 straight opens; if illiquid again → skip]
+  - (c) Price ≥ $540 at open (not gap-down)
+- **Size:** HALF size (Type 4 rule). Risk 1.5-2% = ~$1,517-2,023. At 5% stop on ~$544: ~56 shares
+- **Stop:** 5% below entry (~$516-517)
+- **Target:** +10-15% ($598-625); time stop **May 20** (5 trading days)
+- **Position cap post-entry:** NVDA 50sh (1) + CRWD (2) = 2/4 ✓; 0 leveraged ETFs ✓; 1 probe ≤ 2 ✓
+
+**3. TQQQ — NOT viable.** QQQ ~15% above SMA 50. No entry.
+
+### Risk Factors
+- **PPI at 8:30 AM (day's #1 binary):** Hot print (>4.5% YoY or core >0.4% MoM) = VIX spike, tech pullback. NVDA stop ~$202 provides floor.
+- **China trip optimism vs. reality:** Huang on plane is bullish; but actual H200 export approvals unlikely in next 48-72h. NVDA could gap-down if summit disappoints or no chip deal announced (May 14-15).
+- **CRWD spread persistence:** Has failed open liquidity gate 3 consecutive sessions. Likely to fail again → backup plan = NO-TRADE-DAY if CRWD illiquid + no other setup.
+- **NVDA earnings May 20 (7 days):** Managed at half-size; trailing stop provides floor at ~$202. Watch for pre-earnings IV expansion.
+- **VIX trend rising:** 17.19 (May 7) → 18.38 (May 11) → 18.81 (May 12). Still <25 but trending up.
+- **Day 13 of 30; 88.9% cash:** Critically underdeployed. CRWD is the only valid vehicle today — but only if gates pass.
+
+### Decision
+**CONDITIONAL TRADE — CRWD Type 4 probe, post-PPI (8:30 AM ET)**
+
+**Decision tree at open:**
+1. **PPI hot (>4.5% YoY or core >0.4% MoM) AND VIX spikes >22** → NO-TRADE-DAY. HOLD NVDA.
+2. **PPI in-line or cool (≤4.5% YoY, core ≤0.4% MoM)** → Check CRWD spread:
+   - Spread ≤ 2% AND price ≥ $540 → **ENTER CRWD HALF size, 5% stop GTC, time stop May 20**
+   - Spread > 2% (illiquid again) → NO-TRADE-DAY. Log as 4th consecutive CRWD illiquid open. Flag in weekly review.
+3. **NVDA hits $228.35 intraday (+15%)** → Confirm trailing stop at or above $198.62 (breakeven). Trail auto-manages but verify stop order HWM.
+
+**Priority at open:**
+1. Check PPI 8:30 AM + VIX reaction
+2. Check CRWD spread bid/ask
+3. Log decision (trade or NO-TRADE-DAY)
+
+---
+
 ## 2026-05-12 — Pre-Market Research (Day 12)
 
 ### Account Snapshot
@@ -57,7 +164,7 @@ Format each entry:
 
 ### Universe Scan — All 5 Setup Types
 | Ticker | Setup Type | Status | Decision | Reason |
-|--------|------------|--------|----------|--------|
+|--------|------------|--------|----------|---------|
 | NVDA | HOLD | Current $217.78 (−0.76% May 11) | HOLD | +9.65% unrealized; stop $200.07 active; earnings May 20 (8 days); already cut to 50sh ✓ |
 | CRWD | Type 4 Momentum Probe | $527.77 (May 8) | **CONDITIONAL CANDIDATE** | SMA 150/200 confirmed above ✓, both sloping up ✓; 20-day ~$420-464 (price extended = momentum ✓); Type 4 requires new high or gap-up continuation. **Gate: spread ≤2% at open + CPI benign** |
 | GOOGL | Type 3 SMA 20/50 | $399.49 (May 11) | DISQUALIFIED | 20-day SMA ~$360; price 24%+ above SMA 20 → NOT at pullback zone. SKIP. |
@@ -175,7 +282,7 @@ CPI consensus: headline +0.6% MoM / 3.7% YoY; core +0.3% MoM / 2.7% YoY. Hot cor
 
 ### Universe Scan — All 5 Setup Types
 | Ticker | Setup Type | Quote | Decision | Reason |
-|--------|------------|-------|----------|--------|
+|--------|------------|-------|----------|---------|
 | NVDA | HOLD | $214.10 | HOLD + size cut at open | +7.79%; stop $196.02; earnings May 20 → cut to 50 shares TODAY |
 | CRWD | Type 4 Momentum Probe | TBD at open | **CANDIDATE** | AI cybersecurity catalysts; Fortinet lift; SMA 50 ~$385 (price ~$390-410 area). Verify spread (<2%) and SMA 150/200 at open |
 | GOOGL | Type 3 SMA 20/50 Pullback | ~$399 | **CANDIDATE** | +27.64% YTD; post-earnings uptrend; $399 price vs SMA structure unconfirmed — verify at open |
