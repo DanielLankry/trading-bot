@@ -1,5 +1,30 @@
 # Trade Log
 
+### May 14 — Market-Open Snapshot (Day 14, Thursday — Trump-Xi Summit Day 1)
+**Portfolio:** $101,464.40 | **Cash:** $89,901.40 (88.6%) | **Phase P&L:** +$1,464.40 (+1.46%) | **Daytrade count:** 0
+
+| Ticker | Shares | Entry | Current | Unrealized P&L | Stop | HWM |
+|--------|--------|-------|---------|----------------|------|-----|
+| NVDA | 50 | $198.62 | $231.30 | +$1,633.99 (+16.45%) | $208.97 (10% trail GTC, order `2c99cd23`) | $232.19 |
+
+**Trades fired:** NONE
+
+**Candidates checked at open:**
+- **AVGO** — Gapped from $408 → ~$438 on Trump-Xi summit catalyst (Jensen Huang on delegation, chip export easing). Bid $431 / Ask $445, spread 3.25% → **FAILS ≤2% spread gate**. Also: price gapped through SMA 20 zone ($414-415) — setup character changed to gap-up continuation (no longer a Type 3 SMA 20 bounce entry). **SKIP.**
+- **CRWD** — Bid $531.05 / Ask $588.44, spread 10.2% → **5th consecutive illiquid open** (May 8: 9.1%; May 11: 10.56%; May 12: 10.99%; May 13: 7.25%; May 14: 10.2%). **SKIP.**
+- **MU** — Bid $796.22 / Ask $805, spread 1.1% ✓ (liquid). BUT SMA structure not confirmed in pre-market scan — not at confirmed pullback zone per research plan. **SKIP — requires SMA confirmation before entry.**
+- **MRVL** — Bid $183.84 / Ask $187, spread 1.7% ✓ (liquid). Same issue — SMA structure unconfirmed. **SKIP — requires SMA confirmation.**
+- **ARM** — Bid $186.98 / Ask $239, spread 24.4% → **ILLIQUID. SKIP.**
+- **TQQQ** — QQQ well above SMA 50. Type 5 NOT viable.
+
+**NO-TRADE-DAY** — Fifth consecutive day without a new entry. Valid: all candidates fail spread gate or require SMA confirmation not available from pre-market research. Macro filter green (SPY/QQQ above SMA 50, VIX ~17.87 <25) — not a macro-forced cash day. ⚠ **Flag for weekly review:** MU and MRVL were liquid today with significant China-catalyst upside (Trump-Xi summit). Pre-market scan for tomorrow must include full SMA checks on MU, MRVL, and reassess AVGO at current levels post-gap.
+
+**NVDA:** Trailing stop auto-ratcheted to $208.97 (HWM $232.19, 10% trail GTC). At $231.30 (+16.45%) — stop well above breakeven ✓. Next trigger: +20% = $238.34 → sell ~17sh (1/3 off). Earnings May 20 (4 trading days): already at 50sh (half-size) ✓.
+
+**Trades this week (Week 3):** 1 (NVDA earnings cut, Day 11)
+
+---
+
 ### May 13 — EOD Snapshot (Day 13, Wednesday)
 **Portfolio:** $101,195.90 | **Cash:** $89,901.40 (88.8%) | **Day P&L:** +$255.50 (+0.25%) | **Phase P&L:** +$1,195.90 (+1.20%)
 
