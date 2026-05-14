@@ -120,6 +120,18 @@ Format each entry:
 2. AVGO: Check price + spread; enter if gates pass
 3. CRWD: Fallback check if AVGO skipped
 
+### May 14 — Afternoon Addendum (Midday Scan)
+
+**NVDA catalyst confirmed:** Reuters reported US cleared ~10 Chinese firms to buy H200 AI chips. H200 China risk was the primary overhang identified this morning — it reversed positive. NVDA +4.35% intraday ($225.83 → $235.65), HWM $235.84, +18.64% from entry.
+
+**Stop tightened:** 10% trail → 7% trail (order `fdf11b9e`, stop $219.33). Triggered by +15%→+20% zone per midday rules. Stop moved from $212.82 → $219.33 (+$6.51/sh).
+
+**PT raise:** Cantor Fitzgerald $300 → $350 on China H200 news.
+
+**+20% trigger ($238.34):** Not yet hit. If NVDA clears $238.34 → sell ~17sh, keep ~33sh runner. Watch into close.
+
+**MU / MRVL:** Both confirmed liquid at open today (MU spread 1.1%, MRVL 1.7%) but SMA structure unconfirmed. Must add full SMA checks for MU/MRVL/AVGO (post-gap levels) to **tomorrow's pre-market scan**. Trump-Xi summit Day 2 (May 15) = continued catalyst potential for China-exposed semis.
+
 ---
 
 ## 2026-05-13 — Pre-Market Research (Day 13)

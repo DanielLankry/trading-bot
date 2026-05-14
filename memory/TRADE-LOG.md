@@ -25,6 +25,27 @@
 
 ---
 
+### May 14 — Midday Scan (Day 14, Thursday — Trump-Xi Summit Day 1)
+**Portfolio:** $101,693.91 | **Cash:** $89,901.40 (88.4%) | **Long MV:** $11,792.51 | **Phase P&L:** +$1,693.91 (+1.69%)
+
+| Ticker | Shares | Entry | Current | Unrealized P&L | Stop | HWM |
+|--------|--------|-------|---------|----------------|------|-----|
+| NVDA | 50 | $198.62 | $235.65 | +$1,851.49 (+18.64%) | $219.33 (7% trail GTC, order `fdf11b9e`) | $235.84 |
+
+**Cuts:** NONE — NVDA at +18.64%, far above −7% threshold.
+
+**Stop adjustments:** NVDA tightened 10% → 7% trail. Cancelled order `2c99cd23` (stop $212.82). New order `fdf11b9e` placed: 7% trail GTC, stop $219.33, HWM $235.84. Stop moved UP +$6.51/sh (+$325 total). Distance from current price: 6.93% > 3% minimum ✓. Never moved down ✓.
+
+**Thesis check:** INTACT and strengthened. Primary driver: Reuters confirmed US cleared ~10 Chinese firms to buy NVDA H200 AI chips — the key risk overhang turned positive. Cantor Fitzgerald raised PT $300 → $350. S&P tech sector +1%; Nasdaq hit fresh highs. No adverse news. Trump-Xi summit (Jensen on delegation) = confirmed catalyst. +20% trigger ($238.34) not yet hit; no 1/3 sell yet.
+
+**Thesis breaks:** NONE.
+
+**Next triggers:**
+- +20% ($238.34) → sell ~17sh, keep ~33sh runner
+- Earnings May 20 (4 trading days): at 50sh (half-size) ✓, no further sizing action
+
+---
+
 ### May 13 — EOD Snapshot (Day 13, Wednesday)
 **Portfolio:** $101,195.90 | **Cash:** $89,901.40 (88.8%) | **Day P&L:** +$255.50 (+0.25%) | **Phase P&L:** +$1,195.90 (+1.20%)
 
