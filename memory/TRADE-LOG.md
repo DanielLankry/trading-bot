@@ -1,5 +1,16 @@
 # Trade Log
 
+### May 14 — EOD Snapshot (Day 14, Thursday)
+**Portfolio:** $101,704.90 | **Cash:** $89,901.40 (88.4%) | **Day P&L:** +$512.00 (+0.51%) | **Phase P&L:** +$1,704.90 (+1.70%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| NVDA | 50 | $198.62 | $236.07 | +4.53% | +$1,872.49 (+18.86%) | $219.54 (7% trail GTC, HWM $236.07) |
+
+**Notes:** Day 14 of the 30-day challenge (Week 3, Thursday). Fifth consecutive NO-TRADE-DAY — all candidates failed at open (AVGO gap-up 3.25% spread above entry zone, CRWD 10.2% spread illiquid for 5th straight open, MU/MRVL SMA structure unconfirmed, ARM 24.4% spread, TQQQ extended). Trump-Xi summit catalyst confirmed at midday: Reuters reported US cleared ~10 Chinese firms to buy NVDA H200 chips; Cantor Fitzgerald raised PT $300 → $350; Nasdaq fresh highs. NVDA closed at $236.07 (+4.53%), phase P&L reaches new high +$1,704.90 (+1.70%). +20% trigger ($238.34) not yet hit — just $2.27 away. Trailing stop tightened 10% → 7% at midday; HWM ratcheted to $236.07 at close → stop now $219.54. Trades this week: 1. ⚠ Pre-market Friday: full SMA check on MU and MRVL (flagged as liquid candidates today requiring confirmation). NVDA earnings May 20 (4 trading days) — at 50sh (half-size) ✓.
+
+---
+
 ### May 14 — Market-Open Snapshot (Day 14, Thursday — Trump-Xi Summit Day 1)
 **Portfolio:** $101,464.40 | **Cash:** $89,901.40 (88.6%) | **Phase P&L:** +$1,464.40 (+1.46%) | **Daytrade count:** 0
 
