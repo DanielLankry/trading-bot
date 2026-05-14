@@ -5,6 +5,123 @@ Format each entry:
 
 ---
 
+## 2026-05-14 — Pre-Market Research (Day 14)
+
+### Account Snapshot
+| Field | Value |
+|-------|-------|
+| Equity | $101,388.90 |
+| Cash | $89,901.40 (88.7%) |
+| Buying Power | $191,290.30 |
+| Long Market Value | $11,487.50 |
+| Phase P&L | +$1,388.90 (+1.39%) |
+| Daytrade Count | 0 |
+
+### Open Positions
+| Ticker | Shares | Entry | Pre-Mkt Price | Unrealized P&L | Stop | HWM |
+|--------|--------|-------|---------------|----------------|------|-----|
+| NVDA | 50 | $198.62 | $229.75 | +$1,556.49 (+15.67%) | $205.056 (10% trail GTC, order `2c99cd23`) | $227.84 |
+
+**⚠ +15% THRESHOLD CROSSED:** NVDA at +15.67% from entry. Strategy rule: "Up ≥ +15% → ratchet stop to entry (breakeven)." Stop already at $205.056 > entry $198.62 ✓ — breakeven rule satisfied. No manual action needed; trailing stop auto-manages. Next milestone: **+20% = $238.34 → sell ~17 shares (1/3 of 50), keep ~33 as runner.**
+
+**Earnings:** NVDA May 20, 2026 (6 trading days). Already at half-size (50sh) ✓. No further sizing action.
+
+### Market Context
+| Indicator | Level | Signal |
+|-----------|-------|--------|
+| WTI Crude | $101.17/bbl | Elevated; Middle East premium |
+| Brent Crude | $105.97/bbl (+0.32% today) | +11.63% past month; geopolitical premium |
+| S&P 500 Futures (ESM6) | 7,484.25 (+0.20%) | Slightly green pre-market |
+| VIX | ~17.87 (−0.7% today) | Below 25 → full sizing active ✓ |
+| Macro Filter | SPY & QQQ above SMA 50 (confirmed) | ALL 5 SETUP TYPES ACTIVE ✓ |
+| QQQ vs SMA 50 | ~15% above SMA 50 (~$615) | TQQQ Type 5 NOT viable |
+
+### Key Economic Releases Today
+| Time ET | Event | Impact |
+|---------|-------|--------|
+| **7:30 AM** | **April Retail Sales** (M/M, Ex-Auto, Ex-Auto/Fuel) | MODERATE — consumer demand gauge post energy spike |
+| **9:00 AM** | ISM Manufacturing/Services PMI | MODERATE |
+| No FOMC | | — |
+
+**This week's data already out:** CPI (May 12) in-line at +3.8% YoY / core +2.8%; PPI (May 13) Core MoM +0.5% (hot) — market absorbed both positively, indices hit record highs.
+
+### Key Market Catalysts
+1. **Trump-Xi Summit (May 14–15) — MEGA CATALYST:** Jensen Huang confirmed on Trump delegation to Beijing. Agenda: AI guardrails + H200/chip export restriction easing. China revenue ~20–25% of NVDA total historically. Summit outcome moves semis sharply in either direction.
+2. **NVDA first company to $5.5T market cap:** BofA raised PT to $320 (2030 AI TAM $1.7T). 37 analysts Buy, $273 consensus target. Vera Rubin chip trial production June, AWS/MSFT/GOOGL shipments July. Earnings May 20.
+3. **Sector momentum:** Energy +38.3% YTD (Iran war), Industrials +9.6%, Consumer Staples +10.7%. Tech lagging broader YTD but AI/semis have surged on catalyst-driven momentum. Momentum investing up 20%+ YTD.
+4. **No universe BMO earnings today** — VCM/GHRS non-universe; no trading restriction triggered.
+
+### Universe Scan — All 5 Setup Types
+| Ticker | Setup Type | Decision | Reason |
+|--------|------------|----------|--------|
+| NVDA | HOLD | **HOLD; monitor +20% trigger** | +15.67%, stop above breakeven ✓; earnings May 20 (half-size managed); no add (no averaging up) |
+| AVGO | Type 3 SMA 20 bounce | **PRIMARY CANDIDATE** | SMA 20 ~$414-415; price ~$408 (just below SMA 20 on May 13); SMA 50 $363, SMA 200 $345 — both above, golden cross ✓. Trump-Xi chip catalyst could push AVGO back above SMA 20 at open = Type 3 bounce entry. Full size. |
+| CRWD | Type 4 Momentum Probe | **SECONDARY — CONDITIONAL** | Price ~$562 (strong momentum). 4 consecutive illiquid opens (May 8–13: 9.1%, 10.56%, 10.99%, 7.25%). Trend improving but spread likely still >2%. Lower priority than AVGO. |
+| TQQQ | Type 5 Core | SKIP | QQQ ~15% above SMA 50; no pullback setup |
+| AMD | All | SKIP | Post stop-out May 6; no fresh confirmed setup; no re-entry rule |
+| META/TSLA/PLTR | All | DISQUALIFIED | Below SMA 150/200 (prior confirmed) |
+| MU/ARM/MRVL | All | WATCH | Potential China-catalyst beneficiaries; not yet at confirmed SMA setup zones |
+| MSTR/COIN/HOOD | All | SKIP | Crypto-adjacent; no setup confirmed |
+| SMH/SOXL/SPXL | Type 5 | SKIP | Underlying indices too extended above SMA 50 |
+
+### Trade Ideas
+
+**1. NVDA — HOLD (no new action)**
+- 50sh @ $198.62; trailing stop $205.056 (10% GTC, HWM $227.84)
+- +15.67% — stop above breakeven, auto-managing ✓
+- **Watch: +20% = $238.34 → sell ~17sh (1/3 off), keep ~33sh runner**
+- Trump-Xi summit = potential gap-up continuation intraday
+- Earnings May 20 (6 trading days): half-size managed ✓
+
+**2. AVGO — Type 3 SMA 20 Bounce (PRIMARY new entry — conditional)**
+- **Catalyst:** Trump-Xi summit (chip export easing) = major positive catalyst for Broadcom AI networking/custom ASIC business; China exposure ~20%+ revenue; AVGO pulled back ~$428 → $408 (May 12–13), approaching SMA 20 ($414-415)
+- **SMA structure:** Above SMA 200 ($345) ✓, above SMA 50 ($363) ✓, golden cross confirmed ✓, both SMAs sloping up ✓
+- **Entry gates (ALL must pass at open):**
+  - (a) Price at or above SMA 20 ($414-415) — bounce confirmation (not gap-down)
+  - (b) Spread ≤ 2% at open (was 3.4% illiquid May 8; must re-confirm)
+  - (c) No AVGO earnings within 5 trading days (Q2 FY2026 est. ~June 2026 ✓)
+- **Size:** Full size (Type 3 rule). ~48-50 shares at ~$415-420 ≈ $20K (19.7% equity, within 20% cap). Stop at SMA 20 (~$412-414); risk = ~$3-5/share × 50sh ≈ $150-250 (capped by allocation, not risk %).
+- **Alternative stop:** SMA 50 at $363 = $52 distance × 50sh = $2,600 = 2.56% capital — better risk/reward alignment; use SMA 50 as the hard stop GTC below $362.
+- **Target:** +15-20% ($478-504); time horizon 10-20 days (not a momentum probe, no time stop)
+- **Position cap post-entry:** NVDA 50sh (1) + AVGO 50sh (2) = 2/4 total ✓; 0 leveraged ETFs ✓; 0 momentum probes ≤ 2 ✓
+
+**3. CRWD — Type 4 Momentum Probe (secondary, conditional)**
+- Price ~$562-563; 43 analysts Buy; strong momentum
+- **Gate:** Spread ≤ 2% at open (4 consecutive fails; trend improving from 10.99% → 7.25%; still likely >2%)
+- HALF size only. If spread clears: enter, 5% stop ($534), time stop May 21
+- Lower priority — only if AVGO skipped (spread fails/gap-down)
+
+**4. TQQQ/SOXL — NOT viable.** QQQ ~15% above SMA 50. No Type 5 entry.
+
+### Risk Factors
+- **Retail Sales at 7:30 AM:** Weak print = consumer demand concerns; could pressure risk assets pre-open. Strong print = possible rate-hold concern (higher for longer). Neither a hard gate vs prior CPI/PPI.
+- **Trump-Xi Summit binary:** Jensen Huang on delegation = bullish signal. Actual H200 export approvals unlikely in 24-48h. NVDA could gap-down if summit disappoints or produces no chip deal. Trailing stop $205 provides floor.
+- **AVGO spread risk:** Was 3.4% illiquid May 8. No recent data on spread at open. Primary blocker risk.
+- **AVGO SMA 20 gate:** Price was $408 (May 13 close), SMA 20 at $414-415. Must confirm AVGO opens AT or ABOVE $414-415 for bounce entry; a gap-down open below SMA 20 = skip.
+- **VIX at 17.87, trending down:** Benign; full sizing active. Favorable for entries.
+- **NVDA earnings May 20 (6 days):** No action needed; at half-size, stop above breakeven. Risk is pre-earnings drift / IV expansion.
+- **Day 14 of 30; 88.7% cash:** Critically underdeployed. Must execute valid setup today — AVGO is the best candidate.
+
+### Decision
+**CONDITIONAL TRADE — AVGO Type 3 SMA 20 bounce (primary); CRWD Type 4 (secondary if AVGO fails)**
+
+**Decision tree at open:**
+1. **Retail Sales surprise (7:30 AM):** Only veto if dramatically weak + VIX spikes >25. Otherwise proceed.
+2. **Check AVGO at open:**
+   - Spread ≤ 2% AND price ≥ $414 (at/above SMA 20) → **ENTER AVGO Type 3, ~50sh, stop GTC below SMA 50 ($362), hold for swing**
+   - Spread > 2% OR price < $414 (gap-down) → SKIP AVGO
+3. **If AVGO skipped → check CRWD spread:**
+   - Spread ≤ 2% AND price ≥ $540 → **ENTER CRWD Type 4, HALF size (~28sh), 5% stop GTC, time stop May 21**
+   - Spread > 2% (5th consecutive illiquid) → **NO-TRADE-DAY** (log as valid: zero qualifying setups after scan)
+4. **NVDA monitor:** At $238.34 (+20%) → sell ~17 shares (1/3 off), let ~33sh run.
+
+**Priority at open:**
+1. NVDA: Check if +20% hit → take 1/3 off if so
+2. AVGO: Check price + spread; enter if gates pass
+3. CRWD: Fallback check if AVGO skipped
+
+---
+
 ## 2026-05-13 — Pre-Market Research (Day 13)
 
 ### Account Snapshot
