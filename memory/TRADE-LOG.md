@@ -1,5 +1,28 @@
 # Trade Log
 
+### May 15 — Midday Scan (Day 15, Friday — Trump-Xi Summit Day 2 Conclusion)
+**Portfolio:** ~$101,307 | **Cash:** $89,901.40 (88.8%) | **Long MV:** $11,406 | **Phase P&L:** +$1,375 (+1.38%)
+
+| Ticker | Shares | Entry | Current | Unrealized P&L | Stop | HWM |
+|--------|--------|-------|---------|----------------|------|-----|
+| NVDA | 50 | $198.62 | $228.12 | +$1,474.99 (+14.85%) | $219.98 (7% trail GTC, order `fdf11b9e`) | $236.54 |
+
+**Cuts:** NONE — NVDA at +14.85%, far above −7% cut threshold.
+
+**Stop adjustments:** NONE — stop already tightened to 7% trail yesterday (midday May 14). NVDA at +14.85%, just below +15% tighten trigger ($228.41). Trail distance from current price: $228.12 → $219.98 = 3.57% > 3% minimum buffer ✓. No action warranted; trailing stop parked at $219.98 (HWM $236.54 from yesterday's ATH).
+
+**Thesis check:** INTACT (sector-wide pullback, not NVDA-specific). Perplexity confirmed: NVDA −4.6% intraday driven by (1) H200/China export uncertainty — ~10 Chinese firm approvals did not resolve domestic chip substitution risk, limiting near-term China revenue; (2) broad semiconductor sector profit-taking (Intel −7%, AMD −4%, NVDA −4%); (3) pre-earnings positioning ahead of May 20. Primary AI capex supercycle thesis — Blackwell/Vera Rubin ramp, hyperscaler demand — NOT broken. China was a supplementary catalyst, already flagged as an overhang risk in pre-market.
+
+**Thesis breaks:** NONE. Decline is sentiment/macro-driven, not fundamental.
+
+**Earnings reminder:** NVDA May 20 (3 trading days: May 15, 16, 19). At 50sh (half-size) ✓. Stop at $219.98 provides $8.14/sh (~$407 total) floor from current price.
+
+**Next triggers:**
+- +20% ($238.34) → sell ~17sh, keep ~33sh runner (not hit; need +$10.22 from current $228.12)
+- Stop at $219.98 — let trail auto-manage; only ratchets up when NVDA exceeds ATH $236.54
+
+---
+
 ### May 15 — Market-Open Snapshot (Day 15, Friday — Trump-Xi Summit Day 2 Conclusion)
 **Portfolio:** $101,279.40 | **Cash:** $89,901.40 (88.8%) | **Phase P&L:** +$1,279.40 (+1.28%) | **Daytrade count:** 0
 

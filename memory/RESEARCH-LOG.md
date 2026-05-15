@@ -107,6 +107,20 @@ Format each entry:
 3. If AVGO spread > 1% → check CRWD spread ≤ 2% → ENTER Type 4 HALF size if passes
 4. If both fail → **NO-TRADE-DAY** (valid: all setups failed hard rules at open)
 
+### May 15 — Afternoon Addendum (Midday Scan)
+
+**NVDA:** $228.12 (−3.23% intraday from $235.74 close). HWM $236.54 unchanged; trailing stop parked at $219.98 (7% trail GTC). Unrealized +$1,474.99 (+14.85%).
+
+**Cause of decline (Perplexity confirmed):** Broad semiconductor selloff — Intel −7%, AMD −4%, NVDA −4%. Catalyst: H200/China trade disappointment. Commerce Dept approved ~10 Chinese firms to buy H200 chips (May 14), but domestic chip substitution pressure in China limits near-term revenue uplift. No actual H200 shipment breakthrough. Market de-risking ahead of NVDA May 20 earnings (binary event).
+
+**Thesis:** INTACT. Primary AI capex supercycle driver (Blackwell/Vera Rubin ramp, hyperscaler demand, $3–4T AI factory buildout) not affected by China sentiment. China angle was supplementary — always identified as an overhang, not the core thesis.
+
+**Action:** HOLD all 50sh. No cuts. No stop adjustments (stop already at 7% trail, distance 3.57% > 3% minimum buffer). Pre-earnings positioning may continue to pressure price through May 19; stop manages the risk.
+
+**AVBO/CRWD:** Pre-market plan was AVGO Type 4 probe conditional on spread ≤1% AND price $440–490. Per market-open log, AVGO opened at $428 (below $440 floor) → SKIPPED. CRWD spread 9.44% → SKIPPED. NO-TRADE-DAY valid.
+
+**+20% trigger ($238.34):** Not hit; $10.22 above current price. Next major event = NVDA earnings May 20.
+
 ---
 
 ## 2026-05-14 — Pre-Market Research (Day 14)
