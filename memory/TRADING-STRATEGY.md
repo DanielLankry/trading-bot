@@ -101,13 +101,22 @@ Every trading day must produce either **(a)** at least one new entry, or
   floor if any single name qualifies for Setups 1–4. Capital allocation
   still requires 40–50% in single names — defaulting to TQQQ/SOXL and
   skipping single-name scans is a process violation.
-- A `NO-TRADE-DAY` is only valid if **all** of the following are true:
-  - Zero universe tickers qualify for any of Setup Types 1–4 today, AND
-  - Leveraged ETF core (Type 5) does not qualify (QQQ not at SMA 50
-    pullback, OR a leveraged ETF is already held), AND
-  - Macro filter forces restricted/cash mode, OR VIX > 35.
-- If a `NO-TRADE-DAY` is logged with no qualifier above met, it counts as
-  a missed-trade day and must be flagged in the next weekly review.
+- A `NO-TRADE-DAY` is valid if **either** of the following is true:
+  - **(A) Zero setups qualify:** Zero universe tickers qualify for any of
+    Setup Types 1–4 today, AND leveraged ETF core (Type 5) does not qualify
+    (QQQ not at SMA 50 pullback, OR a leveraged ETF is already held). Valid
+    disqualifiers: entry gates (spread, SMA structure, price zone, earnings
+    proximity) all fail across the full universe scan.
+  - **(B) Macro forces cash:** Macro filter forces restricted/cash mode
+    (SPY or QQQ below SMA 150), OR VIX > 35.
+- Position cap (max 4 total open) is also a valid NO-TRADE-DAY reason when
+  all slots are filled and no exit has occurred.
+- If a `NO-TRADE-DAY` is logged with neither (A) nor (B) satisfied, it
+  counts as a missed-trade day and must be flagged in the next weekly review.
+- *(Rule updated 2026-05-15: changed from AND-all-three to OR-A/B logic.
+  Prior AND wording made valid no-trade days impossible when macro filter
+  is green and VIX<35 — contradicting the intent. Flagged and confirmed
+  across Weeks 2–3 before correction.)*
 - **This rule does NOT override risk discipline.** Never enter a setup
   that fails its Setup-Type entry rules just to satisfy the floor. The
   floor's purpose is to force the *scan*, not force a bad trade.

@@ -222,3 +222,65 @@ Template for each entry:
 
 ### Overall Grade: B−
 > Rationale: NVDA entry and management excellent — +8.24% unrealized, trailing stop properly ratcheted, earnings rule tracked. AMD stop honored per rules; no violations. Process compliance clean throughout. Penalty: 80% cash in a +2.5% market week = ~−1.85% underperformance vs S&P 500; same capital deployment failure as Week 1 despite all 5 setup types active all week. Grade improves when capital is actually put to work.
+
+---
+
+## Week ending 2026-05-15
+
+### Stats
+| Metric | Value |
+|--------|-------|
+| Starting portfolio | $100,651.75 |
+| Ending portfolio | $101,153.40 |
+| Week return | +$501.65 (+0.50%) |
+| S&P 500 week | +0.40% (SPX 6,445.76 → 6,471.54) |
+| Bot vs S&P | +0.10% |
+| Trades | 1 (W:1 / L:0 / open:1) |
+| Win rate | 100% (1 of 1 closed — mandatory earnings cut) |
+| Best trade | NVDA partial close +$811.75 (+8.24% on 50sh sold) |
+| Worst trade | N/A (no losses) |
+| Profit factor | N/A (no losses this week) |
+
+> **Week 3 of 30-day challenge (May 11–15). Day 11–15 of 30.** Only trade: mandatory NVDA earnings cut (sell 50sh @ $214.97, May 11 open). Zero new entries across 5 consecutive trading days. 88.9% cash at week end. NVDA 50sh remains open at +13.30% unrealized. Earnings May 20 (2 trading days: May 19, 20).
+
+### Closed Trades
+| Ticker | Entry | Exit | P&L | Notes |
+|--------|-------|------|-----|-------|
+| NVDA (50sh partial) | $198.62 (May 4) | $214.97 (May 11) | +$811.75 | Earnings cut — T-5 rule before May 20 earnings; half-size reduction, not full exit |
+
+### Open Positions at Week End
+| Ticker | Entry | Close | Unrealized | Stop |
+|--------|-------|-------|------------|------|
+| NVDA | $198.62 (May 4) | $225.04 | +$1,320.99 (+13.30%) | $219.98 GTC (7% trail, HWM $236.54) |
+
+### What Worked
+- NVDA trailing stop management: 7% trail correctly ratcheted throughout week; stop at $219.98 provides $25.42/sh floor above entry — never moved down ✓
+- Earnings rule executed on time (May 11 open, Day 11): 50sh sold at +$811.75 realized; rule required action by May 13 → executed 2 days early ✓
+- Trump-Xi summit catalyst confirmed mid-week: NVDA hit ATH $236.54 (May 14) on H200 China approvals + Cantor PT raise $300→$350; thesis strengthened
+- NO-TRADE-DAY discipline: all 5 no-trade days documented with complete scans and valid reasons (AVGO price gate, CRWD persistent spread illiquidity)
+- NVDA held through -4.61% May 15 selloff (semiconductor sector profit-taking, not thesis break); stop at $219.98 absorbs without action ✓
+
+### What Didn't Work
+- 5 consecutive no-trade days (May 11–15) = 0 new entries; 88.9% cash unchanged from Week 2 end; 3rd straight week of capital underdeployment
+- CRWD blocked for 6th consecutive session (spreads: 9.1%, 10.56%, 10.99%, 7.25%, 10.2%, 9.44%); scanner cost: 5 weekly scanning cycles on an untradeable name
+- AVGO: gapped to $490 (May 14, Trump-Xi catalyst) then reversed to $428 (May 15 close) in a single session; both days missed — May 14 spread gate (3.25%), May 15 price gate ($428 < $440 floor)
+- +20% trigger ($238.34) came within $1.80 of NVDA ATH $236.54 (May 14) but did not trigger; missed 1/3 partial exit opportunity; position then pulled back to $225 by week end
+- Challenge pace deteriorating: Day 15 of 30 at 88.9% cash; leveraged ETF core never deployed in 3 full weeks; single-name allocation at 11% vs 40–50% target
+
+### Key Lessons
+- Post-catalyst gap-ups must be entered same session or abandoned; AVBO's $490 gap reversed 87% ($490→$428) in one day — the setup character changes within hours, not days
+- CRWD has failed the 2% spread gate 6 consecutive times; de-prioritize from primary scan until a midday-prior spread confirmation (<2%) is obtained; replace with MU or MRVL (both confirmed liquid May 14)
+- NVDA trailing stop system working as designed even through the ATH-near-miss scenario; no override temptation justified
+- Week 3 outperformance vs S&P (+0.10%) is entirely from NVDA unrealized appreciation entered in Week 2 — not new alpha; real outperformance requires deploying capital at full allocation
+- Earnings binary (NVDA May 20) is the dominant near-term risk and creates a natural de-deployment pressure — second position must be established before or immediately after earnings
+
+### Adjustments for Next Week (May 18–22)
+- **NVDA May 20 earnings (Wednesday):** 50sh at half-size ✓; trailing stop $219.98 manages risk through event. If $238.34 hit pre-earnings (May 19) → sell ~17sh, keep ~33sh runner. Post-earnings: if gapped down through stop, no action; if gap-up → reassess size.
+- **AVGO Type 3:** Price $428 (May 15 close); SMA 20 ~$415. Monitor Monday AM — if at/above SMA 20 ($414-415) with spread ≤2% → full-size Type 3 entry, stop below SMA 50 (~$362).
+- **MU / MRVL:** Both confirmed liquid May 14 (MU 1.1%, MRVL 1.7%); SMA structure must be Perplexity-confirmed before entry. Add to Monday pre-market scan as primary candidates to fill position slot 2.
+- **CRWD:** Remove from primary scan; only re-add if mid-week spread check (via alpaca.sh quote) confirms ≤2% spread.
+- **Post-NVDA earnings (May 21+):** Budget open for up to 3 new positions (4-position cap). Redeploy capital aggressively into confirmed setups — 15 days left in the sprint.
+- **Challenge math:** 15 of 30 days elapsed at 88.9% cash; must close Week 4 with at least 2 active positions.
+
+### Overall Grade: C+
+> Rationale: Outperformed S&P by a marginal +0.10% but exclusively through NVDA unrealized gains entered in Week 2. Earnings cut executed correctly and early. Process compliance and scan discipline were clean all 5 days. Penalty: 0 new entries in 5 trading days; 88.9% cash rate; 3 consecutive weeks of capital underdeployment; leveraged ETF core still at 0% allocation at Day 15 of 30. AVGO and CRWD were the only near-misses — both had valid reasons for being skipped but also represent lost deployment opportunities. Grade improves only when capital is actually at work.
