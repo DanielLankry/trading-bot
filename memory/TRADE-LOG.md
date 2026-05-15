@@ -1,5 +1,26 @@
 # Trade Log
 
+### May 15 — Market-Open Snapshot (Day 15, Friday — Trump-Xi Summit Day 2 Conclusion)
+**Portfolio:** $101,279.40 | **Cash:** $89,901.40 (88.8%) | **Phase P&L:** +$1,279.40 (+1.28%) | **Daytrade count:** 0
+
+| Ticker | Shares | Entry | Current | Unrealized P&L | Stop | HWM |
+|--------|--------|-------|---------|----------------|------|-----|
+| NVDA | 50 | $198.62 | $227.57 | +$1,447.24 (+14.57%) | $219.98 (7% trail GTC, order `fdf11b9e`) | $236.54 |
+
+**Trades fired:** NONE
+
+**Candidates checked at open:**
+- **AVGO** — Bid $427 / Ask $429, spread 0.47% ✓ (FIRST LIQUID OPEN). BUT price $428 is BELOW entry zone $440–490 — gap from $415 → $490 (May 14) has reversed 65% back to gap origin. Price gate (b) FAILS. Setup character changed (no longer momentum probe on fresh gap). **SKIP.**
+- **CRWD** — Bid $543.40 / Ask $594.71, spread 9.44% → **SKIP** (6th consecutive illiquid open: May 8: 9.1%; May 11: 10.56%; May 12: 10.99%; May 13: 7.25%; May 14: 10.2%; May 15: 9.44%). Spread gate (≤2%) fails.
+
+**NO-TRADE-DAY** — AVGO spread finally liquid but price below entry zone ($428 vs $440 floor); CRWD persistently illiquid. Valid reason: zero qualifying setups across all 5 types. Macro filter green (SPY/QQQ above SMA 50, VIX ~17.27 <25). ⚠ **Flag for pre-market Monday:** Re-assess AVGO entry zone at current levels (SMA 20 ~$415 = potential Type 3 pullback floor). CRWD — monitor for liquidity improvement.
+
+**NVDA:** +20% trigger ($238.34) NOT hit — currently $227.57, down $8.17 from yesterday's close ($235.74, −3.47%). Earnings May 20 (3 trading days: May 15, 16, 19) — at 50sh (half-size) ✓. Stop $219.98 well above breakeven ($198.62) ✓.
+
+**Trades this week (Week 3):** 1 (NVDA earnings cut, Day 11)
+
+---
+
 ### May 14 — EOD Snapshot (Day 14, Thursday)
 **Portfolio:** $101,704.90 | **Cash:** $89,901.40 (88.4%) | **Day P&L:** +$512.00 (+0.51%) | **Phase P&L:** +$1,704.90 (+1.70%)
 
