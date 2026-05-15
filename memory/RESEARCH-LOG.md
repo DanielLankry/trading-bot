@@ -5,6 +5,110 @@ Format each entry:
 
 ---
 
+## 2026-05-15 — Pre-Market Research (Day 15)
+
+### Account Snapshot
+| Field | Value |
+|-------|-------|
+| Equity | $101,491.40 |
+| Cash | $89,901.40 (88.6%) |
+| Buying Power | $191,392.80 |
+| Long Market Value | $11,590.00 |
+| Phase P&L | +$1,491.40 (+1.49%) |
+| Daytrade Count | 0 |
+
+### Open Positions
+| Ticker | Shares | Entry | Current | Unrealized P&L | Stop | HWM |
+|--------|--------|-------|---------|----------------|------|-----|
+| NVDA | 50 | $198.62 | $231.85 | +$1,661.49 (+16.73%) | $219.98 (7% trail GTC, order `fdf11b9e`) | $236.54 |
+
+**Earnings:** NVDA May 20, 2026 (5 calendar days, 3 trading days: May 15, 16, 19). Already at half-size (50sh) ✓ — earnings-cut rule satisfied. No action needed.
+**+20% trigger ($238.34):** Not yet hit. NVDA pulled back slightly from ATH ($236.54) to $231.85 (−1.65% intraday yesterday). Monitor: clear $238.34 → sell ~17sh, keep ~33sh runner.
+
+### Market Context
+| Indicator | Level | Signal |
+|-----------|-------|--------|
+| WTI Crude (June futures) | ~$100.98/bbl | Elevated; inflation risk |
+| S&P 500 Futures | ~6,657.50 (+0.10%) | Slightly green; mixed sentiment (66% lower open per PM) |
+| VIX | ~17.27 (May 14 close) | Well below 25 → full sizing active ✓ |
+| Macro Filter | SPY & QQQ above SMA 50 (confirmed) | ALL 5 SETUP TYPES ACTIVE ✓ |
+| QQQ vs SMA 50 | ~$715 vs SMA 50 ~$629 (+13.6% above) | TQQQ/SOXL Type 5 NOT viable |
+
+### Key Economic Releases Today (May 15)
+| Time ET | Event | Impact |
+|---------|-------|--------|
+| 8:30 AM | Initial Jobless Claims | MODERATE — labor market health |
+| 8:30 AM | Import/Export Prices (April) | LOW-MODERATE |
+| 10:00 AM | **University of Michigan Consumer Sentiment (Prelim)** | MODERATE — sentiment after oil spike |
+
+**This week already out:** CPI May 12 (+3.8% YoY / core +2.8% — in-line); PPI Core May 13 +0.5% MoM (hot); Retail Sales April May 14. Market absorbed all three positively; S&P near ATH.
+
+**Pre-market earnings today:** Home Depot (HD) at 6:00 AM ET — consumer/retail sentiment indicator.
+
+### Key Market Catalysts
+1. **Trump-Xi AI Summit Day 2 (May 14–15) — ACTIVE CATALYST:** US cleared ~10 Chinese firms to buy NVDA H200 chips (Reuters confirmed May 14 midday). Jensen Huang on Trump's delegation. Summit outcome = binary for semis. Positive so far; risk is no further announcements today.
+2. **NVDA all-time high + analyst upgrades:** ATH intraday $236.54 (May 14). BofA $320 PT, Wells Fargo $315, Cantor Fitzgerald $350. $5.5T market cap. Q1 FY2027 earnings May 20 — will define next leg.
+3. **Semis at all-time highs:** SMH +20% YTD; semiconductor sector leading S&P 500. AVGO gapped from ~$415 to ~$490 on May 14 (H200/China catalyst). MU +90%+ intraday, now ~$542 (between SMA 20/50).
+4. **Fed Chair transition (Powell → Kevin Warsh):** Market pricing more accommodative Fed → supports tech/growth multiple expansion.
+
+### Universe Scan — All 5 Setup Types
+| Ticker | Setup Type | Status | Notes |
+|--------|------------|--------|-------|
+| NVDA | HOLD | HOLD | 50sh trailing stop, +16.73%; earnings May 20 half-size managed ✓ |
+| AVGO | Type 4 Momentum Probe | **PRIMARY CANDIDATE** | Gapped to ~$490 (May 14) on H200 news; above all SMAs; pre-mkt quote $440–$460 (extended hours, wide). Must check spread < 1% at open. HALF size. Earnings June 3 (~13 trading days) ✓ |
+| MU | Type 3 Watch | WATCH (not today) | ~$542; below SMA 20 (~$592), above SMA 50 (~$480). Between SMAs — not at clean pullback level. Wait for SMA 50 touch ($480) + bounce confirmation. |
+| MRVL | All | WATCH | China-catalyst beneficiary; SMA structure unconfirmed. Add to scan tomorrow if summit produces further chip deal news. |
+| CRWD | Type 4 | SECONDARY | Illiquid 4+ consecutive opens (spread >2%). Check spread at open — only viable if < 2%. |
+| TQQQ/SOXL/SPXL | Type 5 | SKIP | QQQ 13.6% above SMA 50; no pullback setup |
+| PLTR | All | DISQUALIFIED | Below SMA 50 ($144.77) and SMA 200 ($163.47); all sell signals ✓ |
+| AMD | All | SKIP | Above all SMAs (~$427-472 pre-mkt) but WAY extended; no clean pullback; no re-entry setup post stop-out |
+| META/TSLA | All | DISQUALIFIED | Below SMA 150/200 (prior confirmed) |
+
+### Trade Ideas
+
+**1. NVDA — HOLD (monitor +20% = $238.34)**
+- 50sh @ $198.62; trailing stop $219.98 (7% GTC, HWM $236.54)
+- Thesis intact + strengthening (H200 China deal, $350 Cantor PT, summit Day 2)
+- Risk to stop: $11.87/sh × 50sh = ~$594 max downside from current $231.85
+- Action: If NVDA clears $238.34 intraday → sell ~17sh (1/3 off), keep ~33sh runner to earnings
+
+**2. AVGO — Type 4 Momentum Probe (PRIMARY new entry — conditional)**
+- **Catalyst:** H200 China chip deal directly benefits Broadcom custom ASIC/networking (~20%+ China revenue exposure). Summit Day 2 could produce follow-on announcements.
+- **SMA structure (May 14):** Above SMA 200 ($346) ✓, above SMA 50 ($368) ✓, above SMA 20 (~$415) ✓ (gapped up). All SMAs sloping up. Golden cross in place.
+- **Entry gates (ALL at open):**
+  - (a) Spread ≤ 1% (pre-mkt quote is extended-hours only; must verify at 9:30 AM)
+  - (b) Price in $440-490 range (confirm no further gap-down pre-open)
+  - (c) AVGO earnings June 3 ≥ 13 trading days away ✓
+- **Size:** HALF (Type 4 rule) = 1.5-2% of $101.5K = ~$1,525-$2,030 = 3-4 shares at ~$450-490
+- **Stop:** 5% below entry OR 1×ATR (whichever tighter); GTC
+- **Time stop:** Exit by May 22 (5 trading days max) regardless of price
+- **Position cap post-entry:** NVDA (1) + AVGO (2) = 2/4 ✓; 0 leveraged ETFs ✓; 1 momentum probe ≤ 2 ✓
+
+**3. CRWD — Type 4 Probe (secondary if AVGO skipped)**
+- Price ~$562 (prior confirmed); check spread ≤ 2% at open
+- HALF size; 5% stop; time stop May 22
+- 5th consecutive check — trend improving but likely still wide
+
+**4. TQQQ/SOXL — NOT viable.** QQQ 13.6% above SMA 50.
+
+### Risk Factors
+- **NVDA earnings May 20 (3 trading days):** Binary event. Half-size with trailing stop = managed risk. Pre-earnings IV expansion could cause whip even without news.
+- **AVGO post-gap consolidation:** Stock gapped ~18% (May 13 ~$415 → May 14 ~$490). Post-gap pullbacks are common. Spread must be clean before entry.
+- **UMich sentiment (10 AM):** Oil at $101, hot PPI — consumer could be pessimistic. Weak print = broad market pressure.
+- **Trump-Xi summit conclusion today:** If no further chip deals announced → semi reversion risk. NVDA stop at $219.98 provides floor.
+- **88.6% cash — Day 15:** Critically underdeployed. AVGO is the best candidate to reduce cash drag. Max 4 positions; 2 current slots available.
+
+### Decision
+**CONDITIONAL TRADE — AVGO Type 4 probe at open (primary)**
+
+**Decision tree at open:**
+1. NVDA: check price vs $238.34 (20% trigger) → sell ~17sh if hit
+2. AVGO: spread ≤ 1% AND price $440-490 → **ENTER Type 4, HALF size (3-4sh), 5% stop GTC, time stop May 22**
+3. If AVGO spread > 1% → check CRWD spread ≤ 2% → ENTER Type 4 HALF size if passes
+4. If both fail → **NO-TRADE-DAY** (valid: all setups failed hard rules at open)
+
+---
+
 ## 2026-05-14 — Pre-Market Research (Day 14)
 
 ### Account Snapshot
