@@ -1,5 +1,16 @@
 # Trade Log
 
+### May 15 — EOD Snapshot (Day 15, Friday)
+**Portfolio:** $101,144.90 | **Cash:** $89,901.40 (88.9%) | **Day P&L:** −$560.00 (−0.55%) | **Phase P&L:** +$1,144.90 (+1.14%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| NVDA | 50 | $198.62 | $224.87 | −4.61% | +$1,312.49 (+13.22%) | $219.98 (7% trail GTC, HWM $236.54) |
+
+**Notes:** Day 15 of the 30-day challenge (Week 3, Friday). Fifth consecutive NO-TRADE-DAY — AVGO finally liquid (spread 0.47%) but price $428 fell below entry zone floor ($440); CRWD persistently illiquid (9.44%, 6th straight). Zero qualifying setups across all 5 types. NVDA gave back −4.61% ($235.74 → $224.87) on broad semiconductor sector profit-taking and pre-earnings positioning ahead of May 20 earnings. Trailing stop unchanged at $219.98 (HWM $236.54, 7% trail GTC — no new ATH today, stop did not ratchet). Phase P&L eased to +$1,144.90 (+1.14%) from yesterday's high of +$1,704.90. Trades this week: 1 (NVDA earnings size-cut Day 11). NVDA earnings May 20 (3 trading days: May 15, 16, 19) — at 50sh (half-size) ✓. ⚠ Pre-market Monday: reassess AVGO entry zone at SMA 20 ~$415 (potential Type 3 pullback), recheck CRWD spread.
+
+---
+
 ### May 15 — Midday Scan (Day 15, Friday — Trump-Xi Summit Day 2 Conclusion)
 **Portfolio:** ~$101,307 | **Cash:** $89,901.40 (88.8%) | **Long MV:** $11,406 | **Phase P&L:** +$1,375 (+1.38%)
 
