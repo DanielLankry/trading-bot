@@ -86,10 +86,17 @@ High-beta, liquid, market cap ≥ $5B, optionable. Rotating watchlist:
 
 ---
 
-## DAILY TRADE FLOOR (30-day sprint rule)
+## TRADE FLOOR (30-day sprint rule)
 
-Every trading day must produce either **(a)** at least one new entry, or
-**(b)** an explicit `NO-TRADE-DAY` note in RESEARCH-LOG.md with the reason.
+**Weekly minimum: 7 new entries per calendar week (Mon–Fri).** This is a
+high-activity sprint — the bot must hunt setups aggressively, not wait
+for "perfect" pullbacks. Rotation is expected: closing a position to
+open a higher-conviction one is encouraged within the max-4 cap.
+
+**Daily floor:** Every trading day must produce either **(a)** at least
+one new entry, or **(b)** an explicit `NO-TRADE-DAY` note in
+RESEARCH-LOG.md with the reason. On days following an under-pace week,
+prioritize **2 entries** to catch up.
 
 - Pre-market scan must cover **all 5 setup types** across the full universe
   + leveraged ETF core. Cash drift from omission (scanning the wrong
@@ -119,9 +126,22 @@ Every trading day must produce either **(a)** at least one new entry, or
   across Weeks 2–3 before correction.)*
 - **This rule does NOT override risk discipline.** Never enter a setup
   that fails its Setup-Type entry rules just to satisfy the floor. The
-  floor's purpose is to force the *scan*, not force a bad trade.
+  floor's purpose is to force the *scan and the trigger*, not force a
+  bad trade. Position sizing per Setup Type is non-negotiable.
 - Position cap (max 4) and earnings/macro filters still apply — they are
-  valid `NO-TRADE-DAY` reasons.
+  valid `NO-TRADE-DAY` reasons. Rotation INTO a new high-conviction name
+  by closing a lower-conviction one is preferred over passing on a
+  qualified setup.
+- **Lean toward Type 2 (breakout) and Type 4 (momentum probe) when
+  Type 1/3 pullbacks aren't available.** Momentum probes at half size
+  are the right tool for "stock is running, no pullback in sight" — use
+  them. Two momentum probes per day is fine if both qualify.
+- **Weekly pace check (Friday EOD):** count new entries this week.
+  - ≥ 7: on pace ✓
+  - 5–6: under pace — next week prioritize Type 2/4 setups, run scan
+    twice (pre-market + midday), and allow rotation more aggressively
+  - ≤ 4: process failure — weekly review must diagnose (wrong universe,
+    over-strict SMA thresholds, missing setup types) and propose fix
 
 ---
 
