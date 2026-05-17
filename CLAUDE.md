@@ -35,7 +35,11 @@ Open these in order before doing anything:
 - Max 2 momentum probes
 - No weekly trade cap (30-day sprint)
 
-**Daily Trade Floor:** Every trading day = one new entry OR an explicit `NO-TRADE-DAY` note with a valid reason (zero qualified setups across all 5 types AND leveraged ETF core, or macro/VIX-35 cash mode). The rule forces the *scan*, not a bad trade — never enter a setup that fails its entry rules.
+**Trade Floor (sprint pace):**
+- **Weekly minimum: 7 new entries (Mon–Fri).** High-activity sprint — hunt setups, don't wait for "perfect."
+- **Daily floor:** one new entry OR an explicit `NO-TRADE-DAY` note with a valid reason (zero qualified setups across all 5 types AND leveraged ETF core, or macro/VIX-35 cash mode).
+- Lean into Type 2 (breakout) and Type 4 (momentum probe, half size) when Type 1/3 pullbacks aren't there. Rotation (close lower-conviction → open higher-conviction) is preferred over passing on a qualified setup.
+- Risk-per-trade caps from Setup Types are non-negotiable. The floor forces the *scan and the trigger*, not bad sizing.
 
 **Universal rules:**
 - Never move a stop down. Ever.
