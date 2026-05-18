@@ -1,5 +1,25 @@
 # Trade Log
 
+### May 18 — Market-Open Trades (Day 16, Week 4 Monday)
+**Portfolio:** $101,219.12 | **Cash:** $69,724.60 (68.9%) | **Long MV:** $31,494.52 | **Phase P&L:** +$1,219.12 (+1.22%) | **Daytrade count:** 1
+
+| Ticker | Shares | Entry | Stop | Thesis | Target | R:R |
+|--------|--------|-------|------|--------|--------|-----|
+| AVGO | 48 | $420.35 | $413.00 (GTC hard stop, order `5407f605`) | Type 3 SMA 20 pullback; price at SMA 20 (~$418); above SMA 50 ($369), 150d/200d ✓; AI networking / custom ASIC buildout; hyperscaler capex tailwinds | $450–470 (+7–12%) | ~4:1 |
+
+**Trades fired:**
+- **AVGO BUY** — 48 shares @ $420.35 (market, ~9:37 AM ET). Fill confirmed. Hard stop GTC placed at $413.00 (order `5407f605`). Position cost $20,176.80 (19.9% equity ✓). Risk $353 ($7.35/sh × 48).
+
+**Candidates skipped:**
+- **MRVL** — Bid $172.52 / Ask $191.18, spread 10.8% → **SKIP** (illiquid, >2% gate).
+
+**NVDA:** 50sh @ $198.62 | current ~$226.53 | +14.05% | stop $219.98 (7% trail GTC, HWM $236.54). +20% trigger ($238.34) not hit. Earnings May 20 (2 trading days) — at 50sh (half-size) ✓.
+
+**Positions after open:** NVDA 50sh (1/4) + AVGO 48sh (2/4). 0 leveraged ETFs ✓. 0 momentum probes ✓.
+**Trades this week (Week 4):** 1
+
+---
+
 ### May 15 — EOD Snapshot (Day 15, Friday)
 **Portfolio:** $101,144.90 | **Cash:** $89,901.40 (88.9%) | **Day P&L:** −$560.00 (−0.55%) | **Phase P&L:** +$1,144.90 (+1.14%)
 
