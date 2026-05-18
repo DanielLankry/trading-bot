@@ -1,5 +1,16 @@
 # Trade Log
 
+### May 18 — EOD Snapshot (Day 16, Monday)
+**Portfolio:** $100,866.38 | **Cash:** $80,725.10 (80.0%) | **Day P&L:** −$301.02 (−0.30%) | **Phase P&L:** +$866.38 (+0.87%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| AVGO | 48 | $420.35 | $419.61 | −1.31% | −$35.52 (−0.18%) | $413.00 (GTC, order `5407f605`) |
+
+**Notes:** Day 16 of the 30-day challenge (Week 4, Monday). Two trade events today: (1) AVGO entered at open (~9:37 AM ET), 48 shares @ $420.35 — Type 3 SMA 20 pullback, stop $413.00 GTC ($353 risk, 3.5% of position); (2) NVDA 50sh trailing stop auto-executed ~12:30 PM ET at $220.01 (stop $219.98, HWM $236.54, 7% trail GTC) as pre-earnings selloff pulled price through the stop — fully managed, no manual action required. Realized P&L on this lot: +$1,069.50 (+10.77%); total NVDA campaign P&L: +$1,886.90 both lots combined. AVGO closed at $419.61 (−1.31% on day) with unrealized −$35.52; thesis intact — price at SMA 20 zone (~$418), AI networking/custom ASIC buildout thesis unchanged, stop well-defined. Portfolio −$301.02 on the day (NVDA intraday decline to auto-stop + AVGO opening-day drift). Phase P&L: +$866.38 (+0.87%). Trades this week (Week 4): 2 (AVGO entry + NVDA auto-exit).
+
+---
+
 ### May 18 — Midday Scan (Day 16, Week 4 Monday)
 **Portfolio:** $100,847.42 | **Cash:** $80,725.10 (80.1%) | **Long MV:** $20,122.32 | **Phase P&L:** +$847.42 (+0.85%)
 
