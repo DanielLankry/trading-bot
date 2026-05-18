@@ -5,6 +5,16 @@ Format each entry:
 
 ---
 
+## 2026-05-18 — Afternoon Addendum (Midday Scan, Day 16)
+
+**NVDA — Trailing stop auto-executed ~12:30 PM ET @ $220.01.** Pre-earnings selloff (May 20 earnings) dragged price from $224.87 (May 15 close) through $219.98 trailing stop. Clean exit. Realized P&L on final 50sh lot: +$1,069.50 (+10.77%). Total NVDA campaign: +$1,886.90. No thesis break — trailing stop managed risk as designed.
+
+**AVGO — Thesis intact.** 48sh @ $420.35 entry; current ~$419.50 (−0.20%). Hovering at SMA 20 zone (~$418). Perplexity confirmed: Q1 AI revenue +106% YoY ($8.4B), Citi $500 PT, no adverse news May 18. Stop $413.00 GTC. Hold.
+
+**Portfolio:** $100,847.42 | Cash: $80,725.10 (80.1%) | 1 position (AVGO) | Phase P&L: +$847.42 (+0.85%).
+
+---
+
 ## 2026-05-15 — Pre-Market Research (Day 15)
 
 ### Account Snapshot

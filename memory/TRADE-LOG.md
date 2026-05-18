@@ -1,5 +1,30 @@
 # Trade Log
 
+### May 18 — Midday Scan (Day 16, Week 4 Monday)
+**Portfolio:** $100,847.42 | **Cash:** $80,725.10 (80.1%) | **Long MV:** $20,122.32 | **Phase P&L:** +$847.42 (+0.85%)
+
+| Ticker | Shares | Entry | Current | Unrealized P&L | Stop |
+|--------|--------|-------|---------|----------------|------|
+| AVGO | 48 | $420.35 | $419.50 | −$40.80 (−0.20%) | $413.00 (GTC hard stop, order `5407f605`) |
+
+**NVDA — Trailing Stop Auto-Executed (~12:30 PM ET):**
+- Order `fdf11b9e` filled: 50sh @ $220.01. Stop $219.98, HWM $236.54 (7% trail GTC).
+- Pre-earnings selloff (NVDA May 20) pulled price from $224.87 (May 15 close) through the trailing stop. Auto-managed — no manual action.
+- Realized P&L this lot: +$21.39/sh × 50sh = **+$1,069.50 (+10.77%)**.
+- Total NVDA campaign P&L: $817.40 (May 11 earnings cut, 50sh @ $214.968) + $1,069.50 = **+$1,886.90**.
+
+**Cuts:** NONE — AVGO −0.20%, far above −7% threshold.
+
+**Stop adjustments:** NONE — AVGO not at +15%/+20% winner thresholds.
+
+**Thesis check — AVGO:** INTACT. Price $419.50 at SMA 20 zone (~$418). Type 3 SMA 20 pullback character unchanged. AI fundamentals strong: Q1 AI revenue +106% YoY ($8.4B), Citi PT $500, bullish sentiment May 18. No adverse news. Stop $413.00 GTC = defined risk.
+
+**Thesis breaks:** NONE.
+
+**Open positions:** 1 (AVGO 48sh) | 0 leveraged ETFs ✓ | 0 momentum probes ✓
+
+---
+
 ### May 18 — Market-Open Trades (Day 16, Week 4 Monday)
 **Portfolio:** $101,219.12 | **Cash:** $69,724.60 (68.9%) | **Long MV:** $31,494.52 | **Phase P&L:** +$1,219.12 (+1.22%) | **Daytrade count:** 1
 
