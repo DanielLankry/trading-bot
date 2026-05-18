@@ -906,3 +906,100 @@ TRADE or HOLD (default HOLD if no edge)
 ⚠ **Missed-trade day flag:** Condition 3 (macro/VIX forces cash or VIX>35) NOT met. Must flag in weekly review.
 
 **NVDA action required by May 13:** Cut to 50 shares (earnings May 20 = T-5 from May 13).
+
+---
+
+## 2026-05-18 — Pre-Market Research (Day 16, Week 4 Monday)
+
+### Account Snapshot
+| Field | Value |
+|-------|-------|
+| Equity | $101,211.40 |
+| Cash | $89,901.40 (88.8%) |
+| Buying Power | $191,112.80 |
+| Long Market Value | $11,310 (NVDA 50sh) |
+| Phase P&L | +$1,211.40 (+1.21%) |
+| Daytrade Count | 0 |
+
+### Open Positions
+| Ticker | Shares | Entry | Current | Unrealized P&L | Stop |
+|--------|--------|-------|---------|----------------|------|
+| NVDA | 50 | $198.62 | $226.25 | +$1,381.49 (+13.91%) | 7% trail GTC, HWM $236.54, stop $219.98 |
+
+### Open Orders
+- NVDA trailing stop sell GTC 50sh — 7% trail, stop $219.98, HWM $236.54, created May 14
+
+### Market Context
+| Item | Level / Notes |
+|------|---------------|
+| S&P 500 futures (ESM6) | 7,387 — **−45.25 pts (−0.61%)** premarket |
+| VIX | ~17.26 (May 14 close) — GREEN; all 5 setup types active |
+| WTI crude | ~$101–103/bbl (elevated; Iran/Hormuz supply-risk premium) |
+| Brent crude | ~$110/bbl |
+| Macro filter | QQQ well above SMA 50 (+16%) ✓ → all setups active |
+
+### Key Catalysts This Week
+1. **NVDA earnings — Wed May 20 at 5 PM ET** ← dominant market event
+2. **FOMC minutes — Thu May 21** (Warsh era; hawkish risk; rate-cut hopes constrained)
+3. Housing starts + initial jobless claims — Thu May 21
+4. Walmart + Home Depot earnings — TBD this week
+5. Iran/Hormuz standoff — geopolitical risk premium sustaining oil above $100
+6. Flash PMIs — late week
+
+### Pre-Market Earnings BMO (May 18)
+BIDU, RYAAY, SOHU, CATO, SACH — no universe names; no impact.
+
+### SMA Structure Checks
+| Ticker | Above 150/200d SMA? | SMA 20 / SMA 50 vs price | Verdict |
+|--------|---------------------|--------------------------|---------|
+| NVDA | ✓ (held) | Above | HOLD, monitor |
+| AVGO | ✓ (200d ~$347, price ~$425 May 15) | Price at SMA 20 (~$418) | **Type 3 candidate** |
+| MRVL | ✓ (200d ~$93, price ~$177 May 15) | Above SMA 20 $164, SMA 50 $128 | **Type 4 candidate** |
+| META | ✗ (below SMA 200 ~$673, price ~$614) | Below SMA 20 + SMA 50 | DISQUALIFIED |
+| PLTR | ✗ (below SMA 200 ~$164, price ~$134) | Below all SMAs | DISQUALIFIED |
+| TQQQ | N/A | QQQ 16%+ above SMA 50 | No Type 5 entry today |
+| CRWD | Blocked | Persistent spread 7–11% | REMOVE from primary scan |
+
+### Trade Ideas
+
+**Idea 1 — AVGO Type 3 SMA 20 Pullback (PRIMARY)**
+- Setup: Price at SMA 20 (~$418); above SMA 50 ($369), 150/200 ✓; bounce confirmation needed at open
+- Entry: ~$415–420 (at/near SMA 20); requires spread ≤2% at open
+- Stop: Daily close below SMA 20 → hard stop ~$413–415
+- Target: $450–470 (+7–12%); prior resistance from May 14 Trump-Xi gap zone
+- Size: ~100 shares (~$42K, 41% of capital); risk ~$300–500 (tight)
+- Catalyst: AI networking/data center buildout; broadband infrastructure expansion; IREN/Corning AI supply chain tailwinds
+- Risk: Today gap lower possible (futures –0.61%); if opens below $413 → no entry
+
+**Idea 2 — MRVL Type 4 Momentum Probe (SECONDARY, half size)**
+- Setup: Strong RS leader; confirmed above all SMAs; no pullback setup → momentum entry
+- Entry: ~$175–178 (at open, if holding above SMA 20 $164)
+- Stop: 5% below entry = ~$167–169 OR 1×ATR
+- Time stop: Exit by May 26 regardless
+- Size: ~100 shares (~$17.6K, 17% of capital) — HALF size per Type 4 rules
+- Catalyst: AI chip design wins at Amazon/Google/Microsoft; earnings beat (revenue +22%); hyperscaler AI capex cycle intact
+- Risk: Extended 7.5% above SMA 20; earnings date unknown → check before entry; Iran/FOMC risk this week
+
+### NVDA Action Items
+- **HOLD** 50sh with trailing stop through earnings; rule satisfied (already at half size ✓)
+- **Pre-earnings rally alert:** If NVDA reaches $238.34 (entry +20%) Mon or Tue → sell ~17sh (1/3 partial), keep ~33sh runner
+- **Earnings day (May 20):** Trailing stop $219.98 is live GTC; protects $21.36/sh above entry; gap-down handled automatically
+- **Post-earnings gap-up:** Reassess size, reset trail if strong
+
+### Risk Factors
+1. NVDA earnings binary Wed — dominant event; trailing stop manages downside
+2. FOMC minutes Thu — hawkish surprise could spike yields, pressure tech
+3. Oil $101–103 — if Hormuz tensions escalate → risk-off spike; watch VIX
+4. S&P futures –0.61% at open — names may gap lower; wait for price to settle before entries; do NOT chase pre-open
+
+### Challenge Math
+- Day 16 of 30 | Phase P&L +$1.21% | SPY ~+2.6% since April 28 → **behind SPY by ~1.4%**
+- 14 trading days remain (May 18–27, excluding May 25 Memorial Day)
+- Capital deployed: 11.2% of equity — unacceptable; target 80–90% at work
+- Must add 2+ positions this week to have realistic shot at SPY outperformance
+
+### Decision
+**TRADE — Aggressive deployment required.** Two candidates confirmed for open:
+- **AVGO** Type 3 (primary, full size) — conditional on spread ≤2% and price at SMA 20 at open
+- **MRVL** Type 4 (secondary, half size) — conditional on spread ≤2% and price above $175 at open
+Both require confirmed prices at open; do NOT buy pre-market. If both entries fire, account moves to 3 positions (cap = 4 ✓), ~70% capital deployed.
