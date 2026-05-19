@@ -611,4 +611,15 @@ No positions yet. Bot launches tomorrow (2026-04-28).
 |--------|--------|-------|-------|---------|----------------|------|
 | NVDA | 100 | $198.62 | $214.97 | +1.64% | +$1,634.98 (+8.23%) | $196.02 (10% trail GTC, HWM $217.80) |
 
-**Notes:** Day 10 of the 30-day challenge (Week 2, Friday). Second consecutive NO-TRADE-DAY — full scan at open found zero qualifying setups across all 5 setup types (CRWD/PLTR/META/TSLA/AVGO/SMH/TQQQ/SOXL all disqualified; full detail in market-open snapshot). NVDA closed at $214.97 (+1.64%), lifting phase P&L to +$650.01 (+0.65%) — fully above starting capital. Trailing stop GTC held at $196.02 (HWM $217.80, 10% trail) as afternoon close pulled back from midday high of $217.80; stop did not ratchet further. Trades this week: 2. ⚠ **Hard action item Monday May 13:** sell 50 NVDA shares at open — earnings May 20 rule, cannot hold full size through earnings.
+**Notes:** Day 10 of the 30-day challenge (Week 2, Friday). Second consecutive NO-TRADE-DAY — full scan at open found zero qualifying setups across all 5 setup types (CRWD/PLTR/META/TSLA/AVGO/SMH/TQQQ/SOXL all disqualified; full detail in market-open snapshot). NVDA closed at $214.97 (+1.64%), lifting phase P&L to +$650.01 (+0.65%) — fully above starting capital. Trailing stop GTC held at $196.02 (HWM $217.80, 10% trail) as afternoon close pulledback from midday high of $217.80; stop did not ratchet further. Trades this week: 2. ⚠ **Hard action item Monday May 13:** sell 50 NVDA shares at open — earnings May 20 rule, cannot hold full size through earnings.
+
+---
+
+### May 19 — EOD Snapshot (Day 17, Tuesday)
+**Portfolio:** $100,545.89 | **Cash:** $80,577.48 (80.1%) | **Day P&L:** −$373.28 (−0.37%) | **Phase P&L:** +$545.89 (+0.55%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| AMZN | 77 | $260.23 | $259.33 | −2.09% | −$69.30 (−0.35%) | $255.00 GTC |
+
+**Notes:** Day 17 of the 30-day challenge (Week 4, Tuesday). Two active trades today: AVGO 48-share Type 3 position (entered May 18 @ $420.35) stopped out at open @ $414.38 — realized loss −$286.70; AMZN 77 shares entered @ $260.23 (market buy, 13:43 ET) as replacement with $255 GTC stop. Days 11–16 logging gap reflects cloud-routine commits (see git log for individual snapshots). NVDA fully closed: 50 shares sold May 11 @ $214.97 (earnings size cut, planned), remaining 50 trailed out May 18 @ $220.01 (HWM $236.54, 7% trail) — total NVDA realized P&L +$1,862.90. Day P&L −$373.28 driven by AVGO stop-out (−$287 realized) + AMZN intraday softness (−$69 unrealized). Phase P&L +$545.89 (+0.55%) — above starting capital. Trades this week: 3 (AVGO open Mon, AVGO close + AMZN open Tue).
