@@ -1,5 +1,30 @@
 # Trade Log
 
+### May 19 — Market-Open Trades (Day 17, Tuesday)
+**Portfolio:** $100,648.30 | **Cash:** $80,577.48 (80.1%) | **Long MV:** $20,070.82 | **Phase P&L:** +$648.30 (+0.65%) | **Daytrade count:** 1
+
+| Ticker | Shares | Entry | Stop | Thesis | Target | R:R |
+|--------|--------|-------|------|--------|--------|-----|
+| AMZN | 77 | $260.23 | $255.00 (GTC hard stop, order `3f18de17`) | Type 3 SMA 20 pullback; price at SMA 20 (~$258) after pulling back from ATH $278.56 (May 4); above SMA 50 ($237), SMA 200 ($229), both sloping up ✓; AWS AI infrastructure momentum; Trainium AI chip ramp; net institutional inflow 4 consecutive weeks | $280–295 (+7–13%) | ~3.8:1 |
+
+**Trades fired:**
+- **AMZN BUY** — 77 shares @ $260.23 (market, ~9:43 AM ET). Fill confirmed. Hard stop GTC placed at $255.00 (order `3f18de17`). Position cost $20,037.71 (19.9% equity ✓). Risk $402 ($5.23/sh × 77sh).
+
+**Prior exits (auto-executed before today's open):**
+- **AVGO SELL** — 48 shares @ $414.38 fill (stop `5407f605` triggered at open ~9:33 AM ET). Entry was $420.35 (May 18). Realized P&L: −$286.56 (−$5.97/sh × 48sh). AVGO broke below SMA 20 (~$418) at open — stop functioned correctly, no override.
+
+**Candidates skipped:**
+- **GOOGL** — Liquid (0.16% spread), above all SMAs, but $391 price is below recent $402 high — no valid setup type (not at SMA 20 pullback zone, not breaking to new highs). Watch for breakout above $402 → Type 2 entry.
+- **MRVL** — Spread 9.9% illiquid + Benchmark downgrade (Microsoft shifting custom chips to AVGO) + earnings May 27 (5 trading days = half-size/skip rule). SKIP.
+- **TQQQ/SOXL** — QQQ $704, ~12% above SMA 50 ($629). No Type 5 entry.
+- **MSFT** — Below SMA 150 ($446) and SMA 200 ($463). DISQUALIFIED.
+- **CRWD/AMD/NET/SHOP/COIN** — Persistent illiquidity at open.
+
+**Positions after open:** AMZN 77sh (1/4). 0 leveraged ETFs ✓. 0 momentum probes ✓.
+**Trades this week (Week 4):** 2 (AVGO May 18 + AMZN May 19)
+
+---
+
 ### May 18 — EOD Snapshot (Day 16, Monday)
 **Portfolio:** $100,866.38 | **Cash:** $80,725.10 (80.0%) | **Day P&L:** −$301.02 (−0.30%) | **Phase P&L:** +$866.38 (+0.87%)
 

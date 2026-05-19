@@ -5,6 +5,58 @@ Format each entry:
 
 ---
 
+## 2026-05-19 — Market-Open Research (Day 17, Week 4 Tuesday)
+
+### Account Snapshot
+| Field | Value |
+|-------|-------|
+| Equity | $100,648.30 |
+| Cash | $80,577.48 (80.1%) |
+| Long MV | $20,070.82 (AMZN 77sh) |
+| Phase P&L | +$648.30 (+0.65%) |
+| Daytrade Count | 1 |
+
+### Open Positions (post-open)
+| Ticker | Shares | Entry | Current | Unrealized P&L | Stop |
+|--------|--------|-------|---------|----------------|------|
+| AMZN | 77 | $260.23 | $260.50 | +$20.79 (+0.10%) | $255.00 (GTC hard stop, order `3f18de17`) |
+
+### Market Context
+| Item | Level / Notes |
+|------|---------------|
+| VIX | ~18.1 (May 19 intraday) — GREEN; all 5 setup types active |
+| VIX expiry | Today May 19 = VIX futures/options expiration day → hedging flows |
+| QQQ | ~$704 (~12% above SMA 50 ~$629) → No Type 5 entry |
+| SPY | ~$735 → macro filter GREEN ✓ |
+| NVDA earnings | **Tomorrow May 20 at 5 PM ET** — dominant market event; avoid new semi positions |
+
+### Key Events Today
+- VIX expiration day (May 19) — potential hedging flows, short-term volatility
+- NVDA earnings tomorrow → semi/AI sector binary risk overnight
+- AVGO stop-out at open ($414.38) — broke below SMA 20 ($418); position exited correctly
+
+### Universe Scan — All 5 Setup Types
+| Ticker | Setup | Status | Notes |
+|--------|-------|--------|-------|
+| AMZN | Type 3 SMA 20 | **ENTERED 77sh @ $260.23** | At SMA 20 ($258); above SMA 50 ($237), SMA 200 ($229); ATH $278.56 May 4; earnings July 30 ✓ |
+| AVGO | — | STOPPED OUT | Broke below SMA 20 ($418) at open; stop $413 triggered @ $414.38; −$286.56. Re-entry: wait for SMA 50 ($369) bounce or new breakout above $418 |
+| GOOGL | Watch | WATCH | Above all SMAs; price $391 below recent $402 high — no valid entry today. Type 2 breakout entry if clears $402 on volume |
+| MRVL | — | SKIP | Spread 9.9% illiquid; Benchmark downgrade (MSFT shifting chips to AVGO); earnings May 27 = 5 days → half-size/skip |
+| NVDA | — | NO ENTRY | Earnings tomorrow May 20; no new position |
+| TQQQ/SOXL | Type 5 | SKIP | QQQ 12% above SMA 50 |
+| CRWD | — | SKIP | Spread 7.5% — persistent illiquidity |
+| MSFT | — | DISQUALIFIED | Below SMA 150 ($446) and SMA 200 ($463) |
+| META/PLTR/TSLA | — | DISQUALIFIED | Below SMA 150/200 |
+| AMD/NET/SHOP/COIN | — | SKIP | Illiquid spreads at open |
+
+### Decision
+**TRADE — AMZN Type 3 SMA 20 pullback (entered)**
+- 77sh @ $260.23, stop $255.00 GTC. SMA structure confirmed above SMA 50/200. At SMA 20 bounce zone after pulling back from ATH. Risk $402 (0.40% capital). Target $280–295 (+7–13%). R:R ~3.8:1.
+- All other candidates failed gates (illiquid, disqualified below SMAs, or no valid setup type at current price).
+- Challenge context: Day 17 of 30; phase P&L +0.65%; need to close gap vs SPY. NVDA earnings tomorrow creates sector binary — AMZN (AWS) has moderate NVDA correlation but not a semi name; stop manages downside.
+
+---
+
 ## 2026-05-18 — Afternoon Addendum (Midday Scan, Day 16)
 
 **NVDA — Trailing stop auto-executed ~12:30 PM ET @ $220.01.** Pre-earnings selloff (May 20 earnings) dragged price from $224.87 (May 15 close) through $219.98 trailing stop. Clean exit. Realized P&L on final 50sh lot: +$1,069.50 (+10.77%). Total NVDA campaign: +$1,886.90. No thesis break — trailing stop managed risk as designed.
