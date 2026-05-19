@@ -1,5 +1,20 @@
 # Trade Log
 
+### May 19 — Midday Scan (Day 17, Tuesday)
+**Portfolio:** $100,512.44 | **Cash:** $80,577.48 (80.0%) | **Long MV:** $19,903.35 (AMZN 77sh) | **Phase P&L:** +$512.44 (+0.51%)
+
+| Ticker | Shares | Entry | Current | Unrealized P&L | Stop | HWM |
+|--------|--------|-------|---------|----------------|------|-----|
+| AMZN | 77 | $260.23 | $258.49 | −$134.37 (−0.67%) | $255.00 (GTC hard stop, order `3f18de17`) | $260.50 |
+
+**Cuts:** NONE — AMZN at −0.67%, well above −7% threshold.
+
+**Stop adjustments:** NONE — AMZN below +15% winner threshold; no tightening warranted.
+
+**Thesis check:** INTACT — No AMZN-specific adverse news found. Drop from yesterday's $264.86 to $258.49 (−2.41%) attributed to VIX May expiration day hedging flows (VIX standard settlement confirmed May 19). Price is at the SMA 20 entry zone (~$258) — exactly where a Type 3 setup is expected to consolidate before continuation. Stop at $255 provides 3-point cushion below SMA 20. NVDA earnings tomorrow (May 20) creates sector binary; AMZN/AWS is an AI beneficiary, not a pure semi name — indirect tailwind thesis intact. Hold.
+
+---
+
 ### May 19 — Market-Open Trades (Day 17, Tuesday)
 **Portfolio:** $100,648.30 | **Cash:** $80,577.48 (80.1%) | **Long MV:** $20,070.82 | **Phase P&L:** +$648.30 (+0.65%) | **Daytrade count:** 1
 

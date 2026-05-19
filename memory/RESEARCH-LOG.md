@@ -5,6 +5,14 @@ Format each entry:
 
 ---
 
+## 2026-05-19 — Afternoon Addendum (Midday Scan, Day 17)
+
+**AMZN — Thesis intact.** 77sh @ $260.23 entry; current $258.49 (−0.67%). Price at SMA 20 entry zone (~$258). Intraday drop of −2.41% from yesterday's $264.86 close confirmed as VIX May expiration day hedging flows — no AMZN-specific adverse news. Perplexity found no company catalysts. NVDA earnings tomorrow (May 20) noted as binary sector event; AMZN/AWS exposure is indirect tailwind. Stop $255.00 GTC holds. No cuts, no stop adjustments.
+
+**Portfolio:** $100,512.44 | Cash: $80,577.48 (80.0%) | 1 position (AMZN) | Phase P&L: +$512.44 (+0.51%).
+
+---
+
 ## 2026-05-19 — Market-Open Research (Day 17, Week 4 Tuesday)
 
 ### Account Snapshot
