@@ -5,6 +5,107 @@ Format each entry:
 
 ---
 
+## 2026-05-20 — Pre-Market Research (Day 18, Week 4 Wednesday)
+
+### Account Snapshot
+| Field | Value |
+|-------|-------|
+| Equity | $100,566.67 |
+| Cash | $80,577.47 (80.1%) |
+| Buying Power | $181,144.14 |
+| Long Market Value | $19,989.20 |
+| Daytrade Count | 0 |
+| Phase P&L | +$566.67 (+0.57%) |
+
+### Open Positions
+| Ticker | Shares | Entry | Current | Unrealized P&L | Stop |
+|--------|--------|-------|---------|----------------|------|
+| AMZN | 77 | $260.23 | ~$259.60 | −$48 (−0.24%) | $255.00 GTC |
+
+### Open Orders
+- AMZN stop sell GTC 77sh @ $255.00
+
+### Market Context
+| Item | Level / Notes |
+|------|---------------|
+| S&P 500 futures (ESM6) | 7,364 (May 19 PM, −14 pts / −0.19%) — soft open likely |
+| SPY price | ~$733–736 | SPY SMA 50 | ~$700.30 → price 5.1% above ✓ |
+| VIX | ~17.82 (May 18 close) — GREEN; all 5 setup types active |
+| WTI crude | ~$101/bbl spot; June futures ~$103–104 |
+| Brent crude | ~$114/bbl |
+| Macro filter | SPY & QQQ both above SMA 50 ✓ → all 5 setup types active |
+| QQQ SMA 50 | $635.46 → QQQ ~$729 = 14.8% above SMA 50 (extended, no Type 5 entry) |
+
+### Key Events TODAY
+1. **FOMC Minutes (April 28–29 meeting) — 2:00 PM EDT CONFIRMED** — Fed held rates at 3.50–3.75%. Minutes could reveal hawkish/dovish tone. Key risk to growth/tech stocks mid-afternoon.
+2. **NVDA Q1 FY2027 Earnings — 5:00 PM EDT (2 PM PT) CONFIRMED** — EPS est $1.76, revenue guidance ~$78B ±2%. Dominant binary event: semiconductors and AI sector will gap ±5–10% tomorrow morning.
+3. No BMO earnings today; next major universe earnings: BMO May 27 (not universe).
+4. April CPI/PPI already released (May 12–13). April jobs released May 8.
+
+### SMA Structure Checks
+| Ticker | SMA Status | Notes | Verdict |
+|--------|------------|-------|---------|
+| AMZN | ✓ above all SMAs (SMA50 $237.63, SMA200 $229.68) | Price ~$259–260, 9% above SMA 50; 41 analysts Buy, PT avg $305 | HOLD |
+| MRVL | ✓ above SMA 50 and SMA 200; 150d uncertain | May 18 close ~$181.77 (Investing.com); up 50% YTD | Defer to post-NVDA |
+| MELI | ✗ BELOW SMA 50 (~$2,349 vs price ~$2,329) | Down 12%+ after bad Q1 earnings early May | DISQUALIFIED |
+| QQQ/TQQQ | QQQ 14.8% above SMA 50 | No pullback entry; Type 5 invalid today | SKIP |
+| META | ✗ (below SMA 200 ~$673–677 as of May 8) | Was $616 on May 8; status uncertain | Needs fresh check |
+| PLTR | ✗ (below all SMAs as of May 8) | Price ~$134, SMA 200 ~$164 as of May 8 | Likely still disqualified |
+
+### Sector Momentum (YTD 2026)
+- **Best**: Energy (+largest spread YTD); momentum funds beating SPY
+- **Worst**: Health Care (~−35pp gap to Energy)
+- Tech/AI sector = key June driver with NVDA as bellwether tonight
+
+### AMZN Thesis Check
+- Structure: ✓ above all SMAs, sloping up
+- Thesis: AWS reacceleration ($200B capex 2026), AI cloud infrastructure winner, 41 Buy ratings, avg PT $305.76
+- Recent: $259.34 close May 19 (−2.09% day on sector/VIX pressure); May 18 close $263.86; no adverse AMZN-specific news
+- Earnings: next AMZN earnings ~late July → no near-term earnings risk
+- Action: HOLD. Stop $255 absorbs any further softness.
+
+### Trade Ideas
+
+**Idea 1 — MRVL Type 4 Momentum Probe (DEFERRED to May 21)**
+- Setup: Above SMA 50/200; AI custom chip wins (AWS, Google, MSFT); up 50% YTD; May 18 close $181.77
+- Why defer: NVDA earnings tonight = direct semiconductor sector binary; entering MRVL today takes on NVDA gap risk. If NVDA beats → MRVL +5–10% gap up tomorrow (better entry post-confirmation). If NVDA disappoints → MRVL gaps down through any stop.
+- Plan: Enter tomorrow (May 21) if NVDA reaction is positive and MRVL opens above $175
+- Entry target: ~$180–185 (post-NVDA confirmation gap); stop: 5% below entry (~$170–176); time stop: May 28
+- Size: ~$17–18K (half size, ~17% of equity, Type 4 rules)
+
+**Idea 2 — SHOP / HOOD / COIN Type 4 Check at Open (non-semiconductor)**
+- Rationale: Need non-NVDA-correlated momentum probe today to maintain weekly trade floor
+- Check at open: SHOP (e-commerce momentum), HOOD (retail brokerage, crypto-adjacent), COIN (crypto)
+- Qualification criteria: spread ≤2%, price above SMA 50 AND SMA 150, no earnings within 5 days, strong RS
+- Size: half size (~$17K, Type 4 rules)
+- If any qualifies → enter; if all fail → file clean NO-TRADE-DAY
+
+**Idea 3 — TQQQ Type 5 — NOT TODAY**
+- QQQ 14.8% above SMA 50 ($635.46). Requires pullback to SMA 50 for valid entry. Skip.
+
+### Risk Factors
+1. **NVDA earnings 5 PM EDT** — biggest single-stock event in market; semiconductor/AI sector ±5–10% gap tomorrow; indirect impact on AMZN/AWS narrative
+2. **FOMC minutes 2 PM EDT** — hawkish surprise would spike yields, pressure growth stocks mid-afternoon; Fed held rates at 3.50–3.75% at April meeting
+3. **Oil elevated ($101–104 WTI)** — Iran/Hormuz supply-risk premium; rotation into Energy ongoing
+4. **Capital severely underdeployed** — 80% cash, 6 trading days left (May 20–27 excl. May 25). Only 1 of 4 slots filled. Must deploy $40–60K more this week.
+5. **Challenge math**: Day 18/~23, Phase P&L +0.57% vs SPY likely +5–8% — deficit ~4–7%. Deficit may be unrecoverable without 2–3 more positions working.
+
+### Challenge Math
+- Day 18 of ~23 remaining | **6 trading days left** (May 20, 21, 22, 23, 26, 27 — May 25 is Memorial Day)
+- Phase P&L +$566.67 (+0.57%) | SPY estimated +5–8% since Apr 28 → **behind SPY by ~4–7%**
+- Capital deployed: 19.9% ($19,989 long MV / $100,567 equity) — critically low; target 80–90%
+- Must add 2–3 positions this week for any SPY-beat scenario to remain possible
+
+### Decision
+**CONDITIONAL TRADE — Two-stage execution plan:**
+1. **TODAY (pre-open/open):** Check SHOP, HOOD, COIN for Type 4 momentum probe (non-semiconductor, uncorrelated to NVDA). If qualified (spread ≤2%, above SMA 50/150, RS strong) → enter half-size. If none qualify → log NO-TRADE-DAY with specific reason.
+2. **TOMORROW (May 21):** Enter MRVL Type 4 (half size) if NVDA beats and MRVL opens above $175 with spread ≤2%. If NVDA disappoints → reassess; may defer until semis stabilize.
+3. **AMZN**: HOLD. Thesis intact, stop $255 in place.
+4. **TQQQ**: Pass today; reassess if QQQ pulls back toward SMA 50 ($635).
+5. **Position cap**: Currently 1/4. Room for 3 more. Prioritize filling 2 slots this week.
+
+---
+
 ## 2026-05-19 — Afternoon Addendum (Midday Scan, Day 17)
 
 **AMZN — Thesis intact.** 77sh @ $260.23 entry; current $258.49 (−0.67%). Price at SMA 20 entry zone (~$258). Intraday drop of −2.41% from yesterday's $264.86 close confirmed as VIX May expiration day hedging flows — no AMZN-specific adverse news. Perplexity found no company catalysts. NVDA earnings tomorrow (May 20) noted as binary sector event; AMZN/AWS exposure is indirect tailwind. Stop $255.00 GTC holds. No cuts, no stop adjustments.
