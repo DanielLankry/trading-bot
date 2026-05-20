@@ -645,3 +645,18 @@ No positions yet. Bot launches tomorrow (2026-04-28).
 | AMZN | 77 | $260.23 | $259.33 | −2.09% | −$69.30 (−0.35%) | $255.00 GTC |
 
 **Notes:** Day 17 of the 30-day challenge (Week 4, Tuesday). Two active trades today: AVGO 48-share Type 3 position (entered May 18 @ $420.35) stopped out at open @ $414.38 — realized loss −$286.70; AMZN 77 shares entered @ $260.23 (market buy, 13:43 ET) as replacement with $255 GTC stop. Days 11–16 logging gap reflects cloud-routine commits (see git log for individual snapshots). NVDA fully closed: 50 shares sold May 11 @ $214.97 (earnings size cut, planned), remaining 50 trailed out May 18 @ $220.01 (HWM $236.54, 7% trail) — total NVDA realized P&L +$1,862.90. Day P&L −$373.28 driven by AVGO stop-out (−$287 realized) + AMZN intraday softness (−$69 unrealized). Phase P&L +$545.89 (+0.55%) — above starting capital. Trades this week: 3 (AVGO open Mon, AVGO close + AMZN open Tue).
+
+---
+
+### May 20 — Midday Scan (Day 18, Wednesday)
+**Portfolio:** $100,833.48 | **Cash:** $80,577.47 (79.9%) | **Long MV:** $20,256.39 | **Phase P&L:** +$833.48 (+0.83%)
+
+| Ticker | Shares | Entry | Current | Unrealized P&L | Stop | Order ID |
+|--------|--------|-------|---------|----------------|------|----------|
+| AMZN | 77 | $260.23 | $263.07 | +$218.68 (+1.09%) | $255.00 GTC | 3f18de17 |
+
+**Cuts:** NONE — AMZN at +1.09%, far above −7% threshold.
+
+**Stop adjustments:** NONE — AMZN at +1.09%, below +15% threshold. Stop $255.00 GTC remains active (3.06% below current price). No adjustment warranted.
+
+**Thesis check:** INTACT — AMZN recovering +1.44% intraday from yesterday's −2.09% sector selloff. No AMZN-specific adverse news. Q1 fundamentals strong (AWS +28%, net sales +17% to $181.5B). Stop $255 not threatened. Two event risks remain today: FOMC minutes 2 PM EDT (leaning hawkish per prior language — rates/growth sensitivity watch) and NVDA earnings 5 PM EDT (AI capex signal for AWS demand sentiment). Neither is a thesis break — they are known risks managed by the existing stop.

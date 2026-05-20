@@ -1174,3 +1174,20 @@ BIDU, RYAAY, SOHU, CATO, SACH — no universe names; no impact.
 - **AVGO** Type 3 (primary, full size) — conditional on spread ≤2% and price at SMA 20 at open
 - **MRVL** Type 4 (secondary, half size) — conditional on spread ≤2% and price above $175 at open
 Both require confirmed prices at open; do NOT buy pre-market. If both entries fire, account moves to 3 positions (cap = 4 ✓), ~70% capital deployed.
+
+---
+
+## 2026-05-20 — Midday Addendum (Day 18)
+
+### AMZN Intraday Check
+- Price: $263.07 (+1.44% intraday, +1.09% vs entry $260.23)
+- No adverse AMZN-specific news. Recovery from yesterday's −2.09% sector selloff.
+- Q1 2026 fundamentals confirm thesis: AWS +28%, net sales +17%, net income $30.3B ($2.78/sh).
+- Thesis: INTACT. Stop $255.00 GTC not threatened.
+
+### Event Watch (afternoon)
+- **FOMC minutes 2 PM EDT:** Prior Fed language leaning hawkish (rates held 3.50–3.75%). A hawkish surprise could pressure growth/tech. Watch for yield spike → potential AMZN weakness. Stop handles downside; no pre-emptive action.
+- **NVDA earnings 5 PM EDT:** Strong print = AI capex tailwind for AWS demand sentiment; weak print = potential sector headwind tomorrow morning. AMZN ATH $278.56 (May 4) — current price $263 is 5.6% below ATH. No NVDA exposure directly; sentiment effect only.
+
+### Action
+No trades. AMZN hold. Stop $255 active.
