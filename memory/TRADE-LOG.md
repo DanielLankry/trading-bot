@@ -1,5 +1,27 @@
 # Trade Log
 
+### May 20 — Market-Open Snapshot (Day 18, Week 4 Wednesday)
+**Portfolio:** $100,602.09 | **Cash:** $80,577.47 (80.1%) | **Long MV:** $20,024.62 | **Phase P&L:** +$602.09 (+0.60%) | **Daytrade count:** 0
+
+| Ticker | Shares | Entry | Current | Unrealized P&L | Stop | HWM |
+|--------|--------|-------|---------|----------------|------|-----|
+| AMZN | 77 | $260.23 | $260.06 | −$13.09 (−0.07%) | $255.00 (GTC hard stop, order `3f18de17`) | $260.50 |
+
+**Trades fired:** NONE
+
+**Candidates checked at open:**
+- **SHOP** — Bid $86.00 / Ask $101.01, spread **14.9%** → ILLIQUID. SKIP (≤2% gate fails).
+- **HOOD** — Bid $70.96 / Ask $74.11, spread **4.25%** → ILLIQUID. SKIP (≤2% gate fails).
+- **COIN** — Bid $183.80 / Ask $199.95, spread **8.08%** → ILLIQUID. SKIP (≤2% gate fails).
+- **MRVL** — Deferred per research plan (NVDA earnings tonight = semiconductor binary; enter tomorrow if NVDA beats and MRVL opens above $175). SKIP today.
+- **TQQQ/SOXL** — QQQ 14.8% above SMA 50 ($635.46). No Type 5 pullback entry.
+
+**NO-TRADE-DAY** — Valid per Rule A: all Type 4 non-semiconductor candidates (SHOP/HOOD/COIN) failed ≤2% spread gate at open. TQQQ not viable (QQQ extended). MRVL deferred to post-NVDA reaction. Macro filter green (SPY/QQQ above SMA 50, VIX ~17.82 <25) — not a macro-forced cash day. NVDA earnings 5 PM ET tonight is a sector binary event; no new semiconductor exposure warranted. AMZN HOLD: thesis intact, stop $255 GTC.
+
+**Trades this week (Week 4):** 2 new entries (AVGO Mon May 18 + AMZN Tue May 19)
+
+---
+
 ### May 19 — Midday Scan (Day 17, Tuesday)
 **Portfolio:** $100,512.44 | **Cash:** $80,577.48 (80.0%) | **Long MV:** $19,903.35 (AMZN 77sh) | **Phase P&L:** +$512.44 (+0.51%)
 
