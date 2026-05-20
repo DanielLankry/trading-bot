@@ -648,6 +648,17 @@ No positions yet. Bot launches tomorrow (2026-04-28).
 
 ---
 
+### May 20 — EOD Snapshot (Day 18, Wednesday)
+**Portfolio:** $100,971.94 | **Cash:** $80,577.47 (79.8%) | **Day P&L:** +$425.29 (+0.42%) | **Phase P&L:** +$971.94 (+0.97%)**
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| AMZN | 77 | $260.23 | $264.86 | +2.13% | +$356.76 (+1.78%) | $255.00 GTC |
+
+**Notes:** Day 18 of the 30-day challenge (Week 4, Wednesday). NO-TRADE-DAY — no new setups scanned (NVDA earnings after-hours today suppressed broad new-entry conviction; FOMC minutes 2 PM ET in-line with expectations, no market surprise). AMZN closed at $264.86 (+2.13%), extending unrealized P&L to +$356.76 (+1.78%) and lifting portfolio phase P&L to +$971.94 (+0.97%) — just below the +1% level. NVDA earnings tonight (after-hours) are a key AI-capex sentiment signal for AWS demand; existing AMZN stop $255 GTC active (3.3% buffer, order 3f18de17). Trades this week: 3 (AVGO open Mon, AVGO close + AMZN open Tue). Weekly minimum is 7 entries — 4 more needed by Friday's close. ⚠ Thursday and Friday must be high-activity scan days.
+
+---
+
 ### May 20 — Midday Scan (Day 18, Wednesday)
 **Portfolio:** $100,833.48 | **Cash:** $80,577.47 (79.9%) | **Long MV:** $20,256.39 | **Phase P&L:** +$833.48 (+0.83%)
 
