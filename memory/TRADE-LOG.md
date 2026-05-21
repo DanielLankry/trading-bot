@@ -711,3 +711,14 @@ No positions yet. Bot launches tomorrow (2026-04-28).
 **Stop adjustments:** NONE — AMZN at +1.09%, below +15% threshold. Stop $255.00 GTC remains active (3.06% below current price). No adjustment warranted.
 
 **Thesis check:** INTACT — AMZN recovering +1.44% intraday from yesterday's −2.09% sector selloff. No AMZN-specific adverse news. Q1 fundamentals strong (AWS +28%, net sales +17% to $181.5B). Stop $255 not threatened. Two event risks remain today: FOMC minutes 2 PM EDT (leaning hawkish per prior language — rates/growth sensitivity watch) and NVDA earnings 5 PM EDT (AI capex signal for AWS demand sentiment). Neither is a thesis break — they are known risks managed by the existing stop.
+
+---
+
+### May 21 — EOD Snapshot (Day 19, Thursday)
+**Portfolio:** $101,236.07 | **Cash:** $80,577.47 (79.6%) | **Day P&L:** +$252.83 (+0.25%) | **Phase P&L:** +$1,236.07 (+1.24%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| AMZN | 77 | $260.23 | $268.29 | +1.24% | +$620.89 (+3.10%) | $255.00 GTC (3f18de17) |
+
+**Notes:** Day 19 of the 30-day challenge (Week 4, Thursday). NO-TRADE-DAY — no new orders executed; scan found zero qualifying setups. AMZN continued its post-NVDA-earnings rally, closing at $268.29 (+1.24% intraday), lifting phase P&L to a new equity high of +$1,236.07 (+1.24%). Stop $255.00 GTC active — AMZN +3.10% unrealized, well below the +15% trail-trigger threshold, no adjustment needed. Trades this week: 3 — weekly minimum is 7; with only Friday remaining the weekly target is unreachable this week. ⚠ **Friday must run an aggressive scan across all 5 setup types — at minimum 1 new entry required to avoid consecutive NO-TRADE-DAYs.**
