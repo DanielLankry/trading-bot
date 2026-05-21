@@ -1,5 +1,22 @@
 # Trade Log
 
+### May 21 — Midday Scan (Day 19, Week 4 Thursday)
+**Portfolio:** $101,117.22 | **Cash:** $80,577.47 (79.7%) | **Long MV:** $20,539.75 | **Phase P&L:** +$1,117.22 (+1.12%)**
+
+| Ticker | Shares | Entry | Current | Unrealized P&L | Stop | Order ID |
+|--------|--------|-------|---------|----------------|------|----------|
+| AMZN | 77 | $260.23 | $266.76 | +$502.81 (+2.51%) | $255.00 GTC | 3f18de17 |
+
+**Cuts:** NONE — AMZN at +2.51%, far above −7% threshold.
+
+**Stop adjustments:** NONE — AMZN at +2.51%, below +15% threshold for manual tightening. Stop $255.00 GTC active (4.4% buffer from current $266.76). No adjustment warranted.
+
+**Thesis check:** INTACT — No company-specific catalyst today; intraday move (+0.66% vs yesterday close $265.01) consistent with broad market momentum. NVDA Q1 FY2027 earnings beat (+85% YoY Rev, Q2 guide $91B) confirmed May 20 AH — reinforces AWS AI demand thesis. AMZN ATH $278.56 on May 4; currently $266.76 (~4.2% below ATH) — mild resistance zone but no thesis break. No thesis break. Stop $255 not threatened.
+
+**Perplexity note:** No fresh AMZN-specific headlines past 24h. Trade policy/tariff risk remains background noise. Macro growth data (PMI softness) flagged as secondary risk; not actionable today.
+
+---
+
 ### May 21 — Market-Open Snapshot (Day 19, Week 4 Thursday)
 **Portfolio:** $100,725.29 | **Cash:** $80,577.47 (79.9%) | **Long MV:** $20,147.82 | **Phase P&L:** +$725.29 (+0.73%) | **Daytrade count:** 0
 
