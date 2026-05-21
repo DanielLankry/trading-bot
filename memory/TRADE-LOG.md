@@ -1,5 +1,28 @@
 # Trade Log
 
+### May 21 — Market-Open Snapshot (Day 19, Week 4 Thursday)
+**Portfolio:** $100,725.29 | **Cash:** $80,577.47 (79.9%) | **Long MV:** $20,147.82 | **Phase P&L:** +$725.29 (+0.73%) | **Daytrade count:** 0
+
+| Ticker | Shares | Entry | Current | Unrealized P&L | Stop | Order ID |
+|--------|--------|-------|---------|----------------|------|----------|
+| AMZN | 77 | $260.23 | $261.63 | +$107.80 (+0.54%) | $255.00 GTC | 3f18de17 |
+
+**Trades fired:** NONE
+
+**Candidates checked at open:**
+- **NVDA** — Bid $220.52 / Ask $227.00, spread **2.94%** → FAILS ≤2% gate. Post-earnings gap: NVDA beat Q1 FY2027 (EPS $1.87 vs $1.78, Rev $81.6B vs $79.2B, Q2 guide $91B). Setup was Type 4 half-size re-entry at ~$224–226. Spread gate fails → SKIP.
+- **AMD** — Bid $419.20 / Ask $464.10, spread **10.7%** → ILLIQUID. SKIP.
+- **MRVL** — Bid $178.89 / Ask $198.93, spread **11.2%** → ILLIQUID. SKIP (Type 3 SMA 50 pullback candidate; spread gate fails).
+- **CRWD** — Bid $617.15 / Ask $683.11, spread **10.7%** → ILLIQUID. SKIP (persistent illiquidity continues).
+- **TQQQ/SOXL** — QQQ 11.9% above SMA 50 ($635). No Type 5 pullback entry.
+- **META/PLTR/TSLA** — Previously confirmed below SMA 150/200. DISQUALIFIED.
+
+**NO-TRADE-DAY** — Valid per Rule A: zero universe tickers qualify for any Setup Type 1–4 at open (all fail ≤2% spread gate or SMA disqualification). Leveraged ETF core (Type 5) not viable (QQQ extended). Macro filter GREEN (SPY/QQQ above SMA 50, VIX 18.06 <25) — not a macro-forced cash day. AMZN HOLD: $261.63, stop $255 GTC, thesis INTACT (NVDA beat confirms AWS AI demand; AMZN consensus PT $312.67, 18% upside).
+
+**Weekly pace:** 3 trades this week (AVGO open Mon, AVGO close + AMZN open Tue). Weekly minimum of 7 requires 4 more; 1 trading day remains (Friday May 22). Deficit noted — flag in weekly review.
+
+---
+
 ### May 20 — Market-Open Snapshot (Day 18, Week 4 Wednesday)
 **Portfolio:** $100,602.09 | **Cash:** $80,577.47 (80.1%) | **Long MV:** $20,024.62 | **Phase P&L:** +$602.09 (+0.60%) | **Daytrade count:** 0
 
