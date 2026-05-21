@@ -1191,3 +1191,134 @@ Both require confirmed prices at open; do NOT buy pre-market. If both entries fi
 
 ### Action
 No trades. AMZN hold. Stop $255 active.
+
+---
+
+## 2026-05-21 — Pre-Market Research (Day 19, Week 4 Thursday)
+
+### Account Snapshot
+| Field | Value |
+|-------|-------|
+| Equity | $100,930.88 |
+| Cash | $80,577.47 (79.8%) |
+| Buying Power | $181,508.35 |
+| Long Market Value | $20,353.41 |
+| Daytrade Count | 0 |
+| Phase P&L | +$930.88 (+0.93%) |
+
+### Open Positions
+| Ticker | Shares | Entry | Pre-Mkt | Unrealized P&L | Stop | Order ID |
+|--------|--------|-------|---------|----------------|------|----------|
+| AMZN | 77 | $260.23 | ~$264.33 | +$315.70 (+1.58%) | $255.00 GTC | 3f18de17 |
+
+### Market Context
+| Indicator | Value | Signal |
+|-----------|-------|--------|
+| VIX | 18.06 (prior: 17.82) | ✓ No restriction (<25) |
+| S&P 500 Futures (ESM26) | ~7,450 | Flat/slightly positive |
+| WTI Oil | ~$99/bbl | Elevated |
+| Brent Oil | ~$110/bbl (May 18) | Elevated |
+| SPY SMA 50 | ~$693 | SPY ~$756 → +9.0% above → GREEN |
+| QQQ SMA 50 | ~$635 | QQQ ~$711 → +11.9% above → GREEN |
+| Macro Filter | FULL GREEN | All 5 setup types active |
+
+### Key Event: NVDA Q1 FY2027 Earnings (reported May 20 AH)
+- **EPS:** $1.87 vs $1.78 expected ✓ BEAT
+- **Revenue:** $81.62B vs $79.2B expected ✓ BEAT (+85% YoY)
+- **Data center:** +92% YoY
+- **Q2 guide:** $91B ±2% (above consensus ~$86B) — **very strong**
+- **Post-AH reaction:** Initially mixed (~flat), then slight positive (~+1.37% to $223.63)
+- **Implication:** AI capex supercycle CONFIRMED. Semis/AI sector tailwind for today. AMZN AWS thesis reinforced.
+
+### Economic Calendar (May 21)
+| Time (ET) | Release | Impact |
+|-----------|---------|--------|
+| 12:30 PM | Initial Jobless Claims | Medium |
+| 12:30 PM | Philly Fed Manufacturing | Medium |
+| 12:30 PM | Housing Starts | Low |
+| 6:00 PM | FOMC Minutes | Low (after close) |
+
+No CPI/PPI today (next: June 10/12). FOMC minutes after close — minimal intraday impact.
+
+### Earnings Before Open (May 21)
+- **LOW** (Lowe's) — consumer/home improvement sentiment read
+- **TGT** (Target) — consumer spending signal
+- Neither is in our universe. Watch for macro risk-off if consumer data disappoints.
+
+### Sector Momentum Context
+- **Best trailing-12m sectors:** Communication Services (+50.9%), Energy (+41.9%), Industrials (+35.5%)
+- **Worst:** Health Care (+5.8%), Consumer Staples (+7.1%), Financials (+9.5%)
+- **AI/Semis (IT sector):** Top performer YTD and long-term leader; NVDA beat reinforces
+- SpaceX IPO chatter noted in press (not actionable — not public)
+
+### AMZN Thesis Check
+- NVDA beat confirms AWS AI demand thesis (cloud hyperscaler AI capex expanding)
+- AMZN consensus PT: $312.63–$312.67 (60–66 analysts, Strong Buy)
+- Current price ~$264 → ~18.4% upside to consensus PT
+- Stop $255 GTC provides 3.5% buffer. Thesis INTACT.
+
+### Full Universe Scan — Setup Check
+
+| Ticker | Price | SMA Status | Setup? | Decision |
+|--------|-------|-----------|--------|----------|
+| NVDA | ~$224 PM | Above 50/150/200 (just reported earnings) | Type 4 Momentum re-entry | **QUALIFY** |
+| AMD | ~$429 PM | Above all SMAs; $447 close May 20 (+8%) | Type 4 Momentum probe | **QUALIFY** |
+| MRVL | ~$176 | SMA 50 ~$175.92 — sitting at/near SMA 50 | Type 3 SMA 50 pullback | **POTENTIAL** |
+| AMZN | $264 | Above SMAs, in position | HELD | — |
+| TQQQ | — | QQQ +11.9% above SMA 50 | No Type 5 entry (not at SMA 50) | SKIP |
+| SOXL | — | SMH extended above SMA 50 | No Type 5 entry | SKIP |
+| PLTR | ~$134 | Below SMA 20/50/150/200 (prior scans confirmed) | DISQUALIFIED | SKIP |
+| META | ~$616 | Below SMA 20/50 | DISQUALIFIED | SKIP |
+| TSLA | — | Death cross; below SMA 200 | DISQUALIFIED | SKIP |
+| CRWD | ~$636 | Above 50-day (~$453 per Barchart May 20) | Possible Type 2/3 — spread check needed | Conditional |
+
+### Trade Ideas
+
+**Idea 1 — NVDA Type 4 Momentum Probe (PRIMARY, HALF SIZE)**
+- Catalyst: Q1 FY2027 earnings beat (EPS +5.1%, Rev +3%, Q2 guide +5.8% vs consensus). AI supercycle thesis at strongest point yet.
+- Setup: Re-entering strong RS leader post-earnings; no pullback available → momentum entry Type 4
+- Entry: ~$224–226 at open (conditional on spread ≤2%)
+- Stop: 5% below entry = ~$213–215 hard stop
+- Size: ~95 shares (~$21,280 = ~21% of equity; HALF size per Type 4 rules)
+- Risk at entry $225: stop $213.75 → risk $11.25 × 95 = $1,069 (1.06% of equity) ✓
+- Target: Prior ATH zone ~$240–250; partial at +20% (~$270)
+- Time stop: Exit by **May 29** (5 trading days)
+- Earnings: Just reported — no earnings risk for ~3 months ✓
+- Position cap: AMZN + NVDA = 2 positions (cap 4 ✓); momentum probes: 1 of 2 ✓
+
+**Idea 2 — AMD Type 4 Momentum Probe (SECONDARY, HALF SIZE)**
+- Catalyst: Q1 2026 beat May 5 (data center +57% YoY, Q2 guide ~$11.2B +46% YoY). NVDA beat today amplifies AI capex narrative. AMD closed $447 on May 20 (+8% on AI tailwind).
+- Setup: Strong RS leader off Q1 beat; pre-market pullback to ~$429 from $447 close (−4%) → still well above all SMAs. Type 4 probe.
+- Entry: ~$430–440 at open (conditional on spread ≤2% and price holding above $425)
+- Stop: 5% below entry = ~$409–418
+- Size: ~50 shares (~$21,500 at $430 = ~21% of equity; HALF size per Type 4 rules)
+- Risk at entry $432: stop $410.40 → risk $21.60 × 50 = $1,080 (1.07% of equity) ✓
+- Target: Reclaim $447+ close; partial at +10% (~$472)
+- Time stop: Exit by **May 28** (5 trading days)
+- Earnings: Reported May 5 — no earnings risk ✓
+- Position cap after both entries: AMZN + NVDA + AMD = 3 positions (cap 4 ✓); momentum probes: 2 of 2 (at max)
+
+**Combined deployment if both fire:**
+- AMZN $20,353 + NVDA ~$21,280 + AMD ~$21,500 = ~$63,133 deployed (62.5% of equity)
+- Cash remaining: ~$37,797 (37.5%) → well above 5–10% buffer ✓
+
+### Risk Factors
+1. **Pre-market pullbacks** — AMD down 4% PM; NVDA only +1.5% post-AH → not a roaring gap-up; check spreads at open carefully
+2. **Jobless Claims 12:30 PM ET** — surprise spike → risk-off; could pressure tech mid-session; both NVDA/AMD stops protect downside
+3. **LOW/TGT earnings** — weak consumer prints could ripple into risk sentiment, but AI semis largely decoupled from consumer cycle
+4. **AMD extended** — $429 PM is down from $447 close but still +1.3% above May 19 close of $423.60; not a "perfect pullback" — entering as Type 4 half-size is appropriate
+5. **2 open momentum probes simultaneously** — hits max cap; no additional Type 4 entries possible until one exits or 5 days elapse
+
+### Challenge Math
+- Day 19 of 30 | Phase P&L +0.93% | SPY ~+9% since Apr 28 → **behind SPY by ~8%**
+- 7 trading days remain (May 21 Thu, 22 Fri, 26 Mon, 27 Tue)
+- Weekly pace: 3 trades this week (AVGO open, AVGO close + AMZN open). Need 4 more entries to hit 7. **2 today + 2 tomorrow required.**
+- Capital utilization: 20% deployed → unacceptable for challenge pace. Today's entries fix this to ~62%.
+
+### Decision
+**TRADE — Two entries targeted today.**
+- **NVDA** Type 4 half-size at open: conditional on spread ≤2% and price ≥$222
+- **AMD** Type 4 half-size at open: conditional on spread ≤2% and price holding ≥$425
+- If only one fires (spread/price fails on other), still a valid trade day
+- AMZN hold, stop $255 GTC
+- After today: need 2 more entries Friday to reach 7-entry weekly minimum
