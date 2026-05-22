@@ -284,3 +284,71 @@ Template for each entry:
 
 ### Overall Grade: C+
 > Rationale: Outperformed S&P by a marginal +0.10% but exclusively through NVDA unrealized gains entered in Week 2. Earnings cut executed correctly and early. Process compliance and scan discipline were clean all 5 days. Penalty: 0 new entries in 5 trading days; 88.9% cash rate; 3 consecutive weeks of capital underdeployment; leveraged ETF core still at 0% allocation at Day 15 of 30. AVGO and CRWD were the only near-misses — both had valid reasons for being skipped but also represent lost deployment opportunities. Grade improves only when capital is actually at work.
+
+---
+
+## Week ending 2026-05-22
+
+### Stats
+| Metric | Value |
+|--------|-------|
+| Starting portfolio | $101,153.40 |
+| Ending portfolio | $100,768.10 |
+| Week return | −$385.30 (−0.38%) |
+| S&P 500 week | +0.58% (SPX 7,403.05 May 18 → 7,445.72 May 22) |
+| Bot vs S&P | −0.96% |
+| Trades | 6 (W:1 / L:1 / open:4) — 5 new entries + 1 auto-stop exit |
+| Win rate | 50% (1 of 2 closed) |
+| Best trade | NVDA trailing stop +$1,069.50 (+10.77%) |
+| Worst trade | AVGO stop-out −$286.56 (−1.42%) |
+| Profit factor | 3.73 ($1,069.50 / $286.56) |
+
+> **Week 4 of 30-day challenge (May 18–22). Day 16–20 of 22.** NVDA full campaign closed (+$1,886.90 total realized). Deployed capital from 20% → 71% via 3 Friday entries (NVDA/GOOGL/AAPL). Challenge stands at +$768.10 (+0.77%) with 2 days remaining (May 26–27). SPX estimated +3.9% since Apr 28 — significant alpha gap entering the final stretch.
+
+### Closed Trades
+| Ticker | Entry | Exit | P&L | Notes |
+|--------|-------|------|-----|-------|
+| NVDA (50sh, 2nd lot) | $198.62 (May 4) | $220.01 (May 18) | +$1,069.50 | 7% trailing stop (GTC, HWM $236.54) auto-executed as pre-earnings selloff pulled price through; NVDA full campaign: +$1,886.90 total realized |
+| AVGO | $420.35 (May 18) | $414.38 (May 19) | −$286.56 | Type 3 SMA 20 pullback; stop $413 GTC triggered at open gap-down next day; AVGO opened below SMA 20 — stop functioned correctly, no override |
+
+### Open Positions at Week End
+| Ticker | Entry | Close | Unrealized | Stop |
+|--------|-------|-------|------------|------|
+| AMZN | $260.23 (May 19) | $266.63 | +$492.75 (+2.46%) | $255.00 GTC (`3f18de17`) |
+| NVDA | $219.82 (May 22) | $215.01 | −$240.72 (−2.19%) | 10% trail GTC, stop $198.56, HWM $220.62 (`3adefe14`) |
+| GOOGL | $385.97 (May 22) | $383.40 | −$133.64 (−0.64%) | 10% trail GTC, stop $349.87, HWM $388.74 (`fd83ce66`) |
+| AAPL | $308.12 (May 22) | $308.65 | +$34.53 (+0.17%) | 10% trail GTC, stop $280.25, HWM $311.39 (`8a973d5c`) |
+
+> ⚠️ **NVDA Type 4 time stop: exit by May 29 (5 trading days from May 22 entry). Challenge ends May 27 — NVDA must be evaluated for close on final day regardless.**
+> **4/4 positions filled. No new entries possible unless one stops out.**
+
+### What Worked
+- **NVDA full campaign closed cleanly:** Total realized +$1,886.90 across both lots. Trailing stop (7% GTC, HWM $236.54) auto-executed May 18 as pre-earnings selling pulled price through — fully automated, zero manual action required. System worked exactly as designed.
+- **Capital deployment breakthrough:** 3 new entries on Friday (NVDA/GOOGL/AAPL) took deployed capital from 20% → 71% in a single session — the 4-position cap reached for the first time in the challenge.
+- **AVGO stop honored without override:** Gap-down triggered the stop at $414.38; loss accepted at −$286.56 with no hesitation. Process integrity preserved.
+- **Post-earnings re-entry thesis for NVDA sound:** Q1 FY2027 beat (EPS $1.87 vs $1.78, Rev $81.6B, Q2 guide $91B = +$12B above consensus); SMA 20 re-entry zone ($219–220) structurally correct for Type 4 momentum probe.
+- **Spread gates enforced all 5 days:** MRVL 6.37% skipped Friday; AMD/CRWD/MRVL all correctly blocked on Thursday (post-NVDA spreads: AMD 10.7%, MRVL 11.2%, CRWD 10.7%).
+
+### What Didn't Work
+- **Weekly floor 5 of 7 (4th consecutive miss):** Mon = 1 (AVGO), Tue = 1 (AMZN), Wed = 0 (NO-TRADE-DAY, NVDA binary), Thu = 0 (post-earnings semi spread paralysis), Fri = 3 (NVDA/GOOGL/AAPL). Sprint pace failure across all 4 active weeks.
+- **Post-NVDA-earnings semiconductor spread paralysis (Thu May 21):** Entire semi universe illiquid morning-after (NVDA 2.94%, AMD 10.7%, MRVL 11.2%, CRWD 10.7%). Structural pattern: NVDA earnings create 1-day sector-wide spread expansion — not anticipated in pre-market plan.
+- **AVGO sector-correlation risk:** Entered AVGO (AI semi/networking) the day before NVDA earnings (same sector binary complex). Pre-earnings pressure on NVDA pulled AVGO through stop at open. Entry was technically valid; sector timing created unnecessary correlation exposure.
+- **Friday burst entries with 2 days left:** 3 new positions opened on the penultimate Friday with 2 challenge days remaining; no time for setups to develop. Normal campaign: fine. 22-day sprint: timing compresses recovery window.
+- **Challenge alpha gap:** Day 20 of 22 at +0.77% vs estimated S&P +3.9% from Apr 28. Gap too large to close in 2 days under normal conditions.
+
+### Key Lessons
+- **Post-earnings semi spread pattern is predictable:** On the morning after NVDA earnings (or any major semi binary), plan for the entire sector (AMD, MRVL, CRWD, SMH) to have 5–12% spreads. Pre-plan: no semi entries the day after NVDA earnings; expand scan to non-semi sectors exclusively that day.
+- **Sector binary + correlated position = double exposure:** Holding or entering a name in the same catalyst complex as an upcoming earnings binary (AVGO + NVDA) concentrates directional risk. Enter or hold only one AI-semi name through a NVDA earnings event.
+- **Trailing stop automation is the strongest edge in the playbook:** NVDA +$1,886.90 realized was entirely managed by GTC trailing orders — no manual discipline required in the moment. The stop system should be the model for all open positions.
+- **Profit factor 3.73 on a down week is the right shape:** Even with a −0.38% week, winning trade was 3.73× the losing trade. Setup quality and sizing are working; the deployment timeline was the failure, not trade selection.
+
+### Adjustments for Final 2 Days (May 26–27)
+- **4/4 positions filled:** No new entries unless a stop triggers. If AMZN/GOOGL/AAPL or NVDA stops out → immediate scan for replacement using full universe.
+- **NVDA (Type 4):** Time stop = May 29. Challenge ends May 27 (Tuesday). If NVDA is not stopped out before close May 27, evaluate closing at market on final day to lock in challenge P&L.
+- **AMZN:** +$492 unrealized (+2.46%); +15% trigger at ~$299 (far). Stop $255 GTC — no action; hold.
+- **GOOGL:** Flat at entry zone; SMA 20 pullback thesis needs 3–5 days; watch for close below $380 as thesis break signal. +15% trigger at ~$444.
+- **AAPL:** WWDC June 8–12 catalyst has legs. Hold; stop $280.25 active. +15% trigger at ~$354.
+- **May 27 (final day):** Evaluate whether to close all 4 positions at market-on-close or let stops manage exits into the settlement period. Decision driven by intraday P&L direction.
+
+### Overall Grade: C+
+> Rationale: Capital deployment breakthrough — deployed from 20% → 71% in a single session (Week 4 Friday), addressing the challenge's core failure mode. NVDA full campaign closed at +$1,886.90 realized; trailing stop system executed flawlessly. Process compliance clean: stops honored, spread gates applied, no rule violations across all 5 days. Penalties: (1) 4th consecutive week below the 7-entry floor (5 actual); (2) week return −0.38% vs S&P +0.58% = −0.96% relative; (3) challenge at +0.77% vs estimated S&P +3.9% with 2 days left — alpha gap unrecoverable by normal means. Grade reflects good process + late deployment pattern that runs through the entire challenge.
