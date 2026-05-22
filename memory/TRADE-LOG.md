@@ -1,5 +1,37 @@
 # Trade Log
 
+### May 22 — Market-Open Trades (Day 20, Week 4 Friday)
+**Portfolio:** $101,301.07 | **Cash:** $29,488.09 (29.1%) | **Long MV:** $71,812.98 | **Phase P&L:** +$1,301.07 (+1.30%) | **Daytrade count:** 3
+
+| Ticker | Shares | Entry | Stop | Thesis | Target | R:R |
+|--------|--------|-------|------|--------|--------|-----|
+| NVDA | 50 | $219.82 | $198.44 (10% trail GTC, order `3adefe14`) | Type 4 Momentum Probe; post Q1 FY2027 earnings beat (EPS $1.87 vs $1.78 est, Rev $81.6B vs $79.2B est, Q2 guide $91B = $12B above consensus); re-entry at SMA 20 zone ($219–220) after pre-earnings stop-out; AI capex supercycle / Blackwell ramp thesis intact; no earnings for ~3 months | $240–255 (+9–16%) | ~2:1 |
+| GOOGL | 52 | $385.97 | $347.17 (10% trail GTC, order `fd83ce66`) | Type 3 SMA 20 Pullback; price at SMA 20 (~$386) after pullback from April 30 ATH (blowout Q1 earnings, stock +6%+ AH); above SMA 50/150/200; Google I/O passed, WWDC June 8–12 ahead; Gemini AI + cloud growth; next earnings late July | $402–415 (+4–7%) | ~3:1 |
+| AAPL | 65 | $308.12 | $276.92 (10% trail GTC, order `8a973d5c`) | Type 2 Breakout above 52-wk high ($305.54); Q2 FY2026 beat: Rev $111.2B (+17% YoY), EPS $2.01, iPhone +22%, record services, $100B buyback + 4% div raise; WWDC June 8–12 catalyst (iOS 27 + Apple Intelligence); no near-term earnings | $330–345 (+7–12%) | ~3:1 |
+
+**Trades fired:**
+- **NVDA BUY** — 50 shares @ $219.8244 avg (market, ~9:38 AM ET). Fill confirmed. 10% trailing stop GTC placed at initial $198.44 (order `3adefe14`, HWM $220.49). Position cost $10,991.22 (10.9% equity ✓). Risk: 50 × $21.38 = $1,069 (1.06% equity).
+- **GOOGL BUY** — 52 shares @ $385.97 avg (market, ~9:40 AM ET). Fill confirmed. 10% trailing stop GTC placed at initial $347.17 (order `fd83ce66`, HWM $385.74). Position cost $20,070.44 (19.8% equity ✓). Risk at strategic SMA 20 stop ($380): 52 × $5.97 = $310 (0.31% equity).
+- **AAPL BUY** — 65 shares @ $308.1188 avg (market, ~9:40 AM ET). Fill confirmed. 10% trailing stop GTC placed at initial $276.92 (order `8a973d5c`, HWM $307.69). Position cost $20,027.72 (19.8% equity ✓). Risk at strategic breakout-level stop ($300): 65 × $8.12 = $528 (0.52% equity).
+
+**Candidates skipped:**
+- **MRVL** — Bid $192 / Ask $204.63, spread 6.37% → ILLIQUID. SKIP (>2% gate).
+- **TQQQ/SOXL** — QQQ ~$714, ~12% above SMA 50 (~$635). No Type 5 pullback entry. SKIP.
+
+**Open positions (4/4 max):**
+| Ticker | Shares | Entry | Current | Unrealized P&L | Stop |
+|--------|--------|-------|---------|----------------|------|
+| AMZN | 77 | $260.23 | $269.08 | +$681.45 (+3.40%) | $255.00 GTC (hard stop, order `3f18de17`) |
+| NVDA | 50 | $219.82 | $220.47 | +$32.33 (+0.29%) | 10% trail GTC, initial $198.44 (order `3adefe14`) |
+| GOOGL | 52 | $385.97 | $386.07 | +$5.20 (+0.03%) | 10% trail GTC, initial $347.17 (order `fd83ce66`) |
+| AAPL | 65 | $308.12 | $307.99 | −$8.37 (−0.04%) | 10% trail GTC, initial $276.92 (order `8a973d5c`) |
+
+**Macro context:** SPY ~$743 (6.8% above SMA 50 ~$696) ✓ | QQQ ~$714 (12% above SMA 50 ~$635) ✓ | VIX 16.76 → GREEN | All 5 setup types active ✓
+**Trades this week (Week 4):** 5 (AVGO entry May 18 + AMZN entry May 19 + NVDA/GOOGL/AAPL entries May 22)
+**Challenge: Day 20/22 | Remaining: May 26, 27**
+
+---
+
 ### May 21 — Midday Scan (Day 19, Week 4 Thursday)
 **Portfolio:** $101,117.22 | **Cash:** $80,577.47 (79.7%) | **Long MV:** $20,539.75 | **Phase P&L:** +$1,117.22 (+1.12%)**
 

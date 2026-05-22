@@ -5,6 +5,39 @@ Format each entry:
 
 ---
 
+## 2026-05-22 — Market-Open Research (Day 20, Week 4 Friday — Inline)
+
+### Account Snapshot
+| Field | Value |
+|-------|-------|
+| Equity | $101,301.07 |
+| Cash | $29,488.09 (29.1%) |
+| Long MV | $71,812.98 (71%) |
+| Daytrade Count | 3 |
+| Phase P&L | +$1,301.07 (+1.30%) |
+
+### Macro Filter
+| Item | Level | Status |
+|------|-------|--------|
+| SPY | ~$743 | 6.8% above SMA 50 (~$696) ✓ |
+| QQQ | ~$714 (May 21 close) | 12.4% above SMA 50 (~$635) ✓ |
+| VIX | 16.76 (May 21 close) | GREEN — all 5 setup types active ✓ |
+| TQQQ/SOXL | QQQ extended | No Type 5 pullback entry |
+
+### Universe Scan
+| Ticker | Setup | Status | Notes |
+|--------|-------|--------|-------|
+| NVDA | Type 4 Momentum Probe | **ENTERED 50sh @ $219.82** | Post Q1 FY2027 earnings beat (EPS $1.87 vs $1.78, Rev $81.6B, Q2 guide $91B); SMA 20 support zone $219–220; spread 0.02% ✓ |
+| GOOGL | Type 3 SMA 20 Pullback | **ENTERED 52sh @ $385.97** | At SMA 20 (~$386) after ATH pullback from April 30 earnings; spread 0.04% ✓; above SMA 50/150/200 ✓ |
+| AAPL | Type 2 Breakout | **ENTERED 65sh @ $308.12** | Breaking above 52-wk high ($305.54); Q2 FY2026 beat (Rev $111.2B +17%, EPS $2.01, $100B buyback); WWDC June 8–12 catalyst; spread 0.05% ✓ |
+| MRVL | Type 3/4 candidate | SKIP | Bid $192 / Ask $204.63, spread 6.37% → ILLIQUID |
+| AMZN | Type 3 SMA 20 | HOLD | 77sh @ $260.23, current $269.08 (+3.40%); stop $255 GTC active ✓ |
+
+### Decision
+**3 trades fired.** Portfolio deployed from 20% → 71%. Max positions reached (4/4). Weekly entries: 5 (below 7 floor; 3 trading days remain in challenge). All stops placed as 10% trailing GTC.
+
+---
+
 ## 2026-05-20 — Pre-Market Research (Day 18, Week 4 Wednesday)
 
 ### Account Snapshot
