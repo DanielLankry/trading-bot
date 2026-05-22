@@ -32,6 +32,34 @@
 
 ---
 
+### May 22 — Midday Scan (Day 20, Week 4 Friday)
+**Portfolio:** $101,136.84 | **Cash:** $29,488.09 (29.2%) | **Long MV:** $71,648.75 | **Phase P&L:** +$1,136.84 (+1.14%)
+
+| Ticker | Shares | Entry | Current | Unrealized P&L | Stop | Order ID |
+|--------|--------|-------|---------|----------------|------|----------|
+| AAPL | 65 | $308.12 | $309.27 | +$75.06 (+0.38%) | 10% trail GTC, HWM $311.39, stop $280.25 | `8a973d5c` |
+| AMZN | 77 | $260.23 | $267.53 | +$562.10 (+2.81%) | $255.00 GTC (fixed) | `3f18de17` |
+| GOOGL | 52 | $385.97 | $385.83 | −$7.28 (−0.04%) | 10% trail GTC, HWM $388.74, stop $349.87 | `fd83ce66` |
+| NVDA | 50 | $219.82 | $217.66 | −$108.22 (−0.99%) | 10% trail GTC, HWM $220.62, stop $198.56 | `3adefe14` |
+
+**Cuts:** NONE — no position at or below −7% threshold.
+
+**Stop adjustments:** NONE — no position at or above +15% threshold. All trailing stops auto-ratcheting via GTC orders; no manual upgrade warranted.
+- AAPL: +0.38% — well below +15% trigger
+- AMZN: +2.81% — well below +15% trigger; fixed stop $255 unchanged
+- GOOGL: −0.04% — flat, no action
+- NVDA: −0.99% — small pullback post-earnings, well above −7% cut; stop $198.56 (10% trail from HWM $220.62)
+
+**Thesis check:**
+- **AAPL — INTACT.** Holding above breakout level ($305.54 52-wk high). Price $309.27 above entry $308.12. HWM $311.39 from morning. WWDC June 8–12 catalyst intact. No adverse news.
+- **AMZN — INTACT.** +2.81% unrealized. AWS AI cloud thesis unchanged. Stop $255 not threatened (5.1% buffer). Intraday −0.35% is noise vs prior trend.
+- **GOOGL — INTACT.** Essentially flat (−0.04%). Type 3 SMA 20 pullback entry; price at SMA 20 zone. No company-specific adverse news. Gemini/cloud AI thesis intact.
+- **NVDA — INTACT.** −0.99% pullback is normal post-earnings digestion after opening pop (HWM $220.62). Type 4 momentum probe thesis (post-Q1 FY2027 beat: EPS $1.87, Q2 guide $91B) unchanged. Time stop: 5 trading days from May 22 entry → exit by May 29. Stop $198.56 (9.6% buffer from current $217.66).
+
+**Perplexity check:** Skipped — no position moving sharply enough to warrant intraday research. NVDA −1% is ordinary post-earnings digestion, not a sharp unexplained move.
+
+---
+
 ### May 21 — Midday Scan (Day 19, Week 4 Thursday)
 **Portfolio:** $101,117.22 | **Cash:** $80,577.47 (79.7%) | **Long MV:** $20,539.75 | **Phase P&L:** +$1,117.22 (+1.12%)**
 

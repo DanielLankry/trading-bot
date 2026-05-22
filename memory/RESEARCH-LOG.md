@@ -36,6 +36,14 @@ Format each entry:
 ### Decision
 **3 trades fired.** Portfolio deployed from 20% → 71%. Max positions reached (4/4). Weekly entries: 5 (below 7 floor; 3 trading days remain in challenge). All stops placed as 10% trailing GTC.
 
+### Afternoon Addendum — Midday Scan (12:00 PM ET)
+All 4 positions stable. No cuts, no stop adjustments, no thesis breaks.
+- AAPL +0.38% — holding above $305.54 breakout level; HWM $311.39; WWDC June 8–12 catalyst intact.
+- AMZN +2.81% — steady; stop $255 GTC at 5.1% buffer; no adverse news.
+- GOOGL −0.04% — flat at SMA 20 zone; expected; thesis intact.
+- NVDA −0.99% — normal post-earnings digestion after open; thesis intact; time stop May 29.
+No Perplexity queries needed — no unexplained sharp moves.
+
 ---
 
 ## 2026-05-20 — Pre-Market Research (Day 18, Week 4 Wednesday)
