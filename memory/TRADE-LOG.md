@@ -782,3 +782,17 @@ No positions yet. Bot launches tomorrow (2026-04-28).
 | AMZN | 77 | $260.23 | $268.29 | +1.24% | +$620.89 (+3.10%) | $255.00 GTC (3f18de17) |
 
 **Notes:** Day 19 of the 30-day challenge (Week 4, Thursday). NO-TRADE-DAY — no new orders executed; scan found zero qualifying setups. AMZN continued its post-NVDA-earnings rally, closing at $268.29 (+1.24% intraday), lifting phase P&L to a new equity high of +$1,236.07 (+1.24%). Stop $255.00 GTC active — AMZN +3.10% unrealized, well below the +15% trail-trigger threshold, no adjustment needed. Trades this week: 3 — weekly minimum is 7; with only Friday remaining the weekly target is unreachable this week. ⚠ **Friday must run an aggressive scan across all 5 setup types — at minimum 1 new entry required to avoid consecutive NO-TRADE-DAYs.**
+
+---
+
+### May 22 — EOD Snapshot (Day 20, Friday)
+**Portfolio:** $100,777.59 | **Cash:** $29,488.09 (29.3%) | **Day P&L:** −$458.48 (−0.45%) | **Phase P&L:** +$777.59 (+0.78%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| AAPL | 65 | $308.12 | $308.93 | +1.29% | +$52.73 (+0.26%) | 10% trail GTC, stop $280.25, HWM $311.39 (`8a973d5c`) |
+| AMZN | 77 | $260.23 | $266.41 | −0.76% | +$475.86 (+2.38%) | $255.00 GTC (`3f18de17`) |
+| GOOGL | 52 | $385.97 | $383.49 | −1.08% | −$128.96 (−0.64%) | 10% trail GTC, stop $349.87, HWM $388.74 (`fd83ce66`) |
+| NVDA | 50 | $219.82 | $215.08 | −2.02% | −$237.23 (−2.16%) | 10% trail GTC, stop $198.56, HWM $220.62 (`3adefe14`) |
+
+**Notes:** Day 20 of the 30-day challenge (Week 4, Friday — final day of Week 4). Three new entries fired at open: NVDA (Type 4 momentum probe, 50 shares @ $219.82, re-entry on post-Q1 FY2027 earnings beat, time stop May 29), GOOGL (Type 3 SMA 20 pullback, 52 shares @ $385.97), AAPL (Type 2 breakout above 52-wk high $305.54, 65 shares @ $308.12). Portfolio now at 4/4 position cap, 70.7% deployed, 29.3% cash. Day P&L −$458.48 (−0.45%) driven by NVDA −$237 and GOOGL −$129 unrealized losses outweighing AAPL's +$53 gain; AMZN −0.76% intraday but still +$476 unrealized. Phase P&L pulled back to +$777.59 (+0.78%) from yesterday's equity high of +$1,236. Trades this week: 6 executions (AVGO open Mon, AVGO stop-out + AMZN open Tue, NVDA/GOOGL/AAPL open Fri) = 5 new entries vs 7-entry weekly minimum — deficit flagged. ⚠ **NVDA time stop: exit by May 29 (5 trading days from entry May 22).**
