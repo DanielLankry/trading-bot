@@ -5,6 +5,113 @@ Format each entry:
 
 ---
 
+## 2026-05-25 — Pre-Market Research (Memorial Day — Research for May 26 Open)
+
+**⚠ US markets CLOSED today (Memorial Day). Research prepared for Tuesday May 26 open — final 2 trading days of 30-day challenge.**
+
+### Account Snapshot (as of May 22 last close)
+- **Equity:** $100,748.97 | **Cash:** $29,488.09 (29.3%) | **BP:** $130,237.06
+- **Long MV:** $71,260.88 (70.7% deployed) | **Daytrade count:** 0
+- **Phase P&L:** +$748.97 (+0.75%) vs starting $100,000
+- **Challenge:** Day 20 of 30 complete. **2 trading days remain (May 26, May 27).**
+
+### Open Positions
+
+| Ticker | Qty | Entry | Last Close | Unrealized P&L | Stop | Notes |
+|--------|-----|-------|-----------|----------------|------|-------|
+| AAPL | 65 | $308.12 | $308.82 | +$45.58 (+0.23%) | $280.25 (10% trail GTC, HWM $311.39) `8a973d5c` | Type 2 breakout |
+| AMZN | 77 | $260.23 | $266.32 | +$468.93 (+2.34%) | $255.00 GTC `3f18de17` | Type 3 SMA pullback |
+| GOOGL | 52 | $385.97 | $382.97 | −$156.00 (−0.78%) | $349.87 (10% trail GTC, HWM $388.74) `fd83ce66` | Type 3 SMA pullback |
+| NVDA | 50 | $219.82 | $215.33 | −$224.72 (−2.05%) | $198.56 (10% trail GTC, HWM $220.62) `3adefe14` | Type 4 probe |
+
+**⚠ NVDA time stop correction:** Entry May 22 → 5 trading days = May 26, 27, 28, 29, June 1. **Correct deadline: June 1** (not May 29 as originally logged; Memorial Day May 25 is not a trading day). Challenge ends May 27 — NVDA will be closed/expired by challenge end regardless.
+
+**Position cap:** 4/4 — full. No new entries without a rotation.
+
+### Market Context
+
+**Oil:**
+- WTI: ~$92/bbl (May 24 close, down from $96.60 on May 22) — declining trend
+- Brent: ~$101–106/bbl
+- Oil softness is benign for growth/tech; no inflation headwind from energy
+
+**Macro filter:**
+- Markets at/near all-time highs (S&P 500 closed April at 7,209, futures ~7,484 on May 22)
+- VIX: **16.70** (May 22 close) — well below 25 → full sizing active ✓
+- SPY and QQQ above own SMA 50 (markets near ATH) → **All 5 setup types active** ✓
+- No size reduction warranted
+
+**S&P futures (last available, May 22):** ~7,484, +18.25 pts (+0.24%) in PM. No post-holiday futures data available.
+
+**Sector momentum:**
+- Best: Energy (+26% YTD through Mar, but reversed in April), IT/Tech leading April
+- Weakest recent: Financials, Health Care
+- AI/semis (IT sector): dominant narrative, NVDA beat reinforces capex theme
+- April: Tech led, Energy lagged
+
+### Economic Calendar — Week of May 26
+
+| Date | Release | Expected Impact |
+|------|---------|----------------|
+| Tue May 26 | Consumer Confidence (Conference Board) 10:00 AM ET | Moderate — risk-off if weak |
+| Thu May 28 | PCE Price Index (April) — BEA 8:30 AM ET | HIGH — inflation signal; BofA forecasts +0.4% headline, +0.3% core (3.3% y/y) |
+| Thu May 28 | GDP-linked PCE data + BLS Productivity/Costs | Moderate |
+
+**PCE context:** BofA forecasts core PCE +0.3% m/m (3.3% y/y) — elevated vs Fed 2% target. Hot print = hawkish pressure; cold print = rally fuel. Key risk Thursday.
+
+### Earnings This Week (universe names)
+
+| Ticker | When | Relevance |
+|--------|------|-----------|
+| AVGO | AMC this week | Universe name — not held; AI networking thesis; NVDA beat is tailwind |
+| CRWD | AMC this week | Universe name — not held; cybersecurity, high beta |
+| PANW | AMC this week | Universe name — not held |
+| COST | AMC this week | Non-universe; consumer health signal |
+| MDT | Pre-market | Non-universe |
+
+**Held positions earnings risk:** NONE this week. AAPL/AMZN/GOOGL next cycle Jul–Aug; NVDA just reported May 20.
+
+### Held Ticker Thesis Checks
+
+**AAPL** (+0.23%): Near entry $308.82 vs $308.12 — essentially breakeven. Type 2 breakout above $305.54 52-wk high. Stop $280.25 is 9.1% away — trail will ratchet up only if price extends beyond $311.39 HWM. Thesis intact pending challenge end.
+
+**AMZN** (+2.34%): Building unrealized P&L. AWS/AI capex thesis intact (NVDA beat confirms cloud hyperscaler demand). Fixed stop $255 (4.3% below current $266.32). +15% trail trigger at $299.26 — not near. Hold.
+
+**GOOGL** (−0.78%): Slightly underwater. Type 3 SMA 20/50 pullback. Ads + cloud AI thesis intact; no adverse news found. Stop $349.87 is 8.6% below current $382.97 — not threatened. With 2 days left, no rationale to cut a -$156 paper loss when thesis is intact and stop is intact.
+
+**NVDA** (−2.05%): Type 4 momentum probe, entered post-earnings May 22. Pulled back from $219.82 to $215.33. Time stop corrected to June 1 (moot — challenge ends May 27). Stop $198.56 is 7.8% below current $215.33. Hold into challenge end; exit May 27 if still open per challenge deadline.
+
+### Trade Ideas
+
+**All 4 slots occupied. No new entries possible unless rotation occurs.**
+
+Rotation scenario: GOOGL is the weakest (−$156). If Tuesday open shows GOOGL breaking down toward $375, consider closing GOOGL to free a slot for a higher-conviction setup (would require a qualifying Type 2/4 from universe scan at open). Threshold: GOOGL < $378 at open = reassess rotation.
+
+No rotation trade ideas pre-flagged — universe scan will occur at market-open Tuesday.
+
+### Risk Factors
+
+1. **PCE Thursday May 28** — hot print could pressure tech; but challenge ends May 27, so no direct impact on challenge P&L
+2. **Consumer Confidence Tuesday May 26** — soft print may apply mild tech headwind intraday
+3. **AAPL near breakeven** — position entered at new 52-wk high; if market softens at open, AAPL could quickly go negative; stop $280.25 is far below; trail needs more momentum to ratchet
+4. **NVDA still −2%** — entered too early post-earnings; stop $198.56 protects; time stop is June 1 (post-challenge)
+5. **Gap-down risk at Tuesday open** — post-holiday opens can be volatile; thinner liquidity in first 15 min
+6. **Challenge ends May 27** — with +0.75% P&L vs SPY likely +10–12% since Apr 28, the challenge outcome is already determined; focus shifts to executing clean exits
+
+### Decision
+
+**HOLD — No new trades. Manage existing 4 positions through end of challenge (May 27).**
+
+- All 4 positions: holds with existing GTC stops active
+- AAPL: hold, stop $280.25 active — re-evaluate if HWM extends beyond $311.39
+- AMZN: hold, stop $255 active — strongest unrealized P&L of the four
+- GOOGL: hold unless open < $378 (rotation trigger); stop $349.87 active
+- NVDA: hold through May 27 challenge close; time stop June 1 (post-challenge)
+- **NO new entries** — position cap 4/4; 2 days remaining in challenge
+- Post-challenge (May 28+): begin unwinding toward target allocations for new phase
+
+---
+
 ## 2026-05-22 — Market-Open Research (Day 20, Week 4 Friday — Inline)
 
 ### Account Snapshot
