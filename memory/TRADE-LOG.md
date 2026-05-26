@@ -851,3 +851,33 @@ No positions yet. Bot launches tomorrow (2026-04-28).
 
 **Macro context:** SPY above SMA 50/150 ✓ | QQQ above SMA 50 ($642) ✓ | VIX ~16.7 → full sizing GREEN | All 5 setup types active ✓
 **Trades this week (Week 5):** 2 new entries (AMD May 26, MU May 26). ⚠ Need 5 more entries by Friday May 29 — target 2/day Wed 27 and Thu 28, 1 on Fri 29. AMD and MU both at Type 4 max probe count (2/2) — rotation required for any new entries.
+
+---
+
+### May 26 — Midday Scan (Day 21, Week 5 Tuesday)
+**Portfolio:** $101,751.92 | **Cash:** $20,576.17 (20.2%) | **Long MV:** $81,175.75 | **Phase P&L:** +$1,751.92 (+1.75%)
+
+| Ticker | Shares | Entry | Current | Unrealized P&L | Stop | Order ID |
+|--------|--------|-------|---------|----------------|------|----------|
+| AAPL | 65 | $308.12 | $310.26 | +$138.86 (+0.69%) | 10% trail GTC, HWM $311.82, stop $280.64 | `8a973d5c` |
+| AMD | 41 | $489.98 | $497.56 | +$310.61 (+1.55%) | 10% trail GTC, HWM $497.80, stop $448.02 | `fbed11d0` |
+| AMZN | 77 | $260.23 | $263.04 | +$215.99 (+1.08%) | $255.00 GTC (fixed) | `3f18de17` |
+| MU | 23 | $853.65 | $885.86 | +$740.74 (+3.77%) | 10% trail GTC, HWM $891.00, stop $801.90 | `6e48a4b2` |
+
+**Cuts:** NONE — no position at or below −7% threshold. All 4 positions green.
+
+**Stop adjustments:** NONE — no position at or above +15% threshold.
+- AAPL: +0.69% — below +15% trigger
+- AMD: +1.55% — below +15% trigger; Type 4 time stop June 2
+- AMZN: +1.08% — fixed stop $255 unchanged
+- MU: +3.77% — below +15% trigger; Type 4 time stop June 2
+
+**Thesis check:**
+- **AAPL — INTACT.** $310.26, above Type 2 breakout level ($305.54 52-wk high). HWM $311.82. WWDC June 8–12 catalyst ahead. No adverse news.
+- **AMD — INTACT.** +1.55% from entry. Today's +6.4% from $467.51 close driven by Q1 2026 AI/DC momentum repricing: DC revenue +57% YoY, Meta deploying AMD Instinct GPUs (up to 6 GW announced), expanded hyperscaler relationships (AWS/Azure/GCP/Tencent). Perplexity confirmed. No thesis break.
+- **AMZN — INTACT.** −1.23% intraday from yesterday's close but +1.08% from entry $260.23. Stop $255 at 3.1% buffer from current $263.04. AWS AI cloud demand thesis unchanged. No adverse news.
+- **MU — INTACT.** +3.77% from entry $853.65. MU gapped ~18% from Memorial Day close ($751 → $885+) on AI-memory / HBM re-rating: Micron 1α DRAM manufacturing expansion in Virginia (May 22 announcement), CEO cited ongoing memory shortage lasting beyond current quarter, sold-out HBM supply constraining vs AI server demand. Perplexity confirmed fundamental catalyst. Q3 FY2026 earnings ~June 24 (>20 trading days away ✓). No thesis break.
+
+**Thesis breaks:** NONE.
+
+**Perplexity research:** AMD and MU both queried — moves confirmed as fundamental (not unexplained). No further intraday research needed.

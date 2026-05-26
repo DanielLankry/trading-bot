@@ -5,6 +5,19 @@ Format each entry:
 
 ---
 
+## 2026-05-26 — Afternoon Addendum (Midday Scan, Day 21)
+
+**Portfolio:** $101,751.92 | Cash: $20,576.17 (20.2%) | 4 positions | Phase P&L: +$1,751.92 (+1.75%)
+
+- **AAPL** (+0.69% from entry $308.12, current $310.26): Type 2 breakout holding above $305.54 level. HWM $311.82. Thesis intact.
+- **AMD** (+1.55% from entry $489.98, current $497.56): Type 4 probe; today's +6.4% from $467.51 confirmed by Perplexity — Q1 2026 DC beat + Meta GPU deployment announcement + hyperscaler ramps. Thesis intact.
+- **AMZN** (+1.08% from entry $260.23, current $263.04): Intraday −1.23% from yesterday but above entry and stop ($255). Thesis intact.
+- **MU** (+3.77% from entry $853.65, current $885.86): Gapped ~18% from $751 on AI-memory / HBM re-rating (Virginia 1α DRAM expansion, CEO memory-shortage comments). Perplexity confirmed. Q3 FY2026 earnings ~June 24 (>20 trading days ✓). Thesis intact.
+
+No cuts. No stop tightening. No thesis breaks.
+
+---
+
 ## 2026-05-25 — Pre-Market Research (Memorial Day — Research for May 26 Open)
 
 **⚠ US markets CLOSED today (Memorial Day). Research prepared for Tuesday May 26 open — final 2 trading days of 30-day challenge.**
