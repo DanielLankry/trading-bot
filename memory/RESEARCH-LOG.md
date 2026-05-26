@@ -1470,3 +1470,47 @@ No CPI/PPI today (next: June 10/12). FOMC minutes after close — minimal intrad
 - If only one fires (spread/price fails on other), still a valid trade day
 - AMZN hold, stop $255 GTC
 - After today: need 2 more entries Friday to reach 7-entry weekly minimum
+
+---
+
+## May 26, 2026 — Inline Pre-Market Research (Day 21, Week 5 Tuesday)
+
+*No cloud pre-market run (Memorial Day weekend). Research conducted inline at market-open.*
+
+### Macro Filter
+- **SPY**: Above SMA 50 (~$697) and SMA 150 (~$682) ✓ — all 5 setup types active
+- **QQQ**: Above SMA 50 (~$642); QQQ ~$718 (+11.7% above SMA 50) ✓
+- **VIX**: ~16.7 — full sizing (< 25) ✓
+
+### Portfolio at Open
+- Held: AAPL (65 @ $308.12), AMZN (77 @ $260.23), GOOGL (52 @ $385.97), NVDA (50 @ $219.82)
+- All 4 GTC stops confirmed active from prior session
+- Position cap: 4/4 — rotation required for any new entries
+
+### Rotation Decisions
+**NVDA close** — Day 2/5 Type 4 time stop. Prior note: "Must sell at May 26 open." Momentum faded post-earnings entry (−1.77% from entry). Closed @ $215.93. Realized −$194.72.
+
+**GOOGL close** — 4 days flat after Type 3 SMA 20 pullback entry. Slightly below entry (−0.28%). Rotated into stronger MU momentum setup. Closed @ $384.90. Realized −$55.48.
+
+### Universe Scan Results
+
+| Ticker | Price | Spread | Setup? | Decision |
+|--------|-------|--------|--------|----------|
+| AMD | ~$490 | $1.18 (0.24%) | Type 4 Probe: SMA 20 ~$406, SMA 50 ~$303 — above all; Q1 2026 data center +57% YoY, Q2 guide $11.2B | **ENTER — 41 shares** |
+| MU | ~$854 | $0.29 (0.03%) | Type 4 Probe: +15.4% gap from $745 close; AI/HBM memory supercycle; at/near ATH | **ENTER — 23 shares** |
+| TQQQ | $80.24 | $0.01 | Type 5: QQQ $718, SMA 50 $642 — 11.7% above SMA 50; no pullback | SKIP (no Type 5 entry) |
+| CRWD | ~$660 | $47-60 | Spread too wide all session | SKIP |
+| PLTR | $134 | $0.06 | Below SMA 20 ($139) and SMA 50 ($142) | DISQUALIFIED |
+| AMD (early) | $485 | $29 | Wide spread at open | WAIT — re-entered at 9:46 AM |
+| AVGO | ~$425 | $3.78 | Thursday May 28 earnings → half size insufficient | SKIP |
+| MRVL | ~$215 | $5 | Wide spread; SMA status unclear | SKIP |
+
+### Trade Decisions
+- **AMD** Type 4 Probe: 41 shares @ $489.98, stop $441.12 (10% trail GTC `fbed11d0`), time stop June 2. No earnings until August 2026. Catalyst: Q1 2026 data center +57% YoY, NVDA AI tailwind.
+- **MU** Type 4 Probe: 23 shares @ $853.65, stop $767.53 (10% trail GTC `6e48a4b2`), time stop June 2. Q3 FY2026 earnings est. June 24 — not within 5 days ✓. Catalyst: AI/HBM memory gap-up +15.4%.
+
+### Weekly Pace
+- Week 5 Day 1: 2 new entries (AMD, MU) ✓ daily floor
+- Need 5 more entries by Friday May 29 (3 days remaining)
+- Both Type 4 momentum probe slots now filled (2/2) — rotation required for Wed/Thu entries
+- Next rotation candidates: AAPL (+0.71%, weakest upside case), GOOGL (closed), open to new Type 2/3 breakout or pullback setups on any universe name

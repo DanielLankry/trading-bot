@@ -810,3 +810,44 @@ No positions yet. Bot launches tomorrow (2026-04-28).
 | NVDA | 50 | $219.82 | $215.33 | 0.00% | −$224.72 (−2.04%) | 10% trail GTC, stop $198.56, HWM $220.62 (`3adefe14`) |
 
 **Notes:** Memorial Day — US markets closed, no trading. Portfolio holds at $100,748.97; official Friday settle ($100,748.97 per Alpaca last_equity) vs May 22 snapshot ($100,777.59) reflects a −$28.62 price mark adjustment at week close. All 4 GTC stops confirmed active. Phase P&L +$748.97 (+0.75%). Trades today: NONE. Trades this week (Week 5): 0 — week opens tomorrow May 26 (Day 21). ⚠ **NVDA time stop hard deadline: exit by May 29 (4 remaining trading days: May 26, 27, 28, 29). Must sell at May 26 open if not exiting intraday.** ⚠ **Weekly minimum: 7 new entries required by Friday May 29 — aggressive scan mandatory Tuesday through Friday.**
+
+---
+
+### May 26 — Market-Open Trades (Day 21, Week 5 Tuesday)
+**Portfolio:** $100,762.80 | **Cash:** $20,576.17 (20.4%) | **Long MV:** $80,186.63 | **Phase P&L:** +$762.80 (+0.76%) | **Daytrade count:** 0
+
+**Closed positions:**
+| Ticker | Shares | Entry | Exit | Realized P&L | Reason |
+|--------|--------|-------|------|--------------|--------|
+| NVDA | 50 | $219.82 | $215.93 | −$194.72 (−1.77%) | Type 4 time stop Day 2/5 (entered May 22, deadline May 29); momentum faded post-earnings; below entry; per May 25 action item: "Must sell at May 26 open" |
+| GOOGL | 52 | $385.97 | $384.90 | −$55.48 (−0.28%) | Rotation: 4 days flat after Type 3 entry (SMA 20 pullback thesis not playing out); freed slot for higher-conviction MU momentum probe |
+
+**New entries:**
+| Ticker | Shares | Entry | Stop | Thesis | Target | R:R |
+|--------|--------|-------|------|--------|--------|-----|
+| AMD | 41 | $489.98 | $441.12 (10% trail GTC, `fbed11d0`, HWM $490.13) | Type 4 Momentum Probe; Q1 2026 data center +57% YoY, Q2 guide $11.2B (+46% YoY); NVDA AI capex tailwind; above all SMAs (SMA 20 ~$406, SMA 50 ~$303); spread $1.18 (0.24%) ✓; no earnings until Aug 2026; time stop June 2 | $540–560 (+10–14%) | ~1.5:1 |
+| MU | 23 | $853.65 | $767.53 (10% trail GTC, `6e48a4b2`, HWM $852.81) | Type 4 Momentum Probe; AI memory supercycle (HBM demand); gapped +15.4% from $745 close on Memorial Day weekend; tight spread $0.29 (0.03%) ✓; Q3 FY2026 earnings est. June 24 (not within 5 days ✓); time stop June 2 | $930–970 (+9–14%) | ~1.5:1 |
+
+**Trades fired:**
+- **NVDA SELL** — 50 shares @ $215.93 (market, ~9:41 AM ET). Fill confirmed (order `41d0569f`). Realized loss −$194.72. GTC trailing stop (`3adefe14`) cancelled before sale.
+- **GOOGL SELL** — 52 shares @ $384.90 (market, ~9:49 AM ET). Fill confirmed (order `c91599e1`). Realized loss −$55.48. GTC trailing stop (`fd83ce66`) cancelled before sale.
+- **AMD BUY** — 41 shares @ $489.984 avg (market, ~9:46 AM ET). Fill confirmed (order `3a0a0c97`). 10% trailing stop GTC placed at $441.12 (order `fbed11d0`, HWM $490.13). Position cost $20,089 (19.9% equity ✓). Risk: 41 × $48.87 = $2,004 (1.99% equity).
+- **MU BUY** — 23 shares @ $853.654 avg (market, ~9:50 AM ET). Fill confirmed (order `3d02d5cd`). 10% trailing stop GTC placed at $767.53 (order `6e48a4b2`, HWM $852.81). Position cost $19,634 (19.5% equity ✓). Risk: 23 × $86.12 = $1,981 (1.96% equity).
+
+**Candidates scanned and skipped:**
+- **TQQQ/SOXL** — QQQ ~$718, +11.7% above SMA 50 (~$642). No Type 5 pullback entry. SKIP.
+- **CRWD** — Spread $60 (8.8%) at open, never normalized. SKIP.
+- **PLTR** — Below SMA 20 ($139) and SMA 50 ($142) at current $134. DISQUALIFIED.
+- **AMD (early)** — Spread $29 at open; re-entered when normalized to $1.18 at ~9:46 AM.
+- **AVGO** — Thursday May 28 earnings (within 5 days) → position economics don't work at half size. SKIP.
+
+**Open positions (4/4 max):**
+| Ticker | Shares | Entry | Current | Unrealized P&L | Stop |
+|--------|--------|-------|---------|----------------|------|
+| AAPL | 65 | $308.12 | $310.32 | +$143.08 (+0.71%) | 10% trail GTC, stop $280.34, HWM $311.49 (`8a973d5c`) |
+| AMZN | 77 | $260.23 | $266.50 | +$482.79 (+2.41%) | $255.00 GTC (`3f18de17`) |
+| AMD | 41 | $489.98 | $485.60 | −$179.95 (−0.90%) | 10% trail GTC, stop $441.12, HWM $490.13 (`fbed11d0`) |
+| MU | 23 | $853.65 | $850.80 | −$65.64 (−0.33%) | 10% trail GTC, stop $767.53, HWM $852.81 (`6e48a4b2`) |
+
+**Macro context:** SPY above SMA 50/150 ✓ | QQQ above SMA 50 ($642) ✓ | VIX ~16.7 → full sizing GREEN | All 5 setup types active ✓
+**Trades this week (Week 5):** 2 new entries (AMD May 26, MU May 26). ⚠ Need 5 more entries by Friday May 29 — target 2/day Wed 27 and Thu 28, 1 on Fri 29. AMD and MU both at Type 4 max probe count (2/2) — rotation required for any new entries.
