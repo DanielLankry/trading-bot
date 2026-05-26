@@ -881,3 +881,17 @@ No positions yet. Bot launches tomorrow (2026-04-28).
 **Thesis breaks:** NONE.
 
 **Perplexity research:** AMD and MU both queried — moves confirmed as fundamental (not unexplained). No further intraday research needed.
+
+---
+
+### May 26 — EOD Snapshot (Day 21, Week 5 Tuesday)
+**Portfolio:** $102,255.98 | **Cash:** $20,576.17 (20.1%) | **Day P&L:** +$1,507.01 (+1.50%) | **Phase P&L:** +$2,255.98 (+2.26%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| AAPL | 65 | $308.12 | $308.01 | −0.26% | −$7.07 (−0.04%) | 10% trail GTC, stop $280.64, HWM $311.82 (`8a973d5c`) |
+| AMD | 41 | $489.98 | $504.36 | +7.88% | +$589.41 (+2.93%) | 10% trail GTC, stop $456.26, HWM $506.96 (`fbed11d0`) |
+| AMZN | 77 | $260.23 | $265.17 | −0.43% | +$380.69 (+1.90%) | $255.00 GTC (`3f18de17`) |
+| MU | 23 | $853.65 | $894.00 | +19.04% | +$927.96 (+4.73%) | 10% trail GTC, stop $825.12, HWM $916.80 (`6e48a4b2`) |
+
+**Notes:** Strong Day 21. Closed NVDA (Type 4 time stop, −$194.72) and GOOGL (rotation, −$55.48) at open; entered AMD (+7.88% day, Type 4 probe, AI/DC +57% YoY) and MU (+19.04% day, Type 4 probe, AI-memory HBM supercycle gap). Portfolio +$1,507.01 (+1.50%) on the day; +$2,255.98 (+2.26%) phase. All 4 GTC trailing stops active and ratcheted higher intraday. No position has cleared +15% from entry yet. Week 5 has 2 entries (AMD, MU); 5 more required by Friday May 29 — AMD/MU at max probe count (2/2), so rotation or Type 2 breakout entries needed Wed/Thu/Fri.
