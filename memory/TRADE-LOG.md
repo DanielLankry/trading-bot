@@ -895,3 +895,28 @@ No positions yet. Bot launches tomorrow (2026-04-28).
 | MU | 23 | $853.65 | $894.00 | +19.04% | +$927.96 (+4.73%) | 10% trail GTC, stop $825.12, HWM $916.80 (`6e48a4b2`) |
 
 **Notes:** Strong Day 21. Closed NVDA (Type 4 time stop, −$194.72) and GOOGL (rotation, −$55.48) at open; entered AMD (+7.88% day, Type 4 probe, AI/DC +57% YoY) and MU (+19.04% day, Type 4 probe, AI-memory HBM supercycle gap). Portfolio +$1,507.01 (+1.50%) on the day; +$2,255.98 (+2.26%) phase. All 4 GTC trailing stops active and ratcheted higher intraday. No position has cleared +15% from entry yet. Week 5 has 2 entries (AMD, MU); 5 more required by Friday May 29 — AMD/MU at max probe count (2/2), so rotation or Type 2 breakout entries needed Wed/Thu/Fri.
+
+---
+
+### May 27 — Market-Open (Day 22, Week 5 Wednesday — FINAL CHALLENGE DAY)
+**Portfolio:** $103,485.19 | **Cash:** $20,576.15 (19.9%) | **Phase P&L:** +$3,485.19 (+3.49%) | **Daytrade count:** 0
+
+**Trades fired:** NONE — NO-TRADE-DAY. Position cap 4/4 full + Type 4 probe cap 2/2 full (AMD + MU). No rotation justified; all 4 theses intact.
+
+**Trailing stop auto-ratchets (Alpaca GTC — no manual action needed):**
+- MU: HWM $916.80 → $955.96 | Stop $825.12 → $860.36 (`6e48a4b2`)
+- AMD: HWM $506.96 → $510.21 | Stop $456.26 → $459.19 (`fbed11d0`)
+- AAPL: HWM $311.82 unchanged | Stop $280.64 unchanged (`8a973d5c`)
+- AMZN: Fixed stop $255.00 unchanged (`3f18de17`)
+
+**Open positions (4/4):**
+| Ticker | Shares | Entry | Current | Unrealized P&L | Stop |
+|--------|--------|-------|---------|----------------|------|
+| AAPL | 65 | $308.12 | $311.31 | +$207.43 (+1.04%) | 10% trail GTC, stop $280.64, HWM $311.82 (`8a973d5c`) |
+| AMD | 41 | $489.98 | $501.99 | +$492.22 (+2.45%) | 10% trail GTC, stop $459.19, HWM $510.21 (`fbed11d0`) |
+| AMZN | 77 | $260.23 | $266.22 | +$461.23 (+2.30%) | Fixed $255.00 GTC (`3f18de17`) |
+| MU | 23 | $853.65 | $937.75 | +$1,934.21 (+9.85%) | 10% trail GTC, stop $860.36, HWM $955.96 (`6e48a4b2`) |
+
+**MU +15% trigger:** $981.70 (needs +$43.95 / +4.69% more). Not hit yet.
+**Macro:** SPY/QQQ above SMA 50 ✓ | VIX ~17.01 → full sizing ✓ | All 5 types active ✓
+**Challenge:** Day 22 of 22. Final day. Weekly review to follow EOD.
