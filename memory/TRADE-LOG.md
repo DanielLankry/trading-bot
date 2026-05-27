@@ -950,3 +950,17 @@ No positions yet. Bot launches tomorrow (2026-04-28).
 **Thesis breaks:** NONE.
 
 **Perplexity research:** AMD queried for intraday decline — no AMD-specific news found. Broader sector pressure only.
+
+---
+
+### May 27 — EOD Snapshot (Day 22, Week 5 Wednesday — FINAL CHALLENGE DAY)
+**Portfolio:** $103,403.36 | **Cash:** $20,576.15 (19.9%) | **Day P&L:** +$1,093.70 (+1.07%) | **Phase P&L:** +$3,403.36 (+3.40%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| AAPL | 65 | $308.12 | $310.71 | +0.77% | +$168.43 (+0.84%) | 10% trail GTC, stop $281.93, HWM $313.26 (`8a973d5c`) |
+| AMD | 41 | $489.98 | $495.61 | −1.64% | +$230.57 (+1.15%) | 10% trail GTC, stop $459.19, HWM $510.21 (`fbed11d0`) |
+| AMZN | 77 | $260.23 | $272.85 | +2.85% | +$971.74 (+4.85%) | Fixed $255.00 GTC (`3f18de17`) |
+| MU | 23 | $853.65 | $926.16 | +3.38% | +$1,667.58 (+8.49%) | 10% trail GTC, stop $860.36, HWM $955.96 (`6e48a4b2`) |
+
+**Notes:** Final day (Day 22) of the 30-calendar-day challenge (Apr 28–May 27). No trades today — 4/4 position cap full, all four theses intact. AMZN led the day (+2.85%, now +4.85% unrealized); MU continued AI-memory re-rating (+3.38%, +8.49% unrealized); AAPL +0.77%; AMD gave back −1.64% on sector pressure (no fundamental change, Type 4 time stop June 2 intact). Portfolio closed +$1,093.70 (+1.07%) on the day; phase total +$3,403.36 (+3.40%) vs $100K starting capital. Challenge complete — all GTC trailing stops live; weekly review to follow.
