@@ -920,3 +920,33 @@ No positions yet. Bot launches tomorrow (2026-04-28).
 **MU +15% trigger:** $981.70 (needs +$43.95 / +4.69% more). Not hit yet.
 **Macro:** SPY/QQQ above SMA 50 ✓ | VIX ~17.01 → full sizing ✓ | All 5 types active ✓
 **Challenge:** Day 22 of 22. Final day. Weekly review to follow EOD.
+
+---
+
+### May 27 — Midday Scan (Day 22, Week 5 Wednesday — FINAL CHALLENGE DAY)
+**Portfolio:** $102,817.15 | **Cash:** $20,576.15 (20.0%) | **Phase P&L:** +$2,817.15 (+2.82%) | **Daytrade count:** 0
+
+| Ticker | Shares | Entry | Current | Unrealized P&L | Stop | Order ID |
+|--------|--------|-------|---------|----------------|------|----------|
+| AAPL | 65 | $308.12 | $310.77 | +$172.33 (+0.86%) | 10% trail GTC, stop $281.93, HWM $313.26 | `8a973d5c` |
+| AMD | 41 | $489.98 | $492.61 | +$107.66 (+0.54%) | 10% trail GTC, stop $459.19, HWM $510.21 | `fbed11d0` |
+| AMZN | 77 | $260.23 | $271.30 | +$852.39 (+4.25%) | Fixed $255.00 GTC | `3f18de17` |
+| MU | 23 | $853.65 | $908.30 | +$1,256.86 (+6.40%) | 10% trail GTC, stop $860.36, HWM $955.96 | `6e48a4b2` |
+
+**Cuts:** NONE — no position at or below −7% threshold.
+
+**Stop adjustments:** NONE — no position at or above +15% threshold.
+- AAPL: +0.86% — below +15% trigger
+- AMD: +0.54% — below +15% trigger (−2.24% intraday — Perplexity queried, no company-specific catalyst; sector pressure only)
+- AMZN: +4.25% — fixed stop $255 unchanged
+- MU: +6.40% — below +15% trigger; trading below HWM $955.96 but stop auto-tracking via Alpaca GTC
+
+**Thesis checks:**
+- **AAPL — INTACT.** $310.77 above Type 2 breakout level. WWDC June 8–12 catalyst ahead.
+- **AMD — INTACT.** −2.24% intraday; Perplexity confirmed no fresh negative catalyst — sector-level tech/AI softness + China export overhang. AI/DC (+57% YoY) thesis unchanged. Type 4 time stop June 2 — 4 trading days remain.
+- **AMZN — INTACT.** +2.27% today; AWS AI demand thesis unchanged.
+- **MU — INTACT.** +1.39% today; AI-memory/HBM supercycle thesis unchanged; well above $860.36 trailing stop.
+
+**Thesis breaks:** NONE.
+
+**Perplexity research:** AMD queried for intraday decline — no AMD-specific news found. Broader sector pressure only.

@@ -5,6 +5,37 @@ Format each entry:
 
 ---
 
+## 2026-05-27 — Afternoon Addendum (Midday Scan, Day 22 — FINAL CHALLENGE DAY)
+
+**Portfolio:** $102,817.15 | Cash: $20,576.15 (20.0%) | 4 positions | Phase P&L: +$2,817.15 (+2.82%)
+
+| Ticker | Shares | Entry | Current | Unrealized P&L | Stop |
+|--------|--------|-------|---------|----------------|------|
+| AAPL | 65 | $308.12 | $310.77 | +$172.33 (+0.86%) | 10% trail GTC, stop $281.93, HWM $313.26 (`8a973d5c`) |
+| AMD | 41 | $489.98 | $492.61 | +$107.66 (+0.54%) | 10% trail GTC, stop $459.19, HWM $510.21 (`fbed11d0`) |
+| AMZN | 77 | $260.23 | $271.30 | +$852.39 (+4.25%) | Fixed $255.00 GTC (`3f18de17`) |
+| MU | 23 | $853.65 | $908.30 | +$1,256.86 (+6.40%) | 10% trail GTC, stop $860.36, HWM $955.96 (`6e48a4b2`) |
+
+**Cuts:** NONE — no position at or below −7% threshold.
+
+**Stop adjustments:** NONE — no position at or above +15% threshold.
+- AAPL: +0.86% — below +15% trigger
+- AMD: +0.54% — below +15% trigger; Type 4 time stop June 2
+- AMZN: +4.25% — fixed stop $255 unchanged
+- MU: +6.40% — below +15% trigger; pulled back from HWM $955.96; trailing stop at $860.36 auto-tracking via Alpaca GTC
+
+**Thesis checks:**
+- **AAPL — INTACT.** $310.77, above Type 2 breakout level. WWDC June 8–12 ahead as catalyst. No adverse news.
+- **AMD — INTACT.** −2.24% intraday ($503.89 → $492.61) with no fresh AMD-specific catalyst identified. Perplexity query confirmed: sector-level pressure (broader tech/AI sentiment + ongoing China export restriction risk) rather than new company news. Q1 2026 AI/DC beat thesis unchanged. Type 4 time stop June 2 — 4 trading days remain.
+- **AMZN — INTACT.** +2.27% today, +4.25% from entry. AWS AI demand thesis unchanged. Stop $255 at 6.0% buffer.
+- **MU — INTACT.** +1.39% today. AI-memory/HBM supercycle thesis unchanged. Trading below HWM $955.96 but well above trailing stop $860.36. Earnings ~June 24 (well outside window).
+
+**Thesis breaks:** NONE.
+
+**AMD intraday research (Perplexity):** No fresh negative catalyst found. AMD's last material move was Q1 2026 beat on May 5 (+18.61%); Advancing AI 2026 event set for July 22–23. Today's −2.24% intraday attributed to general tech/AI sector softness and China export restriction overhang — not an AMD-specific event.
+
+---
+
 ## 2026-05-26 — Afternoon Addendum (Midday Scan, Day 21)
 
 **Portfolio:** $101,751.92 | Cash: $20,576.17 (20.2%) | 4 positions | Phase P&L: +$1,751.92 (+1.75%)
