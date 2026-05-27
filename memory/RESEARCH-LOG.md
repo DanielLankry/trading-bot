@@ -1527,3 +1527,74 @@ No CPI/PPI today (next: June 10/12). FOMC minutes after close — minimal intrad
 - Need 5 more entries by Friday May 29 (3 days remaining)
 - Both Type 4 momentum probe slots now filled (2/2) — rotation required for Wed/Thu entries
 - Next rotation candidates: AAPL (+0.71%, weakest upside case), GOOGL (closed), open to new Type 2/3 breakout or pullback setups on any universe name
+
+---
+
+## May 27, 2026 — Pre-Market Research (Day 22, Week 5 Wednesday — FINAL CHALLENGE DAY)
+
+### Macro Filter
+- **SPY**: Above SMA 50/150 ✓ — all 5 setup types active
+- **QQQ**: Above SMA 50 ✓
+- **VIX**: ~17.01 — full sizing (< 25) ✓
+- **S&P 500 futures**: +0.10% (~6,657 pre-market) — mildly positive
+- **WTI**: $92.87 | **Brent**: ~$104.68 — elevated but stable
+
+### Account Snapshot
+- **Equity**: $103,962.08 | **Cash**: $20,576.15 (19.8%) | **Buying Power**: $124,538.23
+- **Phase P&L**: +$3,962.08 (+3.96%) vs ~$100,000 start
+- **Daytrade count**: 0
+- **Positions**: 4/4 (cap full) | **Type 4 probes**: 2/2 (cap full)
+
+### Open Positions
+| Ticker | Shares | Entry | Pre-Mkt | Unrealized P&L | Stop | Notes |
+|--------|--------|-------|---------|----------------|------|-------|
+| AAPL | 65 | $308.12 | $308.88 | +$49 (+0.25%) | 10% trail GTC, HWM $311.82, stop $280.64 (`8a973d5c`) | Type 2 breakout |
+| AMD | 41 | $489.98 | $510.70 | +$849 (+4.23%) | 10% trail GTC, HWM $506.96, stop $456.26 (`fbed11d0`) | Type 4, time stop June 2 |
+| AMZN | 77 | $260.23 | $265.45 | +$402 (+2.01%) | Fixed $255.00 GTC (`3f18de17`) | Type 3 SMA 50 pullback |
+| MU | 23 | $853.65 | $953.90 | +$2,306 (+11.74%) | 10% trail GTC, HWM $916.80, stop $825.12 (`6e48a4b2`) | Type 4, time stop June 2 |
+
+**⚠ MU approaching +15% breakeven trigger: $853.65 × 1.15 = $981.70. Currently $953.90. Needs +$27.80 (+2.9%) more intraday to trigger ratchet-to-entry rule.**
+
+### Economic Calendar (12:30 PM ET)
+- **GDP Price Index QoQ 2nd Est**: prev 3.7%, cons 4.5% — inflation read
+- **Initial Jobless Claims**: prev 209K, cons 215K
+- **Core PCE Price Index YoY**: prev 3.2%, cons 3.3% — key inflation read
+- **Core PCE QoQ 2nd Est**: same 12:30 PM release
+- ⚠ If GDP or Core PCE above consensus → rate-cut expectations compress → tech pressure mid-session
+
+### Earnings
+- **MRVL** Q1 FY2027: Reports **AFTER close** today. Est. EPS $0.75. Stock near 52-wk high pre-earnings on AI custom ASIC momentum. Beat → positive read-through for MU/AMD tomorrow. Miss → headwind.
+- No significant BMO earnings impacting held positions.
+
+### Ticker Research
+- **MU**: AI memory supercycle intact. HBM 2026 supply sold out per Micron CEO. $1T market cap discourse. +11.74% from entry — thesis intact, approaching +15% trigger.
+- **AMD**: Q1 beat ($1.37 vs $1.31), DC +57% YoY. Meta deploying AMD Instinct GPUs. Analyst consensus Buy (avg target $405 — stock at $510, blown past targets). Thesis intact; no adverse news.
+- **AAPL**: ~$309. Q2 FY2026 beat (Rev $111B, +17% YoY). WWDC June 8–12 catalyst ahead. Analyst avg target $300.77 (below current) — weakest upside case. Breakout level $305.54 holding.
+- **AMZN**: ~$265. AWS AI cloud demand intact. Fixed stop $255 (3.8% buffer). No adverse news.
+
+### Universe Scan — New Entries
+- **No new entries possible today.** Position cap 4/4 full AND Type 4 probe cap 2/2 full (AMD + MU).
+- Rotation candidate: AAPL (weakest thesis — analyst targets below price, WWDC not until June 8, +0.25% from entry). Thesis not broken — breakout held. Rotation not justified without a clearer superior setup.
+- No rotation triggered.
+
+### Risk Factors
+1. **12:30 PM ET data** — hot GDP/PCE print → rate-cut bets compress → tech selloff risk
+2. **MRVL after-close earnings** — miss could pressure semis (MU, AMD) pre-market Thursday
+3. **MU near +15% trigger** — active intraday monitoring required; trailing stop GTC auto-tracks, but ratchet note must be logged
+4. **AAPL overextended vs analyst targets** — analyst consensus $300.77 below current $308; limited near-term upside case; monitor $305.54 breakout level as trailing thesis anchor
+
+### Challenge Status — FINAL DAY
+- **Challenge**: 2026-04-28 → 2026-05-27 (today = last scheduled day per TRADING-STRATEGY.md)
+- **Starting capital**: ~$100,000 | **Current equity**: $103,962.08 | **Phase P&L: +3.96%**
+- **SPY estimated +12–14% since Apr 28** (SPY ~$700+ from Apr 28 close to current; AAPL Apr 28 close $270.71 → now $308 = +13.8% as proxy)
+- **Challenge verdict**: Behind SPY — +3.96% vs est. SPY +12–14%. Trade floor pace was the primary process gap (under 7/week in Weeks 4–5). Weekly review to diagnose.
+- Week 5 pace: 2 entries (AMD, MU May 26) — challenge ends before 7/week target can be met.
+
+### Decision: NO-TRADE-DAY
+**Reason**: Position cap 4/4 full + Type 4 probe cap 2/2 full. No new entries without rotation; no rotation justified (all 4 theses intact).
+
+**Action items:**
+1. Monitor MU intraday — if hits $981.70, log stop ratchet to $853.65 (trailing GTC auto-tracks, manual log update)
+2. Watch 12:30 PM ET GDP/PCE release for volatility
+3. Monitor MRVL after-close — read-through for MU/AMD Thursday open
+4. EOD snapshot + Weekly Review to close the 30-day challenge
