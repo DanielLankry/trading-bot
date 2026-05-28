@@ -964,3 +964,31 @@ No positions yet. Bot launches tomorrow (2026-04-28).
 | MU | 23 | $853.65 | $926.16 | +3.38% | +$1,667.58 (+8.49%) | 10% trail GTC, stop $860.36, HWM $955.96 (`6e48a4b2`) |
 
 **Notes:** Final day (Day 22) of the 30-calendar-day challenge (Apr 28–May 27). No trades today — 4/4 position cap full, all four theses intact. AMZN led the day (+2.85%, now +4.85% unrealized); MU continued AI-memory re-rating (+3.38%, +8.49% unrealized); AAPL +0.77%; AMD gave back −1.64% on sector pressure (no fundamental change, Type 4 time stop June 2 intact). Portfolio closed +$1,093.70 (+1.07%) on the day; phase total +$3,403.36 (+3.40%) vs $100K starting capital. Challenge complete — all GTC trailing stops live; weekly review to follow.
+
+---
+
+### May 28 — Market-Open (Post-Challenge Day 1, Week 6 Thursday)
+**Portfolio:** $103,443.79 | **Cash:** $20,576.15 (19.9%) | **Equity:** $103,443.79 | **Daytrade count:** 0
+
+**Trades fired:** NONE — NO-TRADE-DAY
+**Reason (A):** Position cap 4/4 full + Type 4 probe cap 2/2 full (AMD + MU, time stop June 2). No exits triggered as of market open. All 4 theses intact.
+
+**Live positions at open (~9:35 AM ET):**
+| Ticker | Shares | Entry | Open Price | Unrealized P&L | Stop | HWM |
+|--------|--------|-------|-----------|----------------|------|-----|
+| AAPL | 65 | $308.12 | $309.81 | +$109.93 (+0.55%) | 10% trail GTC, stop $281.93 (`8a973d5c`) | $313.26 |
+| AMD | 41 | $489.98 | $502.17 | +$499.62 (+2.49%) | 10% trail GTC, stop $459.19 (`fbed11d0`) | $510.21 |
+| AMZN | 77 | $260.23 | $270.26 | +$771.93 (+3.85%) | Fixed $255.00 GTC (`3f18de17`) | — |
+| MU | 23 | $853.65 | $927.00 | +$1,686.96 (+8.59%) | 10% trail GTC, stop $860.36 (`6e48a4b2`) | $955.96 |
+
+**Stop check:** All 4 GTC orders confirmed active. No adjustments needed.
+- MU +15% trigger ($981.70): NOT hit — current $927.00 is $54.70 below threshold
+- AMD +15% trigger ($563.48): NOT hit — current $502.17
+- AAPL +15% trigger ($354.34): NOT hit — current $309.81
+- AMZN fixed stop $255 unchanged
+
+**Macro:** SPY/QQQ above SMA 50 ✓ | VIX 17.01 (<25) → full sizing ✓ | All 5 setup types active ✓
+**GDP/PCE 8:30 AM risk:** Positions all slightly softening intraday (AAPL −0.34%, AMZN −0.59%, MU −0.15%) consistent with potential hot macro print; AMD bucking trend (+1.34%). No stops threatened.
+**AMD time stop June 2:** 3 trading days remain (May 29, June 1, June 2). Exit at close June 2 regardless.
+**MU time stop June 2:** 3 trading days remain. Exit at close June 2 regardless.
+**Trades this week (Week 6):** 0
