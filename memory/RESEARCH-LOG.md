@@ -5,6 +5,78 @@ Format each entry:
 
 ---
 
+## 2026-05-28 — Pre-Market Research (Post-Challenge Day 1, Week 6 Thursday)
+
+### Account Snapshot
+- **Equity**: $102,205.38 | **Cash**: $20,576.15 (20.1%) | **BP**: $122,781.53
+- **Daytrade count**: 0 | **Positions**: 4/4 | **Type 4 probes**: 2/2 (AMD + MU, time stop June 2)
+- **Phase P&L**: +$2,205.38 (+2.21%) from $100K start (challenge ended May 27 at +3.40%; equity pulled back overnight)
+
+### Open Positions (live pre-market)
+| Ticker | Shares | Entry | Pre-Mkt | Unrealized P&L | Stop | Notes |
+|--------|--------|-------|---------|----------------|------|-------|
+| AAPL | 65 | $308.12 | $310.30 | +$141.78 (+0.71%) | 10% trail GTC, stop $281.93, HWM $313.26 (`8a973d5c`) | Type 2 breakout |
+| AMD | 41 | $489.98 | $485.61 | −$179.34 (−0.89%) | 10% trail GTC, stop $459.19, HWM $510.21 (`fbed11d0`) | Type 4, time stop June 2 |
+| AMZN | 77 | $260.23 | $270.50 | +$790.79 (+3.95%) | Fixed $255.00 GTC (`3f18de17`) | Type 3 SMA 50 pullback |
+| MU | 23 | $853.65 | ~$931–$955 AH | +$1,072–$2,336 (+5.5–12%) | 10% trail GTC, stop $860.36, HWM $955.96 (`6e48a4b2`) | Type 4, time stop June 2 |
+
+### Market Context
+- **S&P 500 futures**: ESM26 7,532.25 (−7.75, −0.10%) — mildly negative
+- **VIX**: 17.01 (last close) — full sizing active (<25) ✓ All 5 setup types active ✓
+- **WTI crude**: ~$90.96 (CME, 2:03 AM CT) — significant pullback from $104–$105 mid-May; deflationary tailwind for growth
+- **Brent**: ~$95–98 est. (direct quote unavailable; WTI-Brent spread widened in Q1 2026)
+- **SPY/QQQ**: Above SMA 50/150 ✓ (SPY cash ~7,519 per prior close; SPY above all SMAs per ongoing macro filter)
+
+### Economic Calendar (8:30 AM ET today — HIGH IMPACT)
+- **GDP Q1 2026 2nd Estimate** — prev 3.7% price deflator, consensus 4.5%
+- **PCE Price Index (Personal Income & Outlays)** — next release date is today (BEA); key inflation read
+- **Initial Jobless Claims** — weekly
+- **Advance Durable Goods** — secondary
+- ⚠ Hot GDP/PCE print → rate-cut compression → tech/growth pressure mid-session
+
+### Earnings
+- **MRVL** (Q1 FY2027, reported May 27 after close): EPS $0.80 vs est $0.75–$0.79 (beat); Rev $2.418B vs est $2.41B (slight beat). **Stock DOWN ~13% after-hours** — "sell the news" on thin margin beat + guidance/margin concerns per market commentary. CNBC described as only a "slight beat."
+- **Read-through for MU/AMD**: MRVL selloff appears idiosyncratic. MU confirmed pre-market ~$928–$955 (Market Chameleon VWAP $957.29; Alpaca AH ask $931.50) — NOT symptomatic of broad semi meltdown. AMD AH wide spread ($472–$514) — no clear directional signal.
+- **Costco (COST)**: Reports after close today — consumer sentiment read; not relevant to positions.
+- **No BMO earnings material to held positions.**
+
+### Ticker Research
+- **AAPL** ($310.30): Q2 FY2026 beat ($111.2B rev +17% YoY, EPS $2.01 +22%). WWDC June 8–12 upcoming AI catalyst. Supply constraints flagged but thesis intact. Breakout level $305.54 holding. Weakest upside case (avg analyst target ~$300 below current) but breakout structure intact.
+- **AMD** ($485.61, −0.89% from entry): Q1 beat ($10.3B rev, DC +57% YoY). Meta 6 GW GPU deployment. EPYC Venice on TSMC 2nm ramping. AI roadmap event July 23. MRVL headwind minor — AMD didn't just report. Type 4 time stop June 2 (3 trading days). Valuation risk flagged by market.
+- **AMZN** ($270.50, +3.95%): Q1 beat ($181.5B rev +17%). AWS $6B Snowflake partnership. Ozempic pharmacy expansion. FTC Prime case ongoing. Fixed stop $255 provides 5.7% buffer. Thesis intact.
+- **MU** (~$931–$955 AH, +9–12% from entry): Record fiscal Q2 ($23.86B rev, EPS $12.07). Fiscal Q3 guide $33.5B ±$0.75B. HBM sold out through next quarter. 1α DRAM ramp in Virginia. MU hit intraday high $985 on May 27 — +15% trigger ($981.70) was nearly touched. Trailing stop $860.36 (HWM $955.96) — well above stop. ⚠ Robinhood showed $745.55 earlier — confirmed as **stale/display error** (market cap = $1.05T matches ~$955/share, not $745). Thesis strongly intact.
+
+### Sector Context
+- **AI/semis** remain the market leadership narrative — AI infrastructure spend cycle intact despite MRVL one-day reaction
+- **Energy** was best YTD sector through March (+26%) but WTI now $91, down from $105 in mid-May — sector rotation possible
+- **Tech/Information Technology** leading on 6-month trailing basis; market described as "top-heavy and richly valued" (S&P ~7,519)
+
+### Universe Scan (all 5 setup types)
+Position cap 4/4 full — no new entries possible. Noting rotation candidates for when a slot opens:
+- **NVDA**: AI GPU leader, above all SMAs. Likely Type 3 (SMA 50 pullback) or Type 4 momentum continuation. Top rotation candidate if AMD exits.
+- **MRVL**: Down ~13% on beat — potential Type 2/3 contrarian after-selloff setup at SMA support. Must verify SMA 50/150 structure at open before considering.
+- **MSFT**: Cloud/AI steady. Azure/Copilot growth. Likely Type 3 SMA pullback setup.
+- No new entries today. Full scan noted — not a process omission.
+
+### Risk Factors
+1. **8:30 AM GDP/PCE** — hot print compresses rate-cut bets → tech pressure mid-session
+2. **MRVL −13% AH on beat** — could spill into semi sector at open (AMD risk, MU minimal based on AH price)
+3. **AMD**: −0.89% from entry + MRVL headwind + Type 4 time stop June 2. Most vulnerable position. Stop $459.19 is 5.5% below current $485.61.
+4. **MU approaching +15% trigger**: $981.70. AH price ~$931–$955 — if MU opens above $981.70, ratchet stop to entry $853.65. Alpaca trailing stop auto-tracks HWM.
+5. **Macro**: S&P at highs (~7,532 futures), "top-heavy and richly valued" per commentators — any macro shock amplified
+
+### Action Items
+1. Watch 8:30 AM GDP/PCE — if hot, expect tech softness; monitor AMD stop $459.19
+2. If MU opens above $981.70 (entry ×1.15), log stop ratchet to entry $853.65 (GTC trailing auto-tracks HWM, but log manually)
+3. AMD time stop June 2: exit at close on Monday June 2 regardless of price
+4. MU time stop June 2: exit at close on Monday June 2 regardless of price
+5. If AMD stops out today → slot opens → scan NVDA/MSFT for Type 3/Type 4 entry
+
+### Decision: NO-TRADE-DAY
+**Reason (A)**: Position cap 4/4 full + Type 4 probe cap 2/2 full (AMD + MU). No exit triggered as of pre-market. Rotation not justified — all 4 theses intact.
+
+---
+
 ## 2026-05-27 — Afternoon Addendum (Midday Scan, Day 22 — FINAL CHALLENGE DAY)
 
 **Portfolio:** $102,817.15 | Cash: $20,576.15 (20.0%) | 4 positions | Phase P&L: +$2,817.15 (+2.82%)
