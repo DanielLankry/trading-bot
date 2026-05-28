@@ -1022,3 +1022,17 @@ No positions yet. Bot launches tomorrow (2026-04-28).
 
 **Perplexity research:** AMD queried for sharp +5.35% intraday move. Confirmed fundamental: Meta multi-GW Instinct GPU deal + EPYC Venice 2nm ramp. No adverse news on any position. No further intraday action needed.
 **Trades this week (Week 6):** 0
+
+---
+
+### May 28 — EOD Snapshot (Day 23, Post-Challenge Day 1, Week 6 Thursday)
+**Portfolio:** $104,440.54 | **Cash:** $20,576.15 (19.7%) | **Day P&L:** +$1,056.12 (+1.02%) | **Phase P&L:** +$4,440.54 (+4.44%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| AAPL | 65 | $308.12 | $312.36 | +0.49% | +$275.68 (+1.38%) | 10% trail GTC, stop $281.93, HWM $313.26 (`8a973d5c`) |
+| AMD | 41 | $489.98 | $518.63 | +4.66% | +$1,174.60 (+5.85%) | 10% trail GTC, stop $474.48, HWM $527.20 (`fbed11d0`) |
+| AMZN | 77 | $260.23 | $273.90 | +0.75% | +$1,052.59 (+5.25%) | Fixed $255.00 GTC (`3f18de17`) |
+| MU | 23 | $853.65 | $923.16 | −0.57% | +$1,598.64 (+8.14%) | 10% trail GTC, stop $860.36, HWM $955.96 (`6e48a4b2`) |
+
+**Notes:** Post-Challenge Day 1 — no trades, 4/4 position cap full, all theses intact. AMD led the day +4.66% on continued AI/data-center re-rating (Meta multi-GW Instinct GPU partnership + EPYC Venice 2nm ramp thesis), now +5.85% from entry; trailing stop auto-ratcheted to $474.48 (HWM $527.20). AMZN +0.75%, AAPL +0.49%. MU gave back −0.57% intraday on mild pullback but holds +8.14% from entry with trailing stop at $860.36 (HWM $955.96 — no +15% trigger hit at $981.70). No stop thresholds breached today. AMD + MU Type 4 time stops expire June 2 — 3 trading days remain (May 29, June 1, June 2 = exit). Portfolio: +$1,056.12 (+1.02%) on the day; phase total +$4,440.54 (+4.44%) vs $100K starting capital. Trades this week: 0.
