@@ -991,4 +991,34 @@ No positions yet. Bot launches tomorrow (2026-04-28).
 **GDP/PCE 8:30 AM risk:** Positions all slightly softening intraday (AAPL −0.34%, AMZN −0.59%, MU −0.15%) consistent with potential hot macro print; AMD bucking trend (+1.34%). No stops threatened.
 **AMD time stop June 2:** 3 trading days remain (May 29, June 1, June 2). Exit at close June 2 regardless.
 **MU time stop June 2:** 3 trading days remain. Exit at close June 2 regardless.
+
+---
+
+### May 28 — Midday Scan (Post-Challenge Day 1, Week 6 Thursday)
+**Portfolio:** $104,798.34 | **Cash:** $20,576.15 (19.6%) | **Long MV:** $84,222.19 | **Phase P&L:** +$4,798.34 (+4.80%)
+
+| Ticker | Shares | Entry | Current | Unrealized P&L | Stop | Order ID |
+|--------|--------|-------|---------|----------------|------|----------|
+| AAPL | 65 | $308.12 | $310.70 | +$167.79 (+0.84%) | 10% trail GTC, HWM $313.26, stop $281.93 | `8a973d5c` |
+| AMD | 41 | $489.98 | $522.08 | +$1,315.73 (+6.55%) | 10% trail GTC, HWM $527.20, stop $474.48 | `fbed11d0` |
+| AMZN | 77 | $260.23 | $270.27 | +$772.70 (+3.86%) | Fixed $255.00 GTC | `3f18de17` |
+| MU | 23 | $853.65 | $947.82 | +$2,165.82 (+11.03%) | 10% trail GTC, HWM $955.96, stop $860.36 | `6e48a4b2` |
+
+**Cuts:** NONE — no position at or below −7% threshold. All 4 positions green.
+
+**Stop adjustments:** NONE — no position at or above +15% threshold.
+- AAPL: +0.84% — +15% trigger at $354.34 (not met)
+- AMD: +6.55% — +15% trigger at $563.48 (not met); stop auto-ratcheted intraday to $474.48 (HWM $527.20)
+- AMZN: +3.86% — fixed stop $255 unchanged
+- MU: +11.03% — +15% trigger at $981.70 (not met; current $947.82 = $33.88 below trigger). ⚠ Watch: if MU touches $981.70 intraday, tighten to 7% trail.
+
+**Thesis check:**
+- **AAPL — INTACT.** $310.70, above Type 2 breakout level ($305.54). WWDC June 8–12 catalyst ahead. Mild intraday softness (−0.05% vs yesterday close) is noise.
+- **AMD — INTACT.** +5.35% intraday (HWM $527.20). Perplexity confirmed: move driven by AI/data-center re-rating — Meta multi-gigawatt Instinct GPU partnership, EPYC Venice on TSMC 2nm ramp, AI infrastructure pipeline expansion. No adverse news. Fundamental catalyst, not noise. Type 4 time stop June 2 (3 trading days: May 29, June 1, June 2).
+- **AMZN — INTACT.** −0.58% intraday from yesterday's close; +3.86% from entry $260.23. AWS AI cloud demand thesis unchanged. Fixed stop $255 at 5.7% buffer. No adverse news.
+- **MU — INTACT.** +2.09% intraday; +11.03% from entry. AI-memory/HBM supercycle thesis unchanged. Trailing stop auto-ratcheting via Alpaca GTC. Type 4 time stop June 2 (3 trading days).
+
+**Thesis breaks:** NONE.
+
+**Perplexity research:** AMD queried for sharp +5.35% intraday move. Confirmed fundamental: Meta multi-GW Instinct GPU deal + EPYC Venice 2nm ramp. No adverse news on any position. No further intraday action needed.
 **Trades this week (Week 6):** 0

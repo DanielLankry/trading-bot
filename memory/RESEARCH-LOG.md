@@ -65,6 +65,23 @@ Position cap 4/4 full — no new entries possible. Noting rotation candidates fo
 4. **MU approaching +15% trigger**: $981.70. AH price ~$931–$955 — if MU opens above $981.70, ratchet stop to entry $853.65. Alpaca trailing stop auto-tracks HWM.
 5. **Macro**: S&P at highs (~7,532 futures), "top-heavy and richly valued" per commentators — any macro shock amplified
 
+---
+
+### 2026-05-28 — Afternoon Addendum (Midday Scan)
+
+**AMD +5.35% intraday — Perplexity confirmed fundamental:**
+- Meta multi-gigawatt Instinct GPU partnership (up to 6 GW; first 1 GW shipments in 2H 2026) continuing to drive AI/data-center repricing
+- EPYC Venice (6th Gen) on TSMC 2nm entering production ramp; TSMC Arizona fab ramp announced alongside
+- Q1 2026 data-center revenue $5.8B (+57% YoY) — AI infrastructure bull case intact
+- July 23 "Advancing AI 2026" event = near-term sentiment catalyst ahead
+- Risk: valuation concern + competitive pressure from NVDA noted; insider selling flagged in coverage — secondary noise vs. structural AI bull case
+- **Action:** HOLD. Thesis confirmed. No adverse news. Type 4 time stop June 2 (3 trading days remain).
+
+**Intraday portfolio summary (midday):**
+- AAPL: +0.84% | AMD: +6.55% (HWM $527.20 today) | AMZN: +3.86% | MU: +11.03%
+- No cuts. No stop tightening. All theses intact.
+- ⚠ Watch: MU +15% trigger at $981.70 — if hit, tighten to 7% trail.
+
 ### Action Items
 1. Watch 8:30 AM GDP/PCE — if hot, expect tech softness; monitor AMD stop $459.19
 2. If MU opens above $981.70 (entry ×1.15), log stop ratchet to entry $853.65 (GTC trailing auto-tracks HWM, but log manually)
