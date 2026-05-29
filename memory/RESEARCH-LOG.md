@@ -5,6 +5,82 @@ Format each entry:
 
 ---
 
+## 2026-05-29 — Pre-Market Research (Week 6, Friday)
+
+### Account Snapshot
+- **Equity**: $105,010.62 | **Cash**: $20,576.15 (19.6%) | **Buying Power**: $125,586.77
+- **Phase P&L**: +$5,010.62 (+5.01%) vs ~$100K start
+- **Daytrade count**: 0 | **Positions**: 4/4 (cap full) | **Type 4 probes**: 2/2 (cap full)
+
+### Live Positions (pre-market)
+| Ticker | Shares | Entry | Current | Unrealized P&L | Stop | Notes |
+|--------|--------|-------|---------|----------------|------|-------|
+| AAPL | 65 | $308.12 | $311.10 | +$193.78 (+0.97%) | 10% trail GTC, stop $281.93, HWM $313.26 | Type 2 breakout |
+| AMD | 41 | $489.98 | $523.50 | +$1,374.15 (+6.84%) | 10% trail GTC, stop $474.48, HWM $527.20 | Type 4 — time stop June 2 |
+| AMZN | 77 | $260.23 | $271.89 | +$897.82 (+4.48%) | Fixed $255.00 GTC | Type 3 SMA 50 |
+| MU | 23 | $853.65 | $947.10 | +$2,149.26 (+10.95%) | 10% trail GTC, stop $860.36, HWM $955.96 | Type 4 — time stop June 2 |
+
+### Market Context
+- **S&P 500 futures**: ESM26 ~+0.10% premarket (6,657.50, up ~6.5 pts) — slightly positive open
+- **VIX**: 16.29 (May 27 close) — well below 25; all 5 setup types active ✓
+- **WTI crude**: ~$90.39/bbl (CME, May 27) — elevated; Iran geopolitics risk active
+- **Brent**: ~$118/bbl (older data) — spread wide, oil elevated
+- **SPY**: ~$748.23 (May 27 close) | SMA 50 ~$743.40 | SMA 150 ~$682.47 → SPY well above both SMAs ✓
+- **QQQ**: above own SMA 50 ✓ (macro filter: all 5 setup types active)
+- **Macro filter**: GREEN — full setup universe active
+
+### Economic Calendar (Today)
+- **No major releases today** (per Schwab). Light calendar — PCE released yesterday (May 28, +3.8% YoY), FOMC minutes released May 28.
+- Next key data: Jobs report June 5, CPI June 10.
+- Yesterday's PCE in-line/slightly below expectations — no rate-cut bets crushed overnight.
+
+### Earnings / Catalysts
+- **MRVL (after-close May 28)**: Q1 FY2027 — Revenue $2.42B (beat $2.41B est), EPS $0.80 (beat $0.79 est). Stock +7% AH initially, then gave back to -1.4% AH close. Net: AI custom ASIC demand "exceptional," strong data-center outlook. Positive read-through for MU/AMD semis thesis. No direct position threat.
+- No BMO earnings today relevant to held positions.
+
+### Held-Ticker Research
+- **MU**: +10.95% from entry. AI-memory/HBM supercycle intact. MRVL beat confirms AI custom ASIC demand. +15% trigger ($981.70) needs +$34.60 (+3.7%) more to fire ratchet. Time stop June 2 — 2 more trading days (June 1, June 2). Exit at close June 2 regardless.
+- **AMD**: +6.84% from entry. Meta multi-GW Instinct GPU partnership + EPYC Venice 2nm ramp intact. MRVL beat confirms AI data-center CapEx running. Trailing stop auto-ratcheted to $474.48 (HWM $527.20). Time stop June 2.
+- **AMZN**: +4.48% from entry. AWS AI cloud demand intact. Fixed stop $255 at 6.2% buffer. No adverse news. PCE/GDP yesterday did not hit AWS thesis.
+- **AAPL**: +0.97% from entry. Type 2 breakout level $305.54 holding. WWDC June 8–12 upcoming catalyst. Analyst targets ($300.77 avg) below current price — weakest near-term upside case. Thesis not broken; monitor $305.54 as trail anchor.
+
+### Sector Momentum (YTD)
+- **Leading**: Energy (+26% YTD through March), Consumer Staples (+10.7%), Industrials (+9.6%)
+- **Lagging (sector)**: Tech/Comms broadly — but AI names (NVDA, AMD, MU) leading within tech on AI CapEx re-rating
+- **Watch**: Semis momentum intact; MRVL beat re-affirms AI custom chip cycle
+
+### Trade Ideas (for next week — CANNOT trade today, cap full)
+**TQQQ — Type 5 Leveraged ETF Core (priority for June 1)**
+- Catalyst: AMD + MU exit at close June 2 frees ~$43K. QQQ above SMA 50, macro green. Deploy TQQQ core immediately on June 1–2 after AMD/MU exit.
+- Entry: Market open June 1 if QQQ holds above SMA 50 ($511–520 zone); or after MU/AMD exit June 2.
+- Stop: QQQ daily close below SMA 50 OR TQQQ −8% intraday from entry.
+- Size: ~$4,500–$5,000 (4–5% risk, Type 5).
+
+**NVDA — Type 2 Breakout or Type 3 SMA 50 Pullback**
+- Catalyst: AI infrastructure CapEx supercycle intact. MRVL beat, AMD re-rating, TSMC 2nm ramp all confirm. NVDA is the epicenter.
+- Entry: Confirm breakout above recent resistance OR SMA 50 bounce on daily; Perplexity SMA check required.
+- Stop: Daily close below SMA 50 or breakout level, whichever closer.
+- Size: ~$4,000 (3–4% risk, Type 2/3).
+
+**CRWD — Type 3 SMA 20/50 Pullback**
+- Catalyst: Cybersecurity sector benefiting from AI-driven threat landscape. CRWD has been momentum leader. No near-term earnings catalyst conflicting.
+- Entry: If price pulls back to SMA 20 or SMA 50 on daily; bounce confirmation required.
+- Stop: Daily close below SMA used.
+- Size: ~$3,500 (3–4% risk, Type 3).
+
+### Risk Factors
+1. **AMD + MU time stops June 2** — mandatory exits; plan redeployment in advance
+2. **Iran/oil (~$90 WTI)** — geopolitical flare could hit risk-off; elevated vs recent range
+3. **MRVL AH volatility** — initial +7% then gave back to -1.4%; semi sector may gap unstable today
+4. **Week 6 trade count = 0** — serious under-pace; must enter aggressively next week (post AMD/MU exit)
+5. **AAPL analyst targets below price** — limited near-term catalyst until WWDC June 8. Consider rotation to NVDA/CRWD if AAPL loses $305.54.
+
+### Decision: NO-TRADE-DAY
+**Reason (valid):** Position cap 4/4 full + Type 4 probe cap 2/2 full (AMD + MU). No exits triggered pre-market. No rotation justified — all 4 theses intact, no clearly superior setup displaces any current position.
+**Next action:** June 1 — assess AMD/MU exit timing (time stop June 2), begin deploying TQQQ core + NVDA/CRWD to rebuild weekly trade count.
+
+---
+
 ## 2026-05-28 — Pre-Market Research (Post-Challenge Day 1, Week 6 Thursday)
 
 ### Account Snapshot
