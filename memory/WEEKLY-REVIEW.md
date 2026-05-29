@@ -352,3 +352,72 @@ Template for each entry:
 
 ### Overall Grade: C+
 > Rationale: Capital deployment breakthrough — deployed from 20% → 71% in a single session (Week 4 Friday), addressing the challenge's core failure mode. NVDA full campaign closed at +$1,886.90 realized; trailing stop system executed flawlessly. Process compliance clean: stops honored, spread gates applied, no rule violations across all 5 days. Penalties: (1) 4th consecutive week below the 7-entry floor (5 actual); (2) week return −0.38% vs S&P +0.58% = −0.96% relative; (3) challenge at +0.77% vs estimated S&P +3.9% with 2 days left — alpha gap unrecoverable by normal means. Grade reflects good process + late deployment pattern that runs through the entire challenge.
+
+---
+
+## Week ending 2026-05-29
+
+> **Week 5 / Challenge close-out week (May 26–29; May 25 = Memorial Day).** Challenge officially ended May 27 at +$3,400 (+3.40%) vs estimated S&P ~+4.7% over the Apr 28–May 27 period — challenge LOST by ~1.3%. This week was the strongest of the sprint: a two-stock rotation (GOOGL/NVDA → AMD/MU) on May 26 captured AI-memory and AI-GPU momentum; portfolio ended at +4.14% for the week. Post-challenge mode begins June 1.
+
+### Stats
+| Metric | Value |
+|--------|-------|
+| Starting portfolio | $100,768.10 |
+| Ending portfolio | $104,941.53 |
+| Week return | +$4,173.43 (+4.14%) |
+| S&P 500 week | +1.83% (SPX 7,445.72 → ~7,582) |
+| Bot vs S&P | +2.31% |
+| Trades | 4 (W:0 / L:2 closed / open:4) — 2 rotation exits + 2 new entries |
+| Win rate | 0% (0 of 2 closed — both were deliberate rotation cuts) |
+| Best trade | MU +$2,548.77 unrealized (+12.98%) |
+| Worst trade | NVDA rotation exit −$194.50 (−0.19% capital) |
+| Profit factor | N/A (no closed winners; all gains in open positions) |
+
+### Closed Trades
+| Ticker | Entry | Exit | P&L | Notes |
+|--------|-------|------|-----|-------|
+| GOOGL (52sh) | $385.97 (May 22) | $384.90 (May 26) | −$55.64 | Rotation cut — freed slot for MU; 1-day hold; SMA 20 pullback thesis not given time to develop |
+| NVDA (50sh) | $219.82 (May 22) | $215.93 (May 26) | −$194.50 | Rotation cut — freed slot for AMD; Type 4 probe closed after 2 trading days; time stop June 1 surrendered |
+
+**Total realized this week: −$250.14**
+
+### Open Positions at Week End
+| Ticker | Entry | Close | Unrealized | Stop |
+|--------|-------|-------|------------|------|
+| AAPL | $308.12 (May 22) | $311.25 | +$203.53 (+1.02%) | 10% trail GTC, stop $281.93, HWM $313.26 (`8a973d5c`) |
+| AMD | $489.98 (May 26) | $515.08 | +$1,028.93 (+5.12%) | 10% trail GTC, stop $474.48, HWM $527.20 (`fbed11d0`) — ⚠ time stop June 2 |
+| AMZN | $260.23 (May 19) | $270.55 | +$794.64 (+3.97%) | Fixed $255.00 GTC (`3f18de17`) |
+| MU | $853.65 (May 26) | $964.47 | +$2,548.77 (+12.98%) | 10% trail GTC, stop $860.36, HWM $955.96 (`6e48a4b2`) — ⚠ time stop June 2 |
+
+### What Worked
+- **MU gap entry thesis confirmed:** Entered May 26 at $853.65 on AI-memory/HBM supercycle rerate; MRVL beat the night before confirmed AI custom ASIC demand; Virginia 1α DRAM expansion + CEO memory-shortage commentary drove +18% gap; now +12.98% in 3 trading days — high-quality momentum read, not blind chasing
+- **AMD rotation quality:** Meta multi-GW Instinct GPU partnership (6 GW deployment) + EPYC Venice on TSMC 2nm confirmed AI CapEx cycle intact; +5.12% in 3 trading days
+- **Rotation execution:** Closing GOOGL (−$55) and NVDA (−$194) quickly to redeploy into clearly stronger momentum was correct capital allocation — small cuts to capture big upside; total cost $250 against ~$3,600 in open gains
+- **AMZN durability:** 10th+ day holding; +3.97% from entry; AWS AI thesis repeatedly confirmed across NVDA/AMD/MRVL reports; fixed stop $255 managing well
+- **Challenge final stretch:** Portfolio closed challenge at +3.40% ($103,400) — MU's May 26 gap alone added ~$750 unrealized in the final challenge days
+
+### What Didn't Work
+- **GOOGL and NVDA entered May 22 had zero runway:** Both entered on the penultimate challenge Friday; GOOGL SMA 20 pullback and NVDA Type 4 probe need 3–5 sessions to develop — had 2 trading days (including May 25 holiday close) before rotation; structural timing failure
+- **Challenge LOST:** Bot +3.40% vs S&P ~+4.7% over Apr 28–May 27 — underperformed by ~1.3%; primary cause: 80–90% cash in Weeks 1–3 while all 5 setup types were active
+- **Weekly floor: 2 of 7 (5th straight miss):** May 26 = 2 entries; May 27/28/29 = NO-TRADE-DAY (cap full); positions can only generate 2 new entries per slot-opening event — floor requires more rotation or earlier entries
+- **3 consecutive NO-TRADE-DAYs (May 27–29):** Position cap 4/4 full, valid reason; but no rotation attempted despite AAPL being weakest position (analysts below price, limited near-term catalyst)
+- **Profit factor N/A:** Zero closed winners this week — realized P&L negative while unrealized is strongly positive; difficult to grade trade selection on closed-only basis
+
+### Key Lessons
+- **AI-memory thesis with fundamental confirmation is the sharpest signal in the playbook:** MU entry on the MRVL-beat + HBM-shortage catalyst was the clearest Type 4 setup of the entire challenge; search for this pattern (earnings confirmation → gapped name in same AI CapEx complex) as primary scan priority
+- **Rotation to MU/AMD from GOOGL/NVDA was the right move but came one week too late:** If GOOGL and NVDA had been skipped on May 22 (saving slots for the MU/AMD opportunity on May 26), realized P&L improves ~$250 and the MU/AMD entries would have been uncontested
+- **3-trading-day sprint from entry to time stop (AMD/MU → June 2) compresses the setup:** Type 4 time-stops need 5 clear trading days; entering on Tue May 26 with June 2 time stop leaves only Mon June 2 as buffer; for post-challenge trading, enter Type 4 probes Mon–Wed, not Thu–Fri
+- **Challenge core lesson: Week 1–3 cash was the entire shortfall.** If capital had been deployed at 50%+ in Weeks 1–3 (NVDA was the right name — entered correctly in Week 2 at $198.62), challenge return would have been +8–12%. The entry system works; the deployment pace was the failure
+- **Post-challenge mode requires re-establishing TQQQ core:** QQQ above SMA 50, all 5 setup types active — the leveraged ETF core was never deployed in 5 weeks; this is the largest structural gap vs strategy intent
+
+### Adjustments for Next Week (June 1–5)
+- **Monday June 2 (mandatory exits):** Close AMD at close and MU at close — both hit Type 4 time stop. Evaluate MU: if +15% trigger ($981.70) not yet triggered intraday, close at market. AMD: same. Proceeds ~$42K free.
+- **TQQQ core (top priority June 1–2):** QQQ above SMA 50 ($511–520 zone per strategy); after AMD/MU exits, immediately deploy $40–45K TQQQ core (Type 5, 4–5% risk, stop: QQQ daily close below SMA 50 OR TQQQ −8% intraday)
+- **NVDA Type 2/3 (priority 2):** AI GPU thesis intact; MRVL/AMD confirm AI CapEx cycle; look for SMA 50 pullback or breakout above recent resistance; full-size Type 2 or Type 3 entry
+- **CRWD Type 3 (priority 3):** Persistent spread issues last checked; verify at open June 2 — if ≤2%, enter SMA pullback
+- **AAPL evaluation:** Weakest current position (analysts below price, WWDC June 8–12 is catalyst); hold but set rotation trigger: if AAPL < $305.54 (breakout level) at any open → rotate to NVDA/CRWD
+- **Weekly floor June 1–5:** Must hit 7 new entries — 2 forced exits (AMD/MU close) + 5 additional entries needed from Tue–Fri; aggressive scan required
+- **Jobs report Friday June 5:** No new entries Thursday afternoon; binary event risk
+
+### Overall Grade: B+
+> Rationale: Best relative performance week of the challenge — +4.14% return, +2.31% outperformance vs S&P. MU entry on fundamental-confirmation gap was high-quality; AMD rotation immediately validated by Meta GPU deployment catalyst. Rotation execution from GOOGL/NVDA was decisive and cost-effective (−$250 to capture ~$3,600 in open gains). Penalties: (1) 5th consecutive week below trade floor (2 of 7); (2) challenge closed LOST (+3.40% bot vs ~+4.7% S&P); (3) GOOGL/NVDA entered on May 22 with insufficient runway — structural timing error. Grade is B+ not A because the wins were all unrealized at week end and the trade floor miss is a systemic pattern that must be resolved in post-challenge mode.
