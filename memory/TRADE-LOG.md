@@ -1036,3 +1036,29 @@ No positions yet. Bot launches tomorrow (2026-04-28).
 | MU | 23 | $853.65 | $923.16 | −0.57% | +$1,598.64 (+8.14%) | 10% trail GTC, stop $860.36, HWM $955.96 (`6e48a4b2`) |
 
 **Notes:** Post-Challenge Day 1 — no trades, 4/4 position cap full, all theses intact. AMD led the day +4.66% on continued AI/data-center re-rating (Meta multi-GW Instinct GPU partnership + EPYC Venice 2nm ramp thesis), now +5.85% from entry; trailing stop auto-ratcheted to $474.48 (HWM $527.20). AMZN +0.75%, AAPL +0.49%. MU gave back −0.57% intraday on mild pullback but holds +8.14% from entry with trailing stop at $860.36 (HWM $955.96 — no +15% trigger hit at $981.70). No stop thresholds breached today. AMD + MU Type 4 time stops expire June 2 — 3 trading days remain (May 29, June 1, June 2 = exit). Portfolio: +$1,056.12 (+1.02%) on the day; phase total +$4,440.54 (+4.44%) vs $100K starting capital. Trades this week: 0.
+
+---
+
+### May 29 — Market-Open (Post-Challenge Day 2, Week 6 Friday)
+**Portfolio:** $105,208.95 | **Cash:** $20,576.15 (19.6%) | **Long MV:** $84,632.80 | **Phase P&L:** +$5,208.95 (+5.21%) | **Daytrade count:** 0
+
+**Trades fired:** NONE — NO-TRADE-DAY
+**Reason (A):** Position cap 4/4 full + Type 4 probe cap 2/2 full (AMD + MU, time stop June 2). No exits triggered at open. No rotation justified — all 4 theses intact.
+
+**Open positions (4/4):**
+| Ticker | Shares | Entry | Open Price | Unrealized P&L | Stop | HWM |
+|--------|--------|-------|-----------|----------------|------|-----|
+| AAPL | 65 | $308.12 | $314.05 | +$385.53 (+1.93%) | 10% trail GTC, stop $283.28 (`8a973d5c`) | $314.76 |
+| AMD | 41 | $489.98 | $516.60 | +$1,091.25 (+5.43%) | 10% trail GTC, stop $474.48 (`fbed11d0`) | $527.20 |
+| AMZN | 77 | $260.23 | $273.08 | +$989.46 (+4.94%) | Fixed $255.00 GTC (`3f18de17`) | — |
+| MU | 23 | $853.65 | $957.58 | +$2,390.30 (+12.17%) | 10% trail GTC, stop $867.89 (`6e48a4b2`) | $964.32 |
+
+**Threshold checks:**
+- MU: +12.17% — +15% trigger at $981.70 (needs +$24.12 / +2.5% more). Not yet hit. Stop $867.89 already above entry $853.65 — breakeven rule satisfied. Trailing auto-manages via Alpaca GTC.
+- AMD: +5.43% — well below thresholds. ⚠ Quote showed wide bid/ask ($497/$548) at scan — likely LULD anomaly; position $516.60 valid, not being traded today.
+- AMD time stop June 2: 2 trading days remain (June 1, June 2). Exit at close June 2 regardless.
+- MU time stop June 2: 2 trading days remain. Exit at close June 2 regardless.
+
+**Macro:** SPY/QQQ above SMA 50 ✓ | VIX 16.29 → full sizing ✓ | All 5 setup types active ✓
+**Trades this week (Week 6):** 0 (positions full since May 26 AMD/MU entries — no new entries possible)
+**Next action:** June 1 — AMD/MU time stop exits at close June 2; redeploy into TQQQ core + NVDA/CRWD.
