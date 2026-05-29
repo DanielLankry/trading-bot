@@ -1094,3 +1094,17 @@ No positions yet. Bot launches tomorrow (2026-04-28).
 **Perplexity research:** MU queried for +4.34% intraday surge. Confirmed: HBM/AI-memory demand strength continuation, $1T market cap milestone for Micron + SK Hynix (Bloomberg May 27–29). No adverse news. Earnings June 24 — outside our time stop. Thesis reinforced.
 
 **Trades this week (Week 6):** 0
+
+---
+
+### May 29 — EOD Snapshot (Post-Challenge Day 2, Week 6 Friday)
+**Portfolio:** $104,919.39 | **Cash:** $20,576.15 (19.6%) | **Day P&L:** +$449.44 (+0.43%) | **Phase P&L:** +$4,919.39 (+4.92%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| AAPL | 65 | $308.12 | $311.67 | −0.27% | +$230.83 (+1.15%) | 10% trail GTC, stop $283.46, HWM $314.96 |
+| AMD | 41 | $489.98 | $514.09 | −0.77% | +$988.34 (+4.92%) | 10% trail GTC, stop $474.48, HWM $527.20 |
+| AMZN | 77 | $260.23 | $270.45 | −1.30% | +$786.94 (+3.93%) | Fixed $255.00 GTC |
+| MU | 23 | $853.65 | $964.45 | +4.43% | +$2,548.31 (+12.98%) | 10% trail GTC, stop $882.90, HWM $981.00 |
+
+**Notes:** Post-Challenge Day 2 (Friday) — no trades, 4/4 position cap full. MU led the day +4.43% on continued HBM/AI-memory momentum, closing at $964.45 (+12.98% from entry); +15% breakeven trigger at $981.70 narrowly missed (HWM $981.00 at midday), trailing stop auto-ratcheted to $882.90. AAPL (−0.27%), AMD (−0.77%), and AMZN (−1.30%) gave back small amounts amid light Friday tech rotation — all theses intact, no stop thresholds breached. AMD + MU Type 4 time stops expire June 2 (2 trading days: June 1, June 2 — exit at close regardless). Portfolio: +$449.44 (+0.43%) on the day; phase total +$4,919.39 (+4.92%) vs $100K starting capital. Trades this week: 0. Weekend plan: prep June 1 rotation — AMD/MU exits free ~$43K; redeploy into TQQQ core + NVDA/CRWD setups.
