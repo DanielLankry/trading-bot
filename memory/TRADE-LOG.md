@@ -1062,3 +1062,35 @@ No positions yet. Bot launches tomorrow (2026-04-28).
 **Macro:** SPY/QQQ above SMA 50 ✓ | VIX 16.29 → full sizing ✓ | All 5 setup types active ✓
 **Trades this week (Week 6):** 0 (positions full since May 26 AMD/MU entries — no new entries possible)
 **Next action:** June 1 — AMD/MU time stop exits at close June 2; redeploy into TQQQ core + NVDA/CRWD.
+
+---
+
+### May 29 — Midday Scan (Post-Challenge Day 2, Week 6 Friday)
+**Portfolio:** $104,772.36 | **Cash:** $20,576.15 (19.6%) | **Long MV:** $84,196.21 | **Phase P&L:** +$4,772.36 (+4.77%) | **Day P&L:** +$302.41 (+0.29%)
+
+| Ticker | Shares | Entry | Current | Unrealized P&L | Stop | Order ID |
+|--------|--------|-------|---------|----------------|------|----------|
+| AAPL | 65 | $308.12 | $310.98 | +$185.98 (+0.93%) | 10% trail GTC, HWM $314.96, stop $283.46 | `8a973d5c` |
+| AMD | 41 | $489.98 | $508.97 | +$778.22 (+3.87%) | 10% trail GTC, HWM $527.20, stop $474.48 | `fbed11d0` |
+| AMZN | 77 | $260.23 | $271.41 | +$860.85 (+4.30%) | Fixed $255.00 GTC | `3f18de17` |
+| MU | 23 | $853.65 | $963.57 | +$2,528.07 (+12.88%) | 10% trail GTC, HWM $981.00, stop $882.90 | `6e48a4b2` |
+
+**Cuts:** NONE — no position at or below −7% threshold. All 4 positions green.
+
+**Stop adjustments:** NONE — no position at or above +15% threshold.
+- AAPL: +0.93% — +15% trigger $354.34 (not met)
+- AMD: +3.87% — +15% trigger $563.48 (not met)
+- AMZN: +4.30% — +15% fixed stop $255 unchanged
+- MU: +12.88% — +15% trigger $981.70 (HWM $981.00 — missed trigger by $0.70). ⚠ If MU hits $981.70 intraday before close, cancel `6e48a4b2` and place new 7% trail.
+
+**Thesis check:**
+- **AAPL — INTACT.** $310.98, −0.49% intraday. Type 2 breakout level $305.54 not threatened. WWDC June 8–12 catalyst ahead.
+- **AMD — INTACT.** $508.97, −1.76% intraday pullback from HWM $527.20. Meta multi-GW Instinct GPU partnership + EPYC Venice 2nm thesis confirmed. Time stop June 2 (2 trading days: June 1, June 2).
+- **AMZN — INTACT.** $271.41, −0.95% intraday. AWS AI cloud demand thesis unchanged. Fixed stop $255 at 6.2% buffer.
+- **MU — INTACT AND STRENGTHENING.** +4.34% intraday, +12.88% from entry. Perplexity confirmed: HBM supercycle momentum + $1 trillion market-cap milestone (Bloomberg, May 27). Earnings June 24 — time stop June 2 exits well before. No earnings risk for this position.
+
+**Thesis breaks:** NONE.
+
+**Perplexity research:** MU queried for +4.34% intraday surge. Confirmed: HBM/AI-memory demand strength continuation, $1T market cap milestone for Micron + SK Hynix (Bloomberg May 27–29). No adverse news. Earnings June 24 — outside our time stop. Thesis reinforced.
+
+**Trades this week (Week 6):** 0

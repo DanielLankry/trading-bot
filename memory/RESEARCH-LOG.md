@@ -1794,3 +1794,18 @@ No CPI/PPI today (next: June 10/12). FOMC minutes after close — minimal intrad
 2. Watch 12:30 PM ET GDP/PCE release for volatility
 3. Monitor MRVL after-close — read-through for MU/AMD Thursday open
 4. EOD snapshot + Weekly Review to close the 30-day challenge
+
+---
+
+### 2026-05-29 — Afternoon Addendum (Midday Scan)
+
+**MU intraday catalyst research (+4.34% — queried Perplexity):**
+- **Catalyst confirmed:** HBM/AI-memory momentum continuation + $1 trillion market-cap milestone. Bloomberg (May 27–29) noted Micron and SK Hynix both entering $1T club on HBM demand strength.
+- **No new adverse news.** No surprise earnings pre-announcement, no guidance cut, no regulatory action.
+- **Earnings:** MU Q3 FY2026 scheduled **June 24, 2026**. Our Type 4 time stop exits June 2 — 22 days before earnings. No earnings-event risk for current position.
+- **Thesis:** AI-memory/HBM supercycle intact. Current move is fundamental re-rating, not noise.
+- **Action:** No trade needed. Monitor HWM — if MU hits $981.70 before close, tighten stop to 7% trail (cancel `6e48a4b2`, place new order).
+
+**Other positions:** No sharp unexplained moves. AMD −1.76%, AMZN −0.95%, AAPL −0.49% all normal intraday reversion after yesterday's gains. No thesis concerns.
+
+**Portfolio at midday:** $104,772.36 (+4.77% phase). All 4 positions open. No cuts, no stop changes.
