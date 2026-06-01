@@ -1,5 +1,30 @@
 # Trade Log
 
+### June 1 — Market-Open (Week 7, Monday)
+**Portfolio:** $104,969.02 | **Cash:** $28,782.31 (27.4%) | **Long MV:** $76,186.71 | **Phase P&L:** +$4,969.02 (+4.97%) | **Daytrade count:** 0
+
+**Position management — MU +20% partial exit (strategy rule: up ≥+20% → take 1/3 off):**
+- **MU SELL 8sh @ $1,025.77** (market, ~9:36 AM ET) — Realized P&L: **+$1,376.96 (+20.2%)** [(1,025.77 − 853.65) × 8]
+- Cancelled trailing stop `6e48a4b2` (23sh); placed new 7% trail GTC on remaining 15sh (order `1524572e`, initial stop $951.64, HWM $1,023.27)
+- MU entry $853.65 × 1.20 = $1,024.38 trigger confirmed hit (HWM $1,036.91 per trailing stop order)
+- Remaining 15sh exit plan: close at close June 2 per time stop regardless of price
+
+**Trades fired (new entries):** NONE
+**NO-TRADE-DAY** — Position cap 4/4 full + Type 4 probe cap 2/2 full (AMD + MU). No rotation justified.
+
+**Open positions (4/4 max):**
+| Ticker | Shares | Entry | Current | Unrealized P&L | Stop | Notes |
+|--------|--------|-------|---------|----------------|------|-------|
+| AAPL | 65 | $308.12 | $310.03 | +$124.23 (+0.62%) | 10% trail GTC `8a973d5c` HWM $314.96 | Type 2 breakout |
+| AMD | 41 | $489.98 | $494.99 | +$205.36 (+1.02%) | 10% trail GTC `fbed11d0` stop $474.48 HWM $527.20 | Type 4 — **TIME STOP JUNE 2** |
+| AMZN | 77 | $260.23 | $264.52 | +$330.33 (+1.65%) | Fixed $255.00 GTC `3f18de17` | Type 3 SMA 50 |
+| MU | 15 | $853.65 | $1,025.72 | +$2,580.99 (+20.16%) | 7% trail GTC `1524572e` stop $951.64 | Type 4 — **TIME STOP JUNE 2** |
+
+**Trades this week (Week 7):** 0 new entries (partial exit is position management, not a new entry)
+**AMD + MU time stops: exit at close June 2 (tomorrow)**
+
+---
+
 ### May 22 — Market-Open Trades (Day 20, Week 4 Friday)
 **Portfolio:** $101,301.07 | **Cash:** $29,488.09 (29.1%) | **Long MV:** $71,812.98 | **Phase P&L:** +$1,301.07 (+1.30%) | **Daytrade count:** 3
 
