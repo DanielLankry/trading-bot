@@ -1,5 +1,19 @@
 # Trade Log
 
+### Jun 01 — EOD Snapshot (Week 7, Monday)
+**Portfolio:** $105,184.92 | **Cash:** $28,782.31 (27.4%) | **Day P&L:** −$7.51 (−0.007%) | **Phase P&L:** +$5,184.92 (+5.18%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| AAPL | 65 | $308.12 | $306.40 | −1.81% | −$111.72 (−0.56%) | 10% trail GTC, stop $283.46, HWM $314.96 (`8a973d5c`) |
+| AMD | 41 | $489.98 | $508.66 | −1.44% | +$765.62 (+3.81%) | 10% trail GTC, stop $474.48, HWM $527.20 (`fbed11d0`) — **TIME STOP JUNE 2** |
+| AMZN | 77 | $260.23 | $261.36 | −3.43% | +$87.01 (+0.43%) | Fixed $255.00 GTC (`3f18de17`) |
+| MU | 15 | $853.65 | $1,033.80 | +6.47% | +$2,702.12 (+21.10%) | 5% trail GTC, stop $994.62, HWM $1,046.97 (`aab94709`) — **TIME STOP JUNE 2** |
+
+**Notes:** Week 7 Day 1 (Monday) — one position-management trade: sold MU 8sh @ $1,025.77 at market open (+20% rule triggered, realized +$1,376.96). Portfolio finished essentially flat (−$7.51) as MU's +6.47% surge (HWM $1,046.97, +21.10% from entry) offset broad tech weakness — AAPL −1.81%, AMD −1.44%, AMZN −3.43%. AAPL closed $306.40, just above Type 2 breakout level $305.54 — thesis marginally intact; if tomorrow's close < $305.54, exit pre-market. AMD + MU time stops expire June 2 — exit both at close tomorrow regardless; ~$44K freed for redeployment into TQQQ core + NVDA/CRWD. MU stop tightened to 5% trail (HWM $1,046.97, stop $994.62). Phase P&L: +$5,184.92 (+5.18%) vs $100K. Trades this week: 0 new entries (MU partial = position mgmt).
+
+---
+
 ### June 1 — Midday Scan (Week 7, Monday)
 **Portfolio:** $105,255.46 | **Cash:** $28,782.31 (27.3%) | **Long MV:** $76,473.15 | **Phase P&L:** +$5,255.46 (+5.26%) | **Day P&L:** +$63.03 (+0.06%)
 
