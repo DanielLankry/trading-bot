@@ -5,6 +5,68 @@ Format each entry:
 
 ---
 
+## 2026-06-01 — Pre-Market Research (Week 7, Monday)
+
+### Account Snapshot
+- **Equity**: $105,191.18 | **Cash**: $20,576.15 (19.6%) | **Buying Power**: $125,767.33
+- **Phase P&L**: +$5,191.18 (+5.19%) vs ~$100K start
+- **Daytrade count**: 0 | **Positions**: 4/4 (cap full) | **Type 4 probes**: 2/2 (cap full)
+
+### Live Positions (pre-market)
+| Ticker | Shares | Entry | Current | Unrealized P&L | Stop | Notes |
+|--------|--------|-------|---------|----------------|------|-------|
+| AAPL | 65 | $308.12 | $309.70 | +$102.78 (+0.51%) | 10% trail GTC, stop $283.46, HWM $314.96 | Type 2 breakout — down −0.76% pre-mkt |
+| AMD | 41 | $489.98 | $497.00 | +$287.65 (+1.43%) | 10% trail GTC, stop $474.48, HWM $527.20 | Type 4 — **TIME STOP JUNE 2** — down −3.70% pre-mkt |
+| AMZN | 77 | $260.23 | $268.50 | +$637.10 (+3.18%) | Fixed $255.00 GTC | Type 3 SMA 50 — down −0.79% pre-mkt |
+| MU | 23 | $853.65 | $1,018.81 | +$3,798.68 (**+19.35%**) | 10% trail GTC, stop $882.90→auto-ratchet, HWM $981 | Type 4 — **TIME STOP JUNE 2** — +4.92% pre-mkt |
+
+### ⚠ Active Alerts
+1. **MU +20% trigger**: entry $853.65 × 1.20 = **$1,024.38** — current $1,018.81, only **$5.57 away**. If hit at open → sell ~8 shares (1/3 off), lock partial. Remaining 15 shares exit June 2 per time stop.
+2. **MU trailing stop GTC** (`6e48a4b2`): HWM $981 in system, but current price $1,018+. Will auto-ratchet on first print. Expected new stop ~$916 (10% trail of $1,018).
+3. **MU +15% threshold** ($981.70) was crossed. Breakeven stop rule satisfied (trailing GTC manages automatically).
+4. **AMD + MU time stops expire June 2 (TOMORROW)** — exit both at close June 2 regardless of price.
+
+### Market Context
+- **WTI crude**: ~$89.39/bbl | **Brent**: ~$106/bbl — elevated, moderate headwind to margins
+- **S&P 500 futures (ESM26)**: ~flat to slightly positive (~7,590 area)
+- **VIX**: **15.92** → all 5 setup types active, full sizing ✓
+- **Macro filter**: SPY & QQQ assumed above SMA 50 (low VIX, sector strength). All types active.
+- **Semiconductors YTD**: +76%+ — sector leadership intact; Computer Hardware +163% YTD
+- **Today's economic release**: **ISM Manufacturing PMI 10:00 AM ET** (prior 52.7, consensus ~53). Beat = risk-on; miss or contraction = tech/growth pressure mid-session.
+- **Week ahead**: JOLTS (Tue), ADP (Wed), BLS Jobs Report (Fri)
+
+### Ticker Research
+- **MU**: AI-memory supercycle intact. HBM 2026 supply sold out per CEO. Up 200%+ YTD. Q3 FY2026 earnings **June 24** (time stop exits well before). 1α DRAM ramp at Virginia fab, 256GB DDR5 RDIMMs sampling. No adverse news. MRVL Q1 FY27 beat (+28% rev YoY, raised FY28 target to $16.5B) = positive AI demand read-through.
+- **AMD**: EPYC Venice 2nm ramp confirmed (May 21). $10B+ Taiwan ecosystem investment. Meta multi-GW Instinct GPU partnership intact. Down −3.70% pre-market — normal sector rotation after strong week, not thesis break. Stop $474.48 holds wide buffer. Time stop June 2.
+- **AMZN**: AWS +28% YoY (fastest in 4 years). Snowflake $6B AWS commitment. P/E 32.34 at $268. AI shopping tech expanding. Thesis intact; Morningstar "fairly valued." WWDC not relevant; no near-term earnings catalyst.
+- **AAPL**: $309.70 pre-market. WWDC June 8–12 (Apple Intelligence features = key catalyst). Q2 FY2026: $111B revenue +17% YoY, $100B buyback, 4% dividend raise. Weakest near-term upside case (analyst avg target below current), but WWDC catalyst imminent. Breakout level $305.54 intact.
+- **MRVL read-through**: Q1 FY2027 beat — revenue $2.418B (+28% YoY), EPS $0.80. Raised Q2 guide to $2.7B ± 5%, FY2027 target ~$11.5B, FY2028 target $16.5B. Stock rose ~3.5% after-hours May 27. **Positive AI-chip demand confirmation for MU + AMD theses.**
+
+### Trade Ideas (post-June 2 rotation — execute June 3 or end-of-day June 2)
+1. **TQQQ core (Type 5)** — 40–50% ($42–52K). Need QQQ above SMA 50 confirmed (expected yes given VIX 15.92 and sector strength). Enter at open June 3 if QQQ structure clean.
+2. **NVDA (Type 2/3)** — AI data center, hyperscaler capex acceleration. Need earnings date check (Q1 FY2027 ~May 28 likely already past). Check SMA structure for Type 2 breakout or Type 3 SMA 50 pull.
+3. **CRWD (Type 3/4)** — Cybersecurity high-beta. CrowdStrike sector tailwind. Check SMA 50 structure.
+- Pre-market scan today covers full universe but no entries possible until position slots open June 2 EOD.
+
+### Risk Factors
+1. **ISM PMI 10:00 AM** — below 50 or miss = manufacturing contraction → risk-off sentiment → tech pressure
+2. **AMD down −3.70% pre-market** — trailing stop $474.48 has ~4.8% buffer from current $497; watch for further downside to avoid stop-out before planned June 2 exit
+3. **Oil at $89.39** — elevated energy costs; macro overhead but not a direct tech risk
+4. **MU time stop June 2** — exiting a +19%+ winner at arbitrary time stop means leaving potential on table; this is correct process, not error
+5. **Week ahead: JOLTS/ADP/Jobs** — labor data could shift rate-cut expectations mid-week; position into TQQQ after June 2 carries this risk
+
+### Decision: NO-TRADE-DAY
+**Reason (A)**: Position cap 4/4 full + Type 4 probe cap 2/2 full (AMD + MU, time stop June 2 tomorrow). No exits triggered today; no rotation justified.
+**Exception**: MU +20% partial exit ($1,024.38) is a **position management action** — sell ~8 shares if hit at/after open. NOT a new entry; does not change NO-TRADE-DAY designation.
+
+**Action plan today:**
+- Monitor MU: if hits $1,024.38 → sell 8 shares (MU: 23→15 shares), cancel `6e48a4b2`, place new 7% trail GTC on 15 shares
+- Watch ISM PMI 10:00 AM for volatility
+- Check AAPL for WWDC-related pre-positioning momentum
+- Tomorrow June 2: exit AMD + MU at close. Pre-market research June 2 will finalize TQQQ/NVDA/CRWD rotation plan.
+
+---
+
 ## 2026-05-29 — Pre-Market Research (Week 6, Friday)
 
 ### Account Snapshot
