@@ -1871,3 +1871,28 @@ No CPI/PPI today (next: June 10/12). FOMC minutes after close — minimal intrad
 **Other positions:** No sharp unexplained moves. AMD −1.76%, AMZN −0.95%, AAPL −0.49% all normal intraday reversion after yesterday's gains. No thesis concerns.
 
 **Portfolio at midday:** $104,772.36 (+4.77% phase). All 4 positions open. No cuts, no stop changes.
+
+---
+
+### 2026-06-01 — Afternoon Addendum (Midday Scan)
+
+**AMZN −3.19% intraday (queried Perplexity):**
+- No Amazon-specific negative catalyst identified. Amazon Now expansion, AWS $244B backlog, AI demand intact.
+- Move attributed to macro rotation or pre-earnings drift — **Q2 FY2026 earnings confirmed July 30, 2026** (not this week; prior Perplexity result referencing "Wednesday" was Q1 April 29 — already past).
+- AWS Q1 growth: +28% YoY. AI infrastructure demand strong. Thesis intact.
+- Fixed stop $255 provides $7.01 buffer (2.67%). No action.
+
+**AAPL −2.04% intraday — approaching breakout level $305.54:**
+- AAPL trading at $305.73 at midday — $0.19 above Type 2 breakout level $305.54.
+- **Tim Cook → John Ternus CEO effective September 1, 2026** (Cook becomes executive chairman). Planned transition, not sudden departure. Material but not thesis-breaking.
+- WWDC June 8–12 catalyst intact. Q2 FY2026 beat ($111.2B rev, EPS $2.01 vs $1.95 est).
+- **Watchpoint:** If today's close is below $305.54, exit pre-market June 2 per Type 2 "close below breakout level" rule. At midday, still holding above the level.
+
+**MU +7.72% intraday — stop tightened to 5% trail:**
+- No new research needed. HBM/AI-memory supercycle thesis fully intact.
+- Trailing stop tightened 7%→5% per strategy rule (up ≥+20%). New order `aab94709`, stop $989.86, HWM $1,041.96.
+- Time stop June 2 — exit at close tomorrow regardless.
+
+**AMD −1.52% intraday:** Normal reversion. Thesis intact. Time stop June 2 — exit at close tomorrow.
+
+**No further intraday action needed unless AAPL closes below $305.54.**

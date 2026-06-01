@@ -1,5 +1,39 @@
 # Trade Log
 
+### June 1 — Midday Scan (Week 7, Monday)
+**Portfolio:** $105,255.46 | **Cash:** $28,782.31 (27.3%) | **Long MV:** $76,473.15 | **Phase P&L:** +$5,255.46 (+5.26%) | **Day P&L:** +$63.03 (+0.06%)
+
+| Ticker | Shares | Entry | Current | Unrealized P&L | Stop | Order ID |
+|--------|--------|-------|---------|----------------|------|----------|
+| AAPL | 65 | $308.12 | $305.73 | −$157.54 (−0.79%) | 10% trail GTC, HWM $314.96, stop $283.46 | `8a973d5c` — ⚠ NEAR BREAKOUT |
+| AMD | 41 | $489.98 | $508.25 | +$748.90 (+3.73%) | 10% trail GTC, HWM $527.20, stop $474.48 | `fbed11d0` — TIME STOP JUNE 2 |
+| AMZN | 77 | $260.23 | $262.01 | +$137.06 (+0.68%) | Fixed $255.00 GTC | `3f18de17` |
+| MU | 15 | $853.65 | $1,045.98 | +$2,884.89 (+22.53%) | **5% trail GTC**, HWM $1,041.96, stop $989.86 | `aab94709` — TIME STOP JUNE 2 |
+
+**Cuts:** NONE — no position at or below −7% threshold. All 4 positions green except AAPL (−0.79% from entry).
+
+**Stop adjustments:**
+- **MU: tightened 7% → 5% trail** (strategy rule: up ≥+20% → trail_percent "5"). Cancelled `1524572e`; placed `aab94709` (stop $989.86, HWM $1,041.96). Not within 3% of current price ✓ (stop is 5.4% below current).
+- AAPL: −0.79% — not eligible
+- AMD: +3.73% — not eligible
+- AMZN: +0.68% — fixed stop unchanged
+
+**Thesis check:**
+- **AAPL — ⚠ CAUTION.** $305.73, down −2.04% intraday. Type 2 breakout level $305.54 is only $0.19 away. No company-specific negative catalyst. Tim Cook → John Ternus CEO effective Sept 1, 2026 (exec chairman transition announced — governance change, not sudden departure). WWDC June 8–12 catalyst still intact. Thesis technically intact at midday (price above breakout level) but one bad hour can close below $305.54. **If today's close is below $305.54, exit tomorrow pre-market per Type 2 rule.**
+- **AMD — INTACT.** $508.25, −1.52% intraday. AI/data-center meta-thesis (Meta multi-GW Instinct GPU + EPYC Venice 2nm) unchanged. Time stop June 2 — exit at close tomorrow regardless.
+- **AMZN — INTACT.** $262.01, −3.19% intraday from $270.64 close. No company-specific negative news (Perplexity: no headline found). AWS 28% growth, $244B backlog, thesis intact. Drop attributed to macro rotation. Earnings confirmed July 30 — well outside 5-day window. Fixed stop $255 at $7.01 buffer (2.67%). Hold.
+- **MU — INTACT AND STRONG.** +22.53% from entry, +7.72% intraday today. HBM/AI-memory supercycle thesis intact. Time stop June 2 — exit at close tomorrow regardless.
+
+**Thesis breaks:** NONE. AAPL flagged as CAUTION — monitor close.
+
+**Perplexity research:**
+- AMZN queried for −3.19% intraday drop: no specific catalyst found. AWS/AI demand thesis intact. Earnings July 30 (confirmed).
+- AAPL queried for breakout level threat: fundamentals intact, WWDC ahead, Tim Cook → Ternus CEO transition Sept 1 (planned, not sudden). No breakdown signal confirmed.
+
+**Trades this week (Week 7):** 0 new entries
+
+---
+
 ### June 1 — Market-Open (Week 7, Monday)
 **Portfolio:** $104,969.02 | **Cash:** $28,782.31 (27.4%) | **Long MV:** $76,186.71 | **Phase P&L:** +$4,969.02 (+4.97%) | **Daytrade count:** 0
 
