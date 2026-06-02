@@ -1,5 +1,17 @@
 # Trade Log
 
+### Jun 02 — EOD Snapshot (Week 7, Tuesday)
+**Portfolio:** $105,003.71 | **Cash:** $73,334.21 (69.8%) | **Day P&L:** −$253.59 (−0.24%) | **Phase P&L:** +$5,003.71 (+5.00%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| AAPL | 65 | $308.12 | $315.30 | +2.94% | +$466.74 (+2.33%) | 10% trail GTC, stop $283.91, HWM $315.45 (`8a973d5c`) |
+| NVDA | 50 | $226.70 | $223.53 | −0.37% | −$158.50 (−1.40%) | 10% trail GTC, stop $209.05, HWM $232.28 (`91a34446`) |
+
+**Notes:** Week 7 Day 2 (Tuesday) — rotation complete. AMD and MU time stops executed at open (+$786.22 and +$2,580.15 realized); AMZN fixed stop $255 triggered at $254.89 on broad tech selloff (−$411.18 realized; stop functioned correctly, no thesis-break exit). NVDA entered as Type 4 momentum probe (50sh @ $226.70, time stop June 9). AAPL closed strong +2.94% (HWM $315.45; trailing stop auto-ratcheted to $283.91); NVDA drifted mildly −0.37% from entry — within normal probe range, stop $209.05 (HWM $232.28) provides 9.1% buffer. Portfolio: −$253.59 (−0.24%) on the day — reflects AMZN realized loss offset by embedded gains locked via exits; phase total +$5,003.71 (+5.00%) vs $100K starting capital. Cash $73,334 (69.8%) ready for deployment. Trades today: 4 (3 exits + 1 NVDA entry). Trades this week: 1 new entry. June 3 priority: post-CRWD/AVGO earnings reactions + full scan — 6 more entries needed to hit weekly floor of 7.
+
+---
+
 ### June 2 — Market-Open Trades (Week 7, Tuesday)
 **Portfolio:** $104,829.92 | **Cash:** $73,334.21 (70.0%) | **Long MV:** $31,495.71 | **Phase P&L:** +$4,829.92 (+4.83%) | **Daytrade count:** 1
 
