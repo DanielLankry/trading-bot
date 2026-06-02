@@ -32,6 +32,34 @@
 
 ---
 
+### June 2 — Midday Scan (Week 7, Tuesday)
+**Portfolio:** $105,041.81 | **Cash:** $73,334.21 (69.8%) | **Long MV:** $31,707.60 | **Phase P&L:** +$5,041.81 (+5.04%) | **Day P&L:** −$215.49 (−0.20%)**
+
+| Ticker | Shares | Entry | Current | Unrealized P&L | Stop | Order ID |
+|--------|--------|-------|---------|----------------|------|----------|
+| AAPL | 65 | $308.12 | $314.61 | +$421.93 (+2.11%) | 10% trail GTC, HWM $314.96, stop $283.46 | `8a973d5c` |
+| NVDA | 50 | $226.70 | $225.24 | −$72.97 (−0.64%) | 10% trail GTC, HWM $232.28, stop $209.05 | `91a34446` |
+
+**Cuts:** NONE — no position at or below −7% threshold.
+- AAPL: +2.11% — cut threshold $286.55 (not breached)
+- NVDA: −0.64% — cut threshold $210.83 (not breached; stop $209.05 already acts as backstop)
+
+**Stop adjustments:** NONE — no position at or above +15% threshold.
+- AAPL: +2.11% — +15% trigger at $354.34 (not met)
+- NVDA: −0.64% — below entry; +15% trigger at $260.71 (not met)
+
+**Thesis check:**
+- **AAPL — INTACT.** $314.61 (+2.71% intraday). Broad market at ATH on rate-cut hopes driving sector lift; no AAPL-specific catalyst per Perplexity. WWDC June 8–12 imminent — next major catalyst. Type 2 breakout level $305.54 not threatened. Stop $283.46 (10% trail, HWM $314.96) — Alpaca will auto-ratchet if new intraday high.
+- **NVDA — INTACT.** $225.24 (+0.39% intraday, −0.64% from entry). Mild drift below entry — within normal Type 4 probe range. AI data-center supercycle thesis unchanged (Q1 FY2027: $81.6B rev, Q2 guide $91B). Time stop June 9. Stop $209.05 (10% trail of HWM $232.28 — 9.1% buffer from entry). No new adverse news.
+
+**Thesis breaks:** NONE.
+
+**Perplexity research:** AAPL queried for +2.71% intraday surge. Confirmed: broad market at new closing highs on rate-cut hopes; no AAPL-specific corporate catalyst in last 7 days. Fundamentals intact (Q2 beat $111.2B/+17% YoY). WWDC June 8–12 is next key catalyst — thesis reinforced.
+
+**Trades this week (Week 7):** 1 (NVDA entry at open)
+
+---
+
 ### Jun 01 — EOD Snapshot (Week 7, Monday)
 **Portfolio:** $105,184.92 | **Cash:** $28,782.31 (27.4%) | **Day P&L:** −$7.51 (−0.007%) | **Phase P&L:** +$5,184.92 (+5.18%)
 

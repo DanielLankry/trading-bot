@@ -5,6 +5,33 @@ Format each entry:
 
 ---
 
+## 2026-06-02 — Midday Addendum (Week 7, Tuesday)
+
+### Portfolio Snapshot (midday)
+- **Equity:** $105,041.81 | **Cash:** $73,334.21 (69.8%) | **Long MV:** $31,707.60
+- **Phase P&L:** +$5,041.81 (+5.04%) | **Day P&L:** −$215.49 (−0.20%)
+- **Positions:** 2/4 (AAPL, NVDA)
+
+### AAPL +2.71% Intraday — Perplexity Check
+**Query:** Recent news, earnings, sector context, macro risks — last 7 days.
+**Findings:**
+- No AAPL-specific corporate catalyst in last 7 days. Broad market at new closing highs on rate-cut hopes — sector tailwind driving the move.
+- Last reported quarter: Q2 FY2026 — $111.2B revenue (+17% YoY), EPS $2.01 (+22% YoY) — beat consensus.
+- Risk flags: supply constraints (explicitly noted), tariff sensitivity (~$1.1B prior quarter), rate-cut thesis dependency.
+- **WWDC June 8–12** — next key catalyst (Apple Intelligence features). Not covered by Perplexity results but confirmed from prior research.
+- **Conclusion:** +2.71% intraday = sector/macro lift, not AAPL-specific news. Thesis intact. No action.
+
+### NVDA Check
+- $225.24 (−0.64% from entry $226.70) — mild drift, +0.39% intraday.
+- No sharp move warranting Perplexity query. AI supercycle thesis intact. Time stop June 9.
+
+### Midday Decision
+- **Cuts:** NONE | **Stop adjustments:** NONE | **Thesis breaks:** NONE
+- No new entries possible today (CRWD/AVGO earnings June 3 AMC — binary risk; TQQQ QQQ 22% extended)
+- **Watch for:** AAPL approaching HWM $314.96 — new high triggers auto-ratchet of 10% trail. NVDA must recover above $226.70 or time-stop logic holds June 9 regardless.
+
+---
+
 ## 2026-06-02 — Market-Open Research (Week 7, Tuesday — Inline)
 
 ### Account Snapshot (at open)
