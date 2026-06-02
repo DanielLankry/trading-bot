@@ -5,6 +5,54 @@ Format each entry:
 
 ---
 
+## 2026-06-02 — Market-Open Research (Week 7, Tuesday — Inline)
+
+### Account Snapshot (at open)
+- **Equity**: $104,829.92 | **Cash**: $73,334.21 (70.0%) | **Buying Power**: $178,164.13
+- **Phase P&L**: +$4,829.92 (+4.83%) vs $100K start
+- **Daytrade count**: 1 | **Positions**: 4→2 (AMD/MU/AMZN exits; NVDA entry)
+
+### Exits Executed at Open
+1. **AMD SELL 41sh @ $509.16** — Time stop June 2. Realized P&L: +$786.22 (+3.92%)
+2. **MU SELL 15sh @ $1,025.66** — Time stop June 2. Realized P&L: +$2,580.15 (+20.16%)
+3. **AMZN STOP-OUT 77sh @ $254.89** — Fixed stop $255 triggered. Broad tech selloff; no AMZN-specific catalyst (Perplexity confirmed). Realized P&L: −$411.18 (−2.06%)
+
+### Market Context
+- **SPY**: Above SMA 50 ($722.50) ✓ — macro filter GREEN
+- **QQQ**: Above SMA 50 ($655.93); ~22% extended above SMA 50 — no TQQQ Type 5 entry
+- **VIX**: ~15.92 (June 1 close) — all 5 setup types active ✓
+- **Broad tech**: Mild selloff on open; AMZN down ~3% on sector rotation, no specific catalyst
+
+### Universe Scan — All 5 Setup Types
+| Ticker | Setup | Status | Notes |
+|--------|-------|--------|-------|
+| NVDA | Type 4 Momentum Probe | **ENTERED 50sh @ $226.70** | Above SMA 50 ($200)/150 ($190)/200 ($188), all sloping up ✓; AI supercycle thesis intact; spread 0.17% ✓; no earnings until Q2 FY2027 ~Aug 2026 ✓ |
+| CRWD | Type 3/4 | SKIP | **Earnings June 3 AMC** (Q1 FY2027 confirmed from investor relations) |
+| AVGO | Type 3 | SKIP | **Earnings June 3 AMC** (Q2 FY2026 confirmed from investor relations) |
+| TQQQ | Type 5 | SKIP | QQQ ~22% above SMA 50 ($655.93) — no pullback entry valid |
+| MRVL | Type 4 | SKIP | Bid $272/Ask $280, spread 2.9% → ILLIQUID |
+| AMD | Type 4 | SKIP | Just exited time stop at $509.16; not at SMA pullback zone |
+| AAPL | Hold | HOLD | 65sh @ $308.12, current $309.19 (+0.35%); stop $283.46 trail GTC; WWDC June 8–12 intact |
+
+### Decision
+**1 new entry: NVDA Type 4 momentum probe (50sh @ $226.70)**
+- Stop: 10% trail GTC `91a34446`, stop $205.03, HWM $227.81; **TIME STOP JUNE 9**
+- Risk: 50 × ($226.70 − $205.03) = $1,083.50 = 1.03% capital; position cost $11,335 = 10.8% equity ✓
+- Position cap check: 2/4 ✓ | 0 leveraged ETFs ✓ | 1/2 momentum probes ✓
+
+### Risk Factors
+1. **CRWD + AVGO earnings June 3 AMC** — binary sector events; NVDA may react AH/pre-market
+2. **QQQ extended 22%** — momentum environment favors holds but elevated pullback risk
+3. **AMZN stopped out** — $411 realized loss; stop functioned correctly, no override
+
+### Tomorrow (June 3) Action Plan
+1. CRWD + AVGO post-earnings reaction: if sold off → potential Type 3 SMA bounce entry after gap (requires SMA structure confirmation); if beat and gap up → potential Type 2 at open
+2. NVDA: verify thesis intact, check stop ratchet
+3. Full universe scan: MSFT, META, PLTR, NET, AMD (at SMA 50 pullback?), MSTR/COIN
+4. TQQQ: continue to monitor for QQQ pullback toward SMA 50 ($655) — currently not viable
+
+---
+
 ## 2026-06-01 — Pre-Market Research (Week 7, Monday)
 
 ### Account Snapshot

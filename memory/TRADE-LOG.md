@@ -1,5 +1,37 @@
 # Trade Log
 
+### June 2 — Market-Open Trades (Week 7, Tuesday)
+**Portfolio:** $104,829.92 | **Cash:** $73,334.21 (70.0%) | **Long MV:** $31,495.71 | **Phase P&L:** +$4,829.92 (+4.83%) | **Daytrade count:** 1
+
+**Exits (position management):**
+- **AMD SELL 41sh @ $509.16** (~9:38 AM ET) — Time stop June 2 (5 trading days from May 26 entry). Realized P&L: **+$786.22 (+3.92%)**. Order `39138ad5`.
+- **MU SELL 15sh @ $1,025.66** (~9:38 AM ET) — Time stop June 2 (5 trading days from May 26 entry). Realized P&L: **+$2,580.15 (+20.16%)**. Order `9975e751`.
+- **AMZN STOP-OUT 77sh @ $254.89** (~9:38 AM ET) — Fixed stop $255 triggered. Broad tech selloff (AMZN −2.5% at open); no company-specific catalyst per Perplexity; AWS thesis intact but stop acted correctly. Realized P&L: **−$411.18 (−2.06%)**. Order `3f18de17`.
+
+**New Entries:**
+| Ticker | Shares | Entry | Stop | Thesis | Target | R:R |
+|--------|--------|-------|------|--------|--------|-----|
+| NVDA | 50 | $226.70 | 10% trail GTC, stop $205.03, HWM $227.81 (`91a34446`) | Type 4 Momentum Probe; above SMA 50 ($200)/SMA 150 ($190)/SMA 200 ($188), all up-sloping ✓; AI data-center supercycle intact (Q1 FY2027: $81.6B rev, Q2 guide $91B); OpenAI 10 GW NVIDIA deployment; RTX Spark product launch; no earnings until Q2 FY2027 ~Aug 2026 ✓ | $245–255 (+8–12%) | ~2.3:1 |
+
+**Candidates skipped:**
+- **CRWD** — Earnings June 3 AMC. SKIP (within 5 trading days — half-size/skip rule).
+- **AVGO** — Earnings June 3 AMC. SKIP (within 5 trading days — half-size/skip rule).
+- **TQQQ** — QQQ SMA 50 = $655.93; QQQ ~22% extended above SMA 50. No Type 5 pullback entry.
+- **MRVL** — Bid $272 / Ask $280, spread 2.9% → ILLIQUID. SKIP.
+- **AMD re-entry** — Just exited via time stop at $509.16; not at clean SMA pullback zone for re-entry.
+
+**Open positions (2/4 max):**
+| Ticker | Shares | Entry | Current | Unrealized P&L | Stop | Notes |
+|--------|--------|-------|---------|----------------|------|-------|
+| AAPL | 65 | $308.12 | $309.19 | +$69.44 (+0.35%) | 10% trail GTC `8a973d5c` stop $283.46 HWM $314.96 | Type 2 breakout — WWDC June 8–12 catalyst |
+| NVDA | 50 | $226.70 | $227.38 | +$34.00 (+0.30%) | 10% trail GTC `91a34446` stop $205.03 HWM $227.81 | Type 4 — **TIME STOP JUNE 9** |
+
+**Macro:** SPY/QQQ above SMA 50 ✓ | VIX ~15.92 GREEN | All 5 setup types active ✓ | QQQ ~22% above SMA 50 → TQQQ not viable | CRWD + AVGO earnings June 3 AMC
+**Trades this week (Week 7):** 1 new entry (NVDA)
+**Notes:** AMD + MU time stops executed as planned. AMZN stopped out at $254.89 — $255 stop triggered on broad tech selloff (-2.5%); no AMZN-specific catalyst; stop functioned correctly. ~$56K freed for redeployment. TQQQ entry deferred (QQQ 22% above SMA 50 — not a valid Type 5 pullback). CRWD + AVGO both reporting June 3 AMC — blocked. June 3 priority: post-earnings reactions on CRWD/AVGO + NVDA check + full universe scan for 6 more entries needed to hit weekly floor of 7.
+
+---
+
 ### Jun 01 — EOD Snapshot (Week 7, Monday)
 **Portfolio:** $105,184.92 | **Cash:** $28,782.31 (27.4%) | **Day P&L:** −$7.51 (−0.007%) | **Phase P&L:** +$5,184.92 (+5.18%)
 
