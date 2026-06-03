@@ -1,5 +1,18 @@
 # Trade Log
 
+### Jun 03 — EOD Snapshot (Week 7, Wednesday)
+**Portfolio:** $104,318.85 | **Cash:** $52,813.93 (50.6%) | **Day P&L:** −$143.48 (−0.14%) | **Phase P&L:** +$4,318.85 (+4.32%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| AAPL | 65 | $308.12 | $310.05 | −1.63% | +$125.53 (+0.63%) | 10% trail GTC, stop $285.24, HWM $316.93 (`8a973d5c`) |
+| AMD | 38 | $540.01 | $542.50 | +4.02% | +$94.75 (+0.46%) | 10% trail GTC, stop $491.73, HWM $546.37 (`bb465e5c`) — **TIME STOP JUNE 10** |
+| NVDA | 50 | $226.70 | $214.87 | −3.57% | −$591.50 (−5.22%) | 10% trail GTC, stop $209.05, HWM $232.28 (`91a34446`) — **TIME STOP JUNE 9** |
+
+**Notes:** Week 7 Day 3 (Wednesday) — portfolio −$143.48 (−0.14%) on the day. One trade: AMD re-entry (38sh @ $540.01, Type 4 momentum probe, time stop June 10). AMD bounced +4.02% from yesterday's close on AI/data-center strength — Meta Instinct GPU + EPYC Venice thesis intact; BofA conference catalyst tomorrow (June 4). NVDA dropped −3.57% (−5.22% from entry), continuing sell-the-news / sector rotation; stop $209.05 auto-manages; −7% cut floor $210.83 is $4.04 above today's close ($214.87) — no forced exit today, but ⚠ NVDA is key risk into June 4 (BofA CFO Kress 11:40 AM = potential re-rating catalyst). AAPL −1.63% intraday, +0.63% from entry; WWDC June 8–12 now 5 days out. Phase P&L: +$4,318.85 (+4.32%) vs $100K starting capital. Trades today: 1 (AMD buy 38sh @ $540.01). New entries this week: 2/7 — NVDA June 2, AMD June 3; 5 more needed by Friday EOD. Priority June 4: CRWD + AVGO post-earnings reactions at open.
+
+---
+
 ### June 3 — Midday Scan (Week 7, Wednesday)
 **Portfolio:** $104,037.43 | **Cash:** $52,813.93 (50.8%) | **Long MV:** $51,223.50 | **Phase P&L:** +$4,037.43 (+4.04%) | **Day P&L:** −$424.90 (−0.41%)**
 
