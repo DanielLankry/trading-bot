@@ -1,5 +1,35 @@
 # Trade Log
 
+### June 3 — Midday Scan (Week 7, Wednesday)
+**Portfolio:** $104,037.43 | **Cash:** $52,813.93 (50.8%) | **Long MV:** $51,223.50 | **Phase P&L:** +$4,037.43 (+4.04%) | **Day P&L:** −$424.90 (−0.41%)**
+
+| Ticker | Shares | Entry | Current | Unrealized P&L | Stop | Order ID |
+|--------|--------|-------|---------|----------------|------|----------|
+| AAPL | 65 | $308.12 | $310.17 | +$133.33 (+0.67%) | 10% trail GTC, HWM $316.93, stop $285.237 | `8a973d5c` |
+| AMD | 38 | $540.01 | $534.24 | −$219.13 (−1.07%) | 10% trail GTC, HWM $544.00, stop $489.60 | `bb465e5c` |
+| NVDA | 50 | $226.70 | $215.83 | −$543.50 (−4.80%) | 10% trail GTC, HWM $232.28, stop $209.05 | `91a34446` |
+
+**Cuts:** NONE — no position at or below −7% threshold.
+- AAPL: +0.67% — cut threshold $286.55 (not breached)
+- AMD: −1.07% — cut threshold $502.21 (not breached; stop $489.60 is backstop)
+- NVDA: −4.80% — cut threshold $210.83 (**⚠ WATCH — $215.83, only $5 above floor**; stop $209.05 backstop)
+
+**Stop adjustments:** NONE — no position at or above +15% threshold.
+- AAPL: +0.67% — +15% trigger at $354.34 (not met)
+- AMD: −1.07% — not eligible
+- NVDA: −4.80% — not eligible
+
+**Thesis checks:**
+- **AAPL — INTACT.** $310.17, −1.60% intraday. WWDC June 8–12 catalyst 5 days out. Type 2 breakout level $305.54 not threatened. Stop $285.237 (HWM $316.93) well below price.
+- **AMD — INTACT.** $534.24, +2.44% today (recovering from $521.54 yesterday close). −1.07% from entry within normal Type 4 probe range. HWM $544.00, stop $489.60. Time stop June 10. BofA conference tomorrow (June 4) potential synergy catalyst.
+- **NVDA — INTACT, ⚠ MONITORED.** $215.83, −3.14% intraday, −4.80% from entry $226.70. Perplexity: broader semiconductor sector rotation + sell-the-news dynamics; H200 China limitation is old May 14 news, not a fresh catalyst today. No new company-specific negative. AI data-center supercycle thesis unchanged (Q2 guide $91B). BofA conference June 4 (CFO Kress 11:40 AM ET) = next catalyst. Stop $209.05 (HWM $232.28) is backstop. −7% cut floor $210.83 — holding per rules. Time stop June 9.
+
+**Thesis breaks:** NONE. NVDA ⚠ flagged: $5 above −7% cut threshold. Stop $209.05 will auto-trigger if breached.
+
+**Perplexity research:** NVDA queried for −3.14% intraday drop. Findings: broader semiconductor sector rotation + sell-the-news pressure + China H200 limitation (old May 14 news). No fresh negative catalyst today. AI data-center supercycle thesis intact. Hold per rules. CRWD + AVGO have not yet reported (AMC tonight).
+
+---
+
 ### June 3 — Market-Open Trades (Week 7, Wednesday)
 **Portfolio:** $104,961.09 | **Cash:** $52,813.93 (50.3%) | **Long MV:** $52,147.16 | **Phase P&L:** +$4,961.09 (+4.96%) | **Daytrade count:** 1
 
