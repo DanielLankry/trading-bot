@@ -5,6 +5,117 @@ Format each entry:
 
 ---
 
+## 2026-06-03 — Pre-Market Research (Week 7, Wednesday)
+
+### Account Snapshot
+- **Equity:** $104,881.63 | **Cash:** $73,334.18 (69.9%) | **BP:** $178,215.81
+- **Long MV:** $31,547.45 | **Phase P&L:** +$4,881.63 (+4.88%) | **Daytrade count:** 0
+- **Positions:** 2/4 | **Type 4 probes:** 1/2 (NVDA, time stop June 9)
+
+### Live Positions (pre-market)
+| Ticker | Shares | Entry | Last Close | Unrealized P&L | Stop | Notes |
+|--------|--------|-------|------------|----------------|------|-------|
+| AAPL | 65 | $308.12 | $314.73 | +$429.73 (+2.15%) | 10% trail GTC, stop $283.91, HWM $315.45 (`8a973d5c`) | Type 2 breakout — **WWDC June 8–12 (5 days)** |
+| NVDA | 50 | $226.70 | $221.80 | −$245.00 (−2.16%) | 10% trail GTC, stop $209.05, HWM $232.28 (`91a34446`) | Type 4 probe — **TIME STOP JUNE 9** |
+
+### Market Context
+- **WTI crude:** ~$93/bbl | **Brent:** ~$97/bbl — down ~15% past month; deflationary tailwind for growth
+- **S&P 500 futures (ESM26):** ~7,621 (−0.03%) — essentially flat
+- **VIX:** ~16.05 (slightly up from 15.77 close) — all 5 setup types active ✓
+- **Macro filter:** SPY & QQQ above SMA 50 ✓ — FULL UNIVERSE active
+- **QQQ vs SMA 50:** ~22% above SMA 50 ($655.93) → TQQQ Type 5 NOT viable
+- **Sector momentum:** Tech/IT +52.7% trailing 12m; Semiconductors YTD dominant; AI infra cycle intact
+
+### Economic Calendar (Today)
+- **10:00 AM ET:** Metro Area Employment/Unemployment (April) — LOW impact, non-market-moving
+- **No CPI/PPI/FOMC today.** Next key releases: Jobs (Fri June 5 8:30 AM), CPI (June 10), PPI (June 11), FOMC (June 16–17)
+- **Macro tone: CLEAR.** No macro veto triggers today.
+
+### Earnings
+- **CRWD + AVGO report tonight (June 3 AMC)** — SKIP both all day; no entry within 5 trading days of earnings
+  - CRWD pre-earnings: ~$568 (pre-market; Perplexity confirmed 52-wk high at $568.37 on pre-earnings drift); options implying 7–10% move
+  - AVGO pre-market bid: ~$453 (slight retracement from ~$490 May high)
+- **Tomorrow (June 4) priority:** Post-earnings reactions on CRWD + AVGO — if strong beats → potential Type 2 breakout or Type 3 SMA bounce entries at open
+
+### Held-Ticker Thesis Checks
+
+**AAPL — INTACT + STRENGTHENING**
+- Perplexity: WWDC June 8 (keynote) is the near-term binary event. Siri 2.0 / Apple Intelligence = key catalyst Wall Street watching. Analyst targets: BofA $380, Melius $385, Morgan Stanley $330, Wedbush $400–$440 bull case.
+- Current $314.73 (+2.15% from entry). Type 2 breakout above $305.54 intact. Stop $283.91 (10% trail, HWM $315.45) well below price.
+- **Thesis: HOLD; approaching key catalyst in 5 days.**
+
+**NVDA — INTACT**
+- Perplexity: Morningstar fair value $280 (raised post-earnings). Vera CPU rollout Q3 2026 (agentic AI). CFO Colette Kress presents at BofA Global Technology Conference **June 4 at 11:40 AM ET** — potential positive catalyst tomorrow.
+- Current $221.80 (−2.16% from entry $226.70). Moderate probe-level drift — within normal Type 4 range. Stop $209.05 (HWM $232.28 = 9.1% buffer). Time stop June 9.
+- CRWD/AVGO earnings tonight may create sector volatility — NVDA stop $209.05 provides buffer.
+- **Thesis: HOLD through June 9 time stop.**
+
+### Universe Scan — All 5 Setup Types
+| Ticker | Setup | Status | Notes |
+|--------|-------|--------|-------|
+| CRWD | All | **SKIP** | Earnings tonight (June 3 AMC) — no entry; revisit June 4 post-reaction |
+| AVGO | Type 3 | **SKIP** | Earnings tonight (June 3 AMC) — no entry; revisit June 4 post-reaction |
+| TQQQ | Type 5 | **SKIP** | QQQ ~22% above SMA 50 ($655.93) — no valid pullback entry |
+| MRVL | Type 4 | **CHECK AT OPEN** | Bid $272.52 AH; ask $0 (illiquid AH); was 2.9% spread June 2. Gate: spread ≤2% at open. SMA structure: above SMA 50/150/200 confirmed prior. Strong AI custom ASIC momentum. |
+| AMD | Type 4 | **CHECK AT OPEN** | Exited time stop June 2 at $509.16. AH bid ~$492 (AH wide; regular hours ~$509). Free to re-enter. Gate: spread ≤2%, verify still above SMA 50/150/200. EPYC Venice / Meta GPU partnership thesis intact. |
+| AMZN | Type 3 | **CONDITIONAL** | Stopped out June 2 at $254.89. AH bid $244 (thin; regular hours ~$255). Re-entry: price must bounce back above SMA 20 (~$258–260) at open for Type 3 re-entry. Need spread ≤2% and price ≥$258. |
+| AAPL | Hold | **HOLD** | 65sh @ $308.12 — WWDC June 8–12 catalyst intact; no action |
+| NVDA | Hold | **HOLD** | Time stop June 9; thesis intact; BofA conf June 4 = catalyst |
+| MSFT | All | **LIKELY DISQUALIFIED** | Bid ~$424 AH; SMA 150 was ~$446, SMA 200 ~$463 in May. At $424 still below key SMAs. Skip unless Perplexity confirms recovery. |
+| META | All | **LIKELY DISQUALIFIED** | AH bid ~$603 (AH spread $60 = 10% → illiquid). Was below SMA 150/200 in May. Needs SMA confirmation. |
+| PLTR | All | **DISQUALIFIED** | Bid ~$148; SMA 200 was ~$163 in May. Still below SMA 200. |
+| NET | Type 4 | **NEEDS RESEARCH** | Bid ~$251 AH. No recent SMA check. Secondary candidate if MRVL/AMD fail. |
+| SOXL/SPXL | Type 5 | **SKIP** | Underlying indices extended above SMA 50 |
+| MU | Type 3/4 | **WATCH NEXT WEEK** | Exited time stop June 2 at $1,025. Too soon for re-entry without fresh setup confirmation. |
+
+### Trade Ideas
+
+**Idea 1 — MRVL Type 4 Momentum Probe (PRIORITY)**
+- **Catalyst:** AI custom ASIC market leader; strong YTD momentum; Q1 FY2027 beat (May 28: rev $2.42B +28% YoY, raised FY2028 target $16.5B). Appeared on StockTitan June gainers list.
+- **SMA structure:** Above SMA 50/150/200 confirmed (last check May 28). All SMAs sloping up.
+- **Entry gate (ALL must pass):** Spread ≤2% at open | Price above SMA 50 | Earnings: next ~Aug 2026 ✓
+- **Size:** HALF (Type 4) — ~$9,000–$10,500 (~9–10% equity, ~17–19sh @ $540–$560 est)
+- **Stop:** 5% below entry or 1×ATR, GTC
+- **Time stop:** June 10 (5 trading days)
+- **Position cap post-entry:** 3/4 ✓ | 0 leveraged ETFs ✓ | 2/2 probes (NVDA + MRVL) — cap reached at 2 probes
+
+**Idea 2 — AMD Type 4 Momentum Re-entry (SECONDARY)**
+- **Catalyst:** AI data center acceleration; EPYC Venice 2nm ramp; Meta 6 GW GPU deployment; "Advancing AI 2026" event July 22–23; no earnings for ~2 months
+- **SMA structure:** Confirmed above SMA 50/150/200 when exited June 2 at $509. Need re-confirm above SMA 50 at open.
+- **Entry gate:** Spread ≤2% | price ≥ SMA 50 (~$490–500) | Earnings: July 2026 ✓
+- **Size:** HALF (Type 4)
+- **Stop:** 5% below entry GTC
+- **Time stop:** June 10
+- ⚠ If MRVL also entered → BOTH AMD and MRVL = 2/2 probe cap reached; no more probes after that. NVDA exits June 9, freeing one probe slot.
+- ⚠ **Note:** If both MRVL (Idea 1) and AMD (Idea 2) are entered today → probe cap 2/2 full. CRWD/AVGO post-earnings entry (if beats tonight) would require full-size setup (Type 2 not Type 4) on June 4.
+
+**Idea 3 — AMZN Type 3 Re-entry (CONDITIONAL)**
+- **Catalyst:** AWS AI cloud demand intact; Q1 rev +17% YoY; $6B Snowflake partnership; AI inferencing growth
+- **Entry gate:** Price ≥ $258 (above SMA 20) at open + spread ≤2%. If AMZN gapped down further from $255, skip.
+- **Size:** FULL (Type 3) — ~$19,500 (~18% equity, 75–76sh @ $258)
+- **Stop:** Daily close below SMA 20 (~$257) — hard stop GTC slightly below ($255–256 zone)
+- ⚠ If Idea 1 + Idea 2 already entered (3/4 slots used), only 1 slot remains for AMZN — valid to take if price qualifies.
+
+**June 4 Preview — CRWD/AVGO post-earnings:**
+- If CRWD beats + positive guidance → Type 2 breakout above $568 OR Type 3 SMA bounce; check spread at open June 4
+- If AVGO beats + positive guidance → Type 3 SMA 20 bounce at ~$450 zone; check spread at open June 4
+- Either would count toward June 4 entry for weekly floor progress
+
+### Risk Factors
+1. **CRWD + AVGO earnings tonight (June 3 AMC)** — sector volatility in AH/pre-market June 4. Semis/cybersecurity names (incl. NVDA) could gap; NVDA stop $209.05 provides buffer.
+2. **Weekly pace: 1/7 entries so far (NVDA on June 2)** — need 6 more by Friday EOD. AGGRESSIVE execution required. Type 2 + Type 4 emphasis today.
+3. **NVDA at −2.16% from entry** — within normal Type 4 drift range; time stop June 9 hard deadline
+4. **MRVL spread risk** — was 2.9% on June 2; must hit ≤2% gate at open
+5. **Jobs report Friday June 5** — could create late-week volatility; size positions accordingly
+
+### Decision: TRADE — AGGRESSIVE SCAN
+- **At open:** MRVL (Idea 1, priority), then AMD (Idea 2, secondary), then AMZN (Idea 3, conditional if slot available)
+- **Skip:** CRWD, AVGO, TQQQ, MSFT, META (SMA disqualification / earnings)
+- **NVDA + AAPL:** HOLD — both theses intact; stops in place
+- **Week 7 pace alert:** Must reach ≥3 entries today to build toward the 7-entry floor. Rotation is preferred over passing qualified setups.
+
+---
+
 ## 2026-06-02 — Midday Addendum (Week 7, Tuesday)
 
 ### Portfolio Snapshot (midday)
