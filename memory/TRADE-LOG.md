@@ -1,5 +1,35 @@
 # Trade Log
 
+### June 3 — Market-Open Trades (Week 7, Wednesday)
+**Portfolio:** $104,961.09 | **Cash:** $52,813.93 (50.3%) | **Long MV:** $52,147.16 | **Phase P&L:** +$4,961.09 (+4.96%) | **Daytrade count:** 1
+
+| Ticker | Shares | Entry | Stop | Thesis | Target | R:R |
+|--------|--------|-------|------|--------|--------|-----|
+| AMD | 38 | $540.01 | 10% trail GTC, stop $485.26, HWM $539.18 (`bb465e5c`) — **TIME STOP JUNE 10** | Type 4 Momentum Re-entry; above SMA 50/150/200 (200-day $240.91 per Barchart 2026-06-03, AMD at $540 = 124% above ✓); EPYC Venice 2nm ramp; Meta multi-GW Instinct GPU deployment; "Advancing AI 2026" July 22–23 event; BofA conference NVDA synergy June 4; no earnings until Q2 ~July 2026 ✓ | $580–600 (+7–11%) | ~1.5–2.2:1 |
+
+**Trades fired:**
+- **AMD BUY** — 38 shares @ $540.01 avg (market, partially filled 13:38 → 13:40 UTC). Fill confirmed via positions. 10% trailing stop GTC placed (order `bb465e5c`, initial stop $485.26, HWM $539.18). Position cost $20,520 (19.6% equity ✓). Risk (5% strategy stop $513): 38 × $27 = $1,026 (0.98% equity).
+
+**Candidates skipped:**
+- **MRVL** — ap $328.21 / bp $308.00, spread **6.16%** → FAILS ≤2% gate. SKIP.
+- **AMZN** — Price $255.50 < $258 re-entry gate (price must be ≥ SMA 20 ~$258). SKIP.
+- **CRWD** — Earnings June 3 AMC. SKIP (5-trading-day rule).
+- **AVGO** — Earnings June 3 AMC. SKIP (5-trading-day rule).
+- **TQQQ** — QQQ ~22% above SMA 50 ($655.93). No Type 5 pullback entry. SKIP.
+
+**Open positions (3/4 max):**
+| Ticker | Shares | Entry | Current | Unrealized P&L | Stop | Notes |
+|--------|--------|-------|---------|----------------|------|-------|
+| AAPL | 65 | $308.12 | $316.67 | +$555.83 (+2.77%) | 10% trail GTC `8a973d5c` stop $285.03 HWM $316.70 | Type 2 breakout — WWDC June 8–12 catalyst |
+| AMD | 38 | $540.01 | $543.87 | +$146.84 (+0.72%) | 10% trail GTC `bb465e5c` stop $485.26 HWM $539.18 | Type 4 — **TIME STOP JUNE 10** |
+| NVDA | 50 | $226.70 | $219.25 | −$372.50 (−3.29%) | 10% trail GTC `91a34446` stop $209.05 HWM $232.28 | Type 4 — **TIME STOP JUNE 9** |
+
+**Macro:** SPY/QQQ above SMA 50 ✓ | VIX ~16.05 GREEN | All 5 setup types active ✓ | QQQ ~22% above SMA 50 → TQQQ not viable | CRWD + AVGO reporting AMC tonight
+**Trades this week (Week 7):** 2 new entries (NVDA June 2, AMD June 3)
+**Notes:** MRVL spread 6.16% failed gate (was 2.9% June 2 — deteriorated further). AMZN re-entry conditional gate missed — price $255.50 below SMA 20 rebound threshold $258. Only AMD qualified all gates. Probe cap now 2/2 (NVDA + AMD). Post-CRWD/AVGO earnings reactions (reporting AMC tonight) are key June 4 catalyst — if beats → potential Type 2 breakout entries. AAPL WWDC June 8–12 imminent. Weekly floor pace: 2/7 — need 5 more by Friday EOD.
+
+---
+
 ### Jun 02 — EOD Snapshot (Week 7, Tuesday)
 **Portfolio:** $105,003.71 | **Cash:** $73,334.21 (69.8%) | **Day P&L:** −$253.59 (−0.24%) | **Phase P&L:** +$5,003.71 (+5.00%)
 
