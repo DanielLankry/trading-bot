@@ -5,6 +5,130 @@ Format each entry:
 
 ---
 
+## 2026-06-04 — Pre-Market Research (Week 7, Thursday)
+
+### Account Snapshot
+- **Equity:** $103,602.30 | **Cash:** $52,813.92 (51.0%) | **BP:** $312,832.44
+- **Long MV:** $50,788.38 | **Phase P&L:** +$3,602.30 (+3.60%) | **Daytrade count:** 0
+- **Positions:** 3/4 | **Type 4 probes:** 2/2 (AMD time stop June 10, NVDA time stop June 9)
+
+### Live Positions (pre-market)
+| Ticker | Shares | Entry | Pre-Mkt | Unrealized P&L | Stop | Notes |
+|--------|--------|-------|---------|----------------|------|-------|
+| AAPL | 65 | $308.12 | $312.50 | +$284.78 (+1.42%) | 10% trail GTC, stop $285.24, HWM $316.93 (`8a973d5c`) | Type 2 breakout — WWDC June 8–12 (4 days) |
+| AMD | 38 | $540.01 | $522.01 | −$683.87 (−3.33%) | 10% trail GTC, stop $491.73, HWM $546.37 (`bb465e5c`) | Type 4 probe — **TIME STOP JUNE 10** |
+| NVDA | 50 | $226.70 | $212.79 | −$695.50 (−6.14%) | 10% trail GTC, stop $209.05, HWM $232.28 (`91a34446`) | Type 4 probe — **TIME STOP JUNE 9** ⚠ STOP $3.74 AWAY |
+
+⚠ **NVDA CRITICAL:** Pre-market $212.79 vs stop $209.05 = $3.74 buffer. Ex-dividend today ($0.25/sh). S&P futures −0.35%. Likely stop proximity at open. Auto-manages via GTC trailing stop — do NOT intervene.
+
+### Market Context
+- **WTI crude:** ~$93–96/bbl | **Brent:** ~$97/bbl — elevated; geopolitical tension (US-Iran) cited as driver
+- **S&P 500 futures (ESM26):** 7,545.25 (−26.50 pts, −0.35%) — NEGATIVE open expected; 86% probability S&P opens lower per prediction markets
+- **VIX:** 16.56 (spot) / 16.06 (June 3 close) — GREEN; all 5 setup types active ✓
+- **Macro filter:** SPY & QQQ above SMA 50 ✓ — FULL UNIVERSE active
+- **QQQ vs SMA 50:** ~22% above SMA 50 → TQQQ Type 5 NOT viable
+- **Sector:** Tech led April 2026; semiconductors soared May; S&P 500 YTD +11.3% (as of May 29)
+- **Note:** Perplexity API returning 503 on most queries — oil, catalysts, and held-ticker checks via WebSearch fallback
+
+### Economic Calendar (Today, June 4)
+- **8:30 AM ET:** Initial Jobless Claims + Productivity/Costs (revised) — MODERATE impact
+- **9:30 AM ET:** Challenger Job Cuts — LOW impact
+- **No CPI/PPI/FOMC today.** FOMC June 16–17.
+- **Tomorrow June 5:** BLS Jobs Report 8:30 AM ET — **HIGH IMPACT** → size positions today with Friday volatility in mind
+- **Macro tone: MOSTLY CLEAR.** No macro veto today; jobs data risk tomorrow.
+
+### Key Catalysts Today
+- **NVDA CFO Colette Kress at BofA Global Technology Conference — 11:40 AM ET** — potential positive catalyst; BofA named NVDA as top stock for June (CNBC May 30)
+- **NVDA ex-dividend:** $0.25/sh, ex-div date today — minor selling pressure at open
+- **CRWD/AVGO post-earnings reactions:** Both reported June 3 AMC — DOMINANT driver of sector tone today
+- **CRWD beat/sell-the-news:** EPS $1.10 vs $0.88 (+25% beat), Rev $1.39B (+26% YoY), record ARR, 4-for-1 stock split announced (July). Yet stock fell **−11% AH to ~$664.71** from ~$769 close — classic sell-the-news.
+- **AVGO beat/sell-the-news:** Record Q2 revenue $22.19B (+48% YoY), EPS $2.44 vs $2.32, Q3 guide $29.4B. But slight revenue miss vs $22.27B consensus. **Fell ~8% AH to ~$453.70**. Today's intraday range: $405.51–$496.02 (extreme volatility).
+
+### Held-Ticker Thesis Checks
+
+**AAPL — INTACT**
+- $312.50 pre-market (+1.42% from entry). WWDC June 8 keynote in 4 days = next major catalyst.
+- Siri 2.0 / Apple Intelligence features. Citi Buy, BofA $380, Wedbush $400–$440 targets.
+- Stop $285.24 (HWM $316.93) — 8.7% below pre-market price. No threat.
+- **Thesis: HOLD; WWDC catalyst 4 days away.**
+
+**AMD — INTACT**
+- $522.01 pre-market (−3.33% from entry; −3.78% intraday today).
+- AMD presented at BofA Global Tech Conference June 2: agentic AI = heavy CPU demand; data-center CPU +50% YoY Q1, Q2 guide +70% YoY; TAM raised to $120B by 2030. BofA raised AMD price target.
+- China catalyst: Alibaba may order 40K–50K AMD MI308 GPUs (~$600M–$1.25B revenue); pending Chinese regulatory approval.
+- No new adverse news. Selling likely sympathy with CRWD/AVGO post-earnings semi pressure.
+- Stop $491.73 (HWM $546.37) — 5.8% below pre-market. Time stop June 10.
+- **Thesis: INTACT. Hold.**
+
+**NVDA — INTACT BUT ⚠ STOP PROXIMITY**
+- $212.79 pre-market (−6.14% from entry $226.70). Stop $209.05 (HWM $232.28).
+- CFO Kress at BofA 11:40 AM ET today = potential positive catalyst.
+- NVDA/Microsoft deepening agentic AI partnership announced. BofA top stock for June.
+- Ex-dividend today ($0.25/sh) = minor selling pressure.
+- Semi sector dragged by CRWD/AVGO sell-the-news + broader premarket weakness.
+- Stop $209.05 = only $3.74 from pre-market $212.79. With futures −0.35%, stop may auto-trigger at open.
+- **Thesis INTACT but auto-stop likely today. Do NOT move stop. GTC order auto-manages.**
+
+### Universe Scan — All 5 Setup Types
+| Ticker | Setup | Status | Notes |
+|--------|-------|--------|-------|
+| CRWD | Type 3 SMA Bounce | **CHECK AT OPEN** | −11% AH to ~$665 on sell-the-news despite strong beat. If gap-down lands at SMA 50 support + spread ≤2% → Type 3 entry. Historically spreads 7–11% at opens — this is the key gate. |
+| AVGO | Type 3 SMA Bounce | **CONDITIONAL** | −8% AH to ~$453. Today's intraday range $405–$496 (extreme volatility). SMA 20 ~$450. Check spread ≤2% AND price stabilizes. Extreme range = risky entry; requires spread + SMA confirmation. |
+| TQQQ | Type 5 | **SKIP** | QQQ ~22% above SMA 50 — no valid pullback entry |
+| MRVL | Type 4 | **SKIP** | Spread was 2.9% June 2 → likely wider with semi sector pressure today. Skip unless confirmed ≤2%. |
+| AAPL | Hold | **HOLD** | 65sh @ $308.12 — stop $285.24; WWDC June 8 intact |
+| AMD | Hold | **HOLD** | 38sh @ $540.01 — time stop June 10; thesis intact |
+| NVDA | Hold/Monitor | **MONITOR** | Stop $209.05 → auto-manages; BofA conf 11:40 AM potential bounce catalyst |
+| MSFT | All | **LIKELY DISQUALIFIED** | Was below SMA 150 ($446) in May. Needs fresh SMA confirmation. Skip. |
+| META | All | **NEEDS CHECK** | AH spreads wide. Below SMA 150/200 as of May. Likely disqualified. |
+| AMZN | Type 3 | **CONDITIONAL** | Stopped out June 2 at $254.89. Re-entry requires price ≥ SMA 20 (~$258–260) + spread ≤2%. |
+| NET/PLTR/SHOP | Type 4 | **SECONDARY** | Check spread at open if CRWD/AVGO fail gates. Tertiary candidates. |
+
+### Trade Ideas
+
+**Idea 1 — CRWD Type 3 SMA Bounce (PRIMARY)**
+- **Catalyst:** Strong Q1 FY2027 beat (EPS +25%, Rev +26% YoY, record ARR), 4-for-1 stock split, new Chief AI Officer. Sell-the-news reaction = not a thesis break. Earnings now BEHIND — no 5-day earnings rule.
+- **SMA structure (pre-gap):** CRWD was above SMA 150/200. Gap to ~$665 may land at/above SMA 50 — need to verify at open.
+- **Entry gate (ALL must pass):** Spread ≤2% at open | Price at/above SMA 50 support | Check SMA via Perplexity at open
+- **Size:** FULL (Type 3) — ~$19,500–$20,000 (~19% equity, ~29–30sh @ $665)
+- **Stop:** Daily close below SMA 50 OR breakout level — hard stop GTC slightly below
+- **Position cap post-entry:** 4/4 if NVDA holds; 3/4 if NVDA stops out first
+
+**Idea 2 — AVGO Type 3 SMA Bounce (SECONDARY)**
+- **Catalyst:** Record Q2 revenue (+48% YoY), AI semiconductor revenue accelerating, Q3 guide $29.4B. Sell-the-news on slight miss. Earnings now BEHIND.
+- **Gate:** Spread ≤2% + price stabilizes near SMA 20 (~$450) after extreme volatility
+- **Risk:** Today's $90 intraday range ($405–$496) signals high uncertainty. Enter only if price settles.
+- **Size:** FULL (Type 3) — ~$19,000–$20,000 (~19% equity, ~43–44sh @ $450)
+- **Stop:** Hard GTC at SMA 20 support zone (~$440–445)
+- ⚠ High-priority only if CRWD fails spread gate AND NVDA stops out (freeing 2 slots)
+
+**Idea 3 — Post-NVDA-Stop Probe Slots**
+- If NVDA auto-stops out at open → 2 probe slots freed (AMD + new pick)
+- At that point: CRWD (Idea 1) AND potentially AMZN Type 3 re-entry if SMA 20 confirms
+- Do NOT rush to fill both slots; verify each individually
+
+### Risk Factors
+1. **NVDA stop proximity** — $3.74 from stop; likely auto-executes at open; loss ~$882 if triggered
+2. **CRWD spread gate** — historically 7–11% at opens; post-earnings gaps may widen further
+3. **AVGO extreme volatility** — $90 intraday range = entry timing risk; may not be enterable safely
+4. **Jobs report tomorrow June 5 8:30 AM** — any entries today carry overnight jobs-data risk; size appropriately
+5. **Semi sector sympathy selling** — CRWD/AVGO sell-the-news dragging AMD, NVDA, broader chips
+6. **Weekly pace:** 2/7 entries so far (NVDA June 2, AMD June 3). **Need 5 more by Friday EOD.**
+7. **Oil elevated ~$93–97 WTI** — geopolitical (US-Iran); macro overhead but not direct tech risk
+
+### Decision: TRADE — AGGRESSIVE SCAN
+- **At open:**
+  1. Monitor NVDA — if stop $209.05 auto-triggers, note realized P&L; do NOT intervene
+  2. CRWD: check spread ≤2% AND SMA 50 support → Type 3 entry if qualifies (1 slot available; 2 if NVDA stops out)
+  3. AVGO: check spread ≤2% AND price settles (not in $90 swing range) → Type 3 if NVDA freed a slot
+  4. If both fail: scan AMZN (price ≥$258 + ≤2% spread) → Type 3 re-entry
+- **Skips:** TQQQ (QQQ extended), MRVL (likely spread fail), MSFT/META/PLTR (SMA disqualified)
+- **AAPL + AMD: HOLD** — theses intact; stops in place
+- **NVDA: auto-manages** — BofA CFO Kress 11:40 AM = watch for bounce catalyst IF stop not already triggered
+- **Week 7 pace alert:** Must achieve ≥2 entries TODAY and ≥2 tomorrow (Jobs day) to approach 7-entry floor. Rotation preferred over passing qualified setups.
+
+---
+
 ## 2026-06-03 — Pre-Market Research (Week 7, Wednesday)
 
 ### Account Snapshot
