@@ -129,6 +129,33 @@ Format each entry:
 
 ---
 
+### 2026-06-04 — Afternoon Addendum (Midday Scan)
+
+**Portfolio:** $103,859.46 | Equity δ: −$474.62 (−0.45% vs yesterday) | Phase P&L: +$3,859.46 (+3.86%)
+
+**AMD −3.54% intraday (queried Perplexity):**
+- No company-specific negative catalyst. Sympathy selling from CRWD/AVGO post-earnings semi sector pressure; high-beta tech risk-off.
+- EPYC Venice production ramp (TSMC 2nm) and Meta 6GW GPU partnership both confirmed via AMD IR. Thesis intact.
+- AMD at BofA conference: unconfirmed in results (NVDA CFO Kress was keynote). AMD next earnings ~Aug 4, 2026.
+- **Action:** No exit. Time stop June 10. Stop $491.73 (6.0% buffer). Hold.
+
+**NVDA +1.79% intraday — BofA conference (queried Perplexity):**
+- CFO Kress keynote confirmed June 4, 11:40 AM ET / 8:40 AM PT (BofA veracast URL recovered).
+- Record Q4 FY2026 results underpinning thesis: $68B rev (+73% YoY), DC +$11B sequential, sovereign AI >$30B (>3× YoY). Management tone expansionary.
+- Pre-market stop proximity ($209.05 vs $212.79) resolved — NVDA recovered intraday, current $218.60 with $9.55 buffer to stop. Stop NOT triggered.
+- **Action:** Hold. Time stop June 9. Stop $209.05 auto-manages GTC.
+
+**CRWD/AVGO open entry — NOT executed:**
+- CRWD/AVGO post-earnings open spread gates failed (pre-market warned likely 7–11% spreads for CRWD, extreme volatility for AVGO). No position entered. 1 slot remains open.
+- 4th slot available for remainder of day or June 5 if qualified setup emerges post-Jobs report.
+
+**No further intraday action needed unless:**
+1. NVDA drops to/through $209.05 → auto-exit via GTC
+2. AMD drops to/through $491.73 → auto-exit via GTC
+3. A qualified setup appears in final hour (slim — CRWD/AVGO volatility likely persisting)
+
+---
+
 ## 2026-06-03 — Pre-Market Research (Week 7, Wednesday)
 
 ### Account Snapshot

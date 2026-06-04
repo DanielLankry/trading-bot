@@ -1,5 +1,40 @@
 # Trade Log
 
+### Jun 04 — Midday Scan (Week 7, Thursday)
+**Portfolio:** $103,859.46 | **Cash:** $52,813.92 (50.9%) | **Long MV:** $51,045.54 | **Phase P&L:** +$3,859.46 (+3.86%) | **Day P&L:** −$474.62 (−0.45%)
+
+| Ticker | Shares | Entry | Current | Unrealized P&L | Stop | Order ID |
+|--------|--------|-------|---------|----------------|------|----------|
+| AAPL | 65 | $308.12 | $311.49 | +$219.13 (+1.09%) | 10% trail GTC, HWM $316.93, stop $285.237 | `8a973d5c` |
+| AMD | 38 | $540.01 | $523.33 | −$633.71 (−3.09%) | 10% trail GTC, HWM $546.37, stop $491.73 | `bb465e5c` |
+| NVDA | 50 | $226.70 | $218.595 | −$405.25 (−3.58%) | 10% trail GTC, HWM $232.28, stop $209.05 | `91a34446` |
+
+**Cuts:** NONE — no position at or below −7% threshold.
+- AAPL: +1.09% — cut threshold $286.55 (not breached)
+- AMD: −3.09% — cut threshold $502.21 (not breached; stop $491.73 backstop)
+- NVDA: −3.58% — cut threshold $210.83 (not breached; current $218.60, buffer $7.77; stop $209.05 backstop)
+
+**Stop adjustments:** NONE — no position at or above +15% threshold.
+- AAPL: +1.09% — +15% trigger $354.34 (not met)
+- AMD: −3.09% — not eligible
+- NVDA: −3.58% — not eligible
+
+**Thesis checks:**
+- **AAPL — INTACT.** $311.49, +0.40% today. Type 2 breakout level $305.54 not threatened ($6 buffer). WWDC June 8 keynote in 4 days. Stop $285.237 (HWM $316.93) — 8.4% below current price.
+- **AMD — INTACT.** $523.33, −3.54% today. Perplexity confirmed: no new company-specific negative catalyst. Sympathy selling from CRWD/AVGO post-earnings semi sector pressure + risk-off in high-beta tech. EPYC Venice production ramp (TSMC 2nm) confirmed IR. Meta 6GW GPU partnership confirmed IR. BofA conference: AMD participation unconfirmed vs NVDA-focused keynote. Next earnings ~Aug 4, 2026. Time stop June 10 (Day 2/5). Stop $491.73 at 6.0% buffer from $523.33.
+- **NVDA — INTACT.** $218.595, +1.79% today — recovering. Pre-market stop proximity resolved: stop $209.05 not triggered ($9.55 buffer). CFO Kress keynote at BofA confirmed June 4 11:40 AM ET (Perplexity BofA veracast source). Thesis confirmed: record NVDA Q4 FY2026 revenue $68B (+73% YoY), data-center +$11B sequential, sovereign AI >$30B (>3× YoY). Management tone expansionary. Time stop June 9 (Day 2/5).
+
+**Thesis breaks:** NONE.
+
+**4th slot — No new entry:** CRWD/AVGO post-earnings spread gates failed at open (pre-market plan). 1 slot remains open for afternoon or June 5 entry if qualified setup emerges.
+
+**Perplexity research:** AMD queried for −3.54% intraday drop → confirmed no fresh negative; sympathy sector selling only. NVDA queried for CFO Kress BofA conference → keynote confirmed 11:40 AM ET today; AI/DC thesis reinforced by Q4 record results.
+
+**Trades this week (Week 7):** 2 new entries (NVDA June 2, AMD June 3). Need 5 more by Friday EOD.
+**⚠ Jobs Report tomorrow June 5 8:30 AM ET** — HIGH IMPACT; size any new entry today with overnight risk in mind.
+
+---
+
 ### Jun 03 — EOD Snapshot (Week 7, Wednesday)
 **Portfolio:** $104,318.85 | **Cash:** $52,813.93 (50.6%) | **Day P&L:** −$143.48 (−0.14%) | **Phase P&L:** +$4,318.85 (+4.32%)
 
