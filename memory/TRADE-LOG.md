@@ -1,5 +1,18 @@
 # Trade Log
 
+### Jun 04 — EOD Snapshot (Week 7, Thursday)
+**Portfolio:** $103,763.98 | **Cash:** $52,813.92 (50.9%) | **Day P&L:** −$570.10 (−0.55%) | **Phase P&L:** +$3,763.98 (+3.76%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| AAPL | 65 | $308.12 | $311.00 | +0.24% | +$187.28 (+0.94%) | 10% trail GTC, stop $285.237, HWM $316.93 (`8a973d5c`) |
+| AMD | 38 | $540.01 | $521.78 | −3.82% | −$692.69 (−3.38%) | 10% trail GTC, stop $491.73, HWM $546.37 (`bb465e5c`) — **TIME STOP JUNE 10** |
+| NVDA | 50 | $226.70 | $218.15 | +1.58% | −$427.50 (−3.77%) | 10% trail GTC, stop $209.05, HWM $232.28 (`91a34446`) — **TIME STOP JUNE 9** |
+
+**Notes:** Week 7 Day 4 (Thursday) — portfolio −$570.10 (−0.55%) on the day. No new trades; 3 positions held unchanged. AMD −3.82% on continued semiconductor sector rotation following CRWD/AVGO post-earnings pressure; stop $491.73 (5.8% buffer from $521.78) intact. NVDA +1.58% intraday recovery — BofA CFO Kress keynote (11:40 AM ET) confirmed AI/DC supercycle thesis; stop $209.05 ($9.10 buffer from $218.15) intact. AAPL +0.24%, holding above $310; WWDC June 8 keynote 4 days away. No 4th slot entry — ⚠ Jobs Report tomorrow June 5 8:30 AM ET (HIGH IMPACT) warrants macro caution on overnight risk. Phase P&L: +$3,763.98 (+3.76%) vs $100K starting capital. Trades today: 0. Trades this week: 2/7 minimum (NVDA June 2, AMD June 3); 5 more needed by Friday EOD.
+
+---
+
 ### Jun 04 — Midday Scan (Week 7, Thursday)
 **Portfolio:** $103,859.46 | **Cash:** $52,813.92 (50.9%) | **Long MV:** $51,045.54 | **Phase P&L:** +$3,859.46 (+3.86%) | **Day P&L:** −$474.62 (−0.45%)
 
