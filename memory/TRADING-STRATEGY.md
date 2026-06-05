@@ -80,7 +80,7 @@ High-beta, liquid, market cap ≥ $5B, optionable. Rotating watchlist:
 
 - **Max 4 positions total** (1 leveraged ETF + 2–3 single names). Concentration, not diversification.
 - Max 1 leveraged ETF position
-- Max 2 momentum probes
+- Max 2 momentum probes — **and max 1 probe per sector** (e.g., if NVDA is one probe, second probe must be from a different sector; prevents single macro event double-kill). *(Rule added 2026-06-05: same failure confirmed twice — Week 4 AVGO+NVDA correlation, Week 7 AMD+NVDA both stopped by Jobs Day.)*
 - **No weekly trade cap** (30-day sprint)
 - One position per name. No averaging up. No averaging down.
 

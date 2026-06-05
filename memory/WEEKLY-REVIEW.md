@@ -421,3 +421,75 @@ Template for each entry:
 
 ### Overall Grade: B+
 > Rationale: Best relative performance week of the challenge — +4.14% return, +2.31% outperformance vs S&P. MU entry on fundamental-confirmation gap was high-quality; AMD rotation immediately validated by Meta GPU deployment catalyst. Rotation execution from GOOGL/NVDA was decisive and cost-effective (−$250 to capture ~$3,600 in open gains). Penalties: (1) 5th consecutive week below trade floor (2 of 7); (2) challenge closed LOST (+3.40% bot vs ~+4.7% S&P); (3) GOOGL/NVDA entered on May 22 with insufficient runway — structural timing error. Grade is B+ not A because the wins were all unrealized at week end and the trade floor miss is a systemic pattern that must be resolved in post-challenge mode.
+
+---
+
+## Week ending 2026-06-05
+
+### Stats
+| Metric | Value |
+|--------|-------|
+| Starting portfolio | $104,941.53 |
+| Ending portfolio | $101,905.80 |
+| Week return | −$3,035.73 (−2.89%) |
+| S&P 500 week | +0.92% (SPX 7,582 → 7,652) |
+| Bot vs S&P | −3.81% |
+| Trades | 5 (W:2 / L:3 / open:1) — 3 carryover closes + 2 new entries both stopped out |
+| New entries this week | 2 ⚠ (vs 7-entry floor) |
+| Win rate | 40% (2 of 5 closed) |
+| Best trade | MU time stop +$2,580.15 (+20.16%) |
+| Worst trade | AMD re-entry stop −$1,849.63 (−9.01%) |
+| Profit factor | 1.07 ($3,366 winners / $3,144 losers) |
+| Phase P&L | +$1,905.80 (+1.91%) vs $100K start |
+
+> **Week 7 (post-challenge, June 1–5).** MU and AMD prior-week time stops exited cleanly June 2 (+$3,366 combined). AMZN fixed stop triggered June 2 (−$411). Two new Type 4 probes (NVDA Jun 2, AMD Jun 3) both stopped out on Jobs Day June 5 via trailing stops — back-to-back losses of −$883 and −$1,850. AAPL held through week (−$58 unrealized); WWDC June 8 imminent. Both probe slots now open; 3/4 position slots free; 80.4% cash at week end.
+
+### Closed Trades
+| Ticker | Entry | Exit | P&L | Notes |
+|--------|-------|------|-----|-------|
+| AMD (41sh) | $489.98 (May 26) | $509.16 (Jun 2) | +$786.22 | Time stop June 2 (5 trading days from May 26 entry) |
+| MU (15sh) | $853.65 (May 26) | $1,025.66 (Jun 2) | +$2,580.15 | Time stop June 2; +20.16% in 5 days — clean exit |
+| AMZN (77sh) | $260.23 (May 19) | $254.89 (Jun 2) | −$411.18 | Fixed stop $255 triggered on broad tech selloff at open; stop functioned correctly |
+| NVDA (50sh) | $226.70 (Jun 2) | $209.04 (Jun 5) | −$883.04 | Type 4 probe; trailing stop auto-triggered Jobs Day; time stop June 9 was 1 day away |
+| AMD (38sh) | $540.01 (Jun 3) | $491.33 (Jun 5) | −$1,849.63 | Type 4 probe; trailing stop auto-triggered Jobs Day; entered near HWM in semi headwinds |
+
+**Total realized this week: +$222.52**
+
+### Open Positions at Week End
+| Ticker | Entry | Close | Unrealized | Stop |
+|--------|-------|-------|------------|------|
+| AAPL | $308.12 (May 22) | $307.22 | −$58.42 (−0.29%) | 10% trail GTC, stop $285.24, HWM $316.93 (`8a973d5c`) |
+
+### What Worked
+- **MU/AMD time stops (Jun 2) executed cleanly:** Both prior-week positions exited at plan — MU +$2,580 (+20.16%), AMD +$786 (+3.92%); fully automated, no manual action; system worked exactly as designed
+- **AMZN fixed stop honored without override:** $255 stop triggered at $254.89 — broad tech selloff, no company-specific catalyst; loss accepted at −$411 per rules; never moved stop down ✓
+- **NVDA/AMD trailing stops auto-executed Jobs Day:** No manual intervention on June 5; GTC trailing stops handled both exits at $209.04 and $491.33 without hesitation ✓
+- **Jobs Day risk pre-flagged correctly:** Pre-market June 5 research identified stop proximity (AMD $17.80 buffer, NVDA $6.77 buffer) and Jobs miss scenario before market open — no surprises
+- **AAPL thesis intact heading into WWDC:** Type 2 breakout level $305.54 holding; WWDC June 8 imminent catalyst; stop $285.24 (8.2% below price) never threatened
+
+### What Didn't Work
+- **6th consecutive week below 7-entry floor (2 of 7):** New entries Mon=0, Tue=1 (NVDA), Wed=1 (AMD), Thu=0 (post-CRWD/AVGO spread paralysis), Fri=0 (NO-TRADE-DAY macro); systemic floor miss persists
+- **Both probe slots filled with correlated semis (AMD + NVDA):** Single macro event (Jobs Day miss) triggered both simultaneously — correlation concentration in probe slots is a structural failure; same pattern flagged in Week 4 (AVGO+NVDA) now repeated
+- **AMD re-entry at $540.01 too high:** Re-entered AMD 3 days after prior time stop exit at $509; entry near HWM with 10% trailing stop → $491 stop = only $49 cushion on a $540 entry in deteriorating semi sector (CRWD/AVGO sell-the-news headwinds)
+- **Post-CRWD/AVGO earnings spread paralysis (Jun 4):** 0 entries on a day with 1 open slot — same pattern as post-NVDA earnings (May 21); predictable but no contingency plan for non-semi sector entries that day
+- **Week return −2.89% vs S&P +0.92% = −3.81% relative:** Worst relative week since the challenge; all new capital deployed this week stopped out on same day
+
+### Key Lessons
+- **Probe slot sector diversification is mandatory:** Filling both Type 4 probe slots with semis creates a single-event double-kill scenario. This has now failed twice (Week 4: AVGO+NVDA correlation; Week 7: AMD+NVDA on Jobs Day). Rule added to strategy: max 1 probe from any single sector.
+- **Re-entering a name higher than a prior stop-out entry increases risk disproportionately:** AMD entered $540 after exiting at $509 via time stop; the new entry had less dollar cushion despite same percentage stop, and was entering into ongoing semi headwinds. Re-entry entries should require a reset to a new setup (SMA pullback), not a momentum continuation from a higher high.
+- **Post-major-semi-earnings morning is a dead zone for semi entries:** CRWD/AVGO reported June 3 AMC → June 4 morning spreads: AMD 10.7%, MRVL 11.2%, CRWD 10.7%. This pattern is now confirmed three times (post-NVDA May 21, post-CRWD/AVGO June 4). Pre-plan: non-semi universe exclusively on morning-after.
+- **Stop system eliminated need for judgment under pressure:** Both AMD and NVDA stops executed automatically on Jobs Day. The discipline is in setting the stop correctly at entry — not in overriding it intraday. System trust justified.
+- **Profit factor 1.07 on a down week reflects the right shape of wins vs losses — but deployment timing remains the failure mode:** When capital is deployed, sizing and exits work. The compounding underperformance vs S&P is a function of deployment pace + probe slot concentration risk.
+
+### Adjustments for Next Week (June 8–12)
+- **AAPL WWDC June 8 (Monday keynote):** Hold 65sh; stop $285.24 manages. If +15% trigger ($354.34) hit → ratchet stop to entry. Post-keynote: if price breaks above HWM $316.93 on volume → reassess trailing stop ratchet.
+- **Probe slot rule (effective immediately):** Never fill both Type 4 probe slots from the same sector. If NVDA (semi) is one probe, second probe must be non-semi (AMZN, AAPL, NET, CRWD, META etc.).
+- **CRWD Type 3 (priority 1):** Earnings behind; sold down hard post-beat (~$665 zone); if spread ≤2% Monday + price at/above SMA 50 → full-size Type 3 entry, ~$19,500
+- **AVGO Type 3 (priority 2):** Same pattern — earnings behind, sell-the-news ~$405–420; if spread ≤2% + price stabilizes at SMA support → full-size Type 3
+- **NVDA re-entry (priority 3):** Do NOT chase from $215. Wait for a Type 3 SMA 50 pullback setup with clean SMA confirmation via Perplexity; or skip in favor of CRWD/AVGO
+- **AMZN re-entry (priority 4):** Stopped at $254.89; re-entry gate: price ≥ SMA 20 (~$258–260) + spread ≤2%
+- **Weekly floor June 8–12:** Must hit 7 new entries. With 3 slots open, aggressive daily scanning is required. Type 2/4 entries are preferred when pullbacks aren't available.
+- **CPI June 10 (Wednesday):** No new entries Wednesday morning; wait for CPI reaction before adding. FOMC June 16–17 = no binary risk this week.
+
+### Overall Grade: C
+> Rationale: Both new entries this week stopped out on Jobs Day (−$883 + −$1,850) due to correlated sector concentration in probe slots — a structural error not a market error. Prior-week positions exited cleanly via time stops (+$2,580 MU, +$786 AMD). Stop system executed flawlessly with zero manual overrides. Penalties: (1) 6th consecutive week below 7-entry floor (2/7); (2) −2.89% return vs S&P +0.92% = −3.81% relative (worst relative week); (3) AMD re-entry at elevated price into semi headwinds was a process lapse; (4) probe slot sector concentration rule violated. Grade is C not D because the automated stop system worked perfectly, AAPL is intact heading into a catalyst, and prior-week exits were clean — the damage was self-inflicted via concentration, not unforeseeable market action.
