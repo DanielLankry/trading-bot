@@ -1,5 +1,31 @@
 # Trade Log
 
+### Jun 05 — Market-Open (Week 7, Friday — Jobs Day)
+**Portfolio:** $102,854.19 | **Cash:** $52,813.92 (51.4%) | **Long MV:** $50,040.27 | **Phase P&L:** +$2,854.19 (+2.85%) | **Daytrade count:** 0
+
+| Ticker | Shares | Entry | Current | Unrealized P&L | Stop | Notes |
+|--------|--------|-------|---------|----------------|------|-------|
+| AAPL | 65 | $308.12 | $313.525 | +$351.41 (+1.76%) | 10% trail GTC, stop $285.237, HWM $316.93 (`8a973d5c`) | Type 2 — WWDC June 8 (Monday) |
+| AMD | 38 | $540.01 | $498.35 | −$1,582.98 (−7.71%) | 10% trail GTC, stop $491.73, HWM $546.37 (`bb465e5c`) | Type 4 — **TIME STOP JUNE 10** ⚠ stop $6.62 away |
+| NVDA | 50 | $226.70 | $214.28 | −$621.00 (−5.48%) | 10% trail GTC, stop $209.052, HWM $232.28 (`91a34446`) | Type 4 — **TIME STOP JUNE 9 (MONDAY)** ⚠ stop $5.23 away |
+
+**NO-TRADE-DAY** — Valid per Rule A: zero universe tickers qualify for Setup Types 1–5 today.
+- **CRWD:** Spread 6.02% (ask $719.90 / bid $676.58) → FAILS ≤2% gate. Post-earnings illiquidity persisting.
+- **AVGO:** Spread 0.25% ✓ BUT FAILS price stability gate — declining from $418.91 close toward $403, no bounce from SMA 50 ($392.87). Price still falling, not bouncing.
+- **AMZN:** Price $253 < $258 re-entry gate (SMA 20) → FAILS.
+- **Type 4 probes:** Cap 2/2 full (AMD + NVDA). No new probes.
+- **TQQQ:** QQQ extended above SMA 50 → Type 5 not viable.
+- **Market context:** Risk-off session. AMD −4.75%, NVDA −2.00%. Jobs print (May 2026) forecasted 62–85K vs 272K Kalshi consensus — likely miss. No bounce confirmation on any candidate.
+
+**Holds — auto-stops manage. No manual intervention.**
+- **AAPL:** +1.76% from entry. Type 2 breakout intact. WWDC Monday June 8 imminent catalyst.
+- **AMD:** −7.71% from entry. Stop $491.73 ($6.62 buffer, 1.33%). ⚠ Near stop. Time stop June 10 regardless.
+- **NVDA:** −5.48% from entry. Stop $209.052 ($5.23 buffer, 2.44%). **TIME STOP JUNE 9 = MONDAY OPEN EXIT** regardless of price.
+
+**Trades this week (Week 7):** 2/7 ⚠ — Below 7-entry floor. Root cause: probe cap filled by underperforming Type 4s on high-impact macro (Jobs) Friday. Flag in weekly review.
+
+---
+
 ### Jun 04 — EOD Snapshot (Week 7, Thursday)
 **Portfolio:** $103,763.98 | **Cash:** $52,813.92 (50.9%) | **Day P&L:** −$570.10 (−0.55%) | **Phase P&L:** +$3,763.98 (+3.76%)
 
