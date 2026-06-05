@@ -26,6 +26,41 @@
 
 ---
 
+### Jun 05 — Midday Scan (Week 7, Friday — Jobs Day)
+**Portfolio:** $102,076.75 | **Cash:** $81,936.50 (80.3%) | **Long MV:** $20,140.25 | **Phase P&L:** +$2,076.75 (+2.08%) | **Day P&L:** −$1,781.72 (−1.72%)
+
+| Ticker | Shares | Entry | Current | Unrealized P&L | Stop | Order ID |
+|--------|--------|-------|---------|----------------|------|----------|
+| AAPL | 65 | $308.12 | $310.65 | +$164.53 (+0.82%) | 10% trail GTC, HWM $316.93, stop $285.237 | `8a973d5c` |
+
+**EXITS — trailing stops triggered today:**
+
+| Ticker | Shares | Entry | Exit | Realized P&L | Exit Time (ET) | Notes |
+|--------|--------|-------|------|--------------|----------------|-------|
+| AMD | 38 | $540.01 | $491.33 | −$1,849.63 (−9.01%) | 09:47 | Trailing stop `bb465e5c` triggered. Was −7.71% at market-open (below −7% cut floor). Stop cascaded to $491.33 fill. Jobs Day macro + semi sector rotation. |
+| NVDA | 50 | $226.70 | $209.04 | −$883.04 (−7.79%) | 11:20 | Trailing stop `91a34446` triggered. Post-BofA conference sell-the-news + Jobs Day pressure. Time stop June 9 (Monday) would have exited 1 trading day later regardless. |
+
+**Total realized loss today:** −$2,732.67
+
+**Manual cuts:** NONE — trailing stops managed both exits.
+
+**Stop adjustments:** NONE — AAPL at +0.82% (threshold: +15% = $354.34; not met).
+
+**Thesis checks:**
+- **AAPL — INTACT.** $310.65, +0.82% from entry. Type 2 breakout level $305.54 intact ($5.11 buffer). WWDC June 8 (Monday) = Siri 2.0 / Apple Intelligence / hardware catalyst imminent. Stop $285.237 (HWM $316.93), 8.2% below price. **HOLD.**
+
+**New entries — NO-TRADE-DAY (afternoon):**
+- Jobs Day volatility; AMD + NVDA stopped out — no fresh same-day semi re-entries.
+- CRWD: bid $685 / ask $700 = 2.16% spread → FAILS ≤2% gate.
+- AVGO: $393–$395 — post-earnings decline continuing from $418+; no bounce confirmation.
+- AMZN: $253.18 — below SMA 20 re-entry gate ($258).
+- META / MSFT / GOOGL: Spread within gate; SMA confirmation not completed intraday — defer to Monday full scan.
+- TQQQ: QQQ ~22% above SMA 50 — no Type 5 pullback entry.
+
+**Open positions:** 1/4 | **Slots available:** 3 | **Trades this week:** 2/7 ⚠ — flag in weekly review.
+
+---
+
 ### Jun 04 — EOD Snapshot (Week 7, Thursday)
 **Portfolio:** $103,763.98 | **Cash:** $52,813.92 (50.9%) | **Day P&L:** −$570.10 (−0.55%) | **Phase P&L:** +$3,763.98 (+3.76%)
 

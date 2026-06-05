@@ -2327,3 +2327,35 @@ No CPI/PPI today (next: June 10/12). FOMC minutes after close — minimal intrad
 **AMD −1.52% intraday:** Normal reversion. Thesis intact. Time stop June 2 — exit at close tomorrow.
 
 **No further intraday action needed unless AAPL closes below $305.54.**
+
+---
+
+### 2026-06-05 — Afternoon Addendum (Midday Scan)
+
+**Jobs Report (May 2026):** +139K NFP vs 272K consensus — significant miss. Unemployment 4.2% (↓0.1 from April 4.3%). February revised −156K, March +185K. Soft print; mild rate-cut probability increase. Not a collapse — "Scenario C / weak B" in pre-market framework.
+
+**AMD stop-out @ $491.33 (09:47 ET):** Trailing stop `bb465e5c` triggered on Jobs Day macro selloff + ongoing semi sector rotation. Was already −7.71% at market-open; stop cascaded as selling continued. Realized P&L: −$1,849.63 (−9.01%). AMD fell further to ~$478 intraday post-stop. No fundamental thesis change (EPYC Venice / Meta GPU deal intact), but price action deteriorated beyond acceptable risk. Time stop June 10 would have been next action — stop was the correct exit.
+
+**NVDA stop-out @ $209.04 (11:20 ET):** Trailing stop `91a34446` triggered. Continued post-BofA conference sell-the-news + Jobs Day macro pressure. Realized P&L: −$883.04 (−7.79%). NVDA trading ~$207.82 post-stop. Time stop June 9 (Monday) would have exited only 1 trading day later regardless. No fresh fundamental negative.
+
+**AAPL — INTACT:** $310.65 (+0.82% from entry). Above Type 2 breakout $305.54. WWDC June 8 (Monday) catalyst confirmed. Stop $285.237 (HWM $316.93). **HOLD.**
+
+**Universe scan — no new entries (Jobs Day):**
+- CRWD: $685/$700 spread 2.16% — FAILS ≤2% gate. Post-earnings illiquidity persisting.
+- AVGO: $393–$395 — post-earnings decline continues; no bounce from $418+ print; no entry.
+- AMZN: $253.18 — below $258 SMA 20 re-entry gate.
+- META: $607–$617 (spread 1.65% ✓). SMA check deferred to Monday — need Perplexity SMA 20/50/150/200 confirmation.
+- MSFT: $419–$425 (spread 1.27% ✓). Same — SMA check Monday.
+- GOOGL: $369–$370 (spread 0.22% ✓). Potential Type 3 candidate — check Monday.
+
+**Decision: NO-TRADE-DAY (afternoon) — Reason A.** Zero setups fully qualified given spreads + SMA checks not completed + Jobs Day volatility. 3 slots open for Monday.
+
+**Monday priority list (pre-market scan targets):**
+1. META — full SMA check (Type 2 breakout or Type 3 pullback?)
+2. MSFT — full SMA check (Type 3 SMA 50 pullback candidate?)
+3. GOOGL — full SMA check (Type 1/2/3 candidate?)
+4. CRWD — spread check (normalized to ≤2%?)
+5. AVGO — price stability check (bounce from SMA 50?)
+6. TQQQ — re-check QQQ vs SMA 50 (gap narrowing after Jobs selloff?)
+
+**Portfolio at midday:** $102,076.75 (+2.08% phase). 1 position open. No further intraday action.
