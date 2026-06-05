@@ -61,6 +61,17 @@
 
 ---
 
+### Jun 05 — EOD Snapshot (Week 7, Friday — Jobs Day)
+**Portfolio:** $101,901.25 | **Cash:** $81,936.50 (80.4%) | **Day P&L:** −$1,957.22 (−1.88%) | **Phase P&L:** +$1,901.25 (+1.90%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| AAPL | 65 | $308.12 | $307.18 | −1.30% | −$61.34 (−0.31%) | 10% trail GTC, stop $285.24, HWM $316.93 (`8a973d5c`) |
+
+**Notes:** Week 7 Friday (Jobs Day) — AMD and NVDA trailing stops both triggered. AMD exited at $491.33 (realized −$1,849.63, −9.01% from $540.01 June 3 entry); NVDA exited at $209.04 (realized −$883.04, −7.79% from $226.70 June 2 entry). Total realized loss today: −$2,732.67. Both exits driven by Jobs Report miss pressure + semiconductor sector rotation. AAPL held −1.30% on the day (now −0.31% from entry at $307.18); WWDC June 8 (Monday) remains imminent catalyst. Portfolio 1/4 positions, 80.4% cash ($81,936.50) — 3 slots open for Monday redeployment. Day P&L: −$1,957.22 (−1.88%); Phase P&L: +$1,901.25 (+1.90%). Trades today: 2 exits (AMD + NVDA stops). Trades this week: 2 new entries (NVDA June 2, AMD June 3) — ⚠ below 7-entry floor; flag in weekly review.
+
+---
+
 ### Jun 04 — EOD Snapshot (Week 7, Thursday)
 **Portfolio:** $103,763.98 | **Cash:** $52,813.92 (50.9%) | **Day P&L:** −$570.10 (−0.55%) | **Phase P&L:** +$3,763.98 (+3.76%)
 
