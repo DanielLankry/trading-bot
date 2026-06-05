@@ -5,6 +5,100 @@ Format each entry:
 
 ---
 
+## 2026-06-05 — Pre-Market Research (Week 7, Friday — JOBS DAY)
+
+### Account Snapshot
+- **Equity:** $103,166.09 | **Cash:** $52,813.92 (51.2%) | **BP:** $311,960.02
+- **Long MV:** $50,352.17 | **Phase P&L:** +$3,166.09 (+3.17%) | **Daytrade count:** 0
+- **Positions:** 3/4 | **Type 4 probes:** 2/2 (AMD time stop June 10, NVDA time stop June 9)
+
+### Live Positions (pre-market)
+| Ticker | Shares | Entry | Current | Unrealized P&L | Stop | Notes |
+|--------|--------|-------|---------|----------------|------|-------|
+| AAPL | 65 | $308.12 | $310.83 | +$176.23 (+0.88%) | 10% trail GTC, stop $285.237, HWM $316.93 (`8a973d5c`) | Type 2 breakout — **WWDC June 8 (3 days)** |
+| AMD | 38 | $540.01 | $509.53 | −$1,158.11 (−5.64%) | 10% trail GTC, stop $491.73, HWM $546.37 (`bb465e5c`) | Type 4 — **TIME STOP JUNE 10** (Day 3/5) ⚠ stop $17.80 away |
+| NVDA | 50 | $226.70 | $215.82 | −$543.98 (−4.80%) | 10% trail GTC, stop $209.05, HWM $232.28 (`91a34446`) | Type 4 — **TIME STOP JUNE 9** (Day 4/5) ⚠ stop $6.77 away |
+
+⚠ **BOTH PROBES NEAR STOPS:** AMD 3.5% buffer; NVDA 3.1% buffer. Jobs miss could trigger both.
+
+### Market Context
+- **WTI crude:** ~$92.50/bbl | **Brent:** ~$106/bbl — slight decline; mild deflationary tailwind
+- **S&P 500 futures (ESM26):** ~7,545–7,557 (−0.35% to −0.50%) — negative open expected
+- **VIX:** 16.06 (June 3 close), intraday ~15.40 — GREEN; all 5 setup types active ✓
+- **Macro filter:** SPY & QQQ above SMA 50 ✓ — FULL UNIVERSE active
+- **QQQ vs SMA 50:** ~22% above SMA 50 → TQQQ Type 5 NOT viable
+- **Sector:** Tech/semis driving S&P gains YTD; narrowly concentrated
+
+### Economic Calendar — JOBS DAY (HIGH IMPACT)
+- **8:30 AM ET: BLS Employment Situation (May 2026)** — NFP + Unemployment Rate + Hourly Earnings
+  - **Prior (April):** +115K NFP, 4.3% unemployment
+  - **Consensus (Kalshi prediction market):** ~272K / 4.0%
+  - **Scenarios:** (A) Strong >200K → yields spike, tech headwind; (B) Weak <100K → recession fear/rate-cut rally binary; (C) In-line 130–175K → neutral/slight positive
+- **No CPI today** (June 10) | **No FOMC today** (June 16–17)
+- **No universe earnings today** (MDT pre-market = non-universe)
+
+### Key Catalysts Today
+- **Jobs report = ONLY dominant catalyst today**
+- **NVDA IREN deal** — 5 GW AI infrastructure, $3.4B cloud contract, $2.1B equity purchase right. Positive AI supercycle confirmation.
+- **AAPL WWDC June 8** — 3 days away; pre-positioning likely starting today
+- **CRWD/AVGO earnings now behind** — potential SMA bounce setups if spread cooperates
+
+### Held-Ticker Thesis Checks
+
+**AAPL — INTACT + APPROACHING BINARY EVENT**
+- $310.83 (+0.88% from entry). Type 2 breakout $305.54 intact (5.3% buffer). WWDC June 8 = Siri 2.0 / Apple Intelligence / hardware. Analysts: BofA $380, Wedbush $400–$440 bull. Stop $285.237 = 8.2% below price. **Thesis: HOLD.**
+
+**AMD — INTACT, DETERIORATING**
+- $509.53 (−5.64% from entry, Day 3/5). HSBC downgraded Buy→Hold (May, capacity concerns). Semi sympathy selling from CRWD/AVGO. Thesis (Meta GPU, EPYC Venice, July AI event) intact. Stop $491.73 only $17.80 away. Time stop June 10. Auto-stop manages. **Thesis: INTACT. HOLD, NO intervention.**
+
+**NVDA — INTACT, STOP PROXIMITY ⚠**
+- $215.82 (−4.80%, Day 4/5). IREN 5 GW deal + inference demand inflection (CNBC) = thesis confirmation. NVDA IR page: $218.66 June 4 → $215.82 = −1.3%. Stop $209.05 only $6.77 away (3.1%). Time stop June 9 = **Monday open exit regardless**. Auto-stop manages. **Thesis: INTACT. HOLD, NO intervention.**
+
+### Universe Scan — All 5 Setup Types
+| Ticker | Setup | Status | Notes |
+|--------|-------|--------|-------|
+| CRWD | Type 3 SMA Bounce | **CHECK AT OPEN** | Earnings behind. −11% AH June 3. ~$665 zone. Gate: spread ≤2% + SMA 50. Historically 7-11% spread at opens — likely fails. |
+| AVGO | Type 3 SMA Bounce | **CONDITIONAL** | Earnings behind. −8% AH June 3. Extreme volatility. Gate: spread ≤2% + price stability. Risky on Jobs day. |
+| AMZN | Type 3 Re-entry | **CONDITIONAL** | Stopped out June 2. Gate: price ≥$258 + spread ≤2%. |
+| TQQQ | Type 5 | **SKIP** | QQQ 22% above SMA 50 — no pullback entry |
+| MRVL | Type 4 | **LOW PRIORITY** | Wide spread history; HSBC downgrade overhang |
+| MSFT/META/PLTR | All | **LIKELY DISQUALIFIED** | Below SMA 150/200 in recent checks |
+
+### Trade Ideas
+
+**Idea 1 — CRWD Type 3 SMA Bounce (PRIMARY — post-Jobs conditional)**
+- **Catalyst:** Q1 FY2027 beat + 4-for-1 split + Chief AI Officer. Sell-the-news ≠ thesis break. Earnings behind.
+- **Entry gate:** Spread ≤2% at open | Price at SMA 50 | Jobs data not panic-negative
+- **Size:** FULL (Type 3) — ~$19,500 (~29–30sh @ ~$665)
+- **Stop:** Hard GTC at SMA 50 support zone
+- **Position cap post-entry:** 4/4
+
+**Idea 2 — AVGO Type 3 SMA Bounce (SECONDARY — if CRWD fails spread)**
+- **Gate:** Spread ≤2% + price stability. Jobs day risk noted.
+- **Size:** FULL (Type 3) — ~$19,000–$20,000
+
+**Idea 3 — AMZN Type 3 Re-entry (TERTIARY)**
+- **Gate:** Price ≥$258 (SMA 20) + spread ≤2%. Not a probe — valid in 4th slot.
+- **Size:** FULL (Type 3)
+
+### Risk Factors
+1. **Jobs report 8:30 AM** — dominant unknown; futures already −0.35%
+2. **AMD stop $491.73** — 3.5% buffer; jobs miss could trigger; time stop June 10 anyway
+3. **NVDA stop $209.05** — 3.1% buffer; time stop June 9 = Monday open exit regardless
+4. **Probe cap 2/2** — no new Type 4 entries until NVDA/AMD exit
+5. **CRWD/AVGO spread risk** — post-earnings gaps historically widen spreads 7-11%
+6. **⚠ Weekly pace: 2/7 entries Week 7** — floor NOT achievable today (5 short). Flag for weekly review.
+
+### Decision: CONDITIONAL TRADE — Wait for 8:30 AM Jobs Data
+- **Pre-8:30 AM:** Hold everything. No new entries before print.
+- **Post-print in-line/weak (130–200K):** Scan CRWD → if spread ≤2% + SMA 50 → Type 3 entry (4th slot). Fallbacks: AVGO → AMZN.
+- **Post-print strong (>200K, yields spike):** Lean NO-TRADE-DAY. Protect stops.
+- **AAPL / AMD / NVDA:** HOLD. Auto-stops manage. Never move stops down.
+- **NVDA note:** Time stop June 9 = Monday exit. Today is last full day before that.
+- **Week 7 alert:** 2/7 — flag in weekly review. Root cause: probe slots filled by underperforming positions on Jobs Friday.
+
+---
+
 ## 2026-06-04 — Pre-Market Research (Week 7, Thursday)
 
 ### Account Snapshot
