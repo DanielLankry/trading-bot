@@ -1508,3 +1508,15 @@ No positions yet. Bot launches tomorrow (2026-04-28).
 - NVDA: Normal consolidation, no adverse catalyst. Intraday range $204.33–$214.87 on Friday June 6; today recovering off lows. AI infrastructure capex supercycle thesis intact per Perplexity. No action required.
 
 **Trades this week (Week 8):** 1 (NVDA entered at market-open) | Need 6 more by June 13 | 3 slots open (2/4 filled)
+
+---
+
+### Jun 08 — EOD Snapshot (Post-Challenge Day 8, Week 8 Monday)
+**Portfolio:** $101,548.57 | **Cash:** $71,498.62 (70.4%) | **Day P&L:** −$365.00 (−0.36%) | **Phase P&L:** +$1,548.57 (+1.55%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| AAPL | 65 | $308.12 | $301.72 | −1.83% | −$415.92 (−2.08%) | 10% trail GTC, stop $285.66, HWM $317.40 |
+| NVDA | 50 | $208.757 | $208.75 | +1.78% | −$0.35 (0.00%) | 10% trail GTC, stop $188.774, HWM $209.749 |
+
+**Notes:** Week 8 opener — WWDC Day 1. NVDA entered at market-open (50 shares @ $208.757, Type 4 momentum probe, time stop June 13). AAPL gave back −1.83% as WWDC Day 1 enthusiasm faded after an intraday spike to HWM $317.40, closing at $301.72; trailing stop ratcheted to $285.66, thesis intact (WWDC runs through June 12, Apple Intelligence reveal ongoing). NVDA essentially flat (−0.004%) at $208.75, trailing stop $188.774. Portfolio slipped −$365.00 (−0.36%) versus Friday close, primarily AAPL drag. Phase P&L +$1,548.57 (+1.55%) vs $100K starting capital. 2 positions open (AAPL + NVDA), $71,498.62 cash (70.4%) — 2 slots remain. Trades today: 1 (NVDA). Trades this week (Week 8): 1.
