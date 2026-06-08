@@ -2359,3 +2359,97 @@ No CPI/PPI today (next: June 10/12). FOMC minutes after close — minimal intrad
 6. TQQQ — re-check QQQ vs SMA 50 (gap narrowing after Jobs selloff?)
 
 **Portfolio at midday:** $102,076.75 (+2.08% phase). 1 position open. No further intraday action.
+
+---
+
+## 2026-06-08 — Pre-Market Research (Week 7, Day 1)
+
+### Macro Filter
+- **SPY**: Likely above SMA 50 ✓ (S&P +24.32% YTD, confirm at open)
+- **QQQ**: Likely above SMA 50 ✓ (Perplexity inconclusive — confirm at open before TQQQ entry)
+- **VIX**: ~15.87–16.06 (June 5 close 15.87; intraday spike to 21.51 on Jobs Day resolved) — full sizing ✓
+- **S&P 500 futures**: ~7,400–7,416, +0.21% premarket — mildly positive, Jobs Day bounce
+- **WTI**: ~$90.25/bbl (Jul '26 futures) | **Brent**: ~$93.15/bbl — elevated, stable
+
+### Account Snapshot
+- **Equity**: $101,933.72 | **Cash**: $81,936.47 (80.4%) | **Buying Power**: $383,738.18
+- **Long MV**: $19,997.25 (AAPL only) | **Phase P&L**: +$1,933.72 (+1.93%)
+- **Daytrade count**: 0
+- **Positions**: 1/4 (3 slots open) | **Type 4 probes**: 0/2
+
+### Open Positions
+| Ticker | Shares | Entry | Pre-Mkt | Unrealized P&L | Stop | Notes |
+|--------|--------|-------|---------|----------------|------|-------|
+| AAPL | 65 | $308.12 | $307.65 | −$30 (−0.15%) | 10% trail GTC, HWM $316.93, stop $285.237 (`8a973d5c`) | Type 2 breakout; WWDC Day 1 today |
+
+### Economic Calendar (Week of June 8–12)
+- **Today (June 8)**: No major U.S. macro releases. WWDC Day 1 (AAPL catalyst).
+- **Wed June 10**: May CPI at 8:30 AM ET ⚠ KEY RISK EVENT — rate-cut expectations hinge on print
+- **Thu June 11**: May PPI at 8:30 AM ET
+- **Jun 16–17**: FOMC meeting
+- **Jul 3**: Next Jobs Report (NFP)
+
+### Earnings Today (June 8)
+- BMO: MDT, GHM, CPB, AVO, MTN — no universe names. No earnings risk to held positions.
+
+### Ticker Research
+
+**AAPL — WWDC Day 1:**
+- WWDC June 8–12 confirmed. Focus: agentic AI, Apple Intelligence updates, Siri rebuild.
+- Strong Q2 FY2026 backdrop: Rev $111.2B (+17% YoY), EPS $2.01 (+22%), iPhone Rev +22%, Services +16% to record $31B.
+- Analyst targets: Wedbush $400, BofA $380, Melius $385 — consensus $380+.
+- Stock +14% in last 30 days pre-market. Current price $307.65 vs entry $308.12 (essentially flat).
+- Type 2 breakout level $305.54 must hold; trailing stop $285.237 handles downside.
+- **HOLD — WWDC is the catalyst we've been positioned for.**
+
+**META — DISQUALIFIED:**
+- Price ~$655–667 (Simply Wall St, June 7), SMA 200 ~$662. Price at/below SMA 200 — fails entry gate.
+- Down 13% over 90 days. No entry until price reclaims SMA 200 decisively.
+
+**MSFT — DISQUALIFIED:**
+- Price $416.67 (June 5), SMA 150 ~$439, SMA 200 ~$458. Below both — fails gate.
+- Crossed above SMA 200 briefly June 1 ($466 high), reversed hard. No entry.
+
+**GOOGL — QUALIFIED:**
+- Barchart (updated June 6): SMA 50 ~$351, SMA 200 ~$304. Price ~$370–428, well above both.
+- After June 5 pullback (~$369–370), potential bounce from SMA 20/50 zone.
+- AI search (Gemini Ultra, NotebookLM) + cloud (GCP) growth intact.
+- Earnings next check: verify no earnings within 5 trading days.
+- Type 3 (SMA 20/50 pullback) or Type 1 (SMA 150/200 pullback) depending on exact price zone at open.
+
+**TQQQ — PENDING QQQ CONFIRMATION:**
+- QQQ above SMA 50 likely (S&P +24.32% YTD, VIX ~16, mild green premarket).
+- Perplexity returned unreliable data on exact SMA levels — confirm QQQ > SMA 50 at open before entry.
+- If confirmed: enter TQQQ core position (~40% capital, ~$40K).
+- Stop: QQQ daily close below SMA 50 OR TQQQ intraday −8% from entry.
+
+**NVDA — MOMENTUM PROBE CANDIDATE:**
+- Stopped out June 5 at $209.04 (Jobs Day selloff + sell-the-news). Realized P&L: −$883.
+- Fundamental thesis intact: Blackwell GB200 ramp, sovereign AI, data-center demand unbroken.
+- Re-entry as Type 4 momentum probe at half size if price recovers above the $209 stop-out level.
+- Risk: 1.5–2% of capital (~$1,530–2,040). Time stop: 5 trading days.
+
+### Trade Ideas
+
+| # | Ticker | Type | Entry Trigger | Size | Stop | Target |
+|---|--------|------|---------------|------|------|--------|
+| 1 | TQQQ | Type 5 (ETF core) | Confirm QQQ > SMA 50 at open → buy at open | ~$40K (40% capital) | QQQ close < SMA 50 OR TQQQ −8% intraday | +15–20% from entry |
+| 2 | GOOGL | Type 3 (SMA pullback) | Price bouncing from SMA 20/50 zone at open; above SMA 150/200 | 3–4% risk (~$3,060–4,077) | Daily close below SMA used | +10–15% to next resistance |
+| 3 | NVDA | Type 4 (momentum probe) | Price recovering above $209; half size | 1.5–2% risk (~$1,530–2,040) | 5% below entry or 1×ATR | +10% in 5 days |
+
+### Risk Factors
+1. **CPI Wednesday (June 10)** — hot print compresses rate-cut bets → tech selloff. Stops must be set before CPI.
+2. **QQQ SMA 50 not confirmed** — if QQQ failed SMA 50 during June 5 selloff and hasn't recovered, TQQQ blocked.
+3. **WWDC binary risk** — AAPL could gap down on disappointing AI announcements. Stop at $285.237.
+4. **GOOGL earnings proximity** — must verify Q2 earnings date before sizing; Q1 earnings were late April, Q2 likely late July (safe window).
+5. **NVDA re-entry risk** — re-entering a recently stopped position; half size is mandatory (Type 4 probe).
+6. **Oil at $90** — elevated but not yet a macro stress factor; watch for moves above $95.
+
+### Decision: TRADE
+- **3 open slots, Week 7 Day 1, sprint floor requires ≥1 entry today.**
+- **Priority at open:**
+  1. Verify QQQ > SMA 50 → enter TQQQ immediately if confirmed
+  2. Check GOOGL price at open → enter Type 3 if at/bouncing from SMA 20/50
+  3. Check NVDA → enter Type 4 half-size probe if recovering above $209
+- All 3 entries would fill 4/4 positions. If only TQQQ + GOOGL qualify: 3/4 slots, acceptable.
+- Trades this week (Week 7): 0 entering today.
