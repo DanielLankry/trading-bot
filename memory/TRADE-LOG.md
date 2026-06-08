@@ -1480,3 +1480,31 @@ No positions yet. Bot launches tomorrow (2026-04-28).
 | MU | 23 | $853.65 | $964.45 | +4.43% | +$2,548.31 (+12.98%) | 10% trail GTC, stop $882.90, HWM $981.00 |
 
 **Notes:** Post-Challenge Day 2 (Friday) — no trades, 4/4 position cap full. MU led the day +4.43% on continued HBM/AI-memory momentum, closing at $964.45 (+12.98% from entry); +15% breakeven trigger at $981.70 narrowly missed (HWM $981.00 at midday), trailing stop auto-ratcheted to $882.90. AAPL (−0.27%), AMD (−0.77%), and AMZN (−1.30%) gave back small amounts amid light Friday tech rotation — all theses intact, no stop thresholds breached. AMD + MU Type 4 time stops expire June 2 (2 trading days: June 1, June 2 — exit at close regardless). Portfolio: +$449.44 (+0.43%) on the day; phase total +$4,919.39 (+4.92%) vs $100K starting capital. Trades this week: 0. Weekend plan: prep June 1 rotation — AMD/MU exits free ~$43K; redeploy into TQQQ core + NVDA/CRWD setups.
+
+---
+
+### June 8 — Midday Scan (Week 8, Monday — WWDC Day 1)
+**Portfolio:** $102,260.77 | **Cash:** $71,498.62 (69.9%) | **Long MV:** $30,762.15 | **Phase P&L:** +$2,260.77 (+2.26%)
+
+| Ticker | Shares | Entry | Current | Unrealized P&L | Stop | Order ID |
+|--------|--------|-------|---------|----------------|------|----------|
+| AAPL | 65 | $308.12 | $313.205 | +$330.61 (+1.65%) | 10% trail GTC, HWM $316.93, stop $285.237 | `8a973d5c` |
+| NVDA | 50 | $208.757 | $207.984 | −$38.66 (−0.37%) | 10% trail GTC, HWM $209.75, stop $188.774 | `7fde6397` |
+
+**Cuts:** NONE — no position at or below −7% threshold. AAPL +1.65%, NVDA −0.37%.
+
+**Stop adjustments:** NONE — no position at or above +15% threshold.
+- AAPL: +1.65% — +15% trigger $354.34 (not met)
+- NVDA: −0.37% — well below +15% trigger $240.07
+
+**Thesis check:**
+- **AAPL — INTACT AND STRENGTHENING.** $313.205, +1.91% intraday. WWDC Day 1 keynote underway (10 AM PT / 1 PM ET). Apple Intelligence / Siri 2.0 reveal. Strong volume ~$8.3B confirmed per Perplexity. Type 2 breakout level $305.54 with 2.5% buffer. Sell-side targets $330–$440. No adverse news.
+- **NVDA — INTACT.** $207.984, −0.37% from entry $208.757. Perplexity confirms: no company-specific negative news; normal post-run consolidation/profit-taking. Jensen Huang "buying opportunity" thesis unchanged. AI supercycle intact. Support ~$194. Time stop June 13 (5 trading days). Stop $188.774 at 9.2% buffer — ample room.
+
+**Thesis breaks:** NONE.
+
+**Perplexity research:**
+- AAPL: WWDC catalyst confirmed active. Q2 FY2026 backdrop ($111.2B rev, $2.01 EPS record). Apple Intelligence keynote underway; market responding positively (+1.91% intraday on $8.3B volume). Earnings next: fiscal Q3 2026 (July–August), well outside our hold window.
+- NVDA: Normal consolidation, no adverse catalyst. Intraday range $204.33–$214.87 on Friday June 6; today recovering off lows. AI infrastructure capex supercycle thesis intact per Perplexity. No action required.
+
+**Trades this week (Week 8):** 1 (NVDA entered at market-open) | Need 6 more by June 13 | 3 slots open (2/4 filled)

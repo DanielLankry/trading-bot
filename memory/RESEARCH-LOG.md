@@ -61,6 +61,23 @@ Format each entry:
 - **AAPL:** HOLD | trailing stop auto-manages through WWDC
 - **All others:** no qualified setup passes all gates
 
+### 2026-06-08 — Afternoon Addendum (Midday Scan)
+
+**AAPL — WWDC Day 1 IN PROGRESS, THESIS INTACT:**
+- $313.205, +1.91% intraday on heavy volume (~$8.3B per Perplexity). WWDC keynote underway (10 AM PT / 1 PM ET). Apple Intelligence / Siri 2.0 reveal confirmed as catalyst.
+- Type 2 breakout level $305.54 holds with 2.5% buffer. Trailing stop $285.237, HWM $316.93.
+- Analyst consensus: MS $330 / BofA $380 / Melius $385 / Wedbush $400. Strong FY Q2 backdrop ($111.2B rev, $2.01 EPS). No sell-the-news deterioration visible at midday.
+- **No action. Hold. Trailing stop auto-manages.**
+
+**NVDA — INTACT, NORMAL CONSOLIDATION:**
+- $207.984, −0.37% from entry ($208.757). +1.41% from Friday close ($205.10).
+- Perplexity confirms: no company-specific negative news. Friday intraday range $204.33–$214.87 — today consolidating in middle of that range.
+- AI supercycle / Jensen Huang "buying opportunity" thesis unchanged. Support ~$194.39, resistance ~$237.14.
+- Trailing stop $188.774, HWM $209.75. Buffer 9.2%. Time stop June 13.
+- **No action. Hold.**
+
+**Portfolio at midday:** $102,260.77 (+2.26% phase). 2 positions open (2/4). No cuts. No stop adjustments. Week 8: 1/7 entries.
+
 ---
 
 ## 2026-06-05 — Pre-Market Research (Week 7, Friday — JOBS DAY)
