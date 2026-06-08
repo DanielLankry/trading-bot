@@ -1,5 +1,39 @@
 # Trade Log
 
+### Jun 08 — Market-Open Trades (Week 8, Monday — WWDC Day)
+**Portfolio:** $102,193.12 | **Cash:** $71,498.62 (69.9%) | **Long MV:** $30,694.50 | **Phase P&L:** +$2,193.12 (+2.19%) | **Daytrade count:** 0
+
+| Ticker | Shares | Entry | Stop | Thesis | Target | R:R |
+|--------|--------|-------|------|--------|--------|-----|
+| NVDA | 50 | $208.757 | 10% trail GTC, stop $187.74, HWM $208.60 (`7fde6397`) — **TIME STOP JUNE 13** | Type 4 Momentum Probe; above SMA 50 ($203.45)/SMA 150 ($190.16)/SMA 200 ($188.57), all sloping up ✓; AI supercycle intact; Jensen Huang on CNBC June 8 calling tech selloff "a buying opportunity"; no earnings until Q2 FY2027 ~Aug 2026 ✓ | $225–235 (+7–12%) | ~2.5:1 |
+
+**Trades fired:**
+- **NVDA BUY** — 50 shares @ $208.757 avg (market, ~9:40 AM ET). Fill confirmed. 10% trailing stop GTC placed (order `7fde6397`, stop $187.74, HWM $208.60). Position cost $10,438 (10.2% equity ✓). Risk: 50 × $21.02 = $1,051 (1.03% equity ✓).
+
+**Candidates skipped:**
+- **CRWD** — Spread 7.1% (ask $709.80 / bid $661.00) → FAILS ≤2% gate.
+- **AVGO** — Price $394 below SMA 50 ($413.90). Broken support, not a bounce. SKIP.
+- **AMD** — Spread 5.18% at open → FAILS ≤2% gate.
+- **AMZN** — Price $246.52 < $258 SMA 20 re-entry gate. FAILS.
+- **META / MSFT / TSLA / PLTR** — Below SMA 200. DISQUALIFIED.
+- **ARM / NET / SHOP** — Spreads 13.5%, 11.2%, 29.1% → ILLIQUID.
+- **MRVL** — Spread 1.05% ✓ but price $286 not at SMA pullback zone (SMA 20 $209.58, SMA 50 $165.77). No entry signal.
+- **TQQQ** — QQQ $715, well above SMA 50 (~$660). No Type 5 pullback entry.
+- **GOOGL** — Below SMA 20 ($381.84); no clean entry level.
+- **MU** — Price $938 has already bounced ~10% from SMA 20 ($850); missed the SMA entry.
+
+**Open positions (2/4 max):**
+| Ticker | Shares | Entry | Current | Unrealized P&L | Stop | Notes |
+|--------|--------|-------|---------|----------------|------|-------|
+| AAPL | 65 | $308.12 | $311.40 | +$213.28 (+1.07%) | 10% trail GTC `8a973d5c` stop $285.237 HWM $316.93 | Type 2 breakout — WWDC keynote 1 PM ET today |
+| NVDA | 50 | $208.757 | $209.07 | +$15.65 (+0.15%) | 10% trail GTC `7fde6397` stop $187.74 HWM $208.60 | Type 4 — **TIME STOP JUNE 13** |
+
+**Macro:** SPY $741.66 / QQQ $715.52 — both above SMA 50 ✓ | VIX ~19.90 (below 25) ✓ | All 5 setup types active ✓ | QQQ extended above SMA 50 → TQQQ Type 5 not viable
+**Trades this week (Week 8):** 1 new entry (NVDA)
+**Notes:** WWDC keynote 1 PM ET — AAPL up +1.32% pre-keynote; trailing stop auto-manages. Jensen Huang CNBC "buying opportunity" catalyst fired NVDA entry. VIX spiked 16→21 on Jobs Day miss but recovered to ~20; macro filter GREEN. Full universe scanned — only NVDA qualifies. Daily floor satisfied.
+
+---
+
 ### Jun 05 — Market-Open (Week 7, Friday — Jobs Day)
 **Portfolio:** $102,854.19 | **Cash:** $52,813.92 (51.4%) | **Long MV:** $50,040.27 | **Phase P&L:** +$2,854.19 (+2.85%) | **Daytrade count:** 0
 

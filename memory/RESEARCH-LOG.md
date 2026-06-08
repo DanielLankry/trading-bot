@@ -5,6 +5,64 @@ Format each entry:
 
 ---
 
+## 2026-06-08 — Market-Open Research (Week 8, Monday — WWDC Day — Inline)
+
+### Account Snapshot
+- **Equity:** $102,193.12 | **Cash:** $71,498.62 (69.9%) | **Long MV:** $30,694.50
+- **Phase P&L:** +$2,193.12 (+2.19%) | **Daytrade count:** 0
+- **Positions:** 1→2 (AAPL held; NVDA entered) | **Type 4 probes:** 0→1/2
+
+### Market Context
+- **SPY:** $741.66 | **QQQ:** $715.52 — both above SMA 50 ✓ | Macro filter: GREEN
+- **VIX:** ~19.90 (spiked from 16.06 June 4 → ~21.51 June 7 on Jobs Day miss, recovering today)
+- **QQQ vs SMA 50:** ~$715 vs ~$660 SMA 50 → still extended, TQQQ Type 5 not viable
+- **WWDC keynote:** 10 AM PT / 1 PM ET today — Apple Intelligence / Siri 2.0
+
+### Live Positions (at open)
+| Ticker | Shares | Entry | Current | Unrealized P&L | Stop | Notes |
+|--------|--------|-------|---------|----------------|------|-------|
+| AAPL | 65 | $308.12 | $311.40 | +$213.28 (+1.07%) | 10% trail GTC, stop $285.237, HWM $316.93 (`8a973d5c`) | Type 2 breakout — WWDC keynote 1 PM ET |
+
+### Universe Scan — All 5 Setup Types
+| Ticker | Setup | Spread | Status | Notes |
+|--------|-------|--------|--------|-------|
+| NVDA | Type 4 Momentum Probe | 0.05% ✓ | **ENTERED** | Above SMA 50 ($203.45)/150 ($190.16)/200 ($188.57); Jensen Huang CNBC "buying opportunity" catalyst; AI supercycle intact |
+| AAPL | Hold | — | **HOLD** | 65sh @ $308.12; WWDC keynote 1 PM ET; trailing stop active |
+| CRWD | Type 3 | 7.1% | SKIP | FAILS spread gate |
+| AVGO | Type 3 | ~2.0% | SKIP | Price $394 below SMA 50 ($413.90) — broken support |
+| AMD | Type 4 | 5.18% | SKIP | FAILS spread gate |
+| AMZN | Type 3 | 0.09% | SKIP | Price $246 < $258 re-entry gate (SMA 20) |
+| META | All | 0.72% | DISQUALIFIED | Below SMA 200 ($662.45) |
+| MSFT | All | 0.77% | DISQUALIFIED | Below SMA 200 ($456.38) |
+| TSLA | All | 0.69% | DISQUALIFIED | Below SMA 200 ($414.14) |
+| PLTR | All | 6.3% | DISQUALIFIED | Below SMA 200 ($161.07) + spread fails |
+| GOOGL | Type 3 | 0.26% | SKIP | Below SMA 20 ($381.84); above SMA 50/200 but no clean entry |
+| MRVL | Type 3/4 | 1.05% ✓ | SKIP | Price $286 not at SMA pullback zone (SMA 20 $209, SMA 50 $166) |
+| MU | Type 3 | 0.04% ✓ | SKIP | Price $938 already 10% above SMA 20 ($850); missed SMA bounce entry |
+| ARM / NET / SHOP | All | 13–29% | SKIP | ILLIQUID |
+| TQQQ | Type 5 | 0.04% ✓ | SKIP | QQQ $715, well above SMA 50 (~$660) — no pullback entry |
+
+### Trade Executed
+**NVDA Type 4 Momentum Probe — 50sh @ $208.757**
+- **Catalyst:** Jensen Huang on CNBC June 8 calling tech selloff "a buying opportunity"; AI infrastructure buildout ongoing; NVDA expanded into PC market (keynote last week); Blackwell/Vera Rubin ramp intact
+- **SMA structure:** Above SMA 50 ($203.45) / SMA 150 ($190.16) / SMA 200 ($188.57), all sloping up ✓
+- **Stop:** 10% trail GTC `7fde6397`, HWM $208.60, stop $187.74
+- **Time stop:** June 13 (5 trading days)
+- **Risk:** 50 × $21.02 = $1,051 = 1.03% capital ✓ | Position cost $10,438 = 10.2% equity ✓
+
+### Risk Factors
+1. **VIX at 19.90** — elevated vs recent 16; market still digesting Jobs Day miss
+2. **AAPL WWDC binary event** — keynote 1 PM ET; sell-the-news risk after +1.07% pre-announcement run
+3. **NVDA stop $187.74** — 10.1% below entry; still room for normal volatility
+4. **Week 8 floor:** 1/7 entries so far — need 6 more by Friday June 13
+
+### Decision: TRADE — NVDA Type 4 Probe
+- **NVDA:** ENTERED 50sh @ $208.757 | Stop $187.74 GTC | Time stop June 13
+- **AAPL:** HOLD | trailing stop auto-manages through WWDC
+- **All others:** no qualified setup passes all gates
+
+---
+
 ## 2026-06-05 — Pre-Market Research (Week 7, Friday — JOBS DAY)
 
 ### Account Snapshot
