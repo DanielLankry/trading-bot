@@ -1,5 +1,36 @@
 # Trade Log
 
+### Jun 09 — Market-Open (Week 8, Tuesday)
+**Portfolio:** $101,438.06 | **Cash:** $90,951.81 (89.7%) | **Long MV:** $10,486.25 | **Phase P&L:** +$1,438.06 (+1.44%) | **Daytrade count:** 0
+
+**Exit — Type 2 breakout rule:**
+- **AAPL SELL 65sh @ $299.28** (~9:36 AM ET) — June 8 close $301.54 < $305.54 Type 2 breakout level → mandatory rule exit. Trailing stop `8a973d5c` cancelled first (cancel-all required to free locked shares); market sell order `a61383d7` filled. Realized P&L: **−$574.52 (−2.87%)**. Entry $308.12 (May 22). WWDC sell-the-news drove price below breakout level — stop-out rule correct, no override.
+- **NVDA stop `7fde6397` cancelled** (collateral damage from cancel-all) → **re-placed as `6f1cae8f`** (10% trail GTC, HWM $210.28, stop $189.25). New stop $1.01/sh lower than prior $190.26 due to re-placement at current price; noted.
+
+**New entries:** NONE
+
+**NO-TRADE-DAY (post-AAPL exit)** — Valid per Rule A: zero universe tickers qualify after full scan.
+- **CRWD:** Spread 11.5% → FAILS ≤2% gate
+- **AVGO:** Spread 4.1% → FAILS ≤2% gate
+- **AMZN:** Price $248.90 < SMA 20 ($262.75) AND < SMA 50 ($251.91) — below both SMAs, no entry zone
+- **GOOGL:** Price $370.57, below SMA 20, declining toward SMA 50 (~$353) — no bounce confirmation
+- **AMD:** SMA 20 = $475.69; price $493 is 3.6% above SMA 20 — not at SMA entry zone; recent stop-out June 5. Skip.
+- **META:** Below SMA 200 → DISQUALIFIED
+- **MSFT:** Spread 5.6% → FAILS gate
+- **MU:** Price $969 >> SMA 20 ($850) — no pullback entry
+- **TQQQ:** QQQ $721.80 ~9% above SMA 50 (~$660) — no Type 5 pullback entry
+- **VIX:** 18.16 — macro GREEN ✓; this is Rule A (zero setups), not macro-forced cash
+
+**Open positions (1/4 max):**
+| Ticker | Shares | Entry | Current | Unrealized P&L | Stop | Notes |
+|--------|--------|-------|---------|----------------|------|-------|
+| NVDA | 50 | $208.757 | $209.67 | +$45.65 (+0.44%) | 10% trail GTC `6f1cae8f` stop $189.25 HWM $210.28 | Type 4 — **TIME STOP JUNE 13** |
+
+**Macro:** SPY $744.12 / QQQ $721.80 — both above SMA 50 ✓ | VIX 18.16 (below 25) ✓ | All 5 setup types active ✓ | QQQ ~9% above SMA 50 → TQQQ Type 5 not viable
+**Trades this week (Week 8):** 1 new entry (NVDA June 8) | Floor: 1/7 ⚠ — need 6 more by Friday June 13
+
+---
+
 ### Jun 08 — Market-Open Trades (Week 8, Monday — WWDC Day)
 **Portfolio:** $102,193.12 | **Cash:** $71,498.62 (69.9%) | **Long MV:** $30,694.50 | **Phase P&L:** +$2,193.12 (+2.19%) | **Daytrade count:** 0
 

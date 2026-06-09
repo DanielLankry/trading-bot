@@ -5,6 +5,51 @@ Format each entry:
 
 ---
 
+## 2026-06-09 — Market-Open Research (Week 8, Tuesday — Inline)
+
+### Account Snapshot
+- **Equity:** $101,438.06 | **Cash:** $90,951.81 (89.7%) | **Long MV:** $10,486.25
+- **Phase P&L:** +$1,438.06 (+1.44%) | **Daytrade count:** 0
+- **Positions:** 2→1 (AAPL exited per rule; NVDA held) | **Type 4 probes:** 1/2
+
+### Market Context
+- **SPY:** $744.12 | **QQQ:** $721.80 — both above SMA 50 ✓ | Macro filter: GREEN
+- **VIX:** ~18.16 — below 25 ✓; all 5 setup types active
+- **QQQ vs SMA 50:** ~$721 vs ~$660 SMA 50 → extended ~9% → TQQQ Type 5 not viable
+- **AAPL WWDC follow-through:** WWDC keynote June 8 generated sell-the-news — AAPL closed $301.54 (June 8) < $305.54 breakout level → mandatory Type 2 rule exit this morning
+
+### Live Positions (at open)
+| Ticker | Shares | Entry | Current | Unrealized P&L | Stop | Notes |
+|--------|--------|-------|---------|----------------|------|-------|
+| AAPL | 65 | $308.12 | $299.33 | −$574 | 10% trail GTC `8a973d5c` HWM $317.40 | **EXITED** — June 8 close $301.54 < $305.54 breakout level |
+| NVDA | 50 | $208.757 | $209.67 | +$46 | 10% trail GTC `6f1cae8f` stop $189.25 HWM $210.28 | Type 4 — **TIME STOP JUNE 13** |
+
+### AAPL Exit — Executed
+- **WWDC sell-the-news:** Keynote delivered June 8, AAPL ran to $313.205 intraday (+1.91%) then reversed and closed $301.54 — a $15 reversal. Price broke below $305.54 breakout level.
+- **Rule:** Type 2 breakout stop = daily close below breakout level → exit next AM. Executed 65sh @ $299.28. Realized P&L: −$574.52 (−2.87%).
+- Technical issue: cancel-all required to free locked AAPL shares (close command returned 403). NVDA stop also cancelled, re-placed as `6f1cae8f`.
+
+### Universe Scan — All 5 Setup Types
+| Ticker | Setup | Spread | Status | Notes |
+|--------|-------|--------|--------|-------|
+| AMD | Type 3 | 1.23% ✓ | SKIP | SMA 20 = $475.69 (Barchart June 9); price $493 is 3.6% above SMA — not at SMA entry zone; stopped out June 5 at $491.33 |
+| GOOGL | Type 3 | 0.23% ✓ | SKIP | SMA 50 ~$353 (Barchart); price $370 declining from SMA 20 (~$381) toward SMA 50 — no bounce confirmation |
+| AMZN | Type 3 | 0.04% ✓ | SKIP | SMA 20 = $262.75 / SMA 50 = $251.91 (Barchart June 8); price $248.90 BELOW both SMAs — no entry |
+| MU | Type 3/4 | 1.99% ✓ | SKIP | Price $969 >> SMA 20 ($850) — no SMA pullback entry |
+| CRWD | Type 3 | 11.5% | SKIP | Spread fails ≤2% gate |
+| AVGO | Type 3 | 4.1% | SKIP | Spread fails ≤2% gate |
+| META | All | 0.32% | DISQUALIFIED | Below SMA 200 ($662.45) |
+| MSFT | All | 5.6% | SKIP | Spread fails ≤2% gate |
+| TQQQ | Type 5 | 0.01% ✓ | SKIP | QQQ $721.80 ~9% above SMA 50 (~$660) — no pullback entry |
+
+### Decision: NO-TRADE-DAY (post mandatory AAPL exit)
+- **Reason (A):** Zero universe tickers qualify for any Setup Type 1–5. All candidates fail spread gate, SMA structure, or price zone requirements.
+- **AAPL exit was mandatory rule execution, not a new entry.**
+- **NVDA:** HOLD | stop `6f1cae8f` GTC active | time stop June 13
+- **Week 8 floor:** 1/7 entries (NVDA June 8) — need 6 more by Friday June 13. Priority tomorrow: re-scan AMD (watch for SMA 20 pullback setup if price dips to $475-480 zone), GOOGL (watch for SMA 50 bounce near $353), AMZN (watch for recovery above SMA 50 $251.91).
+
+---
+
 ## 2026-06-08 — Market-Open Research (Week 8, Monday — WWDC Day — Inline)
 
 ### Account Snapshot
