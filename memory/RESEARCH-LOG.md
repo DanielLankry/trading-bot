@@ -2528,3 +2528,106 @@ No CPI/PPI today (next: June 10/12). FOMC minutes after close — minimal intrad
   3. Check NVDA → enter Type 4 half-size probe if recovering above $209
 - All 3 entries would fill 4/4 positions. If only TQQQ + GOOGL qualify: 3/4 slots, acceptable.
 - Trades this week (Week 7): 0 entering today.
+
+---
+
+## 2026-06-09 — Pre-Market Research (Week 8, Day 2 — WWDC Day 2)
+
+### Macro Filter
+- **SPY**: Above SMA 50 ✓ (S&P +24% YTD context, futures green)
+- **QQQ**: Above SMA 50 ✓ — but QQQ ~$812.93 vs SMA 50 ~$670.65 (Barchart June 9); **+24.8% above SMA 50 — NOT a pullback setup → Type 5 (TQQQ) entry DISQUALIFIED today**
+- **VIX**: ~16.06 (TradingEconomics June 2026 monthly; VIX futures 18.90) — full sizing ✓
+- **S&P 500 futures**: 7,434.25, +0.25% premarket — mildly green
+- **WTI**: ~$89–93/bbl range (Kalshi/Robinhood prediction market data; exact spot unavailable) | **Brent**: no live quote (April data: ~$101, stale)
+- **Mode**: All 5 setup types active — but Type 5 entry gate fails (QQQ too extended above SMA 50)
+
+### Account Snapshot
+- **Equity**: $101,566.14 | **Cash**: $71,498.61 (70.4%) | **Buying Power (regt)**: $173,064.75
+- **Long MV**: $30,067.53 (AAPL + NVDA) | **Phase P&L**: +$1,566.14 (+1.57%)
+- **Daytrade count**: 0
+- **Positions**: 2/4 (2 slots open) | **Type 4 probes**: 1/2 (NVDA)
+
+### Open Positions
+| Ticker | Shares | Entry | Pre-Mkt | Unrealized P&L | Stop | Notes |
+|--------|--------|-------|---------|----------------|------|-------|
+| AAPL | 65 | $308.12 | $301.10 | −$456 (−2.28%) | 10% trail GTC, HWM $317.40, stop $285.66 (`8a973d5c`) | ⚠ Type 2 breakout level $305.54 violated (June 8 close $301.72); WWDC Day 2 ongoing |
+| NVDA | 50 | $208.757 | $210.00 | +$62 (+0.60%) | 10% trail GTC, HWM $209.75, stop $188.77 (`7fde6397`) | Type 4 probe; time stop June 13; Meta deal catalyst |
+
+### Economic Calendar
+- **Today (June 9)**: 8:30 AM ET — U.S. International Trade in Goods & Services; 10:00 AM ET — JOLTS (job openings) ⚠ market-moving
+- **Wed June 10**: May CPI at 8:30 AM ET ⚠ KEY RISK — hot print = tech selloff, stops must be live
+- **Thu June 11**: May PPI at 8:30 AM ET
+- **Jun 17**: FOMC rate decision
+- **Jul 3**: Next NFP
+
+### Earnings Today (June 9)
+- BMO: ASO, SJM (Smucker), SAIL (SailPoint), UNFI — no universe names. No earnings risk to held positions.
+- AMC universe check: CRWD, AVGO, PANW, ADBE scheduled this week AMC — confirm before entering.
+
+### Ticker Research
+
+**AAPL — ⚠ CRITICAL WATCHPOINT (WWDC Day 2):**
+- June 8 close: $301.72 — **below Type 2 breakout level $305.54 (stop triggered per strategy rules)**
+- SMA structure (GuruFocus June 8): SMA 20 $304.25 | SMA 50 $281.24 | SMA 150 $269.25 | SMA 200 $265.19
+- Price $301.10 is below SMA 20 ($304.25) — short-term bearish; above SMA 50/150/200 — long-term trend intact
+- WWDC Day 2 catalyst live: Apple Intelligence / Siri rebuild focus; "Siri's Last Chance?" narrative
+- Analyst consensus $380+; +14% last 30 days
+- **Trailing stop $285.66 provides mechanical protection (Alpaca GTC). Type 2 entry logic broken.**
+- **Action at open**: If AAPL reclaims $305.54 intraday → thesis reinstated, hold. If no recovery by close → **exit at close** (failed Type 2 breakout, stop rule triggered). WWDC runs through June 12 — one more chance.
+
+**NVDA — INTACT, THESIS STRENGTHENED:**
+- Current $210.00 (+0.60% from entry $208.757); HWM $209.75 → today's price has exceeded HWM
+- **Meta-NVIDIA multiyear AI infrastructure deal** (June 9 premarket): millions of Blackwell + Rubin GPUs, Spectrum-X Ethernet. Direct demand catalyst.
+- Evercore ISI: Vera Rubin platform 3–6 months ahead of schedule (channel checks)
+- Broad semiconductor strength; $80B NVDA buyback authorization
+- Time stop June 13 — hold through regardless (or stop hit first)
+- Stop $188.77 at 10.2% buffer — ample room; trailing auto-manages
+
+**TQQQ — DISQUALIFIED:**
+- Type 5 entry rule: "Enter on underlying (QQQ) pullback to SMA 50"
+- QQQ ~$812.93 vs SMA 50 ~$670.65 — **24.8% above SMA 50, not a pullback setup**
+- No valid Type 5 entry until QQQ pulls back to $670–680 zone
+
+**GOOGL — QUALIFIED (Type 3 candidate):**
+- SMA 50 ~$351, SMA 200 ~$304 (Barchart June 6). Price ~$370–428 range — well above both
+- June 5 pullback to SMA 20/50 zone still in play — check at open
+- Catalyst: Gemini Ultra + GCP AI cloud demand; Google I/O momentum
+- Q2 2026 earnings: likely late July — outside 5-trading-day window ✓
+- Entry trigger: price bouncing from SMA 20 or SMA 50 on daily chart at open
+- Risk: 3–4% of capital (~$3,060–4,080); stop: daily close below SMA used
+
+**CRWD — Type 4 momentum probe candidate:**
+- ⚠ Verify CRWD earnings date before entry (earnings scheduled this week AMC per Kiplinger)
+- If no earnings within 5 days: strong RS, AI-security narrative intact
+- Type 4 half size: 1.5–2% risk (~$1,530–2,040); stop: 5% below entry or 1×ATR; time stop: 5 days
+- **Disqualified if earnings within 5 trading days**
+
+**PLTR — Type 4 momentum probe alternate:**
+- Consistent RS leader in AI/defense/data analytics
+- No known near-term earnings conflict (Q2 2026 earnings likely August)
+- Type 4 half size if price above SMA 20 and showing continuation at open
+
+### Trade Ideas
+
+| # | Ticker | Type | Entry Trigger | Size | Stop | Target |
+|---|--------|------|---------------|------|------|--------|
+| 1 | GOOGL | Type 3 (SMA pullback) | Price bouncing from SMA 20 ($304–351 zone) at open; above SMA 150/200 | 3–4% risk (~$3,060–4,080) | Daily close below SMA used | +10–15% to next resistance |
+| 2 | CRWD or PLTR | Type 4 (momentum probe) | Price above SMA 20, continuation; CRWD only if no earnings <5 days | 1.5–2% risk (~$1,530–2,040) | 5% below entry or 1×ATR | +8–10% in 5 days |
+
+### Risk Factors
+1. **AAPL breakout level breach** — close below $305.54 on June 8; if no recovery today, exit at close (failed breakout). Two-day catalyst window remaining.
+2. **CPI Wednesday June 10** — hot print = tech + growth selloff; TQQQ would be lethal here (no position, good). Ensure all stops live before 8:30 AM Wed.
+3. **JOLTS today 10:00 AM ET** — strong JOLTS (>8M) = Fed-hawkish read → rates up → tech down. Light risk but real.
+4. **CRWD earnings this week** — Kiplinger flags CRWD AMC this week; verify exact date before any entry.
+5. **NVDA re-HWM today** — $210 exceeds prior HWM $209.75; if Meta deal drives continuation, trailing stop ratchets up automatically.
+6. **Market breadth concentration** — tech driving 75% of S&P gains; narrow leadership = fragile. CPI could trigger fast rotation.
+
+### Decision: TRADE
+- **2 slots open; Week 8 Day 2; need 6 more entries by June 13 (1 so far) — under-pace, priority is 2 entries today.**
+- **Priority at open:**
+  1. Check GOOGL price at open — enter Type 3 if at/bouncing from SMA 20/50 zone
+  2. Verify CRWD earnings date → enter Type 4 half-size probe if clear; otherwise scan PLTR
+  3. Monitor AAPL — watch for $305.54 reclaim by close; if no reclaim → exit at close
+- TQQQ skipped today (not at SMA 50 pullback — process rule, not discretion)
+- CPI Wednesday: ensure all stops set before close Tuesday
+- Trades this week (Week 8): 1 (NVDA June 8). Need 2 today to bring to 3.
