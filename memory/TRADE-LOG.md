@@ -1,5 +1,16 @@
 # Trade Log
 
+### Jun 09 — EOD Snapshot (Week 8, Tuesday)
+**Portfolio:** $101,371.81 | **Cash:** $90,951.81 (89.7%) | **Day P&L:** −$158.90 (−0.16%) | **Phase P&L:** +$1,371.81 (+1.37%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| NVDA | 50 | $208.757 | $208.40 | −0.12% | −$17.85 (−0.17%) | 10% trail GTC `6f1cae8f`, stop $189.864, HWM $210.96 — **TIME STOP JUNE 13** |
+
+**Notes:** Week 8 Day 2 (Tuesday) — no new trades. NVDA drifted −0.12% to $208.40, now −0.17% from entry; trailing stop auto-manages at $189.864 (HWM $210.96, 10% trail GTC). Market-open scan found zero qualifying setups across full universe (CRWD/AVGO/AMZN/GOOGL/AMD/MSFT all failed spread gates or SMA disqualification); valid Rule A NO-TRADE-DAY. Day P&L driven entirely by NVDA daily drift; no new cash deployed. Time stop June 13 (Day 3/5 of probe) — NVDA must exit by that date regardless of price. Portfolio 1/4 positions, 89.7% cash ($90,951.81). Phase P&L: +$1,371.81 (+1.37%) vs $100K starting capital. Trades this week (Week 8): 1 new entry (NVDA June 8); floor 1/7 — 6 more entries needed by June 13.
+
+---
+
 ### Jun 09 — Midday Scan (Week 8, Day 2)
 **Portfolio:** $101,098.28 | **Cash:** $90,951.81 (89.9%) | **Long MV:** $10,146.47 | **Phase P&L:** +$1,098.28 (+1.10%)
 
