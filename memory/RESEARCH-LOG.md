@@ -2676,3 +2676,10 @@ No CPI/PPI today (next: June 10/12). FOMC minutes after close — minimal intrad
 - TQQQ skipped today (not at SMA 50 pullback — process rule, not discretion)
 - CPI Wednesday: ensure all stops set before close Tuesday
 - Trades this week (Week 8): 1 (NVDA June 8). Need 2 today to bring to 3.
+
+### Jun 09 — Afternoon Addendum (Midday Scan)
+**NVDA — Intraday drop to $202.65 (−2.93% from entry $208.757)**
+- Perplexity query: "Why is NVDA dropping June 9 2026 — negative news, analyst downgrades, sector weakness?"
+- Result: No new company-specific negative catalyst identified. No analyst downgrade. Broad AI/Nasdaq sector weakness likely driven by JOLTS (10 AM ET) stronger-than-expected print (hawkish Fed read → rates up → growth stocks down). Meta-NVIDIA multiyear GPU deal (Blackwell + Rubin, Spectrum-X Ethernet) confirmed still intact — no reversal.
+- Price history context (NVDA IR): $218.66 (Jun 4) → $214.75 (Jun 3) → $222.82 (Jun 2) → current $202.65 — stock has been in a downtrend since June 2 highs. Entry June 8 @ $208.757 caught the bounce attempt.
+- **Conclusion:** Macro noise, not thesis break. Hold per time stop June 13. Stop $189.864 provides 6.5% buffer from current price.

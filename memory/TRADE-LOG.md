@@ -1,5 +1,27 @@
 # Trade Log
 
+### Jun 09 — Midday Scan (Week 8, Day 2)
+**Portfolio:** $101,098.28 | **Cash:** $90,951.81 (89.9%) | **Long MV:** $10,146.47 | **Phase P&L:** +$1,098.28 (+1.10%)
+
+| Ticker | Shares | Entry | Current | Unrealized P&L | Stop | Order ID |
+|--------|--------|-------|---------|----------------|------|----------|
+| NVDA | 50 | $208.757 | $202.65 | −$305.35 (−2.93%) | 10% trail GTC, HWM $210.96, stop $189.864 | `6f1cae8f` |
+
+**Cuts:** NONE — NVDA −2.93%, below −7% threshold not breached.
+
+**Stop adjustments:** NONE — NVDA −2.93%, not at +15% threshold.
+
+**Thesis check:**
+- **NVDA — INTACT.** $202.65, −2.93% from entry. Perplexity: no new company-specific negative catalyst. Market/sector weakness (JOLTS 10 AM ET likely culprit). Meta-NVIDIA multiyear GPU deal thesis unchanged. Price above 5% hard stop level $198.32. Trailing stop $189.864 (10% trail, HWM $210.96). Time stop June 13 — hold.
+
+**Thesis breaks:** NONE.
+
+**Note:** AAPL closed at market-open today ($299.28, −$574.52 realized P&L) — already logged in market-open entry below. No additional action required.
+
+**Trades this week (Week 8):** 1 (NVDA June 8) | Floor: 1/7 ⚠ — need 6 more by June 13 | 3 slots open (1 Type 4 probe slot remaining)
+
+---
+
 ### Jun 09 — Market-Open (Week 8, Tuesday)
 **Portfolio:** $101,438.06 | **Cash:** $90,951.81 (89.7%) | **Long MV:** $10,486.25 | **Phase P&L:** +$1,438.06 (+1.44%) | **Daytrade count:** 0
 
