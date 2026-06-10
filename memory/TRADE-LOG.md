@@ -1,5 +1,16 @@
 # Trade Log
 
+### Jun 10 — EOD Snapshot (Post-Challenge Day 10, Week 8 Wednesday)
+**Portfolio:** $100,942.78 | **Cash:** $90,951.78 (90.1%) | **Day P&L:** −$418.50 (−0.41%) | **Phase P&L:** +$942.78 (+0.94%)**
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| NVDA | 50 | $208.757 | $199.82 | −4.02% | −$446.85 (−4.28%) | 10% trail GTC `6f1cae8f`, stop $189.864, HWM $210.96 — **TIME STOP JUNE 13** |
+
+**Notes:** Week 8 Day 3 (Wednesday, CPI Day) — no new trades for the second consecutive day. Hot CPI (0.6% MoM vs 0.5% consensus) triggered risk-off semiconductor selloff; NVDA fell −4.02% to $199.82 (−4.28% from entry $208.757), dragging portfolio −$418.50 on the day. Trailing stop $189.864 (9.0% buffer from $199.82) intact — thesis confirmed by midday Perplexity query, no NVDA-specific negative catalyst. NO-TRADE-DAY valid (Rule A): AMD spread 4.6% failed gate, GOOGL $362 still above SMA 50 entry zone ($353–355), AMZN below SMA 20/50 — zero qualifying setups. GOOGL conditional live: if price reaches $350–355 with intraday reversal → Type 3 entry; monitoring Thursday open. Phase P&L: +$942.78 (+0.94%) vs $100K starting capital. Trades today: 0. Trades this week (Week 8): 1 (NVDA June 8). NVDA time stop June 13 — mandatory exit at close regardless of price.
+
+---
+
 ### Jun 10 — Midday Scan (Week 8, Wednesday — CPI Day)
 **Portfolio:** $101,104.78 | **Cash:** $90,951.78 (89.9%) | **Long MV:** $10,153 | **Phase P&L:** +$1,104.78 (+1.10%)
 
