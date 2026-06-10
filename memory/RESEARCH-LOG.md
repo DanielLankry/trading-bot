@@ -5,6 +5,109 @@ Format each entry:
 
 ---
 
+## 2026-06-10 — Pre-Market Research (Week 8, Wednesday — CPI Day)
+
+### Account Snapshot
+- **Equity:** $101,176.78 | **Cash:** $90,951.78 (89.9%) | **BP:** $392,437.12
+- **Long MV:** $10,225 (NVDA 50sh) | **Phase P&L:** +$1,176.78 (+1.18%) | **Daytrade count:** 0
+- **Positions:** 1/4 | **Type 4 probes:** 1/2 (NVDA, time stop June 13)
+
+### Live Positions (pre-market, 7:04 AM ET)
+| Ticker | Shares | Entry | Last Close | Unrealized P&L | Stop | Notes |
+|--------|--------|-------|-----------|----------------|------|-------|
+| NVDA | 50 | $208.757 | $204.50 | −$212.85 (−2.04%) | 10% trail GTC `6f1cae8f`, stop $189.864, HWM $210.96 | Type 4 — **TIME STOP JUNE 13** (Day 3/5) |
+
+### Market Context
+- **WTI crude:** ~$88.42/bbl — declining from prior $90s range; mild deflationary tailwind for growth
+- **Brent:** Not directly quoted; spread suggests ~$93-95/bbl est.
+- **S&P 500 futures (ESM26):** ~7,369.75 (−0.31%) — negative open expected; pre-CPI caution
+- **VIX:** ~19 (June 8 close 18.92; June 9 ~18-20 range) — below 25 ✓; all 5 setup types active
+- **Macro filter:** SPY & QQQ above SMA 50 ✓ — FULL UNIVERSE active
+- **QQQ vs SMA 50:** ~9% above SMA 50 → TQQQ Type 5 NOT viable (same as recent days)
+- **Sector:** Semiconductors +38% YTD through May; Tech -1.82% yesterday (risk-off pre-CPI)
+
+### ⚠ DOMINANT CATALYST TODAY — CPI 8:30 AM ET
+- **May 2026 CPI** scheduled for release **June 10, 2026 at 8:30 AM ET** (BLS confirmed)
+- **April 2026 actual:** +3.8% YoY headline, +0.64% MoM (very hot)
+- **May 2026 consensus (Trading Economics):** ~4.2% YoY — a further acceleration
+- **Cleveland Fed nowcast:** May 2026 headline +0.46% MoM
+- **Core CPI consensus:** ~3.0% YoY
+- ⚠ If May CPI prints hot (>4.2% YoY or >0.46% MoM): yields spike, rate-cut timeline pushed out → tech/growth selloff, VIX could approach 25
+- If in-line/cool: mild relief rally; growth stocks catch bid
+- **Pre-8:30 AM: NO NEW ENTRIES regardless of chart setup**
+
+### Economic Calendar (Today)
+- **8:30 AM ET: May 2026 CPI** — HIGH IMPACT (dominant)
+- **FOMC June 16–17** — not today but elevated CPI narrows rate-cut window
+- No universe earnings today
+
+### Held-Ticker Thesis Check
+
+**NVDA — INTACT, MONITOR FOR CPI IMPACT**
+- $204.50 pre-market (−2.04% from entry $208.757). Stop $189.864 (10% trail, HWM $210.96).
+- Buffer to stop: $14.64 (7.2%) — adequate cushion even for 5% CPI-driven selloff
+- Catalyst backdrop: Jensen Huang "buying opportunity" thesis intact; AI supercycle ongoing
+- Hot CPI could push NVDA lower intraday — stop $189.864 provides buffer
+- **Time stop June 13 = Monday. 3 trading days remain (June 10, 11, 12 → exit June 13 open)**
+- **Thesis: INTACT. HOLD. Auto-stop manages.**
+
+### Universe Scan — All 5 Setup Types
+| Ticker | Setup | Spread | Status | Notes |
+|--------|-------|--------|--------|-------|
+| GOOGL | Type 3 SMA 50 | 0.23% ✓ | **CONDITIONAL — WATCH** | Price $370.57 (June 9), SMA 50 ~$353-355 (Barchart), SMA 200 ~$305. GOOGL ~4.8% above SMA 50. If CPI hot → could drop to SMA 50 zone today. Need bounce confirmation at ~$353-355 for Type 3 entry. Macro trend intact (above SMA 150/200). |
+| AMD | Type 3 SMA 20 | 1.23% ✓ | **CONDITIONAL — WATCH** | Price ~$493 (June 9), SMA 20 ~$475-477. 3.6% above SMA 20 — not at pullback zone yet. CPI-driven drop of ~4% would bring price to SMA 20. Need bounce confirmation at $475-477. |
+| AMZN | Type 3 | 0.04% ✓ | SKIP | Price $248.90 BELOW SMA 20 ($262.75) AND SMA 50 ($251.91) — disqualified; broken SMA structure |
+| AVGO | Type 3 | ~2-4% | SKIP | Price ~$401 BELOW SMA 50 (~$421); broken below SMA 50 support — no entry. Post-earnings structure degraded. |
+| CRWD | Type 3 | 11.5% | SKIP | Spread FAILS ≤2% gate; post-earnings illiquidity persisting |
+| MU | Type 3/4 | <2% ✓ | SKIP | Price $969 >> SMA 20 ($850); extended, no pullback entry |
+| META | All | — | DISQUALIFIED | Below SMA 200 |
+| MSFT | All | — | DISQUALIFIED | Below SMA 200 (confirmed prior weeks) |
+| TSLA/PLTR | All | — | DISQUALIFIED | Below SMA 200 |
+| MRVL | Type 4 | >2% | SKIP | Price $286, SMA 20 $209 — price too extended above SMA; spread concern |
+| TQQQ | Type 5 | 0.01% ✓ | SKIP | QQQ ~9% above SMA 50 — no Type 5 pullback entry viable |
+
+### Trade Ideas
+
+**Idea 1 — GOOGL Type 3 SMA 50 Pullback (POST-CPI CONDITIONAL)**
+- **Catalyst:** AI monetization intact (Google Cloud +28% Q1 YoY); Search + Gemini flywheel; above SMA 50/150/200 (macro trend intact). Q1 blowout earnings (ATH April 30); next earnings late July.
+- **SMA structure:** Above SMA 150 (~$335 est) and SMA 200 ($305). SMA 50 ~$353 is the pullback zone.
+- **Entry gate (ALL must pass):** Price reaches $350-355 zone (SMA 50 bounce) | Bounce confirmation (intraday reversal candle) | Spread ≤2% | Post-CPI print only (not pre-print)
+- **Size:** FULL (Type 3) — ~$19,000 (~53-54sh @ $353)
+- **Stop:** Daily close below SMA 50 (~$353) — hard GTC slightly below (~$348-350)
+- **Target:** $380-395 (+7-12%)
+- **Position cap post-entry:** 2/4 ✓ | 0 leveraged ETFs ✓ | 1/2 probes (NVDA)
+
+**Idea 2 — AMD Type 3 SMA 20 Pullback (POST-CPI CONDITIONAL)**
+- **Catalyst:** EPYC Venice 2nm ramp (TSMC); Meta multi-GW Instinct GPU deployment; "Advancing AI 2026" July 22-23; ATH $546.44 June 2. No earnings until ~Aug 2026.
+- **SMA structure:** Above SMA 50 ($370), SMA 150/200 confirmed (price $493 >> SMA 200). SMA 20 ~$475-477 is pullback zone.
+- **Entry gate:** Price reaches $475-477 zone | Bounce confirmation | Spread ≤2% | Post-CPI only
+- **Size:** FULL (Type 3) — ~$19,000 (~40sh @ $475)
+- **Stop:** Daily close below SMA 20 (~$475) — GTC hard stop ~$470
+- **Target:** $520-540 (+9-14%)
+- **R:R:** ~3:1
+- **Position cap post-entry:** 2/4 ✓
+
+**Idea 3 — MU Type 4 Momentum Probe (SECONDARY — if AMD/GOOGL qualify)**
+- **Catalyst:** HBM/AI-memory supercycle; time stop previously exited at +20%; thesis intact.
+- **Issue:** Price $969, well extended above SMA 20 ($850). No valid pullback entry today. WATCH only — enter when SMA 20 catches up or price retraces.
+- **Status:** SKIP today, watch for SMA pullback next week.
+
+### Risk Factors
+1. ⚠ **CPI 8:30 AM ET** — DOMINANT unknown. April was 3.8% → May expected 4.2%. Hot print = tech selloff, VIX spike toward 25. Rate-cut compression = direct headwind for growth names.
+2. **NVDA time stop June 13** — 3 trading days left. Down 2.04% from entry. Hot CPI could push closer to stop $189.864 (currently $14.64 buffer).
+3. **Week 8 critical pace:** 1/7 entries — need 6 more in 3 days (today + Thu + Fri). Prioritize Type 3 pullback setups post-CPI.
+4. **VIX approaching 25 threshold** — if CPI hot + VIX reaches 25 → 25% size reduction rule applies to all new entries.
+5. **Low universe depth** — AMZN/AVGO/META/MSFT/PLTR all disqualified; CRWD/MRVL spread gates fail; TQQQ extended. Only GOOGL + AMD show conditional pullback opportunity today.
+
+### Decision: CONDITIONAL TRADE — WAIT FOR 8:30 AM CPI PRINT
+- **Pre-8:30 AM:** HOLD NVDA. NO new entries before CPI.
+- **Post-print in-line or cool (≤4.2% YoY, ≤0.46% MoM):** Scan GOOGL and AMD at open — if price at/near SMA pullback zone with bounce confirmation → enter. Priority: GOOGL (closer to SMA 50 zone if CPI selloff occurs), then AMD.
+- **Post-print hot (>4.5% YoY):** Caution. Monitor VIX — if VIX >25, reduce all new entry sizes 25%; if VIX >30, no leveraged ETF (already n/a). GOOGL SMA 50 $353 becomes the key watch level on intraday selloff.
+- **NVDA:** HOLD. Stop $189.864 GTC auto-manages. Time stop June 13 — exit at open regardless if still held through June 12 close.
+- **Week 8 alert:** Must achieve ≥2 entries today + ≥2 Thu + ≥2 Fri to reach 7-entry floor by June 13.
+
+---
+
 ## 2026-06-09 — Market-Open Research (Week 8, Tuesday — Inline)
 
 ### Account Snapshot
