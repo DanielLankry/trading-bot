@@ -1,5 +1,33 @@
 # Trade Log
 
+### Jun 10 — Market-Open (Week 8, Wednesday — CPI Day)
+**Portfolio:** $101,261.53 | **Cash:** $90,951.78 (89.8%) | **Long MV:** $10,309.75 | **Phase P&L:** +$1,261.53 (+1.26%) | **Daytrade count:** 0
+
+**Trades fired:** NONE
+
+**NO-TRADE-DAY (Rule A)** — Zero universe tickers qualify for Setup Types 1–5 at market open. May 2026 CPI released 8:30 AM ET: headline ~4.2% YoY (in-line with consensus), **0.6% MoM (HOT vs 0.5% consensus)** — risk-off tech selloff ensued.
+
+| Ticker | Status | Reason |
+|--------|--------|--------|
+| AMD | SKIP | Price $468 — **below SMA 20 ($475-477)**; broken support, no bounce confirmation; Type 3 entry requires bounce at SMA zone, not through it |
+| GOOGL | WATCH | Price $362 — still $7-9 above SMA 50 ($353-355) entry zone; not at pullback level; spread 0.83% ✓; **monitor for dip to $350-355 with intraday bounce confirmation** |
+| AMZN | DISQUALIFIED | Price $242 — below SMA 20 ($262.75) AND SMA 50 ($251.91); fallen further from prior disqualification |
+| MU | SKIP | Spread 6.35% (bid $880 / ask $935.89) — FAILS ≤2% gate |
+| CRWD | SKIP | Spread 11.72% (bid $601 / ask $672) — FAILS ≤2% gate |
+| META/MSFT/PLTR/TSLA | DISQUALIFIED | Below SMA 200 |
+| TQQQ | SKIP | QQQ not at SMA 50 pullback; Type 5 not viable |
+
+**Open positions (1/4 max):**
+| Ticker | Shares | Entry | Current | Unrealized P&L | Stop | Notes |
+|--------|--------|-------|---------|----------------|------|-------|
+| NVDA | 50 | $208.757 | $206.225 | −$126.60 (−1.21%) | 10% trail GTC `6f1cae8f` stop $189.864 HWM $210.96 | Type 4 — **TIME STOP JUNE 13** (Day 4/5) |
+
+**Macro:** VIX ~19.87 (below 25) ✓ | SPY/QQQ above SMA 50 ✓ | All 5 setup types active | CPI HOT 0.6% MoM → caution on new entries
+**GOOGL conditional:** If price reaches $350-355 with intraday reversal candle → Type 3 SMA 50 pullback entry valid (52-54sh @ ~$353, stop ~$348-350, size ~$18.5K). Defer to midday scan.
+**Trades this week (Week 8):** 1 (NVDA June 8) | Floor: 1/7 ⚠ — need 6 more by June 13
+
+---
+
 ### Jun 09 — EOD Snapshot (Week 8, Tuesday)
 **Portfolio:** $101,371.81 | **Cash:** $90,951.81 (89.7%) | **Day P&L:** −$158.90 (−0.16%) | **Phase P&L:** +$1,371.81 (+1.37%)
 
