@@ -1,5 +1,31 @@
 # Trade Log
 
+### Jun 10 — Midday Scan (Week 8, Wednesday — CPI Day)
+**Portfolio:** $101,104.78 | **Cash:** $90,951.78 (89.9%) | **Long MV:** $10,153 | **Phase P&L:** +$1,104.78 (+1.10%)
+
+| Ticker | Shares | Entry | Current | Unrealized P&L | Stop | Order ID |
+|--------|--------|-------|---------|----------------|------|----------|
+| NVDA | 50 | $208.757 | $202.935 | −$291.10 (−2.79%) | 10% trail GTC, HWM $210.96, stop $189.864 | `6f1cae8f` |
+
+**Cuts:** NONE — NVDA −2.79%, well above −7% threshold.
+
+**Stop adjustments:** NONE — NVDA −2.79%, not at +15% threshold ($240.07).
+
+**Thesis check:**
+- **NVDA — INTACT.** $202.935, −2.79% from entry $208.757. CPI MoM 0.6% (HOT vs 0.5% consensus) → sector-wide semiconductor selloff continuing from open. Perplexity: no NVDA-specific negative catalyst; broad macro + Middle East tensions only. Meta-NVIDIA multiyear GPU deal intact. Jensen Huang AI-supercycle thesis unchanged. Stop $189.864 provides $13.07 (6.4%) buffer. Time stop June 13 — hold.
+
+**Thesis breaks:** NONE.
+
+**New entries evaluated (post-CPI):**
+- GOOGL: $358.38 — still $3–5 above SMA 50 entry zone ($353–355); no bounce confirmation at SMA; SKIP.
+- AMD: Bid $452.92/ask $473.58 — spread 4.6% FAILS ≤2% gate; price BELOW SMA 20 ($475–477), broken support — SKIP.
+
+**Perplexity research:** NVDA queried CPI-day action. Confirmed macro-driven selloff; SOX sector-wide pressure; no company-specific negative news; thesis intact.
+
+**Trades this week (Week 8):** 1 (NVDA June 8) | Floor: 1/7 ⚠ — need 6 more by June 13 (3 trading days remaining)
+
+---
+
 ### Jun 10 — Market-Open (Week 8, Wednesday — CPI Day)
 **Portfolio:** $101,261.53 | **Cash:** $90,951.78 (89.8%) | **Long MV:** $10,309.75 | **Phase P&L:** +$1,261.53 (+1.26%) | **Daytrade count:** 0
 

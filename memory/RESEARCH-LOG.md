@@ -106,6 +106,15 @@ Format each entry:
 - **NVDA:** HOLD. Stop $189.864 GTC auto-manages. Time stop June 13 — exit at open regardless if still held through June 12 close.
 - **Week 8 alert:** Must achieve ≥2 entries today + ≥2 Thu + ≥2 Fri to reach 7-entry floor by June 13.
 
+### Jun 10 — Afternoon Addendum (Midday Scan)
+**NVDA — Intraday decline to $202.935 (−2.79% from entry $208.757)**
+- CPI May 2026: Headline ~4.2% YoY (in-line), **MoM 0.6% (HOT vs 0.5% consensus)** → tech/growth risk-off
+- Perplexity query: "NVDA stock June 10 2026 — CPI day news, any catalyst for move, intraday action, analyst commentary. Is thesis intact?"
+- Result: No NVDA-specific catalyst. CPI-driven macro selloff + Middle East tensions (WTI rising). SOX sector-wide pressure. "Markets pared losses early on lukewarm CPI data" (Schwab June 10). Jensen Huang "buying opportunity" narrative intact. No analyst downgrade or guidance cut.
+- **GOOGL midday check:** $358.38 — still $3–5 above SMA 50 entry zone ($353–355); CPI selloff insufficient to push price to entry level. Remains on watch for Thu/Fri if price reaches $350–355 with intraday bounce confirmation.
+- **AMD midday check:** Bid $452.92 / ask $473.58 — spread 4.6% FAILS ≤2% gate. Price broke BELOW SMA 20 ($475–477). Broken support ≠ bounce confirmation; Type 3 entry requires price AT SMA with reversal candle, not through it. AMD disqualified; removed from active watchlist until SMA structure repairs.
+- **Conclusion:** NVDA HOLD. No new entries today. Week 8 pace critical (1/7 entries). Redouble universe scan Thursday — prioritize GOOGL SMA 50 zone, scan full universe for any Type 2/4 setups.
+
 ---
 
 ## 2026-06-09 — Market-Open Research (Week 8, Tuesday — Inline)
