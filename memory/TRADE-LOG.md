@@ -1678,3 +1678,29 @@ No positions yet. Bot launches tomorrow (2026-04-28).
 | NVDA | 50 | $208.757 | $208.75 | +1.78% | −$0.35 (0.00%) | 10% trail GTC, stop $188.774, HWM $209.749 |
 
 **Notes:** Week 8 opener — WWDC Day 1. NVDA entered at market-open (50 shares @ $208.757, Type 4 momentum probe, time stop June 13). AAPL gave back −1.83% as WWDC Day 1 enthusiasm faded after an intraday spike to HWM $317.40, closing at $301.72; trailing stop ratcheted to $285.66, thesis intact (WWDC runs through June 12, Apple Intelligence reveal ongoing). NVDA essentially flat (−0.004%) at $208.75, trailing stop $188.774. Portfolio slipped −$365.00 (−0.36%) versus Friday close, primarily AAPL drag. Phase P&L +$1,548.57 (+1.55%) vs $100K starting capital. 2 positions open (AAPL + NVDA), $71,498.62 cash (70.4%) — 2 slots remain. Trades today: 1 (NVDA). Trades this week (Week 8): 1.
+
+---
+
+### June 11 — Midday Scan (Week 8, Thursday — Post-PPI)
+**Portfolio:** $100,895.94 | **Cash:** $90,886.44 (90.1%) | **Long MV:** $10,009.50 | **Phase P&L:** +$895.94 (+0.90%) | **Day P&L:** −$76.84 (−0.08%)**
+
+| Ticker | Shares | Entry | Current | Unrealized P&L | Stop | Order ID |
+|--------|--------|-------|---------|----------------|------|----------|
+| NVDA | 50 | $208.757 | $199.98 | −$438.85 (−4.20%) | 10% trail GTC, HWM $210.96, stop $189.864 | `6f1cae8f` |
+
+**Note — AAPL:** Stopped out between June 8 EOD and today (cash +~$19,388 vs Jun 8: $71,498 → $90,886). Trailing stop $285.66 triggered on June 9 or 10 CPI-related selloff. No longer in portfolio.
+
+**Cuts:** NONE — NVDA at −4.20%, above −7% threshold.
+
+**Stop adjustments:** NONE — NVDA at −4.20%, far below +15% tightening trigger.
+
+**Thesis check:**
+- **NVDA — INTACT.** $199.98, −0.22% intraday. Stop $189.864 at 5.09% buffer. Analyst upgrades confirmed pre-market (CJ Muse $350, HSBC $325, Arcury $275). AI supercycle thesis unchanged. **⚠ TYPE 4 TIME STOP: DAY 4/5 — MANDATORY EXIT AT CLOSE TOMORROW JUNE 12. No override.**
+
+**AMD conditional entry (pre-market plan):** NOT TAKEN. PPI print and/or AMD SMA-20 recovery / spread conditions did not meet all entry gates at open.
+
+**Thesis breaks:** NONE.
+
+**Perplexity research:** None — NVDA −0.22% intraday is not a sharp unexplained move. Pre-market research covers.
+
+**Trades this week (Week 8):** 1 (NVDA only). Under-pace: 1/7 with 2 days remaining (today + tomorrow). Consecutive under-pace flag for Friday weekly review.
