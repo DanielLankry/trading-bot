@@ -1,5 +1,34 @@
 # Trade Log
 
+### Jun 11 — Market-Open (Week 8, Thursday — PPI Day)
+**Portfolio:** $101,050.13 | **Cash:** $81,479.37 (80.6%) | **Long MV:** $19,570.76 | **Phase P&L:** +$1,050.13 (+1.05%) | **Daytrade count:** 0
+
+| Ticker | Shares | Entry | Stop | Thesis | Target | R:R |
+|--------|--------|-------|------|--------|--------|-----|
+| GOOGL | 27 | $350.83 | Fixed GTC $348.50 (`c5c9c055`) | Type 3 SMA 50 zone — PPI cool (+1.0% YoY vs +6.0% prior); partial fill (27/53sh) before cancel processed; GOOGL at SMA 50 zone; Google Cloud +28% Q1 YoY; next earnings late July ✓ | $380–395 (+8–12%) | ~12:1 |
+
+**Trades fired (partial):**
+- **GOOGL BUY** — 27sh @ $350.83 avg (~9:33–9:34 AM ET partial fill). Market order for 53sh submitted as GOOGL opened at $353.86 (SMA 50 zone); price broke below SMA 50 ($353) during routing → cancel submitted → 27sh filled before cancel processed. Fixed stop GTC $348.50 placed (`c5c9c055`). Position cost $9,472 (9.4% equity ✓). Risk: 27 × $2.33 = $62.91 (0.06% capital ✓). Holding given PPI cool catalyst.
+
+**Candidates skipped:**
+- **AMD** — Spread 4.84% (bid $463.20 / ask $486.15) → FAILS ≤2% gate. Repeated spread failure, SMA 20 ($476-477) acting as resistance not support.
+- **GOOGL (full 53sh)** — Price broke below SMA 50 ($353) at open, no bounce confirmation → order cancelled. Partial fill retained with tight stop.
+- **NVDA** — HOLD; time stop tomorrow June 12 (Day 5/5 mandatory exit at close). Current $201.44, stop $189.864 GTC `6f1cae8f`.
+- **TQQQ** — QQQ ~9% above SMA 50 → Type 5 not viable.
+- **All others** — SMA disqualification (META/MSFT/PLTR/TSLA) or spread failures (CRWD/AVGO).
+
+**Open positions (2/4 max):**
+| Ticker | Shares | Entry | Current | Unrealized P&L | Stop | Notes |
+|--------|--------|-------|---------|----------------|------|-------|
+| NVDA | 50 | $208.757 | $201.44 | −$365.85 (−3.51%) | 10% trail GTC `6f1cae8f` stop $189.864 HWM $210.96 | Type 4 — **⚠ TIME STOP JUNE 12 — EXIT AT CLOSE** |
+| GOOGL | 27 | $350.83 | $351.45 | +$16.74 (+0.18%) | Fixed GTC $348.50 (`c5c9c055`) | Type 3 SMA 50 zone — PPI cool catalyst; partial fill |
+
+**Macro:** VIX 22.22 (June 10 close, below 25) ✓ | SPY/QQQ above SMA 50 ✓ | All 5 setup types active | **PPI May 2026: +1.0% YoY** (prior +6.0%) — massive disinflation, bullish for tech/growth
+**⚠ NVDA mandatory exit tomorrow June 12 at close — no override**
+**Trades this week (Week 8):** 2 (NVDA June 8, GOOGL June 11 partial)
+
+---
+
 ### Jun 10 — EOD Snapshot (Post-Challenge Day 10, Week 8 Wednesday)
 **Portfolio:** $100,942.78 | **Cash:** $90,951.78 (90.1%) | **Day P&L:** −$418.50 (−0.41%) | **Phase P&L:** +$942.78 (+0.94%)**
 
