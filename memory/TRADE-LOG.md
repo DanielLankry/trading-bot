@@ -29,6 +29,17 @@
 
 ---
 
+### Jun 11 — EOD Snapshot (Post-Challenge Day 11, Week 8 Thursday)
+**Portfolio:** $101,121.53 | **Cash:** $90,886.44 (89.9%) | **Day P&L:** +$148.75 (+0.15%) | **Phase P&L:** +$1,121.53 (+1.12%)**
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| NVDA | 50 | $208.757 | $204.70 | +2.14% | −$202.77 (−1.94%) | 10% trail GTC `6f1cae8f`, stop $189.864, HWM $210.96 — **EXIT TOMORROW JUNE 12** |
+
+**Notes:** Week 8 Day 4 (Thursday, PPI Day) — NVDA recovered +2.14% from Wednesday's CPI-day low ($200.42 → $204.70) on cool PPI catalyst (May 2026: +1.0% YoY vs prior +6.0%). GOOGL Type 3 entry (27sh @ $350.83, partial fill) stopped out today at ~$348.50 (fixed GTC `c5c9c055` triggered), realizing approximately −$65 (−0.69%). NVDA unrealized −$202.77 (−1.94%); stop $189.864 (HWM $210.96) provides $14.84 buffer (7.3%). **NVDA mandatory time stop JUNE 12 at close — exit at close regardless of price (Day 5/5 Type 4 probe).** Portfolio: +$148.75 (+0.15%) on the day; phase P&L +$1,121.53 (+1.12%) vs $100K starting capital. Trades today: 1 new entry (GOOGL, stopped out same day). Trades this week (Week 8): 2 new entries (NVDA June 8, GOOGL June 11); floor 2/7 — need 5 more by June 13. Cash $90,886 (89.9%) available for redeployment.
+
+---
+
 ### Jun 10 — EOD Snapshot (Post-Challenge Day 10, Week 8 Wednesday)
 **Portfolio:** $100,942.78 | **Cash:** $90,951.78 (90.1%) | **Day P&L:** −$418.50 (−0.41%) | **Phase P&L:** +$942.78 (+0.94%)**
 
