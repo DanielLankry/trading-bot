@@ -5,6 +5,93 @@ Format each entry:
 
 ---
 
+## 2026-06-11 — Pre-Market Research (Week 8, Thursday — PPI Day)
+
+### Account Snapshot
+- **Equity:** $101,048.78 | **Cash:** $90,951.78 (90.0%) | **BP:** $392,078.72
+- **Long MV:** $10,097 (NVDA 50sh) | **Phase P&L:** +$1,048.78 (+1.05%) | **Daytrade count:** 0
+- **Positions:** 1/4 | **Type 4 probes:** 1/2 (NVDA — ⚠ TIME STOP JUNE 12, Day 4/5)
+
+### Live Positions (pre-market)
+| Ticker | Shares | Entry | Current | Unrealized P&L | Stop | Notes |
+|--------|--------|-------|---------|----------------|------|-------|
+| NVDA | 50 | $208.757 | $201.94 | −$340.85 (−3.27%) | 10% trail GTC `6f1cae8f`, stop $189.864, HWM $210.96 | Type 4 — **⚠ DAY 4/5 — EXIT AT CLOSE FRIDAY JUNE 12** |
+
+### Market Context
+- **WTI crude:** ~$90.26/bbl (June 11 open, recovering from $89.40 June 10 close)
+- **S&P 500 futures (ESM26):** ~7,304.75 (+26.25 pts, +0.36%) — **POSITIVE open expected**
+- **VIX:** 22.22 (June 10 close) — ⚠ ELEVATED; was 19.87 June 9; rising sharply post-CPI
+- **Macro filter:** SPY & QQQ above SMA 50 ✓ — FULL UNIVERSE active; VIX < 25 ✓
+- **QQQ vs SMA 50:** ~9% above SMA 50 → TQQQ Type 5 NOT viable
+- **Sector:** Semis +38% YTD; IT sector leading; NVDA pre-market analyst upgrades (CJ Muse $350, HSBC $325, Arcury $275)
+
+### ⚠ DOMINANT CATALYST TODAY — PPI 8:30 AM ET
+- **May 2026 PPI Final Demand** scheduled for release June 11, 2026 at 8:30 AM ET (BLS confirmed)
+- **Prior (April):** +6.0% YoY; **Consensus/expected:** ~+1.0% YoY — massive disinflation if accurate
+- **Initial Jobless Claims** also at 8:30 AM ET
+- **FOMC June 17-18** — next week; PPI print informs rate-cut timing
+- ⚠ If PPI cools sharply (consensus ~+1.0% YoY): rate-cut odds rise → tech/growth bullish, VIX compression below 20 likely
+- If PPI stays hot (>3% YoY): tech headwind; VIX approaches 25 → trigger 25% size reduction rule
+- **Pre-8:30 AM: NO NEW ENTRIES regardless**
+
+### Held-Ticker Thesis Check
+
+**NVDA — INTACT, ⚠ MANDATORY EXIT TOMORROW**
+- $201.94 pre-market (−3.27% from entry $208.757). Stop $189.864 (HWM $210.96), buffer $12.08 (5.98%)
+- **Pre-market BULLISH news today:**
+  - Multiple analyst upgrades: CJ Muse raised PT to $350 (from $300), HSBC raised to $325 (from $295), Timothy Arcury to $275 (from $245)
+  - US cleared 10 Chinese firms to purchase NVIDIA H200; shipments pending Beijing approval — potential positive catalyst (not finalized)
+  - 38 analysts consensus Strong Buy, avg PT $298.87 (48% upside from current)
+- AI inference demand + Jensen Huang thesis unchanged
+- **⚠ TIME STOP: Day 4/5. "JUNE 13" in log = Saturday (market closed) → effective exit is CLOSE FRIDAY JUNE 12.**
+- Today: HOLD. Tomorrow (June 12): EXIT AT CLOSE regardless of price or catalysts.
+- Thesis: INTACT. Auto-stop manages. No intervention.
+
+### Universe Scan — All 5 Setup Types
+| Ticker | Setup | Spread | Status | Notes |
+|--------|-------|--------|--------|-------|
+| AMD | Type 3 SMA 20 | TBD at open | **CONDITIONAL** | SMA 20 ~$476-477 (Barchart June 10). Price broke below SMA 20 on June 10 (CPI selloff, midday $452-473 bid/ask). Positive futures (+0.36%) may recover AMD above SMA 20. Check spread ≤2% + bounce confirmation post-PPI. |
+| GOOGL | Type 3 SMA 50 | 0.23% est | SKIP | Price ~$356-360 (June 10), SMA 50 ~$353-365. Positive futures push price further from pullback zone. Not at SMA 50 bounce level today. |
+| AMZN | Type 3 | 0.04% est | SKIP | Price ~$243-244, well below SMA 20 ($262.75) AND SMA 50 ($251.91) — disqualified |
+| AVGO | Type 3 | TBD | SKIP | Price ~$376-381, below SMA 50 (~$421). Broken SMA structure. Post-earnings recovery still insufficient. |
+| CRWD | Type 3 | 11%+ | SKIP | Spread FAILS ≤2% gate; post-earnings illiquidity persisting |
+| MU | Type 4 | <2% est | SKIP | Price ~$969+, SMA 20 ~$850 — 14% extended; no valid pullback entry |
+| META/MSFT/TSLA/PLTR | All | — | DISQUALIFIED | Below SMA 200 |
+| TQQQ | Type 5 | 0.01% | SKIP | QQQ ~9% above SMA 50 → no Type 5 pullback entry viable |
+
+### Trade Ideas
+
+**Idea 1 — AMD Type 3 SMA 20 Bounce (PRIMARY — POST-PPI CONDITIONAL)**
+- **Catalyst:** EPYC Venice 2nm ramp; Meta multi-GW Instinct GPU; "Advancing AI 2026" July 22-23; DC CPU +50% YoY Q1. No earnings until ~Aug 2026. ✓
+- **SMA structure:** Above SMA 50 ($375), SMA 150/200 confirmed; SMA 20 ~$476-480 = pullback zone
+- **Entry gate (ALL must pass):** Spread ≤2% at open | Price recovers above SMA 20 at open | Bounce confirmation (intraday reversal candle) | Post-8:30 AM PPI only
+- **Size:** FULL (Type 3) — ~$19,000 (~40sh @ $476-478)
+- **Stop:** Hard GTC slightly below SMA 20 (~$470-472)
+- **Target:** $520-540 (+9-13%)
+- **R:R:** ~3:1
+- **Position cap post-entry:** 2/4 ✓ | 0 leveraged ETFs ✓ | 1/2 probes (NVDA still open through today)
+
+**Idea 2 — GOOGL Type 3 SMA 50 (SECONDARY — TERTIARY today)**
+- SMA 50 ~$353-355. Price well above in current positive environment. Not viable today.
+- Monitor for dip to $350-355 zone with bounce. Less likely with PPI expected cool + positive futures.
+
+### Risk Factors
+1. **PPI 8:30 AM ET** — dominant unknown; consensus cooling (+1.0% YoY) but market still uncertain. Hot print → VIX spike toward 25 → 25% size reduction rule triggers
+2. **VIX at 22.22 and rising** — was 16.06 on June 4, 19.87 June 9, 22.22 June 10. Rising trend. If VIX reaches 25 today → all new entry sizes reduced 25%
+3. **NVDA mandatory exit tomorrow (June 12 close)** — down 3.27% from entry; positive catalysts (analyst upgrades, China H200) may not be enough to break even; time stop is non-negotiable
+4. **AMD spread risk** — was 4.6% on June 10 intraday; needs ≤2% at regular market open to qualify
+5. **Week 8 pace 1/7** — only 2 trading days remain (today + Friday); floor unachievable. Consecutive under-pace weeks (Week 7: 2/7, Week 8: tracking for ≤3/7). Flag for weekly review Friday.
+6. **FOMC June 17-18 next week** — elevated macro uncertainty; size any new entries to survive rate-decision volatility
+
+### Decision: CONDITIONAL TRADE — WAIT FOR 8:30 AM PPI PRINT
+- **Pre-8:30 AM:** HOLD NVDA. NO new entries before PPI print.
+- **Post-print cooling (≤+2% YoY):** Scan AMD at open — if price recovers above SMA 20 ($476-480) with bounce confirmation + spread ≤2% → Type 3 full-size entry (~40sh @ ~$476-478, stop $470-472, target $520-540). GOOGL secondary watch if selloff to $350-355.
+- **Post-print hot (>3% YoY):** Monitor VIX. If VIX > 25 → reduce all new entry sizes 25%. AMD entry requires stronger bounce confirmation.
+- **NVDA:** HOLD today. **⚠ MANDATORY EXIT AT CLOSE FRIDAY JUNE 12 — time stop Day 5. No override.**
+- **Week 8 alert:** 1/7 with 2 days left — flag consecutive under-pace weeks in Friday weekly review. Root cause: universe depth (AMZN/AVGO/META/MSFT/PLTR disqualified) + elevated spreads post-CPI + macro binary days limiting entries.
+
+---
+
 ## 2026-06-10 — Pre-Market Research (Week 8, Wednesday — CPI Day)
 
 ### Account Snapshot
