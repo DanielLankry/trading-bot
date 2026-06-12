@@ -152,7 +152,7 @@ prioritize **2 entries** to catch up.
   - Up ≥ +15% → ratchet stop to entry (breakeven)
   - Up ≥ +20% → take 1/3 off (lock partial profit, runner stays)
   - Up ≥ +30% → trail at SMA 20
-- **Time stop on momentum probes:** 5 trading days max, exit regardless
+- **Time stop on momentum probes:** 5 trading days max, exit regardless. On Day 5, place a market-at-close (MOC) order before 3:50 PM ET — do NOT rely on the trailing stop to execute the time exit; the trailing stop is set for drawdown protection and will not trigger unless the position is down ~10% from HWM, which may never occur. The time stop requires an explicit order. *(Rule clarified 2026-06-12: NVDA Day 5 time stop missed because trailing stop at $189.864 was well below the $205 close — no MOC was placed. Operational lapse exposed capital to uncontrolled overnight risk.)*
 - **Leveraged ETF intraday whipsaw guard:** −8% from entry intraday → exit
 - **Earnings:** cut to half size or exit before earnings. **No full-size hold through earnings.** Earnings are coinflips with no edge.
 
