@@ -1715,3 +1715,23 @@ No positions yet. Bot launches tomorrow (2026-04-28).
 **Perplexity research:** None — NVDA −0.22% intraday is not a sharp unexplained move. Pre-market research covers.
 
 **Trades this week (Week 8):** 1 (NVDA only). Under-pace: 1/7 with 2 days remaining (today + tomorrow). Consecutive under-pace flag for Friday weekly review.
+
+---
+
+### Jun 12 — Market-Open Trades (Week 8, Friday — NVDA Time Stop Day 5/5)
+**Portfolio:** $101,098.10 | **Cash:** $71,042.05 | **Long MV:** $30,056.05 | **Phase P&L:** +$1,098.10 (+1.10%) | **Daytrade count:** 0
+
+| Ticker | Shares | Entry | Stop | Thesis | Target | R:R |
+|--------|--------|-------|------|--------|--------|-----|
+| GOOGL | 55 | $360.807 | Fixed GTC $349.00 (`5bac5b64`) — below SMA 50 ~$351 | Type 3 SMA 20/50 pullback: above SMA 200 ($305) ✓, price bouncing from SMA 50 zone ($351–356); pulled back from $408 (May 12 high) to $346 low, recovering today; earnings July–Aug 2026 ✓; AI/cloud thesis intact; tight spread $0.24 ✓ | $400–414 (+10–15%) | ~3.7:1 |
+
+**Trades fired:** GOOGL — 55 shares @ $360.807 avg (order `1ab487d9`)
+
+**Skipped:**
+- **CRWD** — bid $684.06 / ask $726.09, spread $42 (6.1%) at open → skip per strategy (wide spread = illiquid/halted). Gapped ~$47 above pre-market thesis entry $658 with no confirmed catalyst; above original +10% target range.
+
+**Pending exit (not executed at open):**
+- **NVDA** — Type 4 time stop Day 5/5. Trailing stop `6f1cae8f` ($189.864 GTC) riding; mandatory close at EOD today via EOD routine market sell if stop not triggered.
+
+**Positions after open:** GOOGL (55sh, Type 3) + NVDA (50sh, Type 4 — exit pending EOD) = 2/4 | Leveraged ETF: 0/1 | Type 4 probes: 1/2 (NVDA expiring today)
+**Trades this week (Week 8):** 3 (NVDA June 8, GOOGL June 11 stopped, GOOGL June 12) | Floor: 3/7 ⚠ — under-pace. Weekly review must diagnose consecutive under-pace flag.
