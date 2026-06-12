@@ -1735,3 +1735,25 @@ No positions yet. Bot launches tomorrow (2026-04-28).
 
 **Positions after open:** GOOGL (55sh, Type 3) + NVDA (50sh, Type 4 — exit pending EOD) = 2/4 | Leveraged ETF: 0/1 | Type 4 probes: 1/2 (NVDA expiring today)
 **Trades this week (Week 8):** 3 (NVDA June 8, GOOGL June 11 stopped, GOOGL June 12) | Floor: 3/7 ⚠ — under-pace. Weekly review must diagnose consecutive under-pace flag.
+
+---
+
+### Jun 12 — Midday Scan (~12:00 PM ET)
+**Portfolio:** $101,249 | **Cash:** $71,042.05 | **Long MV:** $30,206.95 | **Day P&L:** +$119.08 (+0.12%) | **Phase P&L:** +$1,249 (+1.25%)
+
+| Ticker | Shares | Entry | Midday Price | Unrealized P&L | Stop | Action |
+|--------|--------|-------|--------------|----------------|------|--------|
+| GOOGL | 55 | $360.807 | $362.24 | +$78.83 (+0.40%) | Fixed GTC $349.00 (`5bac5b64`) | HOLD — thesis intact |
+| NVDA | 50 | $208.757 | $205.19 | −$178.35 (−1.71%) | 10% trail GTC `6f1cae8f`, stop $189.864 | ⚠ EXIT AT CLOSE TODAY — Day 5/5 time stop |
+
+**Cuts (≥−7%):** NONE — both positions above threshold.
+
+**Stop adjustments:** NONE — neither position at +15%/+20% threshold.
+
+**Thesis checks:**
+- **GOOGL**: Price $362.24, above SMA 50 zone (~$351–356) ✓. Stop $349 below SMA 50 ✓. Type 3 thesis intact — holding.
+- **NVDA**: AI/Blackwell narrative unchanged. MANDATORY TIME STOP — Day 5/5. Trailing stop riding ($189.864 GTC, $15.33 / 7.47% buffer). EOD routine to execute market sell at close if stop not triggered first.
+
+**Intraday research (CRWD):** Trading ~$690–$700 (gapped ~5% above pre-market estimate). No material news today. AI cybersecurity thesis intact. Spread was 6.1% at open → correctly skipped. No valid intraday entry — re-evaluate Monday.
+
+**Pending EOD action:** Close NVDA (50sh) at or near market close 4:00 PM ET. Trailing stop provides floor at $189.864; do not cancel stop before EOD market sell.
