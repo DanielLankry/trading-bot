@@ -1,5 +1,17 @@
 # Trade Log
 
+---
+
+### Jun 12 — EOD Snapshot (Post-Challenge Day 12, Week 8 Friday)
+**Portfolio:** $101,094.80 | **Cash:** $71,042.05 (70.3%) | **Day P&L:** −$35.12 (−0.03%) | **Phase P&L:** +$1,094.80 (+1.09%)**
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| GOOGL | 55 | $360.807 | $359.93 | +0.61% | −$48.03 (−0.24%) | Fixed GTC $349.00 (`5bac5b64`) |
+| NVDA | 50 | $208.757 | $205.11 | +0.12% | −$182.31 (−1.75%) | 10% trail GTC `6f1cae8f`, stop $189.864, HWM $210.96 ⚠ TIME STOP EXPIRED |
+
+**Notes:** Quiet close. GOOGL held above SMA 50 zone and finished +0.61% at $359.93; thesis intact, stop GTC $349 in place. NVDA Day 5/5 mandatory time stop was NOT executed at close — trailing stop at $189.864 did not trigger (price $205.11, 7.9% above stop) and no market-at-close order was submitted. ⚠ **NVDA must be exited at Monday market open — mandatory, no override.** Portfolio declined −$35.12 (−0.03%) vs BOD; Phase P&L +$1,094.80 (+1.09%) vs $100K. Cash $71,042.05 (70.3%) — 2 slots remain. Trades today: 1 (GOOGL). Trades this week (Week 8): 3/7 — consecutive under-pace flag; weekly review required Monday.
+
 ### Jun 11 — Market-Open (Week 8, Thursday — PPI Day)
 **Portfolio:** $101,050.13 | **Cash:** $81,479.37 (80.6%) | **Long MV:** $19,570.76 | **Phase P&L:** +$1,050.13 (+1.05%) | **Daytrade count:** 0
 
