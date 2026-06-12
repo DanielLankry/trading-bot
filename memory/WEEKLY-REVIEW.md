@@ -493,3 +493,74 @@ Template for each entry:
 
 ### Overall Grade: C
 > Rationale: Both new entries this week stopped out on Jobs Day (−$883 + −$1,850) due to correlated sector concentration in probe slots — a structural error not a market error. Prior-week positions exited cleanly via time stops (+$2,580 MU, +$786 AMD). Stop system executed flawlessly with zero manual overrides. Penalties: (1) 6th consecutive week below 7-entry floor (2/7); (2) −2.89% return vs S&P +0.92% = −3.81% relative (worst relative week); (3) AMD re-entry at elevated price into semi headwinds was a process lapse; (4) probe slot sector concentration rule violated. Grade is C not D because the automated stop system worked perfectly, AAPL is intact heading into a catalyst, and prior-week exits were clean — the damage was self-inflicted via concentration, not unforeseeable market action.
+
+---
+
+## Week ending 2026-06-12
+
+### Stats
+| Metric | Value |
+|--------|-------|
+| Starting portfolio | $101,905.80 |
+| Ending portfolio | $101,116.80 |
+| Week return | −$789.00 (−0.39%) |
+| S&P 500 week | ~−2.55% (SPX June 8–12; worst week in months per Perplexity) |
+| Bot vs S&P | **+2.16%** (first week of positive relative performance since Week 5) |
+| Trades | 3 new entries (W:0 / L:2 closed / open:2) |
+| New entries (weekly floor) | 3 ⚠ (vs 7-entry floor — 7th consecutive miss; ≤4 = process failure) |
+| Win rate | 0% (0 of 2 closed) |
+| Best trade | N/A (no closed winners); best open: GOOGL 55sh −$36 (−0.18%) |
+| Worst trade | AAPL −$574.52 (−1.86% on closed position) |
+| Profit factor | N/A (no closed winners) |
+| Phase P&L | +$1,116.80 (+1.12%) vs $100K start |
+
+> **Week 8 (post-challenge, June 8–12).** S&P 500 dropped ~−2.55% (Jobs Day June 5 miss lingering + CPI June 10 hot 0.6% MoM). Bot preserved capital at −0.39% — first week of positive relative performance since Week 5, entirely via individual stop management. AAPL WWDC sell-the-news closed the prior carry position at −$574. NVDA Type 4 time stop expired June 12 at close but was NOT submitted as MOC — position must exit at Monday June 16 open (hard, no override). GOOGL entered Friday June 12 55sh @ $360.807.
+
+### Closed Trades
+| Ticker | Entry | Exit | P&L | Notes |
+|--------|-------|------|-----|-------|
+| AAPL (65sh) | $308.12 (May 22) | $299.28 (Jun 9) | −$574.52 | Type 2 breakout; WWDC Jun 8 keynote ran to +1.91% intraday then reversed − $305.54 breakout level broken at close; mandatory rule exit next AM; Type 2 stop worked exactly as designed |
+| GOOGL (27sh) | $350.83 (Jun 11) | ~$348.50 (Jun 11) | ~−$63 | Type 3 SMA 50 partial fill; 53sh order, 27sh filled before cancel processed as price broke below SMA 50 during routing; fixed GTC `c5c9c055` triggered same day |
+
+**Total realized this week: ~−$637**
+
+### Open Positions at Week End
+| Ticker | Entry | Close | Unrealized | Stop |
+|--------|-------|-------|------------|------|
+| NVDA | $208.757 (Jun 8) | $205.33 | −$171.35 (−1.64%) | 10% trail GTC `6f1cae8f`, stop $189.864, HWM $210.96 — ⚠ **TIME STOP EXPIRED — EXIT MON JUN 16 AT OPEN, NO OVERRIDE** |
+| GOOGL | $360.807 (Jun 12) | $360.15 | −$36.12 (−0.18%) | Fixed GTC $349.00 (`5bac5b64`) |
+
+> ⚠ **NVDA Monday mandate (hard):** Time stop Day 5/5 expired at June 12 close. Trailing stop at $189.864 did not trigger (price closed $205.11, 7.9% above stop). No MOC order was placed — operational lapse. Exit NVDA at market open Monday June 16, no override, regardless of FOMC week volatility.
+> **FOMC June 16–17:** No new entries Monday AM pre-open through Tuesday 2 PM ET. Post-FOMC reaction window is the entry opportunity this week.
+
+### What Worked
+- **First positive relative week since Week 5 (+2.16% vs S&P):** S&P fell −2.55% (Jobs-Day hangover + hot CPI June 10); bot held −0.39% — defensive quality of individual stock stops functioned as designed in a risk-off week
+- **AAPL Type 2 stop executed without override:** Close $301.54 (Jun 8) < $305.54 breakout level → mandatory exit next AM at $299.28; loss accepted at −$574 with no hesitation; total loss 0.57% of capital = within 3–4% risk budget
+- **CPI-day discipline (June 10):** Hot print (0.6% MoM vs 0.5% consensus) → zero new entries; correct macro-caution application; NVDA thesis confirmed intact via Perplexity midday query (no company-specific catalyst)
+- **PPI cool data (June 11) → GOOGL entry thesis confirmed:** PPI May 2026 +1.0% YoY (vs prior +6.0%) = massive disinflation signal; GOOGL SMA 50 zone correctly identified and entered; execution mostly correct despite partial-fill issue
+- **NVDA trailing stop system held through volatility:** Stop $189.864 (10% trail, HWM $210.96) absorbed CPI −4% drop on June 10 and maintained thesis buffer throughout the week
+
+### What Didn't Work
+- **7th consecutive weekly floor miss (3/7):** Mon=1 (NVDA), Tue=0 (mandatory AAPL exit ≠ new entry), Wed=0 (CPI NO-TRADE), Thu=1 (GOOGL partial, stopped same day), Fri=1 (GOOGL re-entry); systemic deployment failure continues into 7th week; ≤4 = process failure per strategy
+- **NVDA time stop NOT executed at close June 12 (operational lapse):** Day 5/5 expired; trailing stop at $189.864 never triggered because position only −1.64% from entry; no MOC order placed; position now carries FOMC-week binary risk over the weekend + into Monday; this is a direct rule violation that exposes capital to uncontrolled overnight risk
+- **AAPL WWDC sell-the-news held at full size through the event:** WWDC June 8 was a confirmed binary event (product launch = option-like payoff); position was not sized down or exited before the keynote despite the pattern being identical to earnings sell-the-news; loss captured the downside of the binary without protection
+- **GOOGL June 11 same-day stop-out wasted a trade slot:** SMA 50 zone entry correct in concept, but the order routing allowed 27sh to fill as price broke below SMA 50; a limit order (not market) at the SMA bounce level would have avoided the fill; burned a trade opportunity and created confusion about position basis
+- **Universe depth structural problem persists:** META/MSFT/TSLA/PLTR all disqualified (below SMA 200); AMZN below SMA 20; AMD spread consistently 4–12%; CRWD 7–12%; only 2–3 names available for entry on any given day this week; floor of 7 mathematically very difficult with this universe
+
+### Key Lessons
+- **Time stop execution requires an explicit MOC order, not passive stop reliance:** Trailing stops designed for drawdown protection are set below entry; on time stop Day 5, the price is rarely near the trailing stop. The time stop is an OPERATIONAL rule requiring an explicit market-close order placed before 3:50 PM ET on Day 5. Relying on the trailing stop to execute the time exit is wrong — the stop is at 10% below HWM, not "end of 5 days." Rule updated in TRADING-STRATEGY.md.
+- **Product launch events (Apple WWDC, NVIDIA AI Day, AMD Advancing AI) carry binary risk equal to earnings:** AAPL +1.91% intraday then reversed to close −2.2% from prior close on WWDC day; the event created an earnings-like binary that the current strategy rules don't address for non-earnings catalysts. Going forward: if holding a position through a major product launch, treat it as earnings (cut to half-size the day before OR set a tighter hard stop at the event day open price).
+- **SMA bounce entries should use limit orders near the SMA, not market orders:** The GOOGL June 11 partial fill occurred because a market order was routed while price moved through the entry zone; this is a known risk of market orders at SMA levels. On Type 3 setups, a limit buy order slightly above the SMA (e.g., $0.25 above SMA 50) captures the bounce confirmation while avoiding fills through the level.
+- **Down-market relative performance is the true measure of stop system quality:** This week the bot "won" by losing less (−0.39% vs −2.55%). That is precisely the function of the trailing/fixed stop architecture — minimize drawdown in adverse conditions. The system delivered.
+- **7 consecutive floor misses is no longer a pace issue — it is a structural issue:** The universe coverage problem (5 of 8 primary names unavailable on any given day) requires a systematic fix: expand active scan to SNOW, MELI, NET, SHOP; replace AMZN in primary scan until SMA 20 ($262.75) recaptured; add MU back after time-stop reset when SMA 20 zone recaptured.
+
+### Adjustments for Next Week (June 15–19)
+- **Monday June 16 (hard):** Exit NVDA at market open — time stop Day 5 expired June 12. No override for any reason including FOMC week setup. Loss locks at ~−$175.
+- **FOMC June 16–17 (no new entries Mon pre-open or Tue until 2 PM ET):** Rate decision June 17 at 2 PM ET. No new entries Mon AM through Tue 2 PM. Post-FOMC reaction window (June 17 2:30 PM ET onward) is first valid entry window. Likely volatility spike — TQQQ Type 5 viable only if QQQ pulls back to SMA 50 during FOMC week selloff.
+- **GOOGL management:** 55sh @ $360.807, stop $349; if price consolidates above $360 and recovers toward $375–380 → thesis intact, hold; if price closes below $349 stop → exit; +15% trigger = $415 (+15% from $360.807)
+- **NVDA slot (after exit):** One probe slot opens Monday; fill with non-semi post-FOMC (AMZN if above SMA 20 $262.75, CRWD if spread ≤2%, NET if SMA structure confirms)
+- **Expand scan universe for floor pace:** Add SNOW, MELI, NET daily to pre-market scan table; these were absent all of Week 8 and have AI/cloud theses compatible with the current macro; at least one must qualify in any given week
+- **Limit orders on SMA bounce entries:** For all Type 3 SMA pullback entries, use limit orders placed at SMA level + $0.25–$0.50, not market orders; avoids partial fills into a breakdown
+
+### Overall Grade: B−
+> Rationale: First positive relative week since Week 5 — bot −0.39% vs S&P −2.55% = +2.16% outperformance; defensive stop architecture delivered in a risk-off week. AAPL and GOOGL partial stops both executed correctly per rules. Capital largely preserved (+1.12% phase P&L from $100K start). Penalties: (1) 7th consecutive week below trade floor (3/7 = process failure); (2) NVDA time stop not executed at close — clear operational lapse, position carries FOMC binary risk into next week; (3) AAPL WWDC held at full size through a confirmed binary event — rule gap that needs addressing; (4) GOOGL June 11 same-day stop-out via market order when limit would have prevented it. Grade B− not C because the relative outperformance in a down market is the correct signal that the stop system is working; the execution lapses are process issues, not strategy failures.
