@@ -2882,3 +2882,107 @@ No CPI/PPI today (next: June 10/12). FOMC minutes after close — minimal intrad
 - Result: No new company-specific negative catalyst identified. No analyst downgrade. Broad AI/Nasdaq sector weakness likely driven by JOLTS (10 AM ET) stronger-than-expected print (hawkish Fed read → rates up → growth stocks down). Meta-NVIDIA multiyear GPU deal (Blackwell + Rubin, Spectrum-X Ethernet) confirmed still intact — no reversal.
 - Price history context (NVDA IR): $218.66 (Jun 4) → $214.75 (Jun 3) → $222.82 (Jun 2) → current $202.65 — stock has been in a downtrend since June 2 highs. Entry June 8 @ $208.757 caught the bounce attempt.
 - **Conclusion:** Macro noise, not thesis break. Hold per time stop June 13. Stop $189.864 provides 6.5% buffer from current price.
+
+---
+
+## 2026-06-12 — Pre-Market Research (Week 8, Day 5 — Friday)
+
+### Account Snapshot
+- **Equity**: $101,189.92 | **Cash**: $90,886.42 (89.8%) | **Buying Power (regt)**: $192,076.34
+- **Long MV**: $10,303.50 (NVDA only) | **Phase P&L**: +$1,189.92 (+1.19%)
+- **Daytrade count**: 0
+- **Positions**: 1/4 (NVDA) | **Type 4 probes**: 1/2 (NVDA — **TIME STOP DAY 5/5 → MANDATORY EXIT AT CLOSE TODAY**)
+- **Open Orders**: Trailing stop on NVDA — trail 10%, stop $189.864, HWM $210.96 (order `6f1cae8f`)
+
+### Open Positions
+| Ticker | Shares | Entry | Pre-Mkt | Unrealized P&L | Stop | Notes |
+|--------|--------|-------|---------|----------------|------|-------|
+| NVDA | 50 | $208.757 | $206.07 | −$134.35 (−1.29%) | 10% trail GTC, stop $189.864 (`6f1cae8f`) | ⚠ TYPE 4 TIME STOP DAY 5/5 — EXIT AT CLOSE TODAY. No override. |
+
+### Macro Filter
+- **SPY**: Likely above SMA 50 ✓ (S&P futures +0.02% at 7,397.25; +24% YTD context — confirm at open)
+- **QQQ**: Above SMA 50 ✓ (SMA 50 ~$679–$707; QQQ ~$817, +20–24% above SMA 50)
+- **VIX**: 19.44 (June 11 close) / 22.22 (June 10 close post-CPI) — below 25 threshold → full sizing ✓ (no VIX-based restriction)
+- **Mode**: All 5 setup types active — but TQQQ (Type 5) entry gate FAILS (QQQ too extended above SMA 50, not a pullback zone)
+
+### Market Context
+- **WTI**: ~$86.71/bbl (CME Jul 2026 futures) — well off $101+ May highs; declining trend
+- **Brent**: Prediction markets: ~$75+ (not a live quote; directionally softer)
+- **S&P 500 futures**: 7,397.25, +0.02% — effectively flat, mildly green open expected
+- **VIX**: ~19.44 (June 11 close); spike to 22.22 post-CPI June 10 but retreated
+- **Sector momentum YTD**: Energy (+22%), Consumer Staples, Industrials, Materials leading. Tech (XLK), Comm, Discretionary in lagging/weakening quadrant per momentum map — but absolute returns still strong for AI names
+
+### Economic Calendar Today (June 12)
+- **10:00 AM ET** — Employer Costs for Employee Compensation (Q1 2026, BLS) — minor
+- **12:30 PM ET** — Initial Jobless Claims (weekly) — light market-mover
+- **June 17** — FOMC rate decision ⚠ Key risk next week; no cut expected; watch for hawkish tone
+- **CPI (May)**: Released June 10 ✓ | **PPI (May)**: Released June 11 ✓ — both in the rearview
+
+### Earnings Today (June 12 BMO)
+- No major universe earnings before market open today per Kiplinger (calendar confirms "no noteworthy Friday earnings"). Clean setup day for entries.
+
+### Ticker Research
+
+**NVDA — EXIT AT CLOSE (mandatory):**
+- Current: $206.07 (−1.29% from entry $208.757). Unrealized: −$134.35.
+- Type 4 time stop: Day 5/5. **Exit at or near close today. Cancel or let trailing stop ride; if stop ($189.864) not hit, execute market sell at close.**
+- Fundamental thesis remains very strong: KKR Helix $10B AI data center partnership, LG AI factory JV, SK Group next-gen memory JV, SpaceX-Google cloud deal (110K NVDA GPUs, $920M/month), Blackwell Ultra demand intact, Vera Rubin on track Q3 2026. Annual Meeting June 24.
+- **Re-entry thesis for Monday**: After closing today, NVDA is a strong re-entry candidate as a fresh Type 4 probe (or Type 3 if pulled back to SMA 20/50) — thesis fully intact, no company-specific negatives.
+
+**TQQQ — DISQUALIFIED (Type 5 gate fails):**
+- QQQ ~$817, SMA 50 ~$679–$707 → +16–20% above SMA 50. Not a pullback setup.
+- TQQQ ~$71–76. No entry until QQQ pulls back to $700–710 zone.
+- Watch zone: QQQ < $715 = approaching; QQQ < $700 = entry gate active.
+
+**CRWD — ✅ TYPE 4 MOMENTUM PROBE CANDIDATE:**
+- Price: ~$658 (prev close $658.79 per MarketChameleon)
+- SMA 200: ~$432–481 (price well above ✓) | SMA 150: confirmed above per Barchart "Buy" ✓
+- SMA 50: ~$457 (price well above; NOT a pullback setup → Type 4 probe only)
+- Earnings: August 29, 2026 — well outside 5-trading-day window ✓
+- 52-week range: $342.72–$785.66; at ~$658 in mid-range, strong RS
+- AI cybersecurity narrative intact; no adverse news identified
+- **Entry trigger**: Market open at ~$658; stop 5% below entry (~$625); size: 1.5–2% risk (~$1,500–2,000 / ~2–3 shares at $658 per % risk threshold)
+- **Time stop**: 5 trading days → exit by June 19 EOD
+- Sizing math: 2% risk × $101K = $2,020. If stop is 5% below entry, position = $2,020 / (0.05 × $658) = $2,020 / $32.90 ≈ 61 shares → ~$40,138 notional. Check against capital allocation (40–50% single names = $40–50K ✓)
+
+**META — ❌ DISQUALIFIED:**
+- Price: ~$568 | SMA 50: $622 | SMA 200: $659 → price BELOW both key SMAs
+- Cannot enter per strategy rules (Types 1–4 require above SMA 150/200)
+
+**GOOGL — CONDITIONAL (needs fresh price check at open):**
+- June 9 research showed as Type 3 (SMA 20/50 pullback) candidate at ~$370–428 range
+- SMA structure from June 9: SMA 200 ~$304, SMA 50 ~$351 — price well above both
+- Earnings: Q3 2026, likely late July — outside window ✓
+- **Entry trigger at open**: if price is bouncing from SMA 20/50 zone; verify price hasn't already extended far above
+- **Risk**: 3–4% of capital full size (~$3,030–4,040)
+
+**NVDA (Monday re-entry plan):**
+- After today's mandatory exit, consider fresh Type 4 probe on Monday June 15
+- Annual Meeting June 24 = potential catalyst (but within 5 trading days of Monday + 5 days = June 22 time stop — check earnings proximity)
+- Strong fundamental backdrop; re-entry at whatever price opens Monday
+
+### Trade Ideas
+
+| # | Ticker | Type | Entry Trigger | Size | Stop | Target | Time Stop |
+|---|--------|------|---------------|------|------|--------|-----------|
+| 1 | CRWD | Type 4 (momentum probe) | Market open ~$658; above SMA 150/200, earnings clear | ~61 shares (~$40K, 2% risk) | 5% below entry (~$625) | +10% in 5 days (~$724) | June 19 EOD |
+| 2 | GOOGL | Type 3 (SMA 20/50 pullback) | Price at SMA 20/50 bounce at open; confirm above $304 SMA 200 | 3–4% risk (~$3K-4K) | Daily close below SMA used | +10–15% | N/A (SMA trail) |
+| 3 | NVDA | Type 4 (re-entry Monday) | Fresh probe next week after today's exit; strong thesis intact | Half size, 1.5–2% risk | 5% below entry or 1×ATR | +10% in 5 days | 5 trading days from entry |
+
+### Risk Factors
+1. **NVDA exit slippage** — market close today; trailing stop ($189.864) provides floor but may not execute at ideal price. Use market sell near close if stop not triggered.
+2. **VIX elevated** — 19–22 range; CPI June 10 triggered spike to 22.22. Below 25 threshold but stay alert — any hawkish FOMC pre-announcement before June 17 could push VIX > 25.
+3. **FOMC June 17** — if entering CRWD today with 5-day time stop, exit is June 19 — two days after FOMC. Fed surprise = stop risk. Stop at 5% below entry provides buffer.
+4. **Week 8 pace failure** — only 1 entry (NVDA June 8) against 7-entry weekly floor. Today is the last day. Entering CRWD + GOOGL = 3 total; still under-pace. Weekly review Friday EOD must diagnose — under-pace 2 consecutive weeks is a process flag.
+5. **CRWD concentration risk** — if entering CRWD at ~$40K notional, that's ~40% of capital in a single Type 4 probe. Review sizing; may want to scale back to 30–35 shares (1.5% risk) to stay within 2% cap precisely.
+6. **Oil declining** — WTI $86.71 (off $101 May highs) reflects demand concerns / OPEC supply dynamics. Not directly relevant to tech positions but signals macro softness.
+7. **Tech sector "lagging" in momentum map** — XLK is in lagging quadrant per sector rotation analysis. Cuts against concentration in tech names; manage size accordingly.
+
+### Decision: TRADE
+- **NVDA**: MANDATORY EXIT AT CLOSE TODAY. No override.
+- **CRWD**: ENTER as Type 4 momentum probe at market open — above all key SMAs, earnings clear (August), strong AI-cybersecurity RS. Half size (~1.5–2% risk). Set 5% stop GTC immediately.
+- **GOOGL**: Monitor at open — enter Type 3 if price is bouncing from SMA 20/50 zone. Skip if price has already extended above that zone.
+- **TQQQ**: SKIP today — QQQ 20%+ above SMA 50, entry gate fails.
+- **META**: SKIP — below SMA 50/200.
+- **Slots**: 3 currently open (NVDA occupying 1/4). Can enter 3 new positions today before NVDA closes.
+- Weekly floor: 1 entry so far this week. Entering CRWD + GOOGL = 3 total (still under 7). Process flag — diagnose in weekly review.
