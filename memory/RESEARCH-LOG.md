@@ -2986,3 +2986,119 @@ No CPI/PPI today (next: June 10/12). FOMC minutes after close — minimal intrad
 - **META**: SKIP — below SMA 50/200.
 - **Slots**: 3 currently open (NVDA occupying 1/4). Can enter 3 new positions today before NVDA closes.
 - Weekly floor: 1 entry so far this week. Entering CRWD + GOOGL = 3 total (still under 7). Process flag — diagnose in weekly review.
+
+---
+
+## 2026-06-29 — Pre-Market Research (Week 11, Monday — Q2 End Eve)
+
+### Account Snapshot
+- **Equity:** $99,855.34 | **Cash:** $99,855.34 (100%) | **BP:** $399,421.36 | **Daytrade count:** 0
+- **Long MV:** $0 | **Positions:** 0/4 | **Type 4 probes:** 0/2 | **Leveraged ETF:** 0/1
+- **Phase P&L:** −$144.66 (−0.14%) vs $100K starting | **Balance as of:** 2026-06-26
+
+### Live Positions
+None — account fully in cash.
+
+### Open Orders
+None.
+
+---
+
+### Market Context
+
+| Metric | Value | Signal |
+|--------|-------|--------|
+| WTI crude | ~$69.81/bbl (range $69.33–$70.79) | Declining; OPEC+ supply expansion anchoring $66–70 range |
+| S&P 500 futures (ESU26) | ~7,441–7,451 (+0.54–0.67%) | Mild green open expected |
+| VIX | ~18.41 (June 26 close); prev close 18.89 | Green — well below 25 threshold |
+| **⚠ MACRO FILTER** | **SPY below SMA-50 as of June 26** | **RESTRICTED MODE — Type 1 + Type 3 ONLY** |
+
+**SPY/QQQ SMA status:**
+- SPY: ~$728–$734. **Moved BELOW SMA-50 (~$734–$739) on June 26, 2026.** Still above SMA-150 ($692.38) and SMA-200 ($651.77).
+- QQQ: Above SMA-50 (~3.2% above).
+- **Trigger:** SPY below SMA-50 → RESTRICTED MODE. Type 2 (breakout), Type 4 (momentum probe), Type 5 (leveraged ETF) are ALL OFF until SPY reclaims SMA-50.
+
+### Economic Calendar Today (June 29)
+- No major US economic data scheduled
+- **1:00 PM ET** — Fed Chair Warsh speech ⚠ (potential hawkish signal; September rate hike being priced in)
+- **2:00 PM ET** — ISM Manufacturing PMI (prev: 55.7, est: 55.7) + ISM Manufacturing Prices (prev: 82.1)
+- **Tomorrow June 30** — S&P Case-Shiller (April), Chicago Business Barometer → Q2 ends
+- **This week** — Jobs Report (Friday), holiday-shortened week (July 4 weekend)
+
+### Key Catalysts Today
+1. **U.S.-Iran resolution progress** — JPMorgan raised S&P 500 target to 7,800; "Blue Sky" scenario pricing
+2. **End of Q2 (tomorrow)** — Portfolio rebalancing flows; lower conviction on new entries intraday
+3. **Fed hawkishness** — PCE showed inflation at 3-year high; September rate hike now in futures
+4. **Holiday week** — Lower volumes → wilder swings; July 4 early close Friday
+5. **Earnings today:** No major universe names reporting.
+
+### Sector Momentum (as of June 19 YTD)
+- Leading: Technology (+22.3%), Energy (+21.0%), Industrials (+17.7%), Materials (+13.6%)
+- Lagging: Financials (−1.0%), Health Care (−2.2%), Consumer Discretionary (−0.2%)
+
+---
+
+### Macro Filter Decision Tree (Required First)
+1. **SPY above SMA-50?** → **NO** (broke below June 26) → RESTRICTED MODE
+2. **QQQ above SMA-50?** → YES (3.2% above)
+3. **VIX > 25?** → NO (18.41) → No sizing cuts from VIX
+4. **VIX > 30?** → NO → No leveraged ETF prohibition from VIX (moot — already restricted)
+5. **VIX > 35?** → NO → Cash mode not triggered by VIX
+6. **Active setup types:** Type 1 (SMA 150/200 pullback) + Type 3 (SMA 20/50 pullback) ONLY
+
+---
+
+### Stock Research
+
+**GOOGL — Type 3 SMA Pullback Candidate**
+- Current price: ~$337–$342 (opened $342.55 today)
+- SMA 150/200: Well below current price (stock +116% YTD from ~$155 area) ✓
+- SMA 50: Estimated ~$310–$350 range; price pulled back from $393 May peak to $337 = −14% pullback
+- Pattern: Pulled back from $393 high → bouncing from support zone. Prior Type 3 entry was $360 (closed)
+- Catalyst: Google Cloud +63% YoY; $460B backlog; Berkshire anchored $80B equity raise; Q1 EPS beat
+- Risk: $80B equity raise = dilutive near-term. Below prior entry $360. Warsh hawkish speech risk.
+- Earnings: Late July 2026 ✓ (outside 5-day window)
+- Setup verdict: **POSSIBLE Type 3** — need to confirm SMA-50 level at open. If SMA-50 ~$340 and price bouncing → valid entry. If SMA-50 < $320, price hasn't reached it → wait.
+
+**NVDA — Unclear / Disqualified Today**
+- Current price: ~$192–$194 (premarket +1.23%, ~$194.90)
+- May close: ~$211; pulled back ~9% from May high. Prior holding entry was $208.757.
+- SMA status: Perplexity unclear on 150/200 SMA position. Key support $189.24, resistance $199.68.
+- Pattern: May be approaching SMA-50 area but below short-term support cluster
+- Verdict: **SKIP TODAY** — insufficient SMA confirmation. Re-evaluate after SPY reclaims SMA-50. NVDA not valid for Type 4 probe in restricted mode.
+
+**MU (Micron) — Type 3 Candidate (conditional)**
+- Current price: ~$1,132 (June 26 close); 52-week range $103–$1,255; +268% YTD
+- SMA-50: ~$1,117 (Investing.com) — price just above ✓
+- SMA-20: ~$989–$1,136 (conflicting sources) — price near/below on some measures
+- SMA 150/200: Well below current price (SMA-200 ~$961) ✓
+- Pattern: Pulled back from ATH $1,211 (June 22) to ~$1,132 = −6.6% pullback; bearish momentum signal flagged below $1,214
+- ⚠ EARNINGS RISK: MU likely reported Q3 FY2026 earnings ~June 24 (video evidence); confirm if within 5-trading-day window (June 24 → June 29 = 3 trading days) → **HALF SIZE ONLY if entering**
+- Verdict: **WATCH — conditional.** If MU earnings confirmed past, and SMA-50 ($1,117) holds as support → Type 3 at half size (1.5–2% risk). Bearish reversal signals below $1,214 argue for caution.
+
+---
+
+### Trade Ideas
+
+| # | Ticker | Type | Entry Gate | Size | Stop | Target |
+|---|--------|------|-----------|------|------|--------|
+| 1 | GOOGL | Type 3 (SMA 20/50 pullback) | Confirm SMA-50 ~$340; price bouncing at open | 3–4% risk (~$3,000–$4,000) | Daily close below SMA-50 | $390–$404 (+15%) |
+| 2 | MU | Type 3 (SMA 50 pullback) — conditional | Price holding above SMA-50 $1,117; confirm earnings past | Half size, 1.5–2% risk | Daily close below SMA-50 $1,117 | $1,214 ATH re-test (+7%) |
+
+### Risk Factors
+1. **SPY restricted mode** — Only Type 1/3 valid. No leveraged ETF. No momentum probes. Market breadth weak.
+2. **Fed Chair Warsh 1 PM** — Hawkish surprise could rip VIX above 25, triggering −25% sizing; above 30 = exit leveraged ETF (moot); monitor.
+3. **Q2 end tomorrow** — Rebalancing flows may push index lower today. Avoid entering at intraday highs.
+4. **Holiday-shortened week** — Lower volumes magnify moves. Keep size tight.
+5. **MU earnings risk** — If earnings within 5 trading days → half size mandatory. If post-earnings, confirm catalyst direction.
+6. **GOOGL dilution** — $80B equity raise weighs on multiple. SMA-50 holding is key; break below = exit.
+7. **Iran/macro tail** — Resolution progress priced in; any reversal on Iran talks = oil spike, VIX spike.
+
+### Decision: TRADE (conditional)
+- **GOOGL:** ENTER Type 3 IF price is bouncing from SMA-50 zone at market open. Confirm SMA-50 level first.
+- **MU:** WATCH — conditional entry at SMA-50 if earnings confirmed past. Half size.
+- **NVDA:** SKIP — macro restricted mode + unclear SMA position.
+- **All Type 4 / Type 5:** BLOCKED by SPY restricted mode.
+- **TQQQ/SOXL/SPXL:** BLOCKED — restricted mode.
+- **Default if GOOGL SMA not confirmed at open:** NO-TRADE-DAY (restricted mode = only Type 1/3; if no setups qualify → valid per strategy rule A).
+
