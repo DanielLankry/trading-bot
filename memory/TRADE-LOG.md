@@ -1833,3 +1833,14 @@ No positions yet. Bot launches tomorrow (2026-04-28).
 **Thesis breaks:** NONE (NVDA stop was per-rules exit, not a thesis break requiring early forced cut).
 
 **Open positions after scan:** 1/4 | 3 slots open | Cash ~$90,748 (90.9%)
+
+---
+
+### Jun 29 — EOD Snapshot (Post-Challenge Day 22, Week 11 Monday)
+**Portfolio:** $99,904.00 | **Cash:** $90,748.08 (90.8%) | **Day P&L:** +$48.66 (+0.05%) | **Phase P&L:** −$96.00 (−0.10%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| MU | 8 | $1,089.62 | $1,144.50 | +1.08% | +$439.04 (+5.04%) | 10% trail GTC `6b7d1bf3`, stop $1,033.81, HWM $1,148.68 — **TIME STOP JULY 7** |
+
+**Notes:** Week 11 Day 1 (Monday). NVDA 102sh entered at open ($194.27, Type 1 SMA 150 pullback) and stopped out 34 min later at $190.44 as price breached SMA 150 (~$191.24), realizing −$390.30 (−1.97%). MU 8sh carried into close at $1,144.50 (+5.04% from $1,089.62 entry; +1.08% on the day), recovering portfolio from −$264.72 midday trough (−0.26%) to −$96.00 (−0.10%) at close. Day P&L positive (+$48.66) despite NVDA loss — MU unrealized gain offset. ⚠ Phase P&L remains negative (−$96, −0.10% vs $100K start). ⚠ Mode flag: MU entered as Type 4 probe with SPY potentially in restricted mode (below SMA 50 at Jun 26 close); SPY recovered ~+1.12% intraday today — confirm SMA 50 reclaim in tomorrow's pre-market before enabling Type 2/4/5 entries. MU time stop Day 1/5: mandatory MOC exit July 7. Trades today: 2 new entries (NVDA + MU), NVDA same-day stop-out. Trades this week: 2/7 floor — 5 more needed by Friday Jul 3.
