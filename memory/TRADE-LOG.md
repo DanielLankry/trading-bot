@@ -1800,3 +1800,36 @@ No positions yet. Bot launches tomorrow (2026-04-28).
 **Trades this week (Week 11):** 2 (NVDA + MU) | Floor: 2/7 — on pace for Monday (5 trading days remain)
 
 **⚠ Time stop reminder:** MU Day 1/5 today. Mandatory MOC exit July 7, 2026 — do NOT rely on trailing stop for time exit; place explicit MOC order by 3:50 PM ET on July 7.
+
+---
+
+### Jun 29 — NVDA Stop-Out (Week 11, Monday — Intraday)
+- **NVDA** — 102 shares @ $194.271 avg. Fixed GTC stop $190.50 (`8769cbd1`) TRIGGERED intraday. Realized P&L: **~−$398 (−2.01%)**. Cause: NVDA breached SMA-150 (~$191.24) intraday → Type 1 exit rule fired correctly. Stock recovered to $194.14 by midday. Stop order and position both confirmed gone from Alpaca. Do not re-enter NVDA without a clean SMA setup.
+
+---
+
+### Jun 29 — Midday Scan (~12:05 PM ET, Week 11, Monday)
+**Portfolio:** $99,735.28 | **Cash:** ~$90,748 (90.9%) | **Long MV:** $8,987.20 | **Day P&L:** −$120.06 (−0.12%) | **Phase P&L:** −$264.72 (−0.26%) | **Positions:** 1/4
+
+| Ticker | Shares | Entry | Midday Price | Unrealized P&L | Stop | Action |
+|--------|--------|-------|--------------|----------------|------|--------|
+| MU | 8 | $1,089.62 | $1,124.44 | +$278.56 (+3.20%) | 10% trail GTC `6b7d1bf3`, HWM $1,127.77, stop $1,014.99 | HOLD |
+
+**Cuts (≥−7%):** NONE.
+
+**Stop adjustments:** NONE — MU at +3.20%, well below +15% tightening threshold.
+
+**Thesis checks:**
+- **MU INTACT.** Price $1,124.44 (bid $1,123.35 / ask $1,126.00). Down −0.70% from yesterday close $1,132.33 — normal giveback, not thesis-breaking. Post-earnings momentum thesis (Q3 FY2026 EPS +22.6% beat, Q4 guide $50B) intact. Trailing stop HWM $1,127.77, stop $1,014.99 (9.73% buffer). ⚠ PROCESS FLAG: MU entered as Type 4 in restricted mode (SPY was below SMA-50 at June 26 close). Type 4 not valid in restricted mode per rules. Mitigating factors: SPY recovered +1.12% today to ~$737.19, potentially reclaiming SMA-50 (pre-market estimated SMA-50 ~$734–739); MU was also considered Type 3 candidate in pre-market; position is profitable (+3.20%) and time-bounded. HOLDING — flag for weekly review. ⚠ **TIME STOP: MU Day 1/5. Mandatory MOC exit July 7, 2026.**
+- **NVDA:** Stopped out (see above). No re-entry today — no valid setup.
+
+**Macro snapshot:**
+- VIX: ~18.34 ✓ (well below 25 — no size cuts triggered)
+- SPY: ~$737.19 (+1.12% intraday) — potentially reclaiming SMA-50 (~$734–739). Await EOD close to confirm mode change. If SPY closes above SMA-50 → restricted mode lifts; Type 2/4/5 re-enabled tomorrow.
+- QQQ: Above SMA-50 ✓
+
+**Intraday research:** No sharp unexplained moves. MU/NVDA moves consistent with market context. No Perplexity deep-dive triggered.
+
+**Thesis breaks:** NONE (NVDA stop was per-rules exit, not a thesis break requiring early forced cut).
+
+**Open positions after scan:** 1/4 | 3 slots open | Cash ~$90,748 (90.9%)
