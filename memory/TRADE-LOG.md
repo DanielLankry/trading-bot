@@ -1769,3 +1769,34 @@ No positions yet. Bot launches tomorrow (2026-04-28).
 **Intraday research (CRWD):** Trading ~$690–$700 (gapped ~5% above pre-market estimate). No material news today. AI cybersecurity thesis intact. Spread was 6.1% at open → correctly skipped. No valid intraday entry — re-evaluate Monday.
 
 **Pending EOD action:** Close NVDA (50sh) at or near market close 4:00 PM ET. Trailing stop provides floor at $189.864; do not cancel stop before EOD market sell.
+
+---
+
+### Jun 29 — Market-Open Trades (Week 11, Monday — Return from 12-Day Gap)
+**Portfolio:** $100,064.86 | **Cash:** $71,322.70 | **Long MV:** $28,742.16 | **Phase P&L:** +$64.86 (+0.06%) | **Daytrade count:** 0
+
+*Note: 12-day log gap (June 12–29). GOOGL and NVDA (prev positions) closed during gap via GTC stops. Account recovered from ~$99,855.34 trough. No positions at open today.*
+
+| Ticker | Shares | Entry | Stop | Thesis | Target | R:R |
+|--------|--------|-------|------|--------|--------|-----|
+| NVDA | 102 | $194.271 | Fixed GTC $190.50 (`8769cbd1`) — below SMA 150 ~$191.24 | Type 1 SMA 150/200 pullback: above SMA 150 ($191.24) + SMA 200 ($171) ✓, both sloping up; day low touched SMA 150 at $191.22, bouncing; prior close $192.53 ✓; AI/Blackwell thesis intact; no earnings until ~August 2026 ✓ | $208–225 (+7–16%) | ~3.6:1 |
+| MU | 8 | $1,089.62 | 10% trailing GTC (`6b7d1bf3`), init stop $985.31; time stop **July 7** (Day 5/5 — mandatory MOC) | Type 4 Momentum Probe: Q3 FY2026 EPS $25.11 (+22.6% beat), Revenue $41.46B (+16.2% beat, +346% YoY); Q4 guide $50B; HBM/AI memory demand structural; gap from $969→$1,181 on June 24 earnings; next earnings ~Sept 2026 ✓ | $1,200+ (+10%) | ~2.0:1 |
+
+**Trades fired:** NVDA — 102 shares @ $194.271 avg (order `f768d4ea`) | MU — 8 shares @ $1,089.62 avg (order `b753a4d0`)
+
+**Skipped:**
+- **GOOGL** — below SMA 50 (broken structure) → skip
+- **AMD** — above SMA 20, not pulling back to SMA entry zone → skip
+- **TQQQ** — QQQ 1.83% above SMA 50, not at pullback zone for Type 5 → skip
+- **CRWD** — spread 11.35% → skip (illiquid at open)
+- **MRVL** — spread 3.38% → skip
+- **NET** — spread 11.45% → skip
+- **META/TSLA/PLTR** — spread gates fail → skip
+- **MSFT** — below SMA 200 → skip
+- **AVGO** — below SMA 50/150 → skip
+- **AMZN** — below SMA 20/50 → skip
+
+**Positions after open:** NVDA (102sh, Type 1) + MU (8sh, Type 4) = 2/4 | Leveraged ETF: 0/1 | Type 4 probes: 1/2
+**Trades this week (Week 11):** 2 (NVDA + MU) | Floor: 2/7 — on pace for Monday (5 trading days remain)
+
+**⚠ Time stop reminder:** MU Day 1/5 today. Mandatory MOC exit July 7, 2026 — do NOT rely on trailing stop for time exit; place explicit MOC order by 3:50 PM ET on July 7.

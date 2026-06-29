@@ -3102,3 +3102,66 @@ None.
 - **TQQQ/SOXL/SPXL:** BLOCKED — restricted mode.
 - **Default if GOOGL SMA not confirmed at open:** NO-TRADE-DAY (restricted mode = only Type 1/3; if no setups qualify → valid per strategy rule A).
 
+---
+
+## 2026-06-29 — Pre-Market Research (Week 11, Monday — Inline)
+
+*Note: No formal pre-market routine ran. Inline research executed at market-open as per workflow rule (missing today's entry → run STEPS 1–3 inline).*
+
+### Account Snapshot
+- **Equity:** $99,855.34 | **Cash:** ~$99,855 | **Phase P&L:** −$144.66 (−0.14%) | **Daytrade count:** 0
+- **Positions:** 0/4 | **Log gap:** June 12–29 (12 trading days). GOOGL and NVDA both closed during gap via GTC stops / time-stop trigger.
+
+### Market Context
+- **SPY:** ~$737.34 | SMA 50: ~$734.35 → SPY above SMA 50 ✓
+- **QQQ:** ~$715.64 | SMA 50: ~$702.79 → QQQ above SMA 50 ✓
+- **Macro mode:** ALL 5 SETUP TYPES ACTIVE
+- **VIX:** ~16 (green — no size reduction)
+- **Sources:** Barchart SMA data (June 26–27); Alpaca live quote for SPY/QQQ
+
+### Universe Scan Results
+
+| Ticker | Price | SMA Status | Spread | Verdict |
+|--------|-------|-----------|--------|---------|
+| NVDA | ~$193–195 | Above SMA 150 ($191.24) + SMA 200 ($171) ✓; day low touched SMA 150 at $191.22 — bounce ✓ | ~0.05% | **TYPE 1 — ENTER** |
+| MU | ~$1,119–1,130 | Above SMA 150/200 ✓; post-Q3 FY2026 earnings gap (reported June 24); 52W highs | ~1.97% | **TYPE 4 PROBE — ENTER** |
+| GOOGL | ~$181 | Below SMA 50 — broken structure | tight | **SKIP** |
+| AMD | ~$155 | Above SMA 20, not pulling back to SMA | tight | **SKIP** |
+| TQQQ | — | QQQ 1.83% above SMA 50 — not at pullback zone for Type 5 | — | **SKIP** |
+| CRWD | — | Spread 11.35% | — | **SKIP (spread)** |
+| MRVL | — | Spread 3.38% | — | **SKIP (spread)** |
+| NET | — | Spread 11.45% | — | **SKIP (spread)** |
+| META | — | Spread fails | — | **SKIP (spread)** |
+| TSLA | — | Spread fails | — | **SKIP (spread)** |
+| PLTR | — | Spread fails | — | **SKIP (spread)** |
+| MSFT | — | Below SMA 200 | — | **SKIP (SMA)** |
+| AVGO | — | Below SMA 50/150 | — | **SKIP (SMA)** |
+| AMZN | — | Below SMA 20/50 | — | **SKIP (SMA)** |
+
+### NVDA Research (Perplexity)
+- **Setup type:** Type 1 — SMA 150/200 Pullback
+- **SMA structure:** Above SMA 150 ($191.24) + SMA 200 ($171), both sloping up ✓. Pulled back from ~$210 high to SMA 150 (day low $191.22), bouncing ✓
+- **Catalyst:** AI supercycle intact; Blackwell ramp ongoing. June 26 close $192.53 = close above SMA 150 confirming bounce.
+- **Earnings:** Q2 FY2027 est. ~August 2026 (no earnings within 5 trading days) ✓
+- **Analyst targets:** $298.93 consensus; CJ Muse $350, HSBC $325
+- **Risk factors:** Export controls, macro trade tensions
+
+### MU Research (Perplexity)
+- **Setup type:** Type 4 — Momentum Probe (post-earnings gap-and-run)
+- **Catalyst:** Q3 FY2026 reported June 24. EPS $25.11 (beat +22.6%). Revenue $41.46B (beat +16.2%, +346% YoY). Q4 guide $50B. HBM/AI memory demand exceeds supply structurally.
+- **Price action:** Gapped from ~$969 pre-earnings to $1,181, now at $1,119 (healthy consolidation after gap).
+- **Earnings:** Next earnings ~September 2026 — no risk within 5 trading days ✓
+- **Time stop:** July 7, 2026 (5 trading days: June 30, July 1, 2, 3, 7). Mandatory MOC order Day 5.
+
+### Trade Ideas
+
+| # | Ticker | Type | Entry Gate | Size | Stop | Target |
+|---|--------|------|-----------|------|------|--------|
+| 1 | NVDA | Type 1 (SMA 150/200 pullback) | Price bouncing from SMA 150 at open; confirm above SMA 150 | 3–4% risk, ~$19,800 | Fixed GTC $190.50 (below SMA 150 $191.24) | $208–225 |
+| 2 | MU | Type 4 (Momentum probe) | Post-earnings at open; price above SMA 50 | HALF size, ~$8,700 | 10% trailing GTC; time stop July 7 | $1,200+ |
+
+### Decision: TRADE
+- **NVDA:** ENTER Type 1 — SMA 150/200 pullback confirmed, thesis intact, no earnings risk.
+- **MU:** ENTER Type 4 — Post-earnings catalyst valid, half size, time stop July 7.
+- **All others:** Skip per above table.
+
