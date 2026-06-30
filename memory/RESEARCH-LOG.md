@@ -3165,3 +3165,79 @@ None.
 - **MU:** ENTER Type 4 — Post-earnings catalyst valid, half size, time stop July 7.
 - **All others:** Skip per above table.
 
+
+---
+
+## 2026-06-30 — Pre-Market Research (Week 11, Tuesday — Q2 Quarter-End)
+
+### Account Snapshot
+- **Equity:** $99,898.77 | **Cash:** $90,748.05 (90.8%) | **Long MV:** $9,156 (MU 8sh) | **Daytrade count:** 0
+- **Phase P&L:** −$101.23 (−0.10% vs $100K start)
+- **Positions:** 1/4 | **Slots open:** 3
+
+### Market Context
+| Indicator | Value | Signal |
+|-----------|-------|--------|
+| S&P 500 futures | 7,497.50 (−0.04%) | Flat/slightly negative |
+| Nasdaq futures | 30,048.25 (−0.01%) | Flat |
+| SPY quote (prev close) | $740.60 bid / $740.99 ask | Above SMA 50 (~$735–739) ✓ |
+| QQQ quote (prev close) | $721.70 bid | Above SMA 50 (~$702–715) ✓ |
+| VIX | 17.60 (−0.28%) — range 17.47–17.75 | ✅ Green — no size reduction |
+| WTI oil | ~$70.71/bbl (Jun 30 range $69.77–$70.86) | Neutral |
+| Brent oil | ~$74.02/bbl (Jun 25 data) | Neutral |
+
+**Macro mode: ALL 5 SETUP TYPES ACTIVE** (SPY + QQQ above SMA 50; VIX 17.60 < 25)
+
+### Key Catalysts Today
+1. **Q2 quarter-end** — Window dressing likely supports tech/semis into close; rebalancing flows may create intraday volatility. Morning = buyers; afternoon = uncertain.
+2. **Holiday-shortened week** — July 4 (Friday) = market closed; Thursday July 3 = early close (1 PM ET). Lower volumes → wilder intraday swings. Keep size disciplined.
+3. **Economic calendar (minor):** S&P Case-Shiller Home Price Index 9:00 AM; Chicago PMI 9:45 AM; Consumer Confidence 10:00 AM. No Fed speakers scheduled. No PCE (released Jun 25; next July 30).
+4. **Earnings BMO today:** DRI (in-line), SNX (massive beat: $19.6B vs $17B rev, $4.85 vs $4.18 EPS). Neither in our universe. NKE reports AMC — not our universe.
+5. **Macro risk:** Core PCE 3.4% YoY / Overall PCE 4.1% (May) → Fed hawkish; rate hike "on the table" per FOMC under Chair Warsh. Rate cut language removed. AI supercycle remains the dominant bull driver — S&P 500 +11% YTD, Nasdaq +16%, semis +74% vs S&P +41% over 2 years.
+6. **Geopolitical:** U.S.-Iran ceasefire progress → oil collapsed May. WTI now ~$71. If talks resume, oil stays low = bullish for tech. Reversal risk = oil spike + VIX spike.
+
+### MU Position Thesis Check (Day 2/5)
+- **MU:** 8sh @ $1,089.62 avg | June 29 close $1,144.50 (+5.04%) | Extended-hours $1,141.03 (−0.37%) | Trailing stop HWM $1,148.68 → stop $1,033.81 (10% trail)
+- **News:** Record Q3 FY2026 (EPS $25.11 beat +22.6%; Rev $41.46B beat +16.2%; Q4 guide $50B); Anthropic strategic partnership (Jun 22); NY fab expansion (50K jobs); 1α DRAM U.S. manufacturing started.
+- **Risk:** Samsung/SK Hynix capacity expansion (longer-term); class-action price-gouging lawsuit; potential chip tariffs (Trump); "run up too far, too fast" sentiment per CNBC. AI trade getting crowded.
+- **Next earnings:** September 30, 2026 ✓ (no earnings risk within 5 trading days)
+- **Analyst:** 94% Buy (52 ratings); $1,255 52-week high; $1,029.65 yr-start.
+- **⚠ TIME STOP: Day 2/5. Mandatory MOC exit July 7, 2026. Do NOT rely on trailing stop.**
+- **Decision: HOLD** — thesis intact; slight pre-market giveback normal after +17% post-earnings gap.
+
+### Universe Scan
+
+| Ticker | SMA Structure | Spread | Setup | Verdict |
+|--------|--------------|--------|-------|---------|
+| NVDA | Above SMA 150 (~$191-193) + SMA 200 (~$171); Jun 29 close $194.97 (recovered from stop at $190.50) | tight | Type 1 – conditional re-entry | **CONDITIONAL — verify SMA 150 at open** |
+| AMD | Above SMA 200 ($498) + SMA 150 (est $505–510); ~$535–540; SMA 50 ~$526 — AMD above SMA 50 | tight | Type 3 – need pullback to SMA 50 OR Type 4 probe | **CONDITIONAL — enter if pulls back to $526-530 zone; OR Type 4 at current level if RS strong** |
+| MU | Already held — skip | — | — | HOLD |
+| TQQQ | QQQ $721 vs SMA 50 ~$702–715 — too far above; no pullback zone | — | Type 5 — not valid today | SKIP |
+| GOOGL | Below SMA 50 per Jun 29 data | — | — | SKIP |
+| MSFT | Below SMA 200 | — | — | SKIP |
+| AVGO | Below SMA 50/150 | — | — | SKIP |
+| AMZN | Below SMA 20/50 | — | — | SKIP |
+| META/TSLA/PLTR/CRWD/NET | Spread issues / SMA not confirmed; need open verification | — | — | WATCH at open |
+
+### Trade Ideas
+
+| # | Ticker | Type | Entry Gate | Size | Stop | Target | Catalyst |
+|---|--------|------|-----------|------|------|--------|---------|
+| 1 | **NVDA** | Type 1 (SMA 150/200 pullback, re-entry) | Confirm above SMA 150 at open (check Perplexity for exact level); stable price $193–197 | 3–4% risk, ~$3,000–4,000 | Fixed GTC $0.50 below SMA 150 (~$190.50–191) | $208–225 (+7–16%) | AI/Blackwell intact; Jun 29 close $194.97 reclaimed SMA 150; Q2 window dressing bullish for mega-cap tech |
+| 2 | **AMD** | Type 3 (SMA 50 pullback) | AMD pulls back to SMA 50 zone ~$526–530 at open; confirm bounce above SMA 50 | 3–4% risk | Fixed GTC below SMA 50 (~$521) | $545–560 (prior high + extension) | AI data center GPU demand; above all SMAs; recovering from $509 trough (Jun 23); RS strong |
+| 3 | **AMD** | Type 4 (Momentum probe, if no pullback) | AMD opens strong above SMA 50; above $540 with RS vs SPY | HALF size, 1.5–2% risk | 5% below entry OR 1×ATR, whichever tighter; time stop July 7 | $560–580 | Gap-up continuation from earnings cycle; strong sector momentum; if no clean pullback available |
+
+### Risk Factors
+1. **Quarter-end volatility** — Rebalancing flows can reverse direction sharply in the last 30 min. Avoid entering at intraday highs; prefer first 30 min or wait for confirmation.
+2. **Holiday week liquidity** — Spreads may widen mid-session; market closes early July 3 (1 PM ET). Size normally despite lighter volume.
+3. **Hawkish Fed** — PCE at 4.1% puts rate hike back on table. Any hawkish Fed comments could spike VIX → trigger size reduction rule (VIX > 25 = −25% size).
+4. **NVDA re-entry risk** — Stopped out yesterday; SMA 150 zone is narrow support. Second stop in 2 days would be −4% drawdown on $20K+. Need clean confirmation before entering.
+5. **Semis "run up too far"** — CNBC noted investors waiting for better entries; potential rotation out of semis into underperformers at quarter-end.
+6. **MU earnings-adjacent tariff risk** — Trump chip tariffs by month-end could hit MU. Monitor news at open.
+
+### Decision: TRADE (conditional)
+- **NVDA:** ENTER Type 1 at open IF confirmed above SMA 150 AND price stable $193–197. Query Perplexity for SMA 150 exact level at open.
+- **AMD:** ENTER Type 3 IF pulls back to $526–530 zone AND bounces. ENTER Type 4 (half size) if no pullback and AMD showing RS above $535.
+- **Target today: 2 new entries** (need 5 more by Jul 3 for floor pace; current 2/7 for Week 11).
+- **NO-TRADE-DAY NOT valid today** — Macro filter is green, multiple qualified setups exist.
+- **MU:** HOLD — time stop July 7 reminder.
