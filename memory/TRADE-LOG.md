@@ -2,6 +2,18 @@
 
 ---
 
+### Jun 30 — EOD Snapshot (Post-Challenge Day 23, Week 11 Tuesday)
+**Portfolio:** $100,653.80 | **Cash:** $71,137.20 (70.7%) | **Day P&L:** +$749.80 (+0.75%) | **Phase P&L:** +$653.80 (+0.65%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| AMD | 35 | $560.31 | $580.60 | +7.62% | +$710.15 (+3.62%) | 10% trail GTC `9c61c53b`, stop $526.26, HWM $584.73 — **TIME STOP JULY 6** |
+| MU | 8 | $1,089.62 | $1,149.45 | +0.36% | +$478.64 (+5.49%) | 10% trail GTC `6b7d1bf3`, stop $1,051.81, HWM $1,168.68 — **TIME STOP JULY 7** |
+
+**Notes:** Week 11 Day 2 (Tuesday). AMD (Type 4 momentum probe, entered this morning at $560.31) ripped +7.62% on the day to $580.60 after Wells Fargo's PT raise ($505→$615) and broad semiconductor sector rotation — unrealized +3.62% on the position. MU held steady, +0.36% on the day and +5.49% unrealized, both trailing stops auto-ratcheting higher (AMD HWM $584.73, MU HWM $1,168.68). Portfolio closed at a new equity high of $100,653.80, flipping Phase P&L positive (+$653.80, +0.65%) for the first time since the Jun 13–29 log gap, up from −$96.00 (−0.10%) Monday. Trades today: 1 new entry (AMD). Trades this week (Week 11): 3 (NVDA Mon — stopped out same day, MU Mon, AMD Tue) — floor pace 3/7, 4 more needed by Friday Jul 3.
+
+---
+
 ### Jun 30 — Midday Scan (Week 11, Tuesday)
 **Portfolio:** $100,716.42 est | **Cash:** $71,137.20 | **Long MV:** $29,579.22 | **Phase P&L:** +$716.42 (+0.72%)
 
