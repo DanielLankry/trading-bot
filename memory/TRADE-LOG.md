@@ -2,6 +2,31 @@
 
 ---
 
+### Jun 30 — Midday Scan (Week 11, Tuesday)
+**Portfolio:** $100,716.42 est | **Cash:** $71,137.20 | **Long MV:** $29,579.22 | **Phase P&L:** +$716.42 (+0.72%)
+
+| Ticker | Shares | Entry | Current | Unrealized P&L | Stop | Order ID |
+|--------|--------|-------|---------|----------------|------|----------|
+| AMD | 35 | $560.31 | $581.10 | +$727.65 (+3.71%) | 10% trail GTC, HWM $581.50, stop $523.35 | `9c61c53b` |
+| MU | 8 | $1,089.62 | $1,155.09 | +$523.76 (+6.01%) | 10% trail GTC, HWM $1,166.04, stop $1,049.44 | `6b7d1bf3` |
+
+**Cuts:** NONE — AMD +3.71%, MU +6.01%; neither at −7% threshold.
+
+**Stop adjustments:** NONE.
+- AMD: +3.71% — +15% trigger $644.36, +20% trigger $672.37; not met
+- MU: +6.01% — +15% trigger $1,253.06, +20% trigger $1,307.54; not met
+- Both trailing stops (10% GTC) auto-ratcheting; no manual upgrade warranted
+
+**Thesis check:**
+- **AMD — INTACT, STRENGTHENED.** $581.10 (+3.71%), new ATH territory. Wells Fargo today raised PT $505→$615 (Outperform). AI/data center demand accelerating — CEO Lisa Su flagged data center as "primary revenue/earnings driver"; Meta 6GW Instinct GPU deal anchor; server-CPU market $170B+ by 2030. Sector rotation tailwind (NVDA +4%, Intel +3%). Earnings Aug 4 ✓. Time stop July 6 (Day 1/5). **HOLD.**
+- **MU — INTACT.** $1,155.09 (+6.01%). HBM/AI-memory demand intact. 10% trail stop at $1,049.44 (HWM $1,166.04) manages risk. No adverse catalyst. **HOLD.**
+
+**Thesis breaks:** NONE.
+
+**Research:** AMD surge queried via Perplexity — Wells Fargo upgrade ($505→$615) is today's catalyst; no company-specific negative news on either position.
+
+---
+
 ### Jun 30 — Market-Open (Week 11, Tuesday)
 **Portfolio:** $99,668.19 | **Cash:** $71,137.20 (71.4%) | **Long MV:** $28,530.99 | **Phase P&L:** −$331.81 (−0.33%)
 

@@ -5,6 +5,20 @@ Format each entry:
 
 ---
 
+## 2026-06-30 — Midday Addendum
+
+**AMD surge catalyst (Perplexity — midday scan):**
+- AMD +7.7% intraday (yesterday close $539.49 → current $581.10); new ATH territory
+- **Catalyst:** Wells Fargo upgrade today — Outperform, PT raised $505→$615 on AI-infrastructure demand
+- CEO Lisa Su: data center is "primary driver of revenue and earnings"; inferencing + agentic AI driving accelerator/CPU demand
+- Meta 6GW Instinct GPU deal provides visible anchor; server-CPU market $170B+ by 2030 (Citi, BofA prior upgrades)
+- Sector rotation: NVDA +4%, Intel +3% sympathy; chip stocks at 19.7% of S&P 500
+- **Thesis: INTACT and strengthened.** AMD above own ATH $562.99 (Jun 22). Time stop July 6 (Day 1/5). No earnings until Aug 4 ✓
+
+**MU — no new research needed:** +0.86% intraday, steady drift. No sharp moves, no catalyst to investigate.
+
+---
+
 ## 2026-06-30 — Market-Open Inline Research (Week 11, Tuesday)
 
 ### Account Snapshot (live at open)
