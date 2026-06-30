@@ -5,6 +5,49 @@ Format each entry:
 
 ---
 
+## 2026-06-30 — Market-Open Inline Research (Week 11, Tuesday)
+
+### Account Snapshot (live at open)
+- Equity: $99,875.62 | Cash: $71,137.20 (71.2%) | Long MV: $28,738.42
+- Open: MU 8sh @ $1,089.62 (stop GTC `6b7d1bf3` $1,033.812) — entered during log gap, no thesis on record
+- NVDA and GOOGL from Jun 12 confirmed closed
+
+### Macro Filter
+- SPY $741.88 vs SMA 50 $735.14 → ABOVE ✓
+- QQQ confirmed above SMA 50 (Perplexity) ✓
+- VIX 16.24 → GREEN, below 25 ✓
+- **Status: All 5 setup types active. Full position sizing.**
+
+### Universe Scan Results
+| Ticker | SMA Status | Spread | Verdict |
+|--------|------------|--------|---------|
+| AMD | Above all SMAs (20d $513, 50d $444, 200d $272); ATH $562.99 Jun 22; gap-up today $541→$560+ | ~0.25% ✓ | ✓ ENTER — Type 4 Momentum Probe |
+| NVDA | Below SMA 20 and SMA 50 | — | SKIP — no setup |
+| GOOGL | Below SMA 50 | — | SKIP — no setup |
+| MRVL | Above SMAs but wide spread | 4.04% ✗ | SKIP — spread gate |
+| CRWD | — | 11.67% ✗ | SKIP — spread gate |
+| META | — | 7.41% ✗ | SKIP — spread gate |
+| AMZN | Below SMA 50 | — | SKIP — no setup |
+| AVGO | Below SMA 50 | — | SKIP — no setup |
+| MSFT | Below SMA 200 | — | SKIP — disqualified |
+| PLTR | Below SMA 200 | — | SKIP — disqualified |
+| TQQQ | QQQ ~15% above SMA 50 | — | SKIP — Type 5 not at pullback |
+| MU | HOLD — no new entry needed | — | HOLD existing |
+
+### AMD Research Brief (Perplexity)
+- **News:** AI/data center demand strong; MI300X GPU ramp ongoing; TSMC relationship intact; stock hit ATH $562.99 on Jun 22 after sustained rally from $441 lows
+- **Earnings:** Aug 4 ✓ (>5 trading days away — full-size eligible, though Type 4 = half-size regardless)
+- **Sector:** Semiconductor sector strong; AMD outperforming vs SOX index; AI infrastructure spending up
+- **Risks:** NVDA competition; US export restrictions on China AI chips; broader tech multiple compression
+- **SMA structure:** 20d $513.10 → 50d $444.16 → 200d $272.32; current ~$560 well above all → ABOVE ✓
+
+### Setup Decision
+- **AMD — Type 4 Momentum Probe (half-size):** Gap-up continuation day; breaking toward ATH; above all SMAs; strong sector context; earnings 35+ days away
+- **Entry:** Market order, 35 shares; risk capped at 1.97% of equity (≤2% Type 4 limit ✓)
+- **Stop:** 10% trailing GTC; TIME STOP July 6 (Day 5/5) — requires explicit MOC order by 3:50 PM ET
+
+---
+
 ## 2026-06-11 — Pre-Market Research (Week 8, Thursday — PPI Day)
 
 ### Account Snapshot

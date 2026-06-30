@@ -2,6 +2,41 @@
 
 ---
 
+### Jun 30 — Market-Open (Week 11, Tuesday)
+**Portfolio:** $99,668.19 | **Cash:** $71,137.20 (71.4%) | **Long MV:** $28,530.99 | **Phase P&L:** −$331.81 (−0.33%)
+
+**⚠ LOG GAP NOTE (Jun 13–Jun 29):** No routine entries for 2.5 weeks. Live account confirmed: NVDA and GOOGL from Jun 12 are closed (not in account). MU 8sh @ $1,089.62 appeared during gap with stop GTC `6b7d1bf3` $1,033.812 — no thesis on record. Proceeding from live Alpaca data as ground truth.
+
+| Ticker | Shares | Entry | Stop | Thesis | Target | R:R |
+|--------|--------|-------|------|--------|--------|-----|
+| AMD | 35 | $560.31 | 10% trail GTC $502.96 (`9c61c53b`) HWM $558.85 | Type 4 Momentum Probe — gap-up continuation from $541→$560+ at open; AMD ATH $562.99 (Jun 22); above all SMAs (20d $513, 50d $444, 200d $272); AI/data center + MI300X ramp; earnings Aug 4 ✓ | $600–620 (+7–10%) | ~1:1 (momentum probe — time-bounded) |
+
+**Trades fired:**
+- **AMD BUY** — 35sh @ $560.31 avg fill (order `9a8e5910`). Market order submitted at open ($556.04 bid/$557.43 ask); filled $560.31 (slippage ~0.5%). Position cost $19,610.85 (19.7% equity ✓). Risk: 35 × $56.03 = $1,961.09 (1.97% capital ✓ — Type 4 half-size 1.5–2%). 10% trailing stop GTC placed immediately (order `9c61c53b`). ⚠ **TIME STOP: July 6 (Day 5/5) — place MOC before 3:50 PM ET. Do NOT rely on trailing stop for time exit.**
+
+**Candidates skipped:**
+| Ticker | Reason |
+|--------|--------|
+| MRVL | Spread 4.04% (bid $94.40 / ask $98.22) → fails ≤2% gate |
+| CRWD | Spread 11.67% → fails gate |
+| META | Spread 7.41% → fails gate |
+| GOOGL | Below SMA 50 → no valid setup |
+| NVDA | Below SMA 20 and SMA 50 → no valid setup |
+| AMZN | Below SMA 50 → no valid setup |
+| AVGO | Below SMA 50 → no valid setup |
+| MSFT | Below SMA 200 → disqualified |
+| PLTR | Below SMA 200 → disqualified |
+| TQQQ | QQQ ~15% above SMA 50 → Type 5 not at pullback zone |
+
+**Open positions (2/4 max):**
+| Ticker | Shares | Entry | Current | Unrealized P&L | Stop | Notes |
+|--------|--------|-------|---------|----------------|------|-------|
+| AMD | 35 | $560.31 | $554.09 | −$217.70 (−1.11%) | 10% trail GTC `9c61c53b` stop $502.96 HWM $558.85 | Type 4 — ⚠ TIME STOP JULY 6 — place MOC before 3:50 PM ET |
+| MU | 8 | $1,089.62 | $1,145.18 | +$444.48 (+5.10%) | Fixed GTC `6b7d1bf3` $1,033.812 | Entered during log gap — no thesis on record; stop holds |
+
+**Macro:** VIX 16.24 ✓ GREEN | SPY $741.88 above SMA 50 $735.14 ✓ | QQQ above SMA 50 ✓ | All 5 setup types active | AMD gap-up on strong sector rotation
+**Trades this week (Week 11):** 1 (AMD Jun 30) — floor pace 1/7, need 6 more by Jul 3 (Jul 4 holiday) / Jul 6
+
 ### Jun 12 — EOD Snapshot (Post-Challenge Day 12, Week 8 Friday)
 **Portfolio:** $101,094.80 | **Cash:** $71,042.05 (70.3%) | **Day P&L:** −$35.12 (−0.03%) | **Phase P&L:** +$1,094.80 (+1.09%)**
 
