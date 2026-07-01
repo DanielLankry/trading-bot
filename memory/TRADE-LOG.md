@@ -2,6 +2,36 @@
 
 ---
 
+### Jul 1 — Market-Open (Week 11, Wednesday)
+**Portfolio:** $99,175.17 | **Cash:** $67,644.25 (68.2%) | **Long MV:** $31,530.92 | **Phase P&L:** −$824.83 (−0.82%) | **Daytrade count:** 0
+
+| Ticker | Shares | Entry | Stop | Thesis | Target | R:R |
+|--------|--------|-------|------|--------|--------|-----|
+| NVDA | 18 | $194.052 | Fixed GTC $191.50 (`62d09a4e`) — below SMA 150 | Type 1 SMA 150/200 pullback — NVDA pulled back from $200.09 close to SMA 150 zone (~$192–193); above SMA 150/200 both sloping up; AI/Blackwell thesis intact; market +1.08% Nasdaq, chipmakers rallying; VIX 17.11 ✓; no earnings within 5 days (Q2 ~Aug 2026) ✓ | $208–220 (+7–13%) | ~5.5:1 |
+
+**Trades fired:**
+- **NVDA BUY** — 18sh @ $194.052 avg (market order `579ea4c4`, ~9:39 AM ET). Fill confirmed. Fixed stop GTC placed at $191.50 (order `62d09a4e`). Position cost $3,492.94 (3.5% equity ✓). Risk at stop: 18 × $2.55 = $45.94. Type 1 no time stop.
+
+**Candidates skipped:**
+| Ticker | Reason |
+|--------|--------|
+| CRWD | Spread 6.6% (bid $761 / ask $814.80) → fails <1.5% gate |
+| TQQQ | QQQ extended above SMA 50 → Type 5 not at pullback zone |
+
+**Open positions (3/4 max):**
+| Ticker | Shares | Entry | Current | Unrealized P&L | Stop | Notes |
+|--------|--------|-------|---------|----------------|------|-------|
+| AMD | 35 | $560.31 | ~$553.33 | −$244.24 (−1.25%) | 10% trail GTC `9c61c53b` stop $526.26 HWM $584.73 | Type 4 — ⚠ TIME STOP JULY 7 |
+| MU | 8 | $1,089.62 | ~$1,067.87 | −$174.00 (−2.00%) | 10% trail GTC `6b7d1bf3` stop $1,051.81 HWM $1,168.68 | Type 4 — ⚠ TIME STOP JULY 3 — MOC by 12:50 PM ET |
+| NVDA | 18 | $194.052 | ~$194.39 | +$5.99 (+0.17%) | Fixed GTC `62d09a4e` stop $191.50 | Type 1 SMA 150/200 pullback |
+
+**Macro:** VIX 17.11 ✓ GREEN | SPY/QQQ above SMA 50 ✓ | Nasdaq +1.08%, S&P +0.73% | Chipmakers rallying | All 5 setup types active
+**⚠ MU STOP PROXIMITY:** Stop $1,051.81 vs current ~$1,068 = $16 buffer (1.5%). Auto-stop manages.
+**⚠ MU TIME STOP JULY 3 (Day 5):** Holiday week early close ~1PM ET. Midday routine MUST place MOC by 12:50 PM ET.
+**Trades this week (Week 11):** 4 — NVDA Mon (stopped), MU Mon, AMD Tue, NVDA Wed | Floor pace 4/7, need 3 more by Jul 3
+
+---
+
 ### Jun 30 — EOD Snapshot (Post-Challenge Day 23, Week 11 Tuesday)
 **Portfolio:** $100,653.80 | **Cash:** $71,137.20 (70.7%) | **Day P&L:** +$749.80 (+0.75%) | **Phase P&L:** +$653.80 (+0.65%)
 
