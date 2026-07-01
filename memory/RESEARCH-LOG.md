@@ -5,6 +5,105 @@ Format each entry:
 
 ---
 
+## 2026-07-01 — Pre-Market Research (Week 11, Wednesday)
+
+### Account Snapshot
+- **Equity:** $100,208.25 | **Cash:** $71,137.19 (71.0%) | **Long MV:** $29,071.06 | **Daytrade count:** 0
+- **Phase P&L:** +$208.25 (+0.21% vs $100K start)
+- **Positions:** 2/4 | **Slots open:** 2 | Leveraged ETF: 0/1 | Type 4 probes: 1/2 (MU)
+
+| Ticker | Shares | Entry | Prev Close | Pre-Mkt | Unrealized P&L | Stop | Type | Day |
+|--------|--------|-------|-----------|---------|----------------|------|------|-----|
+| AMD | 35 | $560.31 | $580.91 | ~$574.45 (−1.1%) | +$517.65 (+2.64%) | 10% trail GTC `9c61c53b`, HWM $584.73, stop $526.26 | Type 4 probe | Day 2/5 |
+| MU | 8 | $1,089.62 | $1,154.29 | ~$1,113.94 (−3.5%) | +$227.04 (+2.61%) | 10% trail GTC `6b7d1bf3`, HWM $1,168.68, stop $1,051.81 | Type 4 probe | Day 3/5 |
+
+**⚠ TIME STOP CORRECTION:** Prior logs said MU time stop = July 7. Re-count with July 4 falling on Saturday (July 3 = regular Friday trading day, likely early close 1PM ET):
+- MU: Day1=Jun29, Day2=Jun30, Day3=Jul1(today), Day4=Jul2, **Day5=Jul3 → MOC exit July 3 by 12:50 PM ET**
+- AMD: Day1=Jun30, Day2=Jul1, Day3=Jul2, Day4=Jul3, **Day5=Jul7 → MOC exit July 7**
+→ Confirm July 3 market hours at midday routine.
+
+### Market Context
+| Indicator | Value | Signal |
+|-----------|-------|--------|
+| S&P 500 futures | 7,545.50 (−0.04%) | Flat — mixed open |
+| Nasdaq 100 futures | 30,536.75 (+0.04%) | Flat/slightly positive — tech holding |
+| Dow futures | 52,583.00 (−0.17%) | Slight pressure |
+| VIX | ~16.45 (prev close 17.65; day range 16.27–17.75) | ✅ Green — no size reduction |
+| WTI crude | $68.80 (−1.01%) | Neutral/bearish — no energy spike risk |
+| Brent crude | $73.01 (+0.34%) | Neutral |
+
+**Macro mode: ALL 5 SETUP TYPES ACTIVE** (SPY + QQQ above SMA 50 confirmed; VIX 16.45 < 25)
+
+### Key Catalysts Today (July 1, 2026)
+1. **ADP Employment Survey (June) — 8:15 AM ET ⚠️** — Hot number = rate hike fear; miss = dovish relief. Binary for the open.
+2. **Fed Chair Warsh speech — 9:30 AM ET ⚠️** — Hawkish tone expected (PCE 3.4% YoY; FOMC removed rate-cut language). Spike risk at exact open.
+3. **S&P Global PMI Manufacturing Final (June) — 9:45 AM ET** — Manufacturing health signal.
+4. **ISM Manufacturing (June) + Construction Spending — 10:00 AM ET** — Second read on factory sector.
+5. **AVGO (Broadcom) −12% yesterday AMC** — Record Q3 revenue $22.2B, AI chip +143% YoY, but failed to raise AI outlook → sold off. Semi-sector headwind pre-market. AMD/MU thesis distinct but sector sentiment matters.
+6. **Holiday week:** July 4 = Saturday (NYSE likely observes Friday July 3 as early close, 1PM ET). Only 3 trading days remain in Week 11.
+7. **JPMorgan S&P 500 target raised to 7,800** (+5% from current ~$754 SPY equivalent). Bull case intact.
+
+### Position Thesis Checks
+
+**AMD (Day 2/5 Type 4):**
+- Pre-market $574.45 (−$6.46, −1.1% from $580.91 close). Normal giveback from ATH $584.73.
+- Catalysts intact: Wells Fargo PT $615 (upgraded June 30 catalyst), UBS + Cantor also raised targets. Q2 guide $11.2B (Data Center +57% YoY). AMD+Meta 6GW GPU deal (visible anchor). "Advancing AI 2026" event July 23, 2026 (upcoming catalyst).
+- AVGO miss creates mild headwind but AMD is EPYC server CPU + Instinct GPU — distinct product line from AVGO's networking/custom ASIC chips.
+- Insider selling overhang; "overheated" sentiment risk after +40% from $509 trough (June 23). Trailing stop HWM $584.73 → stop $526.26. **HOLD — time stop July 7.**
+- No confirmed Q2 earnings date (est. late July/early August 2026) — no earnings risk within 5 days ✓
+
+**MU (Day 3/5 Type 4):**
+- Pre-market $1,113.94 (−$40.35, −3.5% from $1,154.29 close). Significant giveback.
+- Thesis intact: FQ3 record $41.46B revenue (+346% YoY), FQ4 guide $50B, Anthropic partnership, 1α DRAM US manufacturing, 94% Buy consensus.
+- Risk: Class-action DRAM price-fixing lawsuit headline risk; tariff uncertainty; "pullback vulnerable" after 800% YoY rally; mobile OEM demand weakness (Xiaomi/Oppo cut shipments 30%).
+- Stop at $1,051.81 (10% trail, HWM $1,168.68). Pre-market at $1,114 is $62 above stop → not in danger zone.
+- **HOLD — ⚠ TIME STOP NOW JULY 3 (corrected from July 7). Confirm market hours and place MOC order July 3 by 12:50 PM ET.**
+- Next earnings FQ4: late October 2026 ✓
+
+### Universe Scan
+
+| Ticker | SMA Structure (est.) | Setup | Verdict |
+|--------|---------------------|-------|---------|
+| NVDA | Above SMA 150 (~$191-193) + SMA 200 (~$171); Jun 29 close $194.97, Jun 30 ~$197-199 est | Type 1 SMA 150/200 pullback — stopped out twice already; need to confirm still in pullback zone vs running away | **CONDITIONAL — query SMA at open; enter only if $193–200 and above SMA 150** |
+| CRWD | Above SMA 150/200 (RS strong YTD); PANW +40% YTD, Q3 cybersecurity ARR +60% → sympathy bid | Type 4 Momentum Probe — cybersecurity sector strength, PANW blowout read-through | **WATCH — check spread at 9:40 AM (prior spread 11.35% at open); enter if spread < 1.5% and RS vs SPY strong** |
+| PLTR | AI/data analytics leader; above SMA 150/200 | Type 2/4 — check open action | WATCH |
+| TQQQ | QQQ ~$753+ vs SMA 50 ~$702–715 — too far above, not at pullback zone | Type 5 — not valid | SKIP |
+| META | Spread historically wide at open | — | SKIP at open; check mid-morning |
+| GOOGL | Below SMA 50 (confirmed June 29) | — | SKIP |
+| MSFT | Below SMA 200 | — | SKIP |
+| AVGO | −12% pre-market; broken structure | — | SKIP |
+| AMD | Already held | — | HOLD |
+| MU | Already held | — | HOLD |
+
+### Trade Ideas
+
+| # | Ticker | Type | Entry Gate | Size | Stop | Target | Catalyst |
+|---|--------|------|-----------|------|------|--------|---------|
+| 1 | **NVDA** | Type 1 (SMA 150/200 pullback) | Open above SMA 150 (~$192–193) stable; price $193–200; above SMA 150 confirmed | 3–4% risk (~$3–4K, ~15–20 shares) | Fixed GTC $0.50 below SMA 150 (~$191.50) | $208–220 (+5–13%) | AI/Blackwell thesis; SMA 150 support zone; Nasdaq flat pre-mkt stabilizes |
+| 2 | **CRWD** | Type 4 Momentum Probe (half size) | Wait until 9:40 AM+ for spread to tighten; enter if spread <1.5% AND price above SMA 50; RS vs SPY positive | HALF size, 1.5–2% risk (~$1.5–2K) | 5% below entry (tight per Type 4 rules) | +10% from entry | PANW Q3 blowout: cybersecurity sector rotation; AI-driven security urgency; CRWD is cybersecurity leader |
+
+**Target today: 2 new entries** (need 4 more by July 3 to hit 7/7 week floor; current 3/7 — under-pace, aggressive scan required)
+
+### Risk Factors
+1. **Warsh speech 9:30 AM** — Hawkish "rate hike on table" rhetoric could spike VIX to 20+. Check VIX at 9:25 before any entry.
+2. **ADP hot data** — Released pre-open; hot number means rate fear, may hit growth/semis at 8:15 AM. Await digest before entering.
+3. **AVGO -12% sector headwind** — Semis could see rotational selling if AVGO's non-raised outlook = read-through that AI semiconductor revenue is hitting a ceiling. AMD/NVDA/MU differentiated but watch for sector-wide flush.
+4. **MU −3.5% pre-market** — Larger-than-normal pre-market drop. Not thesis-breaking but indicative of profit-taking after the 800% YoY run. Stop well above ($1,051.81).
+5. **Holiday week liquidity** — Early close July 3 (likely 1PM ET). Light volumes → wider spreads intraday. Stick to spread gate (<1.5%) for new entries.
+6. **NVDA re-entry risk** — Two prior stop-outs (June 29 intraday, June 29 morning). SMA 150 zone is narrow. Third attempt only with clean confirmation.
+
+### Decision: TRADE (conditional on 8:15 AM ADP + 9:30 AM Warsh reaction)
+- **NVDA:** ENTER Type 1 if confirmed above SMA 150 post-open, price $193–200, stable structure. Do NOT chase if already up +2%+ at open.
+- **CRWD:** ENTER Type 4 (half size) if spread tightens by 9:40 AM and cybersecurity sector momentum confirms (PANW pre-mkt green?).
+- **If VIX spikes above 20 on Warsh speech:** Delay both entries; reassess at 10:15 AM after market absorbs data.
+- **AMD/MU:** HOLD. Both trailing stops provide floor.
+
+**Week 11 pace:** 3/7 entries. 3 trading days remain (Jul 1, Jul 2, Jul 3). Need 4 more entries. Must hit 2/day minimum. Rotation acceptable if lower-conviction slot opens.
+
+---
+
+---
+
 ## 2026-06-30 — Midday Addendum
 
 **AMD surge catalyst (Perplexity — midday scan):**
