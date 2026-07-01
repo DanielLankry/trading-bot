@@ -1981,3 +1981,15 @@ No positions yet. Bot launches tomorrow (2026-04-28).
 **Open positions after scan:** 2/4 | 2 slots open | Cash $76,051.37 (76.9%) | Leveraged ETF: 0/1 | Type 4 probes: 1/2 (AMD)
 ⚠ AMD time stop: July 7 (Day 2/5 today). Place mandatory MOC order by 3:50 PM ET on July 7.
 ⚠ Trades this week (Week 11): 3/7 floor (NVDA+MU Jun 29, AMD Jun 30, NVDA today). Need 4 more by Jul 3 (early close ~1 PM ET). Under-pace — prioritize Type 2/4 setups at market-open tomorrow.
+
+---
+
+### Jul 1 — EOD Snapshot (Day 24, Week 11 Wednesday)
+**Portfolio:** $98,498.79 | **Cash:** $76,051.37 (77.2%) | **Day P&L:** −$2,204.57 (−2.19%) | **Phase P&L:** −$1,501.21 (−1.50%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| AMD | 35 | $560.31 | $540.02 | −7.04% | −$710.15 (−3.62%) | 10% trail GTC `9c61c53b`, HWM $584.73, stop $526.26 — ⚠ TIME STOP JULY 7 (Day 2/5) |
+| NVDA | 18 | $194.052 | $197.08 | −1.50% | +$54.56 (+1.56%) | Fixed GTC `62d09a4e` $191.50 |
+
+**Notes:** Heavy down day driven by *The Information*'s Meta→Google AI chip switch report (July 1). MU 8sh trailing stop triggered intraday (sector sell-off), exiting ~$1,051.81 from HWM $1,168.68 → realized ~−$302 (−3.47%), two days ahead of July 3 time stop. NVDA re-entered 18sh @ $194.052 (Type 1 SMA 150 pullback; fixed stop $191.50). AMD (Type 4, Day 2/5) fell −7.04% to $540.02 — still above trailing stop $526.26 and above −7% cut threshold from entry (−3.62%), but thesis partially undermined; analyst consensus remains bullish. ⚠ Check SPY SMA 50 status at tomorrow's pre-market — if restricted mode triggered today, AMD (Type 4) may need early exit. Jun 30 EOD snapshot missing from log (routine appears to have not run). Trades this week: 4/7 floor (NVDA + MU Jun 29; AMD Jun 30; NVDA Jul 1). ⚠ Holiday-shortened week: Jul 3 CLOSED (July 4 observance), Jul 2 early close ~1 PM ET — only tomorrow remains to add entries before the break. Need 3 more entries; likely only possible to land 1–2 tomorrow (early close). ⚠ AMD: mandatory MOC exit by 3:50 PM ET July 7 (Day 2/5 today).
