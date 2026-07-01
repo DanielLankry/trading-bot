@@ -1946,3 +1946,38 @@ No positions yet. Bot launches tomorrow (2026-04-28).
 | MU | 8 | $1,089.62 | $1,144.50 | +1.08% | +$439.04 (+5.04%) | 10% trail GTC `6b7d1bf3`, stop $1,033.81, HWM $1,148.68 — **TIME STOP JULY 7** |
 
 **Notes:** Week 11 Day 1 (Monday). NVDA 102sh entered at open ($194.27, Type 1 SMA 150 pullback) and stopped out 34 min later at $190.44 as price breached SMA 150 (~$191.24), realizing −$390.30 (−1.97%). MU 8sh carried into close at $1,144.50 (+5.04% from $1,089.62 entry; +1.08% on the day), recovering portfolio from −$264.72 midday trough (−0.26%) to −$96.00 (−0.10%) at close. Day P&L positive (+$48.66) despite NVDA loss — MU unrealized gain offset. ⚠ Phase P&L remains negative (−$96, −0.10% vs $100K start). ⚠ Mode flag: MU entered as Type 4 probe with SPY potentially in restricted mode (below SMA 50 at Jun 26 close); SPY recovered ~+1.12% intraday today — confirm SMA 50 reclaim in tomorrow's pre-market before enabling Type 2/4/5 entries. MU time stop Day 1/5: mandatory MOC exit July 7. Trades today: 2 new entries (NVDA + MU), NVDA same-day stop-out. Trades this week: 2/7 floor — 5 more needed by Friday Jul 3.
+
+---
+
+### Jul 1 — MU Stop-Out (Week 11, Wednesday — Intraday)
+- **MU** — 8 shares @ $1,089.62 avg. Trailing stop GTC `6b7d1bf3` TRIGGERED intraday. Position and order both confirmed gone from Alpaca. Estimated exit ~$1,051.81 (10% trail from HWM $1,168.68) → realized P&L: **~−$302 (−3.47%)**. Cause: semiconductor sector sell-off from Meta/Google chip report (*The Information*: Meta plans to switch data center GPU demand to Google AI chips by 2027) + AVGO −12% sector headwind. MU corrected time stop was July 3 (Day 5/5) — trailing stop accelerated exit by 2 days.
+
+---
+
+### Jul 1 — Midday Scan (~12:15 PM ET, Week 11, Wednesday)
+**Portfolio:** $98,932.24 | **Cash:** $76,051.37 | **Long MV:** $22,880.87 | **Day P&L:** −$1,771.12 (−1.76%) | **Phase P&L:** −$1,067.76 (−1.07%) | **Positions:** 2/4
+
+| Ticker | Shares | Entry | Midday Price | Unrealized P&L | Stop | Action |
+|--------|--------|-------|--------------|----------------|------|--------|
+| AMD | 35 | $560.31 | $553.07 | −$253.40 (−1.29%) | 10% trail GTC `9c61c53b`, HWM $584.73, stop $526.26 | ⚠ HOLD — thesis flagged (see below) |
+| NVDA | 18 | $194.052 | $197.375 | +$59.81 (+1.71%) | Fixed GTC `62d09a4e` $191.50 | HOLD — thesis intact |
+
+**Cuts (≥−7%):** NONE — AMD −1.29%, NVDA +1.71%. Both above threshold.
+
+**Stop adjustments:** NONE — AMD not a winner; NVDA at +1.71% (below +15% tightening threshold).
+
+**Thesis checks:**
+- **AMD (Type 4, Day 2/5):** ⚠ THESIS FLAGGED. *The Information* (July 1) reports Meta plans to switch data center AI chips to Google by 2027 — undermines the "Meta 6GW Instinct GPU deal visible anchor" cited in entry thesis. However: (1) shift is "by 2027" — no immediate demand impact; (2) primary entry catalyst (Wells Fargo $615 PT Outperform upgrade June 30) remains intact; (3) AMD at −1.29% still well above −7% cut threshold; (4) trailing stop $526.26 provides floor; (5) time stop July 7 provides natural exit. Decision: HOLD and monitor. If AMD breaks SMA 20/50 structure or hits −7% from entry, cut immediately.
+- **NVDA (Type 1, Day 1):** Meta/Google chip news creates sector-wide pressure (NVDA also down today). But NVDA at +1.71% ($197.375) above entry and above stop. SMA 150 zone ~$191–193; fixed stop $191.50 safely below. AI/Blackwell thesis intact. HOLD.
+
+**Intraday research (AMD — Perplexity):**
+- AMD −4.79% intraday (from $580.91 close to $553.07). Not AVGO-driven primarily.
+- **Root cause:** *The Information* report — Meta shifting to Google AI chips for data centers by 2027. Both AMD and NVDA hit.
+- **Secondary:** China revenue −75% YoY to ~$100M; valuation at 40× forward P/E.
+- **Analyst consensus intact:** Wells Fargo $615 Outperform (June 30) ✓; 247WallSt $586 BUY (July 1); 80% bullish.
+- **AMD earnings:** Q3 FY2026 ~October 2026 ✓ (no near-term earnings risk).
+- **MU stop-out:** Confirmed stopped (trailing stop triggered). Entry $1,089.62, realized ~−$302.
+
+**Open positions after scan:** 2/4 | 2 slots open | Cash $76,051.37 (76.9%) | Leveraged ETF: 0/1 | Type 4 probes: 1/2 (AMD)
+⚠ AMD time stop: July 7 (Day 2/5 today). Place mandatory MOC order by 3:50 PM ET on July 7.
+⚠ Trades this week (Week 11): 3/7 floor (NVDA+MU Jun 29, AMD Jun 30, NVDA today). Need 4 more by Jul 3 (early close ~1 PM ET). Under-pace — prioritize Type 2/4 setups at market-open tomorrow.

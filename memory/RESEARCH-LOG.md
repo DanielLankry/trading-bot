@@ -102,6 +102,23 @@ Format each entry:
 
 ---
 
+## 2026-07-01 — Midday Addendum
+
+**AMD — Perplexity (intraday drop −4.79%):**
+- **Primary cause:** *The Information* (July 1) — Meta plans to use Google AI chips (OG/OGL) for data centers by 2027 instead of AMD/NVDA Instinct GPUs. Both AMD and NVDA fell on the report.
+- **Not AVGO-driven:** AVGO −12% AMC is background sector headwind but NOT the primary AMD catalyst today.
+- **Secondary factors:** China revenue cliff (−75% to ~$100M FY2026); valuation fragility (40× forward P/E, 203× trailing P/E); Nasdaq struggling post-Monday gains.
+- **Thesis flag:** "Meta 6GW GPU deal visible anchor" pillar weakened. Wells Fargo $615 PT (June 30 Outperform) intact. AMD "Advancing AI 2026" event July 23 still upcoming. AMD held — time stop July 7 provides natural exit.
+- **Analyst consensus:** BUY | 247WallSt $586 PT (July 1 article); 80% bullish; AMD earnings next ~October 2026 ✓.
+
+**MU stop-out confirmed:** Trailing stop `6b7d1bf3` triggered intraday. Position and order both cleared from Alpaca. Entry $1,089.62, estimated exit ~$1,051.81, realized ~−$302 (−3.47%). MU corrected time stop was July 3 (Day 5) — trailing stop accelerated exit 2 days early.
+
+**NVDA:** Sector-wide pressure from Meta/Google news. NVDA entered today (18sh @ $194.052, Type 1 SMA 150 pullback). At midday +1.71% ($197.375). SMA 150 support ~$191–193 intact above fixed stop $191.50. Thesis intact. Hold.
+
+**Macro check:** VIX ~16–17 range (no size reduction triggered). SPY and QQQ above SMA 50 confirmed. All 5 setup types remain active. No macro filter trigger.
+
+---
+
 ---
 
 ## 2026-06-30 — Midday Addendum
