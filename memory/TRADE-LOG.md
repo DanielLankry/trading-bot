@@ -2,6 +2,32 @@
 
 ---
 
+### Jul 2 — Market-Open (Week 11, Thursday — NFP Day)
+**Portfolio:** $98,424.92 | **Cash:** $76,051.35 (77.3%) | **Long MV:** $22,373.57 | **Phase P&L:** −$1,575.08 (−1.58%) | **Daytrade count:** 0
+
+**Trades fired:** NONE
+
+**NO-TRADE-DAY (Rule A)** — Zero universe tickers qualify for Setup Types 1–5. All planned candidates fail entry gates.
+
+| Ticker | Status | Reason |
+|--------|--------|--------|
+| CRWD | SKIP | Spread 7.05% (bp $187.39 / ap $201.08) → FAILS ≤1.5% gate. Day 1 post-4:1 split illiquidity. |
+| META | DISQUALIFIED | Price $596 < SMA 200 ~$649 (Wealthyhood Jul 1) → Below SMA 200. No valid setup type. |
+| MRVL | SKIP | Spread 4.51% (bp $260 / ap $272) → FAILS ≤1.5% gate. Also same semiconductor sector as AMD → violates max-1-probe-per-sector rule. |
+| TQQQ | SKIP | Type 5 — QQQ not at SMA 50 pullback zone (extended above). |
+
+**Open positions (2/4 max):**
+| Ticker | Shares | Entry | Current | Unrealized P&L | Stop | Notes |
+|--------|--------|-------|---------|----------------|------|-------|
+| AMD | 35 | $560.31 | $535.82 | −$857.15 (−4.37%) | 10% trail GTC `9c61c53b` stop $526.26 HWM $584.73 | Type 4 — ⚠ TIME STOP JULY 7 — MOC by 3:50 PM ET. Buffer $9.56 (1.78%) ⚠ TIGHT |
+| NVDA | 18 | $194.052 | $198.12 | +$73.22 (+2.10%) | Fixed GTC `62d09a4e` stop $191.50 | Type 1 SMA 150/200 pullback — thesis intact |
+
+**Macro:** VIX not elevated (AMD/NVDA mild moves confirm in-line NFP) | SPY/QQQ above SMA 50 ✓ | All 5 setup types active | Probe cap: 1/2 (AMD) | Probe sector occupied: Semiconductor
+**⚠ AMD STOP PROXIMITY:** $9.56 buffer (1.78%). NFP day volatility risk. Auto-stop `9c61c53b` manages — no manual intervention.
+**Trades this week (Week 11):** 4/7 — under pace. Need 3 more by Jul 3 (early close 1PM ET). Tomorrow must have 2+ entries; midday scan critical.
+
+---
+
 ### Jul 1 — Market-Open (Week 11, Wednesday)
 **Portfolio:** $99,175.17 | **Cash:** $67,644.25 (68.2%) | **Long MV:** $31,530.92 | **Phase P&L:** −$824.83 (−0.82%) | **Daytrade count:** 0
 
