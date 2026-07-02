@@ -5,6 +5,26 @@ Format each entry:
 
 ---
 
+## 2026-07-02 — Midday Addendum (Week 11, Thursday)
+
+### Exits Since Last Log
+- **AMD** trailing stop `9c61c53b` triggered at open (9:38 AM ET) — 35sh @ $526.18, realized −$1,194.59 (−6.10%). HWM $584.73, 10% trail, stop $526.26. NFP-day gap-down pressure. Time stop had been Jul 7.
+- **MU** trailing stop `6b7d1bf3` triggered Jul 1 ~10:56 AM ET — 8sh @ $1,050.89, realized −$309.84 (−3.55%). HWM $1,168.68, 10% trail, stop $1,051.81. Time stop had been Jul 3.
+
+### NVDA Perplexity Check (Jul 2 midday)
+- **Price:** $193.02 (−2.31% today, −0.53% from entry $194.052)
+- **SMA 150:** $191.98 (Finbox confirmed) — NVDA above by $1.04 ✓
+- **SMA 200:** Conflicting sources ($171 research log, $190.94 Barchart, $208.50 investing.com). Jun 30 pre-market confirmed above SMA 200. No change to thesis interpretation.
+- **SMA 50:** ~$197.25 (NVDA currently below SMA 50 — Type 1 stop remains SMA 150)
+- **Catalysts today:** None specific to NVDA. Earnings Aug 28, 2026.
+- **Decision:** HOLD. Fixed stop $191.50 manages risk. Buffer $1.52 (0.79%) — TIGHT. If NVDA closes below SMA 150 today, auto-stop triggers tomorrow.
+
+### Account Status
+- **Equity:** $97,944.87 | **Cash:** $94,467.63 (96.5%) | **Phase P&L:** −$2,055.13 (−2.06%)
+- **Open positions:** 1/4 (NVDA only) | **Slots:** 3 open | **Pace:** 4/7 entries this week
+
+---
+
 ## 2026-07-02 — Pre-Market Research (Week 11, Thursday — NFP Day)
 
 ### Account Snapshot

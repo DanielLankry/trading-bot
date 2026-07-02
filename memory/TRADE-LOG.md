@@ -2,6 +2,33 @@
 
 ---
 
+### Jul 2 — Midday Scan (Week 11, Thursday — NFP Day)
+**Portfolio:** $97,944.87 | **Cash:** $94,467.63 (96.5%) | **Long MV:** $3,477.24 | **Phase P&L:** −$2,055.13 (−2.06%)
+
+| Ticker | Shares | Entry | Current | Unrealized P&L | Stop | Order ID |
+|--------|--------|-------|---------|----------------|------|----------|
+| NVDA | 18 | $194.052 | $193.02 | −$18.58 (−0.53%) | Fixed GTC $191.50 | `62d09a4e` |
+
+**Exits (since last log):**
+
+| Ticker | Shares | Entry | Exit | Realized P&L | Exit Time (ET) | Notes |
+|--------|--------|-------|------|--------------|----------------|-------|
+| AMD | 35 | $560.31 | $526.18 | −$1,194.59 (−6.10%) | ~9:38 AM Jul 2 | Trailing stop `9c61c53b` triggered at open; HWM $584.73, 10% trail → stop $526.26 → fill $526.18. NFP-day gap-down continued from Jul 1. Time stop was Jul 7 — trailing stop beat it. |
+| MU | 8 | $1,089.62 | $1,050.89 | −$309.84 (−3.55%) | ~10:56 AM Jul 1 | Trailing stop `6b7d1bf3` triggered Jul 1; HWM $1,168.68, 10% trail → stop $1,051.81 → fill $1,050.89. Not logged in Jul 1 or Jul 2 market-open entries — retroactive. Time stop had been Jul 3. |
+
+**Cuts:** NONE — NVDA at −0.53%, well above −7% threshold.
+
+**Stop adjustments:** NONE — NVDA below entry; +15% trigger not met.
+
+**Thesis check:**
+- **NVDA — INTACT WITH CAUTION.** $193.02 (−2.31% today, −0.53% from entry $194.052). Above SMA 150 ($191.98 per Finbox) by $1.04. Fixed stop $191.50 is just below SMA 150 — auto-manages Type 1 stop rule. SMA 200 conflicting data (research ~$171, Barchart $190.94, investing.com $208.50); Jun 30 research confirmed above SMA 200. No intraday NVDA-specific negative catalyst. AI/Blackwell thesis intact. Earnings Aug 28, 2026 ✓. Buffer above stop only $1.52 (0.79%) — TIGHT. **HOLD — stop at $191.50 manages remaining risk. Do NOT move stop down.**
+
+**Thesis breaks:** NONE. AMD and MU exits were stop-driven; no adverse company-specific news.
+
+**Week 11 pace:** 4/7 — need 3 entries by Jul 3 early close (1 PM ET). 3 slots open. Tomorrow's scan is critical.
+
+---
+
 ### Jul 2 — Market-Open (Week 11, Thursday — NFP Day)
 **Portfolio:** $98,424.92 | **Cash:** $76,051.35 (77.3%) | **Long MV:** $22,373.57 | **Phase P&L:** −$1,575.08 (−1.58%) | **Daytrade count:** 0
 
