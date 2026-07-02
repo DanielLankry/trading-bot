@@ -5,6 +5,113 @@ Format each entry:
 
 ---
 
+## 2026-07-02 — Pre-Market Research (Week 11, Thursday — NFP Day)
+
+### Account Snapshot
+- **Equity:** $98,254.83 | **Cash:** $76,051.35 (77.4%) | **Long MV:** $22,203.48 | **Daytrade count:** 0
+- **Phase P&L:** −$1,745.17 (−1.75% vs $100K start)
+- **Positions:** 2/4 | **Slots open:** 2 | Leveraged ETF: 0/1 | Type 4 probes: 1/2 (AMD)
+
+| Ticker | Shares | Entry | Last Close | Unrealized P&L | Stop | Type | Day |
+|--------|--------|-------|-----------|----------------|------|------|-----|
+| AMD | 35 | $560.31 | $540.88 (−6.89% Jul 1) | −$941.85 (−4.80%) | 10% trail GTC `9c61c53b`, HWM $584.73, stop **$526.26** | Type 4 probe | Day **3/5** ⚠ TIME STOP JULY 7 |
+| NVDA | 18 | $194.052 | $197.58 | +$41.36 (+1.18%) | Fixed GTC `62d09a4e` **$191.50** | Type 1 SMA 150/200 | No time stop |
+
+⚠ **AMD STOP PROXIMITY:** Current $533.40 vs stop $526.26 = **$7.14 buffer (1.34%)**. NFP at 8:30 AM ET is an asymmetric risk: downside gap below $526 triggers auto-exit.
+
+### Market Context
+| Indicator | Value | Signal |
+|-----------|-------|--------|
+| S&P 500 futures | 7,554.25 (+0.14%) | Flat-positive start; 3Q begins |
+| Nasdaq 100 futures | 30,213.25 (+0.40%) | Tech holding |
+| VIX | ~17.11 (Jul 1 close; prev 16.45) | ✅ GREEN — below 25; all size rules normal |
+| WTI crude | $68.18 (−0.58%) | Declining → deflationary tailwind for growth |
+| Brent crude | ~$76.35 | Neutral |
+
+**Macro mode: ALL 5 SETUP TYPES ACTIVE** — SPY/QQQ confirmed above SMA 50 ✓ | VIX 17.11 < 25 ✓
+
+### Key Catalysts Today (July 2, 2026)
+1. **⚠ NFP June 2026 — 8:30 AM ET (DOMINANT)** — Expected: +110–114K jobs (vs May +172K); unemployment 4.3%; avg hourly earnings +0.3% MoM. Scenarios: (A) in-line 80–130K → mild relief; (B) hot >150K → rate hike fears, DXY strength, tech pressure; (C) miss <80K → recession fear/risk-off. NO new entries pre-8:30 AM.
+2. **US-Iran ceasefire** — Late Sunday; drove Q2 best quarterly gain since 2020; bullish for risk-on assets.
+3. **September rate hike risk** — Fed Chair Warsh hawkish; PCE at 3-year high; Fed funds futures pricing potential Sept hike. Tech/growth headwind.
+4. **CRWD 4:1 stock split effective today** — Post-split price ~$193–195 (pre-split close $772.74). Day 1 post-split trading; liquidity likely improved vs prior 11%+ spread days.
+5. **Q2 earnings season mid-July** — AI/semiconductor sector expected to lead. AMD Q2 earnings ~late July/Aug.
+6. **Holiday week:** Tomorrow Jul 3 = early close 1PM ET (NYSE observes Independence Day). Last trading day with full windows before the weekend.
+
+### Position Thesis Checks
+
+**AMD (Day 3/5 Type 4):**
+- Jul 1 close: $540.88 (−6.89% on the day). Current pre-market: ~$533-$547 range.
+- **Thesis PARTIALLY DAMAGED:** *The Information* Jul 1 report — Meta plans to use Google AI chips (OG/OGL) for data centers by 2027, replacing AMD/NVDA Instinct GPUs. This weakens the "Meta 6GW GPU deal visible anchor" pillar of our thesis.
+- **Remaining thesis:** Wells Fargo $615 PT (Jun 30), UBS raised PT, Q2 guide $11.2B (DC +57% YoY), "Advancing AI 2026" event Jul 23. AMD still has EPYC CPU + broader AI/HPC demand.
+- **Stop $526.26 (10% trail, HWM $584.73):** At $533.40 there's only $7.14 buffer (1.34%). NFP volatility could trigger auto-exit.
+- **Action: HOLD, auto-stop manages.** Do NOT intervene. Time stop July 7 (Day 5) — MOC by 3:50 PM ET if still held.
+
+**NVDA (Type 1 SMA 150/200):**
+- Jul 1 close: $197.58. Current pre-market ~$196.35. 52-week range $151.49–$236.54.
+- SMA 150 zone ~$191–193 (confirmed Jul 1 entry). Fixed stop $191.50 is $0.50 below SMA 150 floor.
+- Price $196.35 is ~1.6% above stop. Buffer is slim but this is a Type 1 setup — stop is SMA-based, not trailing.
+- **Thesis INTACT:** AI/Blackwell supercycle; Reuben chip launch 2026; Groq deal; AI21 acquisition talks; $197.58 close is solidly above SMA 150 ($191–193).
+- **Action: HOLD.** Fixed stop GTC `62d09a4e` $191.50 manages risk. No time stop on Type 1.
+
+### Universe Scan (All 5 Setup Types)
+
+| Ticker | SMA Structure | Spread | Setup | Verdict |
+|--------|--------------|--------|-------|---------|
+| CRWD | Above SMA 50 ($180.10) / SMA 200 ($174.70) post-split; all 12 MAs = Strong Buy ✓ | Day 1 post-4:1 split → check at 9:40 AM | Type 4 Momentum Probe (post-split RS) OR Type 2 ATH Breakout (if $193 close → >$195.54 ATH) | **WATCH — check spread at 9:40 AM** |
+| TQQQ | QQQ above SMA 50 (not at pullback zone; ~5-7% above) | — | Type 5 — QQQ not at SMA 50 pullback | **SKIP** |
+| PLTR | Below SMA 200 ($132-158), below SMA 50 ($115-135). Down 36% YTD. | — | Disqualified | **SKIP** |
+| META | Recovered Jul 1 (+10% after AI cloud compute expansion news) but SMA 200 status unconfirmed | — | Check SMA at open | **CHECK IF ABOVE SMA 200** |
+| MSFT | Below SMA 200 per recent records | — | Disqualified | **SKIP** |
+| GOOGL | Below SMA 50 (confirmed Jun 29) | — | No valid setup | **SKIP** |
+| AMD | HELD (time stop July 7) | — | — | **HOLD** |
+| NVDA | HELD (Type 1) | — | — | **HOLD** |
+| MRVL | Last checked Jun 9 (spread 4.04%) — may have improved; above SMA structure historically | Check at open | Type 4 if spread ≤1.5% | **CONDITIONAL — check spread** |
+| AMZN | Below SMA 50 per recent records | — | No valid setup | **SKIP** |
+
+### Trade Ideas
+
+**Idea 1 — CRWD Type 4 Momentum Probe (PRIMARY — post-NFP, 9:40 AM check)**
+- **Catalyst:** 4:1 stock split effective today → improved accessibility/liquidity; above ALL SMAs (Strong Buy signal from all 12 MAs); cybersecurity sector RS leader; post-split buying pressure common.
+- **SMA structure (post-split):** Price ~$193-195 >> SMA 50 ($180.10) >> SMA 200 ($174.70) — all sloping up ✓. NOT at pullback zone → Type 4 (momentum probe) not Type 3 (SMA pullback).
+- **Entry gate (ALL must pass):** Spread ≤1.5% at 9:40 AM+ | Price holding above $183 (SMA 50 + support zone) | Jobs data not panic-negative (VIX < 22)
+- **Size:** HALF (Type 4) — ~$9.5–$10K (~49–51sh @ ~$194)
+- **Stop:** 5% below entry (~$184 GTC)
+- **Time stop:** July 9 (5 trading days from today)
+- **Position cap post-entry:** 3/4 ✓ | 0 leveraged ETFs ✓ | 2/2 probes (AMD + CRWD) — probe cap reached
+
+**Idea 2 — META Type 3 or Type 4 (SECONDARY — if above SMA 200)**
+- **Catalyst:** Jul 1 +10% on report that Meta is building AI cloud to sell excess compute. This aligns with AI infrastructure buildout AND the same news that hurt AMD. Could be a momentum play.
+- **Gate:** Confirm above SMA 200 at open + spread ≤1.5% + above SMA 50 structure intact
+- **If Type 4:** Half size, 5-day time stop
+- **Status:** CONDITIONAL — must verify SMA 200 status at open. If below SMA 200 → SKIP.
+
+**Idea 3 — MRVL Type 4 Momentum Probe (TERTIARY — if CRWD + META fail)**
+- **Gate:** Spread ≤1.5% at open | Price above SMA 50/150/200 | No earnings within 5 days
+- **If entered:** Half size, 5-day time stop
+- **⚠:** If both CRWD and a 2nd probe are entered → probe cap 2/2 full (AMD + CRWD). MRVL requires AMD to exit first.
+
+### Risk Factors
+1. **NFP 8:30 AM ET** — DOMINANT binary event. Beat >150K = rate hike fear → tech selloff. Miss <80K = risk-off recession fear. Either extreme could push AMD through its $526.26 stop.
+2. **AMD stop proximity** — $533.40 vs $526.26 = $7.14 buffer. Jobs-driven gap-down risk.
+3. **AMD thesis damage** — Meta→Google chip switch weakens the primary AI GPU thesis. Even if jobs are benign, AMD conviction is reduced.
+4. **CRWD Day 1 post-split spread risk** — Despite 4× share count, Day 1 of a split can see unusual spread behavior. Must verify ≤1.5% before entering.
+5. **Phase P&L negative** — Equity $98,254 = −1.75% vs $100K start. Need to rebuild carefully, not force trades.
+6. **Rate hike September** — Hawkish backdrop is a structural headwind for high-beta growth. Sizing discipline required.
+7. **July 3 early close 1PM ET** — Only 1.5 more trading sessions before holiday. Floor pace is tight (4/7 entries, need 3 more).
+8. **Tech sector YTD −3.3%** — IT sector underperforming YTD (Energy +23%, Materials +17% lead). Concentration risk in semis.
+
+### Decision: CONDITIONAL TRADE — AWAIT NFP 8:30 AM
+- **Pre-8:30 AM:** Hold AMD + NVDA. NO new entries before NFP print.
+- **Post-NFP in-line (80–130K):** → Scan CRWD at 9:40 AM (spread + SMA check). If ≤1.5% → Type 4 entry half-size. Simultaneously check META SMA 200 status. If confirmed above SMA 200 → potential 2nd entry (requires AMD to exit, or if one Type 4 slot remains). Target: 1–2 new entries today.
+- **Post-NFP hot (>150K, rate hike fears):** Monitor VIX. If VIX > 22 → delay all entries until 10:30 AM stabilization. If VIX > 25 → all new entry sizes −25%.
+- **Post-NFP miss (<80K, risk-off):** Protect stops, defer all new entries until market direction confirms.
+- **AMD:** HOLD. Do NOT move stop. If auto-stopped → note realized P&L, free probe slot.
+- **NVDA:** HOLD. Fixed stop $191.50 manages risk. Type 1 thesis intact.
+- **Floor status:** 4/7 entries Week 11. Need 3 more by Jul 3. Post-NFP: aim for 2 entries today (CRWD + one more). Jul 3 (early close 1PM): 1 final entry in the AM.
+
+---
+
 ## 2026-07-01 — Pre-Market Research (Week 11, Wednesday)
 
 ### Account Snapshot
