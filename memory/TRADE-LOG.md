@@ -2,6 +2,17 @@
 
 ---
 
+### Jul 2 — EOD Snapshot (Day 25, Week 11 Thursday — Early Close 1 PM ET)
+**Portfolio:** $97,973.72 | **Cash:** $94,467.63 (96.4%) | **Day P&L:** −$564.87 (−0.57%) | **Phase P&L:** −$2,026.28 (−2.03%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| NVDA | 18 | $194.052 | $194.78 | −1.42% | +$13.15 (+0.38%) | Fixed GTC `62d09a4e` $191.50 |
+
+**Notes:** Pre-July 4 early close (~1 PM ET). AMD 35sh trailing stop `9c61c53b` triggered at open (~9:38 AM ET) at $526.18 — realized P&L −$1,194.59 (−6.10% from $560.31 entry, Day 3 of 5 time stop). Cash confirmed via Alpaca: $76,051 → $94,468 (+$18,417 ≈ 35 × $526.18). MU retroactive exit Jul 1 also logged in midday: 8sh @ $1,050.89, −$309.84. NVDA 18sh survived to early close at $194.78 (+0.38% from entry $194.052, −1.42% on the day); fixed stop $191.50 holds through July 4 weekend. No new entries today (early close, AMD stop-out at open consumed bandwidth, no qualified setups). Trades this week: 4/7 floor — under-pace (market closed Jul 3). Next session Jul 7 (Day 26, final stretch, Days 26–30). ⚠ Phase P&L −2.03% vs $100K start — need recovery in final 5 days to challenge SPY. ⚠ NVDA: gap risk on Jul 7 open — stop $191.50 is 1.7% below Friday close $194.78, just below SMA 150 floor (~$192); monitor for overnight macro risk.
+
+---
+
 ### Jul 2 — Midday Scan (Week 11, Thursday — NFP Day)
 **Portfolio:** $97,944.87 | **Cash:** $94,467.63 (96.5%) | **Long MV:** $3,477.24 | **Phase P&L:** −$2,055.13 (−2.06%)
 
