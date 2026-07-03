@@ -2,6 +2,17 @@
 
 ---
 
+### Jul 03 — EOD Snapshot (Day 25 — HOLIDAY, Week 11 Friday, Independence Day Observance)
+**Portfolio:** $97,974.55 | **Cash:** $94,467.61 (96.4%) | **Day P&L:** $0.00 (0.00%) — MARKET CLOSED | **Phase P&L:** −$2,025.45 (−2.03%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| NVDA | 18 | $194.052 | $194.83 | — (Holiday) | +$14.00 (+0.40%) | Fixed GTC `62d09a4e` $191.50 |
+
+**Notes:** Market closed — Independence Day observance (Jul 4 falls Saturday, observed Friday Jul 3). No trading activity. Portfolio unchanged from Jul 2 close ($97,973.72). NVDA 18sh carried through long weekend; fixed stop $191.50 GTC active (1.7% below last close $194.83, just below SMA 150 floor ~$191–193). Week 11 final: 4 new entries / 7-entry floor (holiday-shortened — Jul 2 early close 1 PM ET, Jul 3 closed — only 4 trading days available). Phase P&L: −$2,025 (−2.03%) vs $100K start. ⚠ Final sprint: 5 trading days remain (Jul 7–11, Days 26–30). Pre-market Jul 7: confirm macro filter (SPY/QQQ above SMA 50), assess NVDA Type 1 thesis, scan for Type 2/4 entry setups to rebuild weekly pace.
+
+---
+
 ### Jul 2 — EOD Snapshot (Day 25, Week 11 Thursday — Early Close 1 PM ET)
 **Portfolio:** $97,973.72 | **Cash:** $94,467.63 (96.4%) | **Day P&L:** −$564.87 (−0.57%) | **Phase P&L:** −$2,026.28 (−2.03%)
 
