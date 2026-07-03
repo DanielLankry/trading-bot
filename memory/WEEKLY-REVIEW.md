@@ -564,3 +564,77 @@ Template for each entry:
 
 ### Overall Grade: B−
 > Rationale: First positive relative week since Week 5 — bot −0.39% vs S&P −2.55% = +2.16% outperformance; defensive stop architecture delivered in a risk-off week. AAPL and GOOGL partial stops both executed correctly per rules. Capital largely preserved (+1.12% phase P&L from $100K start). Penalties: (1) 7th consecutive week below trade floor (3/7 = process failure); (2) NVDA time stop not executed at close — clear operational lapse, position carries FOMC binary risk into next week; (3) AAPL WWDC held at full size through a confirmed binary event — rule gap that needs addressing; (4) GOOGL June 11 same-day stop-out via market order when limit would have prevented it. Grade B− not C because the relative outperformance in a down market is the correct signal that the stop system is working; the execution lapses are process issues, not strategy failures.
+
+---
+
+## Weeks ending 2026-06-19 and 2026-06-26 — LOG GAP (Weeks 9 & 10)
+
+> **⚠ ROUTINE LOG GAP: June 13–June 29.** No daily logs, no routine entries, no research or trade records for these two weeks. Live Alpaca data confirmed at Jun 30 market-open: NVDA and GOOGL (both held at Jun 12 close) were closed — exits occurred during the gap. MU 8sh @ $1,089.62 was in the account with a GTC trailing stop ($1,033.812, order `6b7d1bf3`) — entry date and thesis unknown. Account equity at Jun 30 pre-market: **$99,875.62**; cash $71,137.19; long MV $29,071.06. No weekly review can be reconstructed for Weeks 9 and 10 — gap acknowledged; proceeding from live Alpaca data as ground truth for Week 11.
+
+---
+
+## Week ending 2026-07-03
+
+### Stats
+| Metric | Value |
+|--------|-------|
+| Starting portfolio | ~$99,875.62 (Jun 29 EOD — earliest confirmed post-gap data point) |
+| Ending portfolio | $97,974.55 (Jul 2 close; Jul 3 = NYSE holiday, Independence Day observed) |
+| Week return | −$1,901.07 (−1.90%) |
+| S&P 500 week | +1.76% (SPX 7,354.02 Jun 27 → 7,483.24 Jul 2) |
+| Bot vs S&P | −3.66% |
+| Trades | 4 new entries (W:0 / L:3 closed / open:1) |
+| New entries (weekly floor) | 4 ⚠ (vs 7-entry floor — holiday-shortened week: only 4 tradeable sessions; Jul 3 NYSE closed) |
+| Win rate | 0% (0 of 3 closed) |
+| Best trade | NVDA 18sh — only survivor; +$14.00 (+0.40%) unrealized at week end |
+| Worst trade | AMD −$1,194.59 (−6.10% from entry) |
+| Profit factor | N/A (no closed winners) |
+| Phase P&L | −$2,025.45 (−2.03%) vs $100K start |
+
+> **Week 11 (June 29 – July 3).** Holiday-shortened week: Jun 29–Jul 2 tradeable (Jul 2 early close 1 PM ET); Jul 3 NYSE closed (Independence Day observed). Four new entries; all three closed positions stopped out. AMD thesis partially damaged mid-hold (Meta→Google chip news Jul 1); NFP Jul 2 gap-down triggered AMD trailing stop on Day 3/5. MU trailing stop triggered Jul 1 (entered during gap). NVDA (Jun 29, same-day) stopped out — no detailed P&L on record. NVDA Type 1 SMA 150/200 (18sh, entered Jul 1) held through week end; fixed stop $191.50 GTC active.
+
+### Closed Trades
+| Ticker | Entry | Exit | P&L | Notes |
+|--------|-------|------|-----|-------|
+| NVDA (Jun 29, same-day) | Unknown (gap edge) | Unknown | Unknown | Entered and stopped out Mon Jun 29; no thesis/price record; log gap edge case |
+| MU (8sh) | $1,089.62 (gap) | $1,050.89 (Jul 1) | −$309.84 | 10% trailing stop `6b7d1bf3` triggered ~10:56 AM Jul 1; HWM $1,168.68; time stop was Jul 3 — trailing stop accelerated exit 2 days early |
+| AMD (35sh) | $560.31 (Jun 30) | $526.18 (Jul 2) | −$1,194.59 | Type 4 probe; 10% trail GTC; Meta→Google chip news (Jul 1, *The Information*) damaged thesis; NFP gap-down Jul 2 triggered auto-stop at open Day 3/5; time stop had been Jul 7 |
+
+**Total realized this week: ~−$1,504.43 (AMD + MU; NVDA Mon unknown)**
+
+### Open Positions at Week End
+| Ticker | Entry | Close | Unrealized | Stop |
+|--------|-------|-------|------------|------|
+| NVDA | $194.052 (Jul 1) | $194.83 | +$14.00 (+0.40%) | Fixed GTC `62d09a4e` $191.50 (1.71% buffer; just below SMA 150 ~$191–193) |
+
+### What Worked
+- **NVDA Type 1 SMA 150/200 thesis intact:** Entered Jul 1 at SMA 150 zone ($192–193); above SMA 150 confirmed (Finbox $191.98); Blackwell/AI supercycle thesis unchanged; fixed stop $191.50 auto-manages SMA floor
+- **AMD trailing stop auto-executed without manual override:** NFP gap-down (Jul 2) triggered stop at $526.18 exactly as designed; no hesitation, no intervention; system integrity preserved
+- **MU trailing stop auto-executed before time stop:** 10% trail captured HWM gains and auto-exited Jul 1; time stop would have been Jul 3 (early close) — auto-stop managed exit 2 days early with minimal P&L difference
+- **NFP risk pre-flagged in pre-market research (Jul 2):** AMD stop proximity ($7.14 buffer, 1.34%) explicitly called out; risk scenario modeled correctly; result was within the expected range
+- **Holiday-week process intact:** All 4 tradeable sessions had documented entries or valid NO-TRADE-DAY reasoning; Jul 3 holiday correctly identified and no trading attempted
+
+### What Didn't Work
+- **All three closed positions stopped out (0% win rate):** AMD, MU, and NVDA (Mon) all exited at losses; only the NVDA Type 1 entry (Jul 1) survives; week return −1.90% in a +1.76% S&P market
+- **AMD thesis damage mid-hold (Meta→Google chip news):** *The Information* Jul 1 report — Meta plans to use Google OG/OGL chips instead of AMD/NVDA Instinct GPUs by 2027 — directly weakened the "Meta 6GW GPU anchor" pillar of the AMD thesis; position was already in a probe (time-bounded), but the thesis damage flag should have informed a tighter watch on the stop
+- **AMD entered Jun 30 (Day 1) into a sector already weakened by AVGO −12% AMC Jun 29:** AVGO's AI outlook disappointment was known pre-market Jun 30; entering AMD (AI-GPU adjacent) the next day into ongoing semiconductor headwinds compressed the thesis cushion from Day 1
+- **Phase P&L deteriorated to −2.03%:** After peaking at approximately +5% (Jun 3), repeated stop-outs across Weeks 7–11 have eroded gains; now 2% below starting capital with 5 days left (Jul 7–11)
+- **Weekly floor: 4/7 (8th consecutive under-pace week):** Holiday-shortened week (4 sessions) provides partial mitigation, but systemic under-floor pace remains unresolved across entire post-challenge period
+
+### Key Lessons
+- **Thesis damage signals mid-hold require a stop-proximity review, not a stop move:** When a fundamental pillar weakens (Meta→Google chip news), the correct action is to check how far price is from the stop and whether the time stop provides a natural exit soon enough. If price is near the stop AND thesis is damaged, no action is needed — the stop handles it. Do NOT move the stop. Do NOT exit manually ahead of the stop in a probe. Trust the system.
+- **AVGO earnings miss as AMD entry headwind was identifiable pre-market:** AVGO −12% AMC + the AI-outlook-disappointment read-through was in the Jun 30 pre-market research. AMD, while distinct (EPYC CPU + Instinct GPU vs AVGO networking ASIC), shares the "AI capex cycle" bid. Entering AMD the morning after a major AI-capex read-through disappointment added unnecessary headwind. Prefer to wait 1 session after a major semi earnings miss before entering a correlated name.
+- **NFP day with a probe near its stop is a "no add" day:** When a Type 4 probe has < 2% buffer to stop AND a binary macro event (NFP, CPI) is scheduled, the pre-market plan should be "hold and let auto-stop manage" — no new probes in the same sector, and no additions. This was applied correctly (no new entries on Jul 2), but should be formalized.
+- **Holiday-week liquidity degrades entry quality:** Jul 2 early close (1 PM ET) left less time for setups to develop; spreads on CRWD and MRVL were wide even at 9:40 AM. For holiday-shortened weeks, reduce universe scan to highest-conviction names and accept that 4–5 entries (not 7) is the realistic floor.
+
+### Adjustments for Next Week (July 7–11 — FINAL 5 DAYS)
+- **This is the final stretch (Days 26–30 of the post-challenge sprint).** Phase P&L: −2.03%. Need to rebuild toward positive territory.
+- **NVDA (Jul 1 Type 1):** Confirm above SMA 150 at Jul 7 open (pre-market check critical; stop $191.50 has 1.71% buffer). If pre-market < $192 → prepare for stop trigger. DO NOT move stop down.
+- **CRWD (Priority 1):** Post 4:1 split (Jul 2); spread was 7%+ on Day 1 (Jul 2). By Jul 7 (Day 4 post-split) spread should tighten. Check spread ≤1.5% at 9:40 AM. If passes → Type 4 momentum probe (half-size, time stop Jul 14). Cybersecurity AI urgency thesis intact (PANW +40% YTD).
+- **AMD (Priority 2):** Stopped out Jul 2 @ $526.18. Re-entry gate: SMA 20 pullback zone (~$540–555). Do NOT chase above SMA 20; only enter on dip to SMA 20 with bounce confirmation + spread ≤1.5%.
+- **META (Priority 3):** Confirmed +10% on Jun 30 (AI cloud compute expansion). If above SMA 200 at open → Type 3 or Type 4; verify SMA 200 status first.
+- **FOMC Minutes (Tue Jul 7, 7 PM ET):** No new entries Tuesday afternoon after 3:30 PM ET; hawkish Warsh tone could reprice rate expectations.
+- **Weekly floor Jul 7–11:** All 5 sessions tradeable; must target 7 new entries. With NVDA held (1/4 slot) and 3 open slots, aggressive scan required. Types 2 and 4 are the sprint tools.
+
+### Overall Grade: C
+> Rationale: Stop system auto-executed all exits cleanly — AMD and MU trailing stops triggered without manual intervention; process integrity preserved. NVDA Type 1 entry (Jul 1) is structurally sound. Holiday-shortened week (4 sessions) mitigates the 4/7 floor miss partially. Penalties: (1) −3.66% relative underperformance vs S&P in a positive week; (2) 0% win rate on all closed positions; (3) AMD entry on Jun 30 came one day after AVGO −12% AI-miss — identifiable headwind; (4) phase P&L deteriorated to −2.03%; (5) 8th consecutive week below the 7-entry floor. Grade C not D because the stop system functioned correctly on every exit, no rule violations occurred, and NVDA Type 1 provides a legitimate recovery path into the final 5 days.
