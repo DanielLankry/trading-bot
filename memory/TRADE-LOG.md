@@ -2,6 +2,19 @@
 
 ---
 
+### Jul 06 — Midday Scan (Day 26/30 — Week 12, Monday — FINAL SPRINT)
+**Portfolio:** ~$98,004 | **Cash:** $94,467.61 | **Long MV:** $3,535.92 | **Phase P&L:** ~−$1,996 (~−2.00%)
+
+**Cuts:** NONE — NVDA unrealized_plpc +1.23% (entry $194.052 → live $196.44). Well above −7% threshold.
+**Stop adjustments:** NONE — NVDA only +1.23% from entry; tightening thresholds at +15% / +20% not reached. Fixed stop $191.50 (`62d09a4e`) unchanged.
+**Thesis breaks:** NONE — Perplexity confirms no thesis-breaking events midday Jul 6. Any sector softness is KOSPI-driven macro pressure, not NVDA-specific. AI ecosystem narrative intact; Q2 guide $91B anchor holds.
+
+| Ticker | Shares | Entry | Midday | Unrealized P&L | Stop | Notes |
+|--------|--------|-------|--------|----------------|------|-------|
+| NVDA | 18 | $194.052 | $196.44 | +$42.98 (+1.23%) | Fixed GTC `62d09a4e` $191.50 | Type 1 — thesis intact, hold |
+
+---
+
 ### Jul 06 — Market-Open (Day 26/30 — Week 12, Monday — FINAL SPRINT)
 **Portfolio:** $97,977.34 | **Cash:** $94,467.61 (96.4%) | **Long MV:** $3,509.73 | **Phase P&L:** −$2,022.66 (−2.02%) | **Daytrade count:** 0
 
