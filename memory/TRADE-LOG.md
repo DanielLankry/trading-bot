@@ -2,6 +2,17 @@
 
 ---
 
+### Jul 06 — EOD Snapshot (Day 26/30, Week 12 Monday — FINAL SPRINT)
+**Portfolio:** $97,985.12 | **Cash:** $94,467.61 (96.4%) | **Day P&L:** +$10.57 (+0.01%) | **Phase P&L:** −$2,014.88 (−2.01%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| NVDA | 18 | $194.052 | $195.42 | +0.30% | +$24.57 (+0.70%) | Fixed GTC `62d09a4e` $191.50 |
+
+**Notes:** Quiet Day 26 to open the final sprint week. No new entries — market-open scan found zero qualifying setups (CRWD illiquid post-split, AMD bounce unconfirmed, TQQQ not at SMA 50 zone). NVDA 18sh drifted slightly higher (+0.30% on the day, +0.70% from entry $194.052) and remains the sole position; fixed stop $191.50 GTC (`62d09a4e`) active, 2.0% below today's close $195.42. Day P&L +$10.57 is almost entirely NVDA mark-to-market drift. Phase P&L remains −$2.01% vs $100K start with 4 trading days left (Days 27–30, Jul 7–10). ⚠ Weekly floor: 0/7 entries this week — aggressive scanning required Tue–Fri to satisfy minimum pace. Priority: confirm SPY/QQQ macro filter at Jul 7 open, assess AMD re-entry thesis, scan for Type 2 breakout and Type 4 momentum probe setups.
+
+---
+
 ### Jul 06 — Midday Scan (Day 26/30 — Week 12, Monday — FINAL SPRINT)
 **Portfolio:** ~$98,004 | **Cash:** $94,467.61 | **Long MV:** $3,535.92 | **Phase P&L:** ~−$1,996 (~−2.00%)
 
