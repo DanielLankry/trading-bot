@@ -2,6 +2,31 @@
 
 ---
 
+### Jul 06 — Market-Open (Day 26/30 — Week 12, Monday — FINAL SPRINT)
+**Portfolio:** $97,977.34 | **Cash:** $94,467.61 (96.4%) | **Long MV:** $3,509.73 | **Phase P&L:** −$2,022.66 (−2.02%) | **Daytrade count:** 0
+
+**Trades fired:** NONE
+
+**NO-TRADE-DAY (Rule A)** — Zero universe tickers qualify for Setup Types 1–5. All planned candidates fail entry gates.
+
+| Ticker | Status | Reason |
+|--------|--------|--------|
+| CRWD | SKIP | Spread 9.56% (bp $188.15 / ap $207.06) → FAILS ≤1.5% gate. Day 3 post-4:1 split — illiquidity persists. |
+| AMD | WATCH ONLY | Spread 0.52% ✓; price ~$542 (gap +4.7% from $517.82 close). SMA 20 unconfirmed (est $530–545). Thesis partially damaged (Meta→Google chip news, stopped out Jul 2). Research flagged HIGH BAR for re-entry; bounce candle not confirmed. Catalyst: Turing backing news (Bloomberg Jul 6). |
+| TQQQ | SKIP | QQQ not at SMA 50 pullback zone — Type 5 not viable. |
+| META/MSFT/PLTR | DISQUALIFIED | Below SMA 200. |
+| MRVL | LOW PRIORITY | Spread estimated wide (>2%); semiconductor sector crowded. |
+
+**Open positions (1/4 max):**
+| Ticker | Shares | Entry | Current | Unrealized P&L | Stop | Notes |
+|--------|--------|-------|---------|----------------|------|-------|
+| NVDA | 18 | $194.052 | $194.97 | +$16.58 (+0.48%) | Fixed GTC `62d09a4e` $191.50 | Type 1 SMA 150/200 — thesis intact |
+
+**Macro:** VIX 15.81 (Jul 3 close) ✓ GREEN | SPY/QQQ above SMA 50 ✓ | All 5 setup types active | Probe cap: 0/2 | Leveraged ETF: 0/1
+**Trades this week (Week 12):** 0 — Day 1 of sprint final 5. CRWD illiquid, AMD unconfirmed; scan tomorrow for fresh setups. ⚠ Floor requires 7 entries by Jul 10 (Days 26–30).
+
+---
+
 ### Jul 03 — EOD Snapshot (Day 25 — HOLIDAY, Week 11 Friday, Independence Day Observance)
 **Portfolio:** $97,974.55 | **Cash:** $94,467.61 (96.4%) | **Day P&L:** $0.00 (0.00%) — MARKET CLOSED | **Phase P&L:** −$2,025.45 (−2.03%)
 
