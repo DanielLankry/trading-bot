@@ -5,6 +5,125 @@ Format each entry:
 
 ---
 
+## 2026-07-06 — Pre-Market Research (Day 26/30 — Week 12, Monday — FINAL SPRINT)
+
+### Account Snapshot (Live, Pre-Market)
+- **Equity:** $97,989.79 | **Cash:** $94,467.61 (96.4%) | **BP:** $387,732.54
+- **Phase P&L:** −$2,010.21 (−2.01% vs $100K start)
+- **Positions:** 1/4 | **Slots open:** 3 | Leveraged ETF: 0/1 | Type 4 probes: 0/2
+
+| Ticker | Shares | Entry | Pre-Mkt | Unrealized P&L | Stop | Type | Notes |
+|--------|--------|-------|---------|----------------|------|------|-------|
+| NVDA | 18 | $194.052 | $195.68 | +$29.24 (+0.84%) | Fixed GTC `62d09a4e` **$191.50** | Type 1 SMA 150/200 | Buffer $4.18 (2.14%) — improved vs last week |
+
+### Market Context
+| Indicator | Value | Signal |
+|-----------|-------|--------|
+| WTI crude | $68.78/bbl (range $67.82–$69.26) | ✅ Mild deflationary tailwind |
+| Brent crude | ~$71/bbl est | Neutral |
+| S&P 500 futures (Jul 3 close) | 7,557.00 (+28.75, +0.38%) | 62% open-higher probability for today |
+| VIX | 15.81 (Jul 3 close, −2.11%) | ✅ GREEN — all 5 setup types active |
+| QQQ above SMA 50 | Confirmed (prior sessions) | ✅ GREEN |
+| SPY above SMA 50 | Confirmed (prior sessions) | ✅ GREEN |
+
+**Macro mode: ALL 5 SETUP TYPES ACTIVE** | VIX 15.81 < 25 ✓ | SPY/QQQ above SMA 50 ✓
+
+**NOTE:** Prior research log incorrectly projected "Monday July 7" as next session. Today (Jul 6) IS a Monday and the first trading day of the final 5-day stretch (Days 26–30 = Jul 6, 7, 8, 9, 10, with Day 30 = Jul 11 being the final session per the challenge). Adjusted count: Day 26 = Jul 6 (today).
+
+### Key Catalysts Today (July 6, 2026)
+1. **S&P Global final US Services PMI — 9:45 AM ET** — prior 51.3; expansion signal
+2. **ISM Services PMI (June) — 10:00 AM ET** — prior May 54.5% (23rd consecutive expansion); prices component 71.3% (elevated — watch for hawkish read-through). June data context: Manufacturing Prices Index dropped 9.1 pts to 73% (inflation relief signal). If ISM Services prints hotter on prices → growth stock headwind.
+3. **No noteworthy premarket earnings today (Jul 6) or tomorrow (Jul 7)** — confirmed via Kiplinger/Interactive Investor
+4. **FOMC Minutes — Tuesday Jul 7** — June meeting; Warsh hawkish tone expected (PCE at 3-year high, Sept rate hike priced in). Risk event for growth stocks.
+5. **US trade balance (May) — Tuesday Jul 7, 8:30 AM ET**
+6. **Q2 earnings season begins mid-July** — GOOGL Jul 28, META Jul 29, AMZN/AAPL Jul 30, NVDA Aug 26. No universe tickers report this week.
+7. **US-Iran ceasefire** (announced late Jun 29) — drove S&P best quarterly gain since 2020; bullish backdrop intact. JPMorgan target 7,800 (+5%).
+8. **CRWD 4:1 split effective Jul 2** — today is Day 2 post-split trading.
+
+### NVDA Position Thesis Check
+- **Price:** $195.68 (pre-market, +0.84% vs Jul 3 close $194.83). Fixed stop $191.50 — buffer $4.18 (2.14%) ✓ IMPROVED
+- **SMA 150:** ~$191–193 confirmed (Finbox Jul 2). NVDA above SMA 150 by ~$2–4 ✓
+- **Recent catalysts (Jun 30–Jul 6):**
+  - Jul 2: New financing model with Sharon AI / Firmus — 210,000 Blackwell GPUs via revenue-sharing/credit-backed partnerships. NVDA transitioning from chip sales to AI infrastructure ecosystem.
+  - Jul 1: AI demand exceeded prior $500B market forecast — "enterprise AI spending in early innings" (NVDA blog).
+  - Jul 2: New EVP of Field Operations (Nicholas Parker, Microsoft veteran).
+  - May 20: Q2 revenue guide $91B (vs $86.84B est), $80B buyback.
+  - Vera CPU + Rubin GPU in trial production — first shipments H2 2026.
+  - China H200: Chinese government instructed tech firms to prepare for NVDA H200 orders (positive swing factor if approved).
+  - Analyst consensus: Goldman $285 / DA Davidson $300 / 61-analyst average $301.62. Q2 guide $91B is the key anchor.
+- **Earnings:** Aug 26, 2026 ✓ (>5 trading days, full-size eligible for Type 1)
+- **Thesis: INTACT + STRENGTHENED.** AI ecosystem strategy expanding. SMA 150 floor holds. Pre-market +0.84% is positive gap-up after 4-day holiday weekend.
+- **Action: HOLD. Fixed stop $191.50 manages. Do NOT move stop down.**
+
+### Universe Scan (All 5 Setup Types)
+| Ticker | Current Price | SMA Status | Spread | Setup | Verdict |
+|--------|--------------|------------|--------|-------|---------|
+| CRWD | $194.14 (Jul 5) / AH $194.82 | SMA 20: ~$174–194 (conflicting sources); SMA 50: $155–184; SMA 200: $125–176 — ALL below price. All 12 MAs = Strong Buy ✓ | Day 2 post-split — TBD at 9:40 AM | Type 4 Momentum Probe | **CHECK SPREAD at 9:40 AM — enter if ≤1.5%** |
+| AMD | $517.82 (Jul 2 close) | Below SMA 20 (est ~$530–545 zone); price declined from ATH $584.73. Likely below SMA 20. | — | Type 3 SMA 20 bounce ONLY IF confirmed at SMA zone | **WATCH ONLY — check SMA 20 at open; no entry if price below SMA** |
+| META | $582.90 (Jul 2 close) | SMA 200: $647.51; SMA 50: $607.53 — BELOW BOTH | — | Disqualified | **SKIP — below SMA 200** |
+| TQQQ | — | QQQ ~5–7% above SMA 50 (extended) | — | Type 5 — not at pullback zone | **SKIP** |
+| PLTR | — | Below SMA 200 (down 36% YTD confirmed) | — | Disqualified | **SKIP** |
+| MSFT | — | Below SMA 200 (confirmed recent records) | — | Disqualified | **SKIP** |
+| GOOGL | — | Below SMA 50 (confirmed Jul 1) | — | No valid setup | **SKIP unless SMA repairs** |
+| MRVL | — | Historically above SMA structure; spread wide | >2% est | Type 4 if spread ≤1.5% | **LOW PRIORITY — check spread** |
+| NVDA | $195.68 | HELD — Type 1 | — | — | **HOLD** |
+
+### Sector Context
+| Sector | YTD | Trend |
+|--------|-----|-------|
+| Energy | +23.3% | Leading (Iran war supply disruption + sticky inflation hedge) |
+| Materials | +17.4% | Leading (AI infrastructure buildout) |
+| Industrials | +14.1% | Leading (data center capex + defense) |
+| Consumer Staples | +15.6% | Defensive bid |
+| Information Technology | −3.3% | ⚠ LAGGING YTD — valuation headwind; AI semis (NVDA/AMD) bucking sector |
+| Communication Services | −1.2% | Lagging |
+| S&P 500 YTD | +9.32% (Jun 30) | Broad market healthy despite IT lag |
+
+**Key insight:** IT sector −3.3% YTD despite strong individual AI names. Macro rotation toward hard assets. NVDA individually outperforming (+25% YTD per research). Breadth positive: 8 of 11 sectors green.
+
+### Trade Ideas
+
+**Idea 1 — CRWD Type 4 Momentum Probe (PRIMARY)**
+- **Catalyst:** All 12 MAs = Strong Buy post-split; cybersecurity AI urgency (PANW +40% YTD; CRWD cybersecurity RS leader); PANW Q3 ARR +60% YoY read-through; post-split buying pressure; no earnings until ~Aug 2026 ✓
+- **Entry gate (ALL must pass):** Spread ≤1.5% at 9:40 AM | Price above SMA 20 (~$174–194 zone, confirm at open) | VIX < 22
+- **Size:** HALF (Type 4) — ~$9.5K (~49sh @ ~$194)
+- **Stop:** Hard GTC 5% below entry (~$184.43 if entry $194)
+- **Time stop:** Jul 11 (Day 5 of 5 — challenge final day; MOC by 3:50 PM ET Jul 11)
+- **Position cap post-entry:** 2/4 ✓ | 0/1 leveraged ETFs ✓ | 1/2 probes (CRWD only, NVDA is Type 1) ✓
+- **Risk to challenge:** $9,500 × 5% = $475 (0.49% of equity) ✓ — well within Type 4 half-size limit
+
+**Idea 2 — AMD Type 3 SMA 20 Re-entry (SECONDARY — conditional only)**
+- **Catalyst:** Wells Fargo PT $615; BofA PT $560; "Advancing AI 2026" event Jul 23 approaching; EPYC Venice ramp; no earnings until ~Oct 2026 ✓
+- **Gate (ALL required):** Confirm SMA 20 level at open (est. $530–545) | Price AT or just above SMA 20 (bounce confirmation, not through it) | Spread ≤1.5% | NOT entering if AMD is below SMA 20 without bounce candle
+- **⚠ Caution:** AMD stopped out Jul 2 at $526.18 with thesis partially damaged (Meta→Google chip news). Jul 2 close $517.82 is likely below SMA 20. High bar for re-entry today.
+- **Size if enters:** FULL (Type 3) — ~$19K | **Stop:** Daily close below SMA 20
+- **Decision: WATCH ONLY. Only enter on confirmed SMA 20 bounce with strong price action.**
+
+**Idea 3 — TQQQ Type 5 (TERTIARY — monitor only)**
+- QQQ needs to pull back to SMA 50 zone. Currently extended ~5–7% above SMA 50. Not viable unless today's ISM Services triggers a meaningful pullback.
+- **Do NOT enter if QQQ >4% above SMA 50.**
+
+### Risk Factors
+1. **ISM Services prices (10 AM ET)** — May reading was 71.3% (elevated); if June stays hot → hawkish read → growth stock pressure mid-session.
+2. **FOMC Minutes Tuesday (Jul 7)** — Warsh hawkish rhetoric could reprice rate expectations → tech headwind Tuesday afternoon. Don't chase entries late Tuesday.
+3. **CRWD spread risk** — Day 2 post-split (Jul 2 was Day 1 at 7%+ spread). Day 2 may still be 3–5%. Must verify ≤1.5% — this is a hard gate.
+4. **AMD thesis overhang** — Meta→Google chip switch news (Jul 1) reduced core thesis conviction. Re-entry requires clean setup, not desperation to fill trade floor.
+5. **Phase P&L −2.01%** — Need to rebuild in final 5 days. High-conviction setups only. No force-trades.
+6. **IT sector lagging YTD −3.3%** — structural headwind for high-beta tech. Concentration risk.
+7. **Rate hike September** — Fed funds futures pricing potential Sept hike; PCE at 3-year high. Growth stock valuation headwind.
+8. **Week 12 floor:** 0/7 entries so far this week. Need 7 entries by Jul 11 (final challenge day). This is an aggressive target for 5 trading days. Types 2 and 4 are the sprint tools. Rotation acceptable.
+
+### Decision: CONDITIONAL TRADE — Check CRWD Spread at 9:40 AM
+- **Pre-open:** NVDA pre-market +0.84% — HOLD, stop $191.50 GTC active. No NVDA action.
+- **9:40 AM:** Scan CRWD spread — if ≤1.5% AND price above SMA 20 → Type 4 entry half-size (~49sh, stop 5% below entry). This is the primary entry.
+- **10:00 AM (ISM Services):** If ISM prices component spikes → monitor VIX. If VIX >22 → delay new entries until 10:30 AM stabilization.
+- **AMD:** WATCH only. Confirm SMA 20 level at open. If price is at/above SMA 20 with bounce candle AND spread ≤1.5% → consider Type 3 entry. High bar; do NOT enter if AMD is below SMA 20.
+- **TQQQ:** SKIP unless QQQ corrects 4%+ intraday toward SMA 50.
+- **Floor pace:** 0/7 Week 12. Final sprint — must generate entries daily. If CRWD qualifies → enter. If both CRWD + AMD qualify → enter both (2/7 floor start). No hesitation on clean setups.
+- **NVDA:** HOLD. Fixed stop $191.50 manages risk. Thesis strengthened by Jul 1–2 news. Do NOT move stop.
+
+---
+
 ## 2026-07-03 — Pre-Market Research (Week 11/12 Bridge — Independence Day Observed, NYSE CLOSED)
 
 > **⚠ MARKET CLOSED TODAY.** NYSE observes Independence Day (Jul 4 falls Saturday → Friday Jul 3 is the holiday). No trading. Next session: **Monday July 7, 2026** (Day 26, final 5 days of challenge).
