@@ -101,6 +101,12 @@ Semiconductor sector under 2-day pressure: Chipmakers sold off Thu Jul 3 and Mon
 - **9:40 AM — AMD:** Spread ≤1.5% + price $535-560 → enter Type 4 half-size (~17-18sh, stop 5% below entry, time stop Jul 14).
 - Both = 2 entries today, 2/4 positions, 2/2 probes. Sector diversity ✓.
 
+### Afternoon Addendum — Midday Scan (~12:00 PM ET)
+- **NVDA:** GTC stop `62d09a4e` at $191.50 triggered at ~10:27 AM ET. Fill $191.47 (slippage $0.03). Realized P&L −$46.48 (−1.33%). 0 positions now. Mechanical exit — correct per Type 1 rules.
+- **CRWD:** Spread normalized post-split. Price $192–201 day range (open $200.69); volume 10.19M (~avg). UBS Buy $235, Stifel Buy $220 — both reiterated today. MACD sell signal, RSI 47. Primary setup candidate for Jul 8–9 but **NOT entering today** — FOMC Minutes Wednesday Jul 8 2 PM ET (hawkish Warsh tone, PCE 3.4%) creates overnight macro risk. Prefer to enter post-FOMC clarity Wednesday afternoon or Thursday morning.
+- **AMD:** ~$510–513, below SMA 20 ($529), below prior stop-out $526.18. No entry.
+- **Decision: NO-TRADE REST OF DAY.** FOMC risk tomorrow outweighs any afternoon setup. Reset to full-cash. 3 days remain to execute 7 entries.
+
 ---
 
 ## 2026-07-06 — Pre-Market Research (Day 26/30 — Week 12, Monday — FINAL SPRINT)

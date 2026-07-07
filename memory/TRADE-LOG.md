@@ -2,6 +2,28 @@
 
 ---
 
+### Jul 07 — Midday Scan (Day 27/30 — Week 12, Tuesday — FINAL SPRINT)
+**Portfolio:** $97,914.07 | **Cash:** $97,914.07 | **Long MV:** $0 | **Phase P&L:** −$2,085.93 (−2.09%)
+
+**Exits (since market-open):**
+| Ticker | Shares | Entry | Exit | Realized P&L | Exit Time (ET) | Notes |
+|--------|--------|-------|------|--------------|----------------|-------|
+| NVDA | 18 | $194.052 | $191.47 | −$46.48 (−1.33%) | ~10:27 AM Jul 7 | Fixed GTC stop `62d09a4e` at $191.50 triggered; SMA 150 floor breached per Type 1 exit rule. Slippage $0.03. |
+
+**Cuts:** NONE via −7% rule — NVDA exited by fixed GTC stop at −1.33% (SMA 150 floor, Type 1 mechanical exit). Auto-managed correctly.
+**Stop adjustments:** N/A — 0 positions after NVDA exit.
+**Thesis breaks:** NONE — no fundamental deterioration. Exit was mechanical; AI/Blackwell thesis intact but SMA 150 floor breached per stop rules.
+
+**Intraday research (Perplexity):**
+- **CRWD:** Price ~$199–200 (open $200.69, day range $192.22–$201.37); volume 10.19M (near avg 12.15M) — spread appears normalized post-split ✓. UBS maintained Buy $235 PT; Stifel reiterated Buy $220 PT (both today Jul 7). MACD sell signal, RSI 47 (neutral). **NO ENTRY today** — FOMC Minutes Wednesday Jul 8 2 PM ET = macro risk (hawkish Warsh/PCE 3.4%). Entering today means holding through overnight FOMC surprise. Monitor pre-market Jul 8.
+- **AMD:** ~$510–513 (below SMA 20 ~$529, below prior stop-out $526.18). No recovery catalyst. **SKIP.**
+
+**Open positions:** 0/4 | Probe slots: 0/2 | Leveraged ETF: 0/1
+
+**Week 12 pace:** 0/7 — ⚠ 3 trading days remain (Jul 8, 9, 10). CRWD is primary candidate: spread normalized, dual analyst Buy reiterations today. Entry Jul 8 post-FOMC clarity (minutes at 2 PM ET) or Jul 9 morning if macro settles. AMD needs recovery above $526 + SMA 20 before re-entry.
+
+---
+
 ### Jul 07 — Market-Open (Day 27/30 — Week 12, Tuesday — FINAL SPRINT)
 **Portfolio:** $97,937.29 | **Cash:** $94,467.61 (96.5%) | **Long MV:** $3,469.68 | **Phase P&L:** −$2,062.71 (−2.06%) | **Daytrade count:** 0
 
