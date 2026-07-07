@@ -5,6 +5,104 @@ Format each entry:
 
 ---
 
+## 2026-07-07 — Pre-Market Research (Day 27/30 — Week 12, Tuesday — FINAL SPRINT)
+
+### Account Snapshot (Live, Pre-Market)
+- **Equity:** $97,910.11 | **Cash:** $94,467.61 (96.5%) | **BP:** $387,509.44
+- **Phase P&L:** −$2,089.89 (−2.09% vs $100K start)
+- **Positions:** 1/4 | **Slots open:** 3 | Leveraged ETF: 0/1 | Type 4 probes: 0/2
+
+| Ticker | Shares | Entry | Pre-Mkt | Unrealized P&L | Stop | Type | Notes |
+|--------|--------|-------|---------|----------------|------|------|-------|
+| NVDA | 18 | $194.052 | **$191.317** | **−$49.23 (−1.41%)** | Fixed GTC `62d09a4e` **$191.50** | Type 1 SMA 150/200 | ⚠️ **STOP WILL TRIGGER AT OPEN — price $191.317 is BELOW $191.50 stop** |
+
+**⚠️ CRITICAL:** NVDA pre-market $191.317 < $191.50 GTC stop. Stop order extended_hours=false → will trigger at market open. Expected exit ~$191.317–$191.50. Estimated realized P&L: ~−$49 (−1.41%). Do NOT intervene or move stop down. Let auto-stop manage.
+
+### Market Context
+| Indicator | Value | Signal |
+|-----------|-------|--------|
+| WTI crude | ~$69.51/bbl (+1.40%) | ✅ Moderate |
+| Brent crude | ~$73-75/bbl est | Neutral |
+| S&P 500 futures | 7,570–7,580 (−0.15% to −0.28%) | ⚠️ NEGATIVE open |
+| Nasdaq 100 futures | Down −0.30% (NQU26) | ⚠️ Semi/chip headwind |
+| VIX | 15.57 (Jul 6 close) | ✅ GREEN — below 25, all 5 types active |
+| SPY above SMA 50 | Confirmed | ✅ GREEN |
+| QQQ above SMA 50 | Confirmed | ✅ GREEN |
+
+**Macro mode: ALL 5 SETUP TYPES ACTIVE** | VIX 15.57 < 25 ✓ | SPY/QQQ above SMA 50 ✓
+
+Semiconductor sector under 2-day pressure: Chipmakers sold off Thu Jul 3 and Mon Jul 6; NQU26 −0.30% pre-mkt today. NVDA pre-market breach driven by sector rotation + AI bubble concerns + institutional exits (Thiel Macro sold 537K NVDA shares; SoftBank also exited). No NVDA-specific fundamental deterioration.
+
+### Key Catalysts Today (July 7, 2026)
+1. **US Trade Balance (May) — 8:30 AM ET** — Advance goods data: deficit widened to $105.8B in May (vs $85B expected — worst in 14 months). Full trade report today. Watch for risk-off impulse at 8:30 AM.
+2. **FOMC Minutes — WEDNESDAY July 8** (not today). Warsh hawkish tone; PCE 3.4% YoY; potential Sept rate hike. Biggest macro risk tomorrow.
+3. **Semiconductor 2-day selloff** — AI bubble concerns + hedge fund exits driving chip pressure. Korea KOSPI contagion (earlier episode Jun 23 context).
+4. **OPEC+ output increase** — 5th consecutive month → oversupply trend → mild crude softness = slight positive for growth stocks.
+5. **No universe earnings today** — Confirmed. NVDA Aug 26, GOOGL Jul 28, META Jul 29, AMZN/AAPL Jul 30. All slots full-size eligible.
+6. **AMD:** Goldman Sachs PT raised $450→$640 this morning; +18% upside from $544. "Advancing AI 2026" event Jul 23 upcoming.
+7. **CRWD:** Day 5 post 4:1 split. Jul 7 intraday range $188.55–$209.49 — spread normalizing. Wells Fargo PT $900 pre-split = ~$225 post-split (+13%).
+
+### NVDA Position Thesis Check
+- **Price:** $191.317 (−2.17% from Jul 6 close $195.55). Stop $191.50 → price $0.183 BELOW stop.
+- **Thesis intact:** No NVDA-specific negative catalyst. Q2 guide $91B, Blackwell, China H200 approval potential all intact. Sector macro pressure driving breach.
+- **ACTION: DO NOT INTERVENE. Let stop `62d09a4e` execute. This is the correct Type 1 SMA 150/200 floor exit.**
+- Expected: 18sh exit near $191.317–$191.50 → Realized P&L ~−$49. 0/4 positions. 3 slots freed.
+
+### Universe Scan (All 5 Setup Types)
+| Ticker | Pre-Mkt Price | SMA Status | Gate | Setup | Verdict |
+|--------|--------------|------------|------|-------|---------|
+| NVDA | $191.317 | Stop triggers at open | — | EXIT | **STOP-OUT AT OPEN** |
+| CRWD | $199.38 (Jul 6 close); Jul 7 $188.55–$209.49 range | Above all SMAs (12/12 Strong Buy); +59% YTD | ≤1.5% spread at 9:40 AM | Type 4 Momentum Probe | **PRIMARY — check spread 9:40 AM** |
+| AMD | ~$544 pre-mkt ($552.05 Jul 6 close) | Weekly uptrend; support $495.15; Goldman PT $640 | ≤1.5% spread; $535-560 zone | Type 4 Momentum Probe | **SECONDARY — check at open** |
+| META | $582.90 | Below SMA 200 (~$647) | — | Disqualified | **SKIP** |
+| PLTR/MSFT/GOOGL | — | Below SMA 200 / SMA 50 | — | Disqualified | **SKIP** |
+| TQQQ | — | QQQ extended above SMA 50 | — | Type 5 not viable | **SKIP** |
+
+### Sector Context
+| Sector | 6M | 12M | Signal |
+|--------|----|-----|--------|
+| Information Technology | +21.1% | +47.3% | Leading structurally; near-term chip pressure |
+| Energy | +21.7% | +24.4% | Leading |
+| Industrials | +15.5% | +28.8% | Leading |
+| Consumer Discretionary | −2.8% | +13.3% | Lagging |
+| Health Care | −3.4% | +14.8% | Lagging (6M) |
+
+### Trade Ideas
+
+**Idea 1 — CRWD Type 4 Momentum Probe (PRIMARY)**
+- **Catalyst:** Day 5 post 4:1 split; all 12 SMAs Strong Buy; Wells Fargo PT ~$225 post-split (+13%); cybersecurity AI urgency; ARR $4.6B +26% YoY; PANW +40% YTD read-through; no earnings ~Aug 2026 ✓
+- **Entry gate:** Spread ≤1.5% at 9:40 AM | Price >$190 | VIX <22
+- **Size:** HALF (Type 4) — ~$9.5K (~47-48sh @ ~$199) | **Stop:** GTC 5% below entry (~$189)
+- **Time stop:** Jul 14 (Day 5/5 — MOC by 3:50 PM ET Jul 14)
+- **Position cap post-entry:** 1/4 ✓ | 0/1 leveraged ETFs ✓ | 1/2 probes ✓
+- **Risk:** $9,500 × 5% = $475 (0.49% equity) ✓
+
+**Idea 2 — AMD Type 4 Momentum Probe (SECONDARY)**
+- **Catalyst:** Goldman Sachs PT $640 (raised from $450 this morning); "Advancing AI 2026" Jul 23 event; weekly uptrend; EPYC Venice ramp; no earnings ~Oct 2026 ✓; different sector from CRWD (Semiconductors ≠ Cybersecurity ✓)
+- **Gate:** Spread ≤1.5% | Price $535-560 | Not below $526 (prior stop-out) | Spread + SMA confirmation
+- **Size:** HALF (Type 4) — ~$9.5-10K (~17-18sh @ ~$544) | **Stop:** GTC 5% below entry (~$517)
+- **Time stop:** Jul 14 (Day 5/5)
+- **⚠ Caution:** Prior stop-out Jul 2 at $526.18 (Meta→Google chip news). Goldman PT raise is fresh catalyst; re-entry valid only if structure confirms.
+
+**Idea 3 — TQQQ Type 5:** SKIP — QQQ too extended.
+
+### Risk Factors
+1. **NVDA stop triggers at open** — ~−$49 realized. Managed by rules.
+2. **Trade Balance 8:30 AM** — Advance goods data $105.8B deficit (worst in 14M). Risk-off impulse possible. Delay entries to 9:00 AM.
+3. **Semiconductor 2-day selloff** — Chips under pressure. New entries need clear confirmation.
+4. **FOMC Minutes Wednesday Jul 8** — Avoid chasing late entries today; tomorrow brings hawkish macro risk.
+5. **Phase P&L −2.09%** — 4 trading days left. Recovery requires quality entries, not forced trades.
+6. **Week 12 pace 0/7** — Day 2 of sprint final. CRWD + AMD = 2 entries today if both qualify.
+
+### Decision: TRADE (conditional on 9:40 AM spread check)
+- **At open:** Let NVDA stop `62d09a4e` execute. Do NOT intervene.
+- **8:30 AM:** Monitor Trade Balance + VIX. If VIX >20 → wait until 9:30 AM stabilization before entering.
+- **9:40 AM — CRWD:** Spread ≤1.5% + price >$190 + VIX <22 → enter Type 4 half-size (~47-48sh, stop 5% below entry, time stop Jul 14).
+- **9:40 AM — AMD:** Spread ≤1.5% + price $535-560 → enter Type 4 half-size (~17-18sh, stop 5% below entry, time stop Jul 14).
+- Both = 2 entries today, 2/4 positions, 2/2 probes. Sector diversity ✓.
+
+---
+
 ## 2026-07-06 — Pre-Market Research (Day 26/30 — Week 12, Monday — FINAL SPRINT)
 
 ### Account Snapshot (Live, Pre-Market)
