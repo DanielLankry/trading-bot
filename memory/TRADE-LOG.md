@@ -2,6 +2,33 @@
 
 ---
 
+### Jul 07 — Market-Open (Day 27/30 — Week 12, Tuesday — FINAL SPRINT)
+**Portfolio:** $97,937.29 | **Cash:** $94,467.61 (96.5%) | **Long MV:** $3,469.68 | **Phase P&L:** −$2,062.71 (−2.06%) | **Daytrade count:** 0
+
+**Trades fired:** NONE
+
+**NO-TRADE-DAY (Rule A)** — Zero universe tickers qualify for Setup Types 1–5. All candidates fail entry gates or SMA disqualification.
+
+| Ticker | Status | Reason |
+|--------|--------|--------|
+| CRWD | SKIP | Spread 9.97% at 9:35 AM (bp $186.44 / ap $205.00) → narrowed to 5.30% by 9:40 AM (bp $194.69 / ap $205.00) → still FAILS ≤1.5% gate. Day 5 post-4:1 split — illiquidity persists. |
+| AMD | SKIP | Price $510–$513 at open → FAILS entry zone ($535–560) AND below prior stop-out $526.18. Also below SMA 20 (~$529.50 per Perplexity). No AMD-specific catalyst; broad semiconductor profit-taking + sector pressure. Goldman PT $640 does not override price structure failure. |
+| MRVL | DISQUALIFIED | SMA structure broken: below SMA 20 (~$273), SMA 50 (~$272), AND SMA 200 (~$265) per Investing.com Jul 2 data. RSI 31.2 (oversold, not a momentum leader). No valid setup type. Spread 0.14% ✓ but entry gates fail. |
+| META | DISQUALIFIED | Price ~$610 → below SMA 200 (~$647). |
+| PLTR/MSFT | DISQUALIFIED | Below SMA 200. |
+| GOOGL | SKIP | Below SMA 50 — no valid setup type. |
+| TQQQ | SKIP | QQQ ~$711.78 (~7% above SMA 50 est. ~$665) → Type 5 not at pullback zone. |
+
+**Open positions (1/4 max):**
+| Ticker | Shares | Entry | Current | Unrealized P&L | Stop | Notes |
+|--------|--------|-------|---------|----------------|------|-------|
+| NVDA | 18 | $194.052 | $192.62 | −$25.78 (−0.74%) | Fixed GTC `62d09a4e` $191.50 | Type 1 SMA 150/200 — pre-market was $191.317 (below stop) but recovered above at open. ⚠ Buffer $1.12 (0.58%) — VERY TIGHT. Hold; do NOT intervene. Stop auto-manages. |
+
+**Macro:** VIX ~15.57 (Jul 6 close) ✓ GREEN | SPY/QQQ above SMA 50 ✓ | All 5 setup types active | Semiconductor sector under 2-day selling pressure | US Trade Balance miss 8:30 AM (deficit $105.8B vs $85B expected) | FOMC Minutes WEDNESDAY Jul 8 (not today — risk deferred to tomorrow)
+**Trades this week (Week 12):** 0 — Day 2. Both primary candidates blocked (CRWD illiquid, AMD below entry zone + SMA 20, MRVL disqualified below SMA 200). ⚠ Floor requires 7/7 by Jul 11; realistically targeting 3–5 remaining entries (Days 28–30, Jul 8–10). FOMC Minutes tomorrow is macro risk — scan pre-FOMC for setups; do NOT enter late in session Wednesday.
+
+---
+
 ### Jul 06 — EOD Snapshot (Day 26/30, Week 12 Monday — FINAL SPRINT)
 **Portfolio:** $97,985.12 | **Cash:** $94,467.61 (96.4%) | **Day P&L:** +$10.57 (+0.01%) | **Phase P&L:** −$2,014.88 (−2.01%)
 
