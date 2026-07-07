@@ -2,6 +2,17 @@
 
 ---
 
+### Jul 07 — EOD Snapshot (Day 27/30, Week 12 Tuesday — FINAL SPRINT)
+**Portfolio:** $97,914.07 | **Cash:** $97,914.07 (100%) | **Day P&L:** −$73.44 (−0.075%) | **Phase P&L:** −$2,085.93 (−2.09%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| — | — | — | — | — | — | — |
+
+**Notes:** All cash at close. NVDA 18sh (Type 1 SMA 150/200 pullback, entered Jul 1 @ $194.052, fixed GTC stop `62d09a4e` $191.50) triggered at $191.47 (~10:27 AM ET) as price breached SMA 150 floor — realized −$46.48 (−1.33%). Day P&L −$73.44 reflects NVDA declining from Jul 6 close (~$195.41 implied by Alpaca last_equity $97,987.51) to $191.47 exit, consistent with midday entry. No new positions opened today — market-open scan found zero qualifying setups (CRWD spread >5% post-split, AMD below SMA 20 and prior stop, MRVL/META/PLTR/MSFT below SMA 200, GOOGL below SMA 50, TQQQ not at pullback zone). FOMC Minutes tomorrow Jul 8 at 2 PM ET deferred CRWD entry — hawkish Warsh/PCE 3.4% risk. Midday scan confirmed CRWD dual analyst reiterations (UBS $235 Buy, Stifel $220 Buy). Phase P&L: −$2,085.93 (−2.09%) vs $100K start. ⚠ Final sprint: 3 trading days remain (Days 28–30: Jul 8–10). Weekly floor: 0/7 new entries — aggressive scanning required. Primary candidate: CRWD post-FOMC Jul 8 if spread normalizes ≤1.5% and SMA structure intact.
+
+---
+
 ### Jul 07 — Midday Scan (Day 27/30 — Week 12, Tuesday — FINAL SPRINT)
 **Portfolio:** $97,914.07 | **Cash:** $97,914.07 | **Long MV:** $0 | **Phase P&L:** −$2,085.93 (−2.09%)
 
