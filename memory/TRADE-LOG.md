@@ -2,6 +2,30 @@
 
 ---
 
+### Jul 08 — Market-Open (Day 28/30 — Week 12, Wednesday — FINAL SPRINT)
+**Portfolio:** $97,914.05 | **Cash:** $97,914.05 (100%) | **Long MV:** $0 | **Phase P&L:** −$2,085.95 (−2.09%) | **Daytrade count:** 0
+
+**Trades fired:** NONE
+
+**NO-TRADE-DAY (Rule A)** — Zero universe tickers qualify for Setup Types 1–5. Both primary candidates fail entry gates.
+
+| Ticker | Status | Reason |
+|--------|--------|--------|
+| CRWD | SKIP | Spread 8.09% (bp $183.82 / ap $200.00) at 9:35 AM ET → FAILS ≤1.5% gate. Day 8 post-4:1 split — illiquidity persists. |
+| AMD | SKIP | Price ~$515 (bp $514.70 / ap $516.31, spread 0.31% ✓) — BELOW SMA 20 (~$529 est). No bounce confirmation; structure broken since Jul 2 stop-out. |
+| NVDA | SKIP | Stopped out Jul 7 at $191.47; SMA 150 breached. Too soon for re-entry; no new thesis. |
+| META/MSFT/PLTR | DISQUALIFIED | Below SMA 200. |
+| GOOGL | SKIP | Below SMA 50 — no valid setup type. |
+| TQQQ | SKIP | QQQ extended well above SMA 50 → Type 5 not at pullback zone. |
+| SMH/ARKK | SKIP | Semiconductor sector −11.4% in July — sector breakdown. |
+
+**Open positions (0/4 max):** None.
+
+**Macro:** VIX ~15.87 (Jul 7 close) ✓ GREEN | SPY/QQQ above SMA 50 ✓ | All 5 setup types active | **FOMC Minutes 2:00 PM ET — entry cutoff was 12:00 PM ET** | Nasdaq futures −0.62% pre-market (tech headwind)
+**Trades this week (Week 12):** 0 — ⚠ CRITICAL. 2 trading days remain (Jul 9, Jul 10). Primary path: CRWD Day 9 post-split (spread expected to narrow further); AMD needs SMA 20 reclaim ($529+) for re-entry eligibility.
+
+---
+
 ### Jul 07 — EOD Snapshot (Day 27/30, Week 12 Tuesday — FINAL SPRINT)
 **Portfolio:** $97,914.07 | **Cash:** $97,914.07 (100%) | **Day P&L:** −$73.44 (−0.075%) | **Phase P&L:** −$2,085.93 (−2.09%)
 
