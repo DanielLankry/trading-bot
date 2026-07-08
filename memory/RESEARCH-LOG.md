@@ -85,6 +85,30 @@ Sector context: Tech YTD −3.3% to −3.4%; SOXQ (semis) −11.4% in July alone
 - Primary vehicle: CRWD (spread gate is the only blocker)
 - Fallback: If CRWD spread fails AND AMD below SMA 20 AND FOMC unclear → **NO-TRADE-DAY valid (Rule A)** with re-scan Jul 9
 
+### Afternoon Addendum — Midday Scan 2026-07-08 (~12:00 PM ET)
+
+**Outcome:** NO-TRADE-DAY confirmed (market-open already logged Rule A). Positions: 0. Cash: $97,914.05.
+
+**CRWD (Day 7 post-split — primary):**
+- Price: ~$194.36 midday; intraday range ~$192–$203 (Robinhood) / low print ~$185.76 (CNBC — likely includes pre-market volatility)
+- Volume: 9.55M vs avg 11.73M (82% of average — day 7 still slightly low)
+- Spread: Not confirmed ≤1.5%; entry gate (Price >$195) FAILED midday — price below threshold
+- NEW: Morgan Stanley initiates/maintains Buy with $230 PT (today 7/8) → adds to UBS $235, Stifel $220 analyst stack
+- FOMC cutoff was 12 PM ET — no new entries today regardless of spread
+- **Day 9 (Jul 9) outlook:** Spread should continue to normalize; watch 9:40 AM gate. Price needs to reclaim $195+ and show ≤1.5% spread. SMA structure remains intact (+66% YTD, all 12 SMAs bullish). Post-FOMC clarity removes today's binary overhang → cleaner setup.
+
+**AMD (secondary):**
+- Price: ~$512.15 midday; doji/neutral candle (consolidation)
+- SMA 20 estimated ~$529 — AMD still ~$17 below (~−3.2%) → FAILS entry gate
+- Long-term structure bullish (all SMAs 20/50/150/200 below price per Perplexity), but short-term: price needs to reclaim SMA 20
+- Upcoming catalyst: Venice launch at AMD Advancing AI 2026 event Jul 22–23 (BofA $560, Mizuho $615 targets)
+- **Day 29 (Jul 9) gate:** Must be above ~$529 at 9:35 AM to qualify for Type 3 SMA 20 pullback or Type 4 probe
+
+**Jul 9 pre-market priority:**
+1. CRWD spread check at 9:40 AM (Day 8 post-split) — primary
+2. AMD SMA 20 reclaim check at open — secondary
+3. VIX and SPY/QQQ macro filters — both confirmed green today; re-verify tomorrow
+
 ---
 
 ## 2026-07-07 — Pre-Market Research (Day 27/30 — Week 12, Tuesday — FINAL SPRINT)

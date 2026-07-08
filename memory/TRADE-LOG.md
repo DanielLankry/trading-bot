@@ -2,6 +2,21 @@
 
 ---
 
+### Jul 08 — Midday Scan (Day 28/30 — Week 12, Wednesday — FINAL SPRINT)
+**Portfolio:** $97,914.05 | **Cash:** $97,914.05 (100%) | **Long MV:** $0 | **Phase P&L:** −$2,085.95 (−2.09%)
+
+**Cuts (−7% rule):** NONE — 0 positions open.
+**Stop adjustments:** NONE — 0 positions open.
+**Thesis breaks:** NONE — 0 positions open.
+
+**Intraday notes:**
+- CRWD: ~$194 midday, touched intraday low ~$185.76; price failed >$195 entry gate. Spread not confirmed ≤1.5%. FOMC entry cutoff 12 PM ET reached — no entry today.
+- AMD: ~$512, still below SMA 20 (~$529). Entry gate fails.
+- Morgan Stanley: New CRWD Buy $230 PT today → analyst stack UBS $235 / MS $230 / Stifel $220.
+- Day 29 (Jul 9) primary: CRWD spread check 9:40 AM (Day 8 post-split). Secondary: AMD SMA 20 reclaim.
+
+---
+
 ### Jul 08 — Market-Open (Day 28/30 — Week 12, Wednesday — FINAL SPRINT)
 **Portfolio:** $97,914.05 | **Cash:** $97,914.05 (100%) | **Long MV:** $0 | **Phase P&L:** −$2,085.95 (−2.09%) | **Daytrade count:** 0
 
