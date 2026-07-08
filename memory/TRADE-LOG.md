@@ -2,6 +2,17 @@
 
 ---
 
+### Jul 08 — EOD Snapshot (Day 28/30, Week 12 Wednesday — FINAL SPRINT)
+**Portfolio:** $97,914.05 | **Cash:** $97,914.05 (100%) | **Day P&L:** $0.00 (0.00%) | **Phase P&L:** −$2,085.95 (−2.09%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| — | — | — | — | — | — | — |
+
+**Notes:** All cash at close for second consecutive session. FOMC Minutes released 2:00 PM ET — hawkish tone (PCE 3.4%, Warsh dissent) confirmed prior caution warranted; no positions entered. CRWD spread failed ≤1.5% gate at market open (8.09%) and FOMC cutoff was 12 PM ET — dual gates blocked the primary candidate. AMD held below SMA 20 (~$529); no qualified setups across full universe. Day P&L $0.00 (flat) — 100% cash, no mark-to-market movement. Phase P&L: −$2,085.95 (−2.09%) vs $100K start. ⚠ Final sprint: 2 trading days remain (Days 29–30: Jul 9–10). Week 12: 0/7 entries — weekly minimum unachievable; primary path Day 29 (Jul 9): CRWD spread check 9:40 AM (Day 9 post-split, expected ≤1.5%), secondary: AMD SMA 20 reclaim ($529+).
+
+---
+
 ### Jul 08 — Midday Scan (Day 28/30 — Week 12, Wednesday — FINAL SPRINT)
 **Portfolio:** $97,914.05 | **Cash:** $97,914.05 (100%) | **Long MV:** $0 | **Phase P&L:** −$2,085.95 (−2.09%)
 
