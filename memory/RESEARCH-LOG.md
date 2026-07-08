@@ -5,6 +5,88 @@ Format each entry:
 
 ---
 
+## 2026-07-08 — Pre-Market Research (Day 28/30 — Week 12, Wednesday — FINAL SPRINT)
+
+### Account Snapshot (Live, Pre-Market)
+- **Equity:** $97,914.05 | **Cash:** $97,914.05 (100%) | **BP:** $391,656.20
+- **Phase P&L:** −$2,085.95 (−2.09% vs $100K start)
+- **Positions:** 0/4 | **Slots open:** 4 | Leveraged ETF: 0/1 | Type 4 probes: 0/2
+- No open orders.
+
+**Context:** NVDA 18sh stopped out yesterday Jul 7 at ~$191.47 (GTC `62d09a4e`, fixed stop $191.50). SMA 150 floor correctly triggered. All cash. 3 trading days remain (Days 28–30: Jul 8–10). Week 12 pace: **0/7** — critical under-pace.
+
+### Market Context
+| Indicator | Value | Signal |
+|-----------|-------|--------|
+| WTI crude | ~$72.75/bbl (CME Jul '26) | ✅ Neutral-bullish |
+| Brent crude | ~$73.29/bbl (Jul 7 9AM ET) | Neutral |
+| S&P 500 futures | 7,580.25 (−0.15%) | ⚠️ Slight negative open |
+| Nasdaq 100 futures | −0.62% | ⚠️ Tech/semi headwind |
+| Dow futures | 53,416 (+0.08%) | Neutral |
+| VIX | 16.13 (Jul 7 close); ~15.87 today | ✅ GREEN — below 25, all 5 types active |
+| SPY above SMA 50 | Confirmed | ✅ GREEN |
+| QQQ above SMA 50 | Confirmed | ✅ GREEN |
+
+**Macro mode: ALL 5 SETUP TYPES ACTIVE** | VIX 16.13 < 25 ✓ | SPY/QQQ above SMA 50 ✓
+
+Sector context: Tech YTD −3.3% to −3.4%; SOXQ (semis) −11.4% in July alone. Momentum ETFs (SPMO) −6.6% in July — violent momentum unwind underway. S&P 500 itself +1.2% YTD without tech leadership. Energy (+23.3% YTD) and Industrials leading. CRWD (cybersecurity) is showing relative strength vs semis (+59% YTD vs semi weakness).
+
+### Key Catalysts Today (July 8, 2026)
+1. **FOMC Minutes — 2:00 PM ET (HIGH IMPACT)** — Jun 16-17 meeting, Chair Warsh's first meeting. Dot plot shifted to suggest ≥1 rate hike before year-end. Hawkish Warsh + PCE 3.4% YoY = potential Sept hike risk. Binary event: hawkish → tech selloff, dovish → rally. **DO NOT enter new positions after 12:00 PM ET today — FOMC risk window.**
+2. **Wholesale Inventories (May) — 10:00 AM ET** — Consensus +0.6%. Low impact.
+3. **Iran oil license cancellation** — Treasury cancelled June 21 license for Iranian oil sales → crude futures up Tuesday → slight energy tailwind, modest growth positive.
+4. **No universe earnings today** — HELE/SMPL/WDFC before open (not in universe). Levi Strauss/AZZ after close. NVDA earnings Aug 26, GOOGL Jul 28, META Jul 29 — all safe for full-size entry.
+5. **June NFP context** — 57K (released Jul 2 vs 117K estimate) → weak labor → Fed pause hopes, but Warsh hawkish minutes likely to override this today.
+6. **Nasdaq tech headwind** — NQ futures −0.62% → cautious on semi/AI opens; cybersecurity (CRWD) decoupled from semis.
+
+### Universe Scan (All 5 Setup Types)
+| Ticker | Pre-Mkt Price | SMA Status | Gate | Setup | Verdict |
+|--------|--------------|------------|------|-------|---------|
+| CRWD | ~$199 (Reuters Jul 6 close $199.38) | All 12 SMAs Strong Buy; +59% YTD | ≤1.5% spread at 9:40 AM (Day 7 post-split) | Type 4 Momentum Probe | **PRIMARY — check spread 9:40 AM** |
+| AMD | ~$512–516 (Jul 7 range $503-$533) | Below SMA 20 (~$529 est) — NO entry | N/A | Disqualified — SMA structure broken short-term | **SKIP unless reclaims SMA 20 at open** |
+| NVDA | ~$191-195 | Stopped out Jul 7; SMA 150 breached | — | No new thesis yet; too soon after stop-out | **SKIP** |
+| META/MSFT/PLTR | — | Below SMA 200 | — | Disqualified | **SKIP** |
+| GOOGL | — | Below SMA 50 | — | No setup | **SKIP** |
+| TQQQ | — | QQQ extended above SMA 50 | — | Type 5 not viable | **SKIP** |
+| SMH/ARKK | — | Semiconductor sector −11.4% July | — | Sector breakdown — SKIP | **SKIP** |
+
+### Trade Ideas
+
+**Idea 1 — CRWD Type 4 Momentum Probe (PRIMARY)**
+- **Catalyst:** Day 7 post-4:1 split (Jul 2 effective date); spread should normalize significantly from Day 3-6 illiquidity; all 12 SMAs Strong Buy; Wells Fargo PT ~$225 post-split (+13%); cybersecurity AI urgency narrative; ARR $4.6B +26% YoY; PANW +40% YTD read-through; +59% YTD outperforming all peers; no earnings until ~Aug 2026 ✓
+- **Entry gate:** Spread ≤1.5% at 9:40 AM | Price >$195 | VIX <22
+- **Size:** HALF (Type 4) — ~$9.5K (~47-48sh @ ~$199) | **Stop:** GTC 5% below entry (~$189)
+- **Time stop:** Jul 15 (Day 5/5 — MOC by 3:50 PM ET Jul 15)
+- **FOMC timing:** Enter PRE-FOMC (by 12 PM ET) if spread qualifies; do NOT chase after 12 PM
+- **Risk:** $9,500 × 5% = $475 (0.49% equity) ✓
+- **Position cap post-entry:** 1/4 ✓ | 0/1 leveraged ETF ✓ | 1/2 probes ✓
+
+**Idea 2 — AMD Type 4 Momentum Probe (CONDITIONAL)**
+- **Catalyst:** BofA PT raised $500→$560 (top CPU pick); Advancing AI 2026 event Jul 22-23 (Venice commercial launch); Q1 rev $10.25B +38% YoY; Q2 guidance $11.2B (+46% YoY); server CPU revenue >70% YoY
+- **Entry gate:** Price ABOVE SMA 20 (~$529 est) at open — currently ~$512-516, likely FAILS gate
+- **If SMA 20 regained:** Type 3 SMA 20 pullback → entry ~$529-535, stop below SMA 20, size 3-4% full
+- **If price still below SMA 20:** SKIP — do not chase broken support structure
+- **Note:** Previous stop-out at $526.18 Jul 2; thesis intact but price needs structure recovery first
+
+**Idea 3 — TQQQ Type 5 (NOT VIABLE)**
+- QQQ extended well above SMA 50 — no pullback entry. Skip.
+
+### Risk Factors
+- **FOMC Minutes 2 PM ET** — Hawkish Warsh minutes → rate hike path → tech/growth selloff; hardest binary of the week
+- **Momentum unwind** — SPMO −6.6% in July; sector rotation away from tech to Energy/Industrials/Staples; SOXQ −11.4% July
+- **NQ futures −0.62% pre-market** — weak open likely for tech; CRWD as cybersecurity may partially decouple but not immune
+- **Sprint pressure** — 0/7 entries this week; temptation to force bad trades; rules hold: no entry if gates fail
+- **CRWD spread risk** — if still >1.5% at 9:40 AM (Day 7 post-split), continue deferring; don't override spread gate
+
+### Decision
+**CONDITIONAL TRADE** — CRWD Type 4 momentum probe IF spread ≤1.5% by 9:40 AM. Enter pre-FOMC by 12 PM. AMD secondary only if SMA 20 recovered at open. Default posture: HOLD if gates fail, and re-evaluate post-FOMC at Day 29 open (Jul 9).
+
+- Week 12 floor: 0/7 — 3 days remain. **Need at least 1 entry today to avoid process failure flag.**
+- Primary vehicle: CRWD (spread gate is the only blocker)
+- Fallback: If CRWD spread fails AND AMD below SMA 20 AND FOMC unclear → **NO-TRADE-DAY valid (Rule A)** with re-scan Jul 9
+
+---
+
 ## 2026-07-07 — Pre-Market Research (Day 27/30 — Week 12, Tuesday — FINAL SPRINT)
 
 ### Account Snapshot (Live, Pre-Market)
