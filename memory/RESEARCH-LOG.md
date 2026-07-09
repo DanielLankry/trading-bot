@@ -5,6 +5,89 @@ Format each entry:
 
 ---
 
+## 2026-07-09 — Pre-Market Research (Day 29/30 — Week 12, Thursday — FINAL SPRINT)
+
+### Account Snapshot (Live, Pre-Market)
+- **Equity:** $97,914.05 | **Cash:** $97,914.05 (100%) | **BP:** $391,656.20
+- **Phase P&L:** −$2,085.95 (−2.09% vs $100K start)
+- **Positions:** 0/4 | **Slots open:** 4 | Leveraged ETF: 0/1 | Type 4 probes: 0/2
+- No open orders.
+
+**Context:** All cash. Day 29/30 — penultimate sprint day. Week 12 floor at 0/7 (weekly minimum unachievable, but entries required for process integrity). FOMC Minutes (hawkish) cleared yesterday — no macro constraint on entries today. Primary candidates: CRWD Day 9 post-split (spread normalization expected) + AMD SMA 20 reclaim ($530 pre-market). Tomorrow (Jul 10 = Day 30) is final trading day.
+
+### Market Context
+| Indicator | Value | Signal |
+|-----------|-------|--------|
+| WTI crude | $74.40/bbl (Aug futures +1.16%, day range $71.76–$75.29) | ✅ Bullish energy |
+| Brent crude | ~$75.92/bbl (Jul 8 open; tracking WTI higher) | ✅ Neutral-bullish |
+| S&P 500 futures | ~$7,542–$7,553 (+0.19%) | ✅ Positive open |
+| VIX | 16.90 (Jul 8 close, +4.77% vs prior day); day range 16.35–18.91 | ✅ GREEN — below 25 |
+| SPY above SMA 50 | Confirmed (prior days) | ✅ GREEN |
+| QQQ above SMA 50 | Confirmed (prior days) | ✅ GREEN |
+
+**Macro mode: ALL 5 SETUP TYPES ACTIVE** | VIX 16.90 < 25 ✓ | SPY/QQQ above SMA 50 ✓
+
+**Sector YTD:** Energy +23.3% ↑ | Industrials +14.1% ↑ | Tech −3.3% ↓ | S&P 500 Momentum Index −7.55% MTD (violent momentum unwind). Cybersecurity (CRWD) continues to decouple from semiconductor weakness.
+
+### Key Catalysts Today (July 9, 2026)
+1. **Initial Jobless Claims — 8:30 AM ET** (est 218K, prior 215K) — LOW-MODERATE impact. Allow settling before entry.
+2. **NY Fed President Williams speaks — 9:00 AM ET** — Warsh-era hawkish tone risk; listen before entering.
+3. **Existing Home Sales — 10:00 AM ET** — low impact.
+4. **NO CPI / NO PPI / NO FOMC / NO NFP** — cleanest macro day of the week. FOMC overhang from yesterday cleared.
+5. **AMD Q2 reporting announcement (Jul 8 after close):** Confirmed earnings date Aug 4, 2026 — well outside 5-day window ✓
+6. **No universe earnings today** — PEP/SMPL/NTIC/BYRN BMO (not in universe). Delta Air Lines (DAL) PMO tomorrow Jul 10 — irrelevant.
+7. **Oil up +1.16%** — energy tailwind; eases inflation concern at the margin.
+
+### Universe Scan (All 5 Setup Types)
+| Ticker | Pre-Mkt Price | SMA Status | Spread | Setup | Verdict |
+|--------|--------------|------------|--------|-------|---------|
+| CRWD | ~$190–194 (Jul 8 close $191.24; AH ask $199.88) | SMA 20 $177.63 / SMA 50 $158.47 / SMA 200 $126.50 — all sloping up; price well above all SMAs ✓ | Day 9 post-split; check at 9:40 AM | Type 4 Momentum Probe | **PRIMARY — spread gate is only blocker** |
+| AMD | $517.41 close; pre-mkt $530.43 (+2.52%) | SMA 20 ~$529 est; AMD approaching reclaim at open | ~0.31% (prior sessions) | Type 3 SMA 20 reclaim (preferred) or Type 4 half-size | **SECONDARY — confirm above SMA 20 at open** |
+| NVDA | ~$191–195 | Stopped out Jul 7; SMA 150 breached; no new thesis | — | Too soon after stop-out | **SKIP** |
+| META/MSFT/PLTR | — | Below SMA 200 | — | Disqualified | **SKIP** |
+| GOOGL | — | Below SMA 50 | — | No valid setup | **SKIP** |
+| TQQQ/SOXL | — | QQQ extended above SMA 50 (~7%+) | — | Type 5 not at pullback zone | **SKIP** |
+| SMH/ARKK | — | Semi sector −11.4% in July | — | Sector breakdown | **SKIP** |
+
+### Trade Ideas
+
+**Idea 1 — CRWD Type 4 Momentum Probe (PRIMARY)**
+- **Catalyst:** Day 9 post-split (4:1 on Jul 2); spread normalization trend expected to continue; all SMAs strongly sloping up; ARR $1.39B Q1 FY2027 (+26% YoY); analyst stack: Morgan Stanley $230, UBS $235, Stifel $220, BTIG $621 (all post-split equivalents); +41% in past 30 days; cybersecurity AI narrative intact; no earnings within 5 trading days (next ≈ Sep 2026) ✓
+- **Entry gate:** Spread ≤1.5% at 9:40 AM | Price >$185 | VIX <22
+- **Size:** HALF (Type 4) — ~$9.7K (~50sh @ ~$194) | **Stop:** GTC 5% below entry (~$184)
+- **Time stop:** Jul 16 (Day 5/5 — MOC by 3:50 PM ET Jul 16)
+- **Risk:** $9,700 × 5% = $485 (0.50% equity) ✓
+- **Post-entry:** 1/4 positions ✓ | 0/1 leveraged ETF ✓ | 1/2 probes ✓
+- **Sector:** Cybersecurity (distinct from AMD semiconductor) ✓
+
+**Idea 2 — AMD Type 3 SMA 20 Reclaim (SECONDARY)**
+- **Catalyst:** Pre-market +2.52% to ~$530.43 (above SMA 20 ~$529 est); EPYC Venice on TSMC 2nm production ramp confirmed; AMD £2B UK investment (Jul 8); Aug 4 earnings ✓; BofA $560 PT, Wells Fargo $505; data center +38% YoY Q1; AI CPU agentic workload momentum
+- **Entry gate:** Price ABOVE SMA 20 (~$529) at 9:35 AM open AND confirmed bounce (not just pre-market) | Spread ≤1.5% | VIX <22
+- **Setup:** If above SMA 20 confirmed → Type 3 full-size (~$9.7K, ~18sh @ ~$530, stop below SMA 20 ~$524) | If below SMA 20 but strong momentum → Type 4 half-size (~$9.7K, stop 5% below)
+- **Risk (Type 3):** 18 × $6 = $108 (0.11% equity) ✓ | **Risk (Type 4):** $485 (0.50%) ✓
+- **Post-entry (both CRWD+AMD):** 2/4 positions ✓ | 0/1 leveraged ETF ✓ | 2/2 probes if both Type 4 (different sectors: cyber ≠ semi) ✓
+
+**Idea 3 — TQQQ Type 5** — NOT VIABLE (QQQ extended above SMA 50)
+
+### Risk Factors
+- **Jobless claims 8:30 AM ET** — surprise print (miss or large beat) could spike VIX; wait for data release + 5 min settling before 9:40 AM check
+- **Williams hawkish tone 9:00 AM** — if he signals hike urgency → pause entries; re-assess
+- **CRWD spread** — Day 9 post-split; prior days still 8-9% at open. Gate is firm: ≤1.5% at 9:40 AM. Do not override.
+- **Momentum unwind** — tech YTD −3.3%, SPMO −7.55% MTD; day-to-day reversals possible in high-beta names
+- **Sprint urgency risk** — Day 29/30 final sprint pressure. Rule: gate failures override floor urgency. Bad sizing or bypassing gates is process violation.
+- **VIX uptick** — VIX rose to 16.90 (from 16.13); still GREEN but trending up. If VIX >22 at open → reduce sizes by 25%
+
+### Decision
+**CONDITIONAL TRADE** — Two entries possible today; both conditional on gates:
+
+1. **CRWD:** Enter Type 4 at 9:40 AM if spread ≤1.5% AND price >$185. No FOMC constraint today. FOMC overhang cleared. Day 9 post-split = highest probability day yet for spread normalization.
+2. **AMD:** Enter Type 3 (full) if price confirms above SMA 20 (~$529) at 9:35 AM. Pre-market $530.43 is a strong signal. If below SMA 20 at open → Type 4 half-size instead (still valid given momentum).
+
+**If both gates pass:** Enter both. Two positions, different sectors, within all caps. First clean multi-entry opportunity this week.
+**If CRWD spread still fails AND AMD below SMA 20:** NO-TRADE-DAY (Rule A) — both primary candidates blocked. Re-scan Jul 10 (final day).
+
+---
+
 ## 2026-07-08 — Pre-Market Research (Day 28/30 — Week 12, Wednesday — FINAL SPRINT)
 
 ### Account Snapshot (Live, Pre-Market)
