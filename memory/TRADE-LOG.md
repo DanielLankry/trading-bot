@@ -2,6 +2,27 @@
 
 ---
 
+### Jul 09 — Midday Scan (Day 29/30 — Week 12, Thursday — FINAL SPRINT)
+**Portfolio:** $98,066.05 | **Cash:** $88,232.05 | **Long MV:** $9,834.00 | **Phase P&L:** −$1,933.95 (−1.93%)
+
+**Cuts (−7% rule):** NONE — CRWD unrealized +1.57% ($196.68 vs $193.64 entry). Well above −7% threshold.
+**Stop adjustments:** NONE — CRWD +1.57%; thresholds (+15% = $222.69, +20% = $232.37) not met. Fixed GTC `6b7ffc37` $183.96 unchanged.
+**Thesis breaks:** NONE — Perplexity confirms no adverse news. Benchmark raised PT $195→$230 (Jul 8). Cybersecurity sector intact. No intraday-specific negative catalyst.
+
+| Ticker | Shares | Entry | Midday | Unrealized P&L | Stop | Notes |
+|--------|--------|-------|--------|----------------|------|-------|
+| CRWD | 50 | $193.64 | $196.68 | +$152.00 (+1.57%) | Fixed GTC `6b7ffc37` $183.96 | Type 4 — ⚠ TIME STOP JUL 16 — MOC by 3:50 PM ET |
+
+**Intraday research (Perplexity):**
+- **CRWD:** $195.41–$196.68 (+2.24–2.61% on day); volume 3.29M vs 3.97M avg (below avg, no unusual distribution); Benchmark PT raised $195→$230 Jul 8; CEO share sale at ~$785 (pre-split = ~$196.25 post-split) was on 10b-1 plan (non-discretionary). Thesis: cybersecurity AI narrative intact, Falcon Flex adoption driving ARR growth +26% YoY, +40.3% YTD; no earnings within 5 days. **HOLD. No action required.**
+
+**Open positions (1/4 max):**
+| Ticker | Shares | Entry | Current | Unrealized P&L | Stop | Notes |
+|--------|--------|-------|---------|----------------|------|-------|
+| CRWD | 50 | $193.64 | $196.68 | +$152.00 (+1.57%) | Fixed GTC `6b7ffc37` $183.96 | Type 4 — ⚠ TIME STOP JUL 16 — MOC by 3:50 PM ET |
+
+---
+
 ### Jul 09 — Market-Open (Day 29/30 — Week 12, Thursday — FINAL SPRINT)
 **Portfolio:** $97,854.80 | **Cash:** $88,232.05 (90.2%) | **Long MV:** $9,622.75 | **Phase P&L:** −$2,145.20 (−2.15%) | **Daytrade count:** 0
 
