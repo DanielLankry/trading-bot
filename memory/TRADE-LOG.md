@@ -2,6 +2,36 @@
 
 ---
 
+### Jul 09 — Market-Open (Day 29/30 — Week 12, Thursday — FINAL SPRINT)
+**Portfolio:** $97,854.80 | **Cash:** $88,232.05 (90.2%) | **Long MV:** $9,622.75 | **Phase P&L:** −$2,145.20 (−2.15%) | **Daytrade count:** 0
+
+| Ticker | Shares | Entry | Stop | Thesis | Target | R:R |
+|--------|--------|-------|------|--------|--------|-----|
+| CRWD | 50 | $193.64 | Fixed GTC `6b7ffc37` $183.96 (5% below entry) | Type 4 Momentum Probe — Day 9 post-4:1 split (Jul 2); spread 0.85% ✅ passes gate; all SMAs sloping up (SMA 20 $177.63 / SMA 50 $158.47 / SMA 200 $126.50); cybersecurity AI narrative intact; ARR $1.39B Q1 FY2027 +26% YoY; analyst stack MS $230 / UBS $235 / Stifel $220 / BTIG post-split equivalents; no earnings within 5 days (next ~Sep 2026) ✓; VIX 16.90 ✓; +66% YTD | $215–220 (+11–14%) | ~2.2:1 |
+
+**Trades fired:**
+- **CRWD BUY** — 50sh @ $193.64 avg (market order `bcf6e0bb`, ~9:36 AM ET). Fill confirmed. Fixed stop GTC placed at $183.96 (order `6b7ffc37`, 5% below entry per Type 4 rule). Position cost $9,682.00 (9.9% equity ✓). Risk: 50 × $9.68 = $484 (0.49% capital ✓ — Type 4 half-size 1.5–2% at most). ⚠ **TIME STOP: Jul 16 (Day 5/5) — place MOC before 3:50 PM ET. Do NOT rely on stop alone for time exit.**
+
+**Candidates skipped:**
+| Ticker | Reason |
+|--------|--------|
+| AMD | Spread 2.41% (bid $546.52 / ask $559.70) → FAILS ≤1.5% gate. Price ~$553 above SMA 20 (~$529) ✓ on structure but spread gate is hard. |
+| NVDA | Stopped out Jul 7; SMA 150 breached; no new thesis. |
+| META/MSFT/PLTR | Below SMA 200 — disqualified. |
+| GOOGL | Below SMA 50 — no valid setup. |
+| TQQQ/SOXL | QQQ extended above SMA 50 (~7%+) — Type 5 not at pullback zone. |
+| SMH/ARKK | Semiconductor sector −11.4% July — sector breakdown. |
+
+**Open positions (1/4 max):**
+| Ticker | Shares | Entry | Current | Unrealized P&L | Stop | Notes |
+|--------|--------|-------|---------|----------------|------|-------|
+| CRWD | 50 | $193.64 | $192.45 | −$59.50 (−0.61%) | Fixed GTC `6b7ffc37` $183.96 | Type 4 — ⚠ TIME STOP JUL 16 — MOC by 3:50 PM ET |
+
+**Macro:** VIX 16.90 (Jul 8 close) ✓ GREEN | SPY/QQQ above SMA 50 ✓ | All 5 setup types active | Probe cap: 1/2 (CRWD cybersecurity) | Leveraged ETF: 0/1
+**Trades this week (Week 12):** 1 — CRWD Jul 9. Floor active; 1 trading day remains (Jul 10 = Day 30 FINAL).
+
+---
+
 ### Jul 08 — EOD Snapshot (Day 28/30, Week 12 Wednesday — FINAL SPRINT)
 **Portfolio:** $97,914.05 | **Cash:** $97,914.05 (100%) | **Day P&L:** $0.00 (0.00%) | **Phase P&L:** −$2,085.95 (−2.09%)
 
