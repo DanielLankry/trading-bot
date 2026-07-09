@@ -2,6 +2,17 @@
 
 ---
 
+### Jul 09 — EOD Snapshot (Day 29/30, Week 12 Thursday — FINAL SPRINT)
+**Portfolio:** $98,146.05 | **Cash:** $88,232.05 (89.9%) | **Day P&L:** +$232.00 (+0.24%) | **Phase P&L:** −$1,853.95 (−1.85%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| CRWD | 50 | $193.64 | $198.28 | +3.75% | +$232 (+2.40%) | Fixed GTC `6b7ffc37` $183.96 — ⚠ TIME STOP JUL 16 |
+
+**Notes:** CRWD 50sh (Type 4 momentum probe, Day 1/5, time stop Jul 16) entered this morning at $193.64 and closed $198.28 (+3.75% on day; +2.40% from entry), driving the day's +$232 (+0.24%) gain — first positive session since Jul 3 (holiday). Phase P&L improves from −$2,085.95 to −$1,853.95 (−1.85%) vs $100K start. Thesis intact: cybersecurity AI narrative, ARR $1.39B Q1 FY2027 +26% YoY, +40.3% YTD, Falcon Flex adoption. Analyst stack MS $230 / UBS $235 / Stifel $220 / BTIG / Benchmark $230 (PT raised Jul 8). No earnings within 5 days ✓. Fixed stop $183.96 GTC (5% below entry). VIX 16.90 ✓, SPY/QQQ above SMA 50, all 5 setup types active. Trades today: 1 (CRWD). Trades this week (Week 12): 1/7 — weekly floor missed (FOMC/post-split spread blocked Days 27–28). ⚠ FINAL DAY TOMORROW: Jul 10 (Day 30) — scan for additional entry at open; maximize final push. ⚠ CRWD time stop Jul 16 (Day 5/5); place MOC by 3:50 PM ET if held.
+
+---
+
 ### Jul 09 — Midday Scan (Day 29/30 — Week 12, Thursday — FINAL SPRINT)
 **Portfolio:** $98,066.05 | **Cash:** $88,232.05 | **Long MV:** $9,834.00 | **Phase P&L:** −$1,933.95 (−1.93%)
 
