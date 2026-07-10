@@ -36,6 +36,29 @@ Trail rules check: +15% trigger = $222.69 | +20% = $232.37 — NOT triggered. St
 
 ---
 
+### Jul 10 — Midday Scan (Day 30/30 — FINAL SPRINT DAY)
+**Portfolio:** $97,606.04 | **Cash:** $88,232.04 | **Long MV:** $9,374.00 | **Phase P&L:** −$2,393.96 (−2.39%)
+
+**Cuts (−7% rule):** NONE — CRWD unrealized_plpc −3.14% ($187.57 vs $193.64 entry). Threshold is −7%; not reached.
+**Stop adjustments:** NONE — CRWD down −3.14% from entry; winner thresholds (+15% = $222.69, +20% = $232.37) not reached. Fixed GTC stop `6b7ffc37` $183.96 unchanged.
+**Thesis breaks:** NONE — Perplexity confirms no company-specific negative catalyst for today's −5.46% intraday drop ($198.40 → $187.57). Attributed to profit-taking/flow after +90% surge since March. Cybersecurity AI narrative intact. ARR $1.39B Q1 FY2027 +26% YoY. No earnings within 5 days ✓.
+
+⚠ **STOP BUFFER CRITICALLY THIN:** $187.57 current vs $183.96 stop = $3.61 (1.93%). Continued selling could trigger GTC stop. Stop is mechanical — do NOT move down. Let stop manage.
+
+| Ticker | Shares | Entry | Midday | Unrealized P&L | Stop | Notes |
+|--------|--------|-------|--------|----------------|------|-------|
+| CRWD | 50 | $193.64 | $187.57 | −$303.50 (−3.14%) | Fixed GTC `6b7ffc37` $183.96 | Type 4 — Day 2/5 — ⚠ STOP BUFFER 1.93% — TIME STOP JUL 16 |
+
+**Intraday research (Perplexity):**
+- **CRWD:** Dropped −5.46% intraday ($198.40 → $187.57); no company-specific negative catalyst confirmed. Move attributed to profit-taking following +15.4% past 30 days / +90% since March. Cybersecurity sector narrative intact. Q1 FY2027 earnings beat (Jun 3): net new ARR $256M (+32% YoY), non-GAAP EPS $1.10 vs $0.73 prior year. Analyst stack: MS $230 / UBS $235 / Stifel $220 / Benchmark $230 — all post-split. No adverse catalyst. Stop at $183.96 manages downside. **HOLD.**
+
+**Open positions (1/4 max):**
+| Ticker | Shares | Entry | Current | Unrealized P&L | Stop | Notes |
+|--------|--------|-------|---------|----------------|------|-------|
+| CRWD | 50 | $193.64 | $187.57 | −$303.50 (−3.14%) | Fixed GTC `6b7ffc37` $183.96 | Type 4 — ⚠ STOP BUFFER 1.93% — TIME STOP JUL 16 — MOC by 3:50 PM ET |
+
+---
+
 ### Jul 09 — EOD Snapshot (Day 29/30, Week 12 Thursday — FINAL SPRINT)
 **Portfolio:** $98,146.05 | **Cash:** $88,232.05 (89.9%) | **Day P&L:** +$232.00 (+0.24%) | **Phase P&L:** −$1,853.95 (−1.85%)
 
