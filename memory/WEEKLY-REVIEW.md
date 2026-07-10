@@ -638,3 +638,69 @@ Template for each entry:
 
 ### Overall Grade: C
 > Rationale: Stop system auto-executed all exits cleanly — AMD and MU trailing stops triggered without manual intervention; process integrity preserved. NVDA Type 1 entry (Jul 1) is structurally sound. Holiday-shortened week (4 sessions) mitigates the 4/7 floor miss partially. Penalties: (1) −3.66% relative underperformance vs S&P in a positive week; (2) 0% win rate on all closed positions; (3) AMD entry on Jun 30 came one day after AVGO −12% AI-miss — identifiable headwind; (4) phase P&L deteriorated to −2.03%; (5) 8th consecutive week below the 7-entry floor. Grade C not D because the stop system functioned correctly on every exit, no rule violations occurred, and NVDA Type 1 provides a legitimate recovery path into the final 5 days.
+
+---
+
+## Week ending 2026-07-10
+
+### Stats
+| Metric | Value |
+|--------|-------|
+| Starting portfolio | $97,974.55 (Jul 3 EOD / Week 11 close) |
+| Ending portfolio | $97,590.04 |
+| Week return | −$384.51 (−0.39%) |
+| S&P 500 week | +0.56% (SPX 7,482.71 Jul 2 → 7,524.59 Jul 10) |
+| Bot vs S&P | −0.95% |
+| Trades | 1 new entry (W:0 / L:1 closed / open:1) |
+| New entries (weekly floor) | 1 ⚠ (vs 7-entry floor — 9th consecutive miss; FOMC block + 8-day post-split spread paralysis left only 2 viable entry days) |
+| Win rate | 0% (0 of 1 closed) |
+| Best trade | N/A (no closed winners); CRWD open −$324 (−3.35%) |
+| Worst trade | NVDA −$46.48 (−1.33%; SMA 150 breach, fixed stop triggered Jul 7) |
+| Profit factor | N/A (no closed winners) |
+| Phase P&L | −$2,409.96 (−2.41%) vs $100K start |
+
+> **Week 12 / Final sprint day Jul 10 (Day 30/30).** Holiday-shortened week (4 trading sessions: Jul 7–10; Jul 3 NYSE closed). Sprint complete. One carryover exit (NVDA Type 1, stopped Jul 7 at SMA 150 breach), one new entry (CRWD Jul 9 Type 4 momentum probe). CRWD carries into next week with time stop Jul 16 (Day 5/5). Phase P&L: −$2.41% vs $100K start.
+
+### Closed Trades
+| Ticker | Entry | Exit | P&L | Notes |
+|--------|-------|------|-----|-------|
+| NVDA (18sh) | $194.052 (Jul 1) | $191.47 (Jul 7) | −$46.48 | Type 1 SMA 150/200 pullback; fixed GTC stop `62d09a4e` triggered ~10:27 AM Jul 7 as SMA 150 breached; carryover from Week 11; no override |
+
+### Open Positions at Week End
+| Ticker | Entry | Close | Unrealized | Stop |
+|--------|-------|-------|------------|------|
+| CRWD | $193.64 (Jul 9) | $187.16 | −$324 (−3.35%) | Fixed GTC `6b7ffc37` $183.96 — ⚠ **TIME STOP JUL 16 (Day 5/5) — MOC by 3:50 PM ET** |
+
+> ⚠ **CRWD Monday mandate:** Time stop Day 5 = Jul 16 (Wed). Place MOC by 3:50 PM ET Jul 16. Do NOT rely on fixed GTC stop for time exit. Stop buffer at week end: $3.20 (1.71% above $183.96). If CRWD closes above $193.64 entry before Jul 16, ratchet stop to entry.
+
+### What Worked
+- **CRWD spread normalized Day 9 post-4:1 split:** Jul 9 spread 0.85% — finally passed the ≤1.5% gate after 8 consecutive sessions of 7–12% spread paralysis; entry executed cleanly at $193.64 with documented stop and thesis
+- **NVDA fixed stop auto-executed without override (Jul 7):** SMA 150 breached → stop triggered at $191.47 (pre-market had printed $191.317, recovered at open, then failed); Type 1 exit rule applied mechanically, no hesitation; −$46.48 accepted without intervention
+- **FOMC Minutes discipline (Jul 8):** Dual gate correctly identified — CRWD spread 8.09% + 12 PM ET entry cutoff = zero valid entry opportunities; 100% cash maintained through the macro event; hawkish Warsh/PCE 3.4% tone confirmed caution was warranted
+- **CRWD thesis hold on Day 30 selloff (Jul 10):** −5.75% intraday drop ($198.40 → $187.00); Perplexity midday confirmed no adverse catalyst (profit-taking/flow after +90% since March); stop at $183.96 not triggered; held without override despite critically thin buffer ($3.04, 1.63%)
+- **Sprint process closed clean:** All 5 sessions documented with valid entry scan, trade decisions, and NO-TRADE-DAY reasoning; no rule violations in final week
+
+### What Didn't Work
+- **9th consecutive week below 7-entry floor (1/7):** Jul 7 = 0 (NVDA exit not new entry); Jul 8 = 0 (FOMC block, CRWD spread 8.09%); Jul 9 = 1 (CRWD); Jul 10 = 0 (NO-TRADE-DAY — zero qualifying setups, CRWD already held); structural floor miss driven by FOMC day + post-split spread paralysis leaving only 2 viable entry days for the entire week
+- **CRWD fell −5.75% on Day 30:** Entered $193.64 on Jul 9, closed $187.00 on Jul 10 (−3.43% from entry); entered near a local high after +90% run since March; profit-taking pressure immediate; position enters the weekend with stop buffer at 1.71% — one bad open could stop it out
+- **Week return −0.39% vs S&P +0.56% = −0.95% relative:** Positive S&P week; bot in cash or underwater on the single position for 4 of 5 sessions
+- **AMD re-entry never triggered:** SMA 20 (~$529–535) not reclaimed after Jul 2 stop-out; AMD stayed below SMA 20 all week; primary slot 2 unfilled throughout; widened universe (META/GOOGL/MSFT/PLTR) still disqualified below SMA 200 or SMA 50
+- **Phase P&L ends sprint at −2.41%:** Starting from $100K, the post-challenge phase closed at $97,590.04; core failure mode (capital deployment pace, 9 consecutive floor misses) unchanged from the diagnosis in Week 5
+
+### Key Lessons
+- **Post-split spread paralysis rule:** CRWD's 4:1 split (Jul 2) produced 7–12% spreads for 8 consecutive sessions, fully blocking entry until Day 9. Going forward: after any major stock split (≥3:1), remove the name from the active pre-market scan and do not attempt entry until at least Day 7 post-split. Begin re-checking at Day 7 midday; re-add to scan when confirmed ≤1.5%. Do not assume normalization is faster than ~7–10 sessions.
+- **FOMC Minutes day is effectively a dead entry day:** Mid-session release (2 PM ET) + 12 PM ET entry cutoff = 2.5-hour valid window only, during which market tends to be in pre-event drift/spread expansion. Going forward: treat FOMC Minutes day as a confirmed NO-TRADE-DAY if primary candidates have any spread or setup ambiguity. The macro lock is structural, not discretionary.
+- **Phase P&L: −2.41% is entirely a deployment failure, not a setup failure:** Every trade that fired and was managed correctly (NVDA Type 1/3 campaigns, MU +20%, AMD rotation, CRWD) worked per the playbook. The cumulative underperformance stems from 9 consecutive weeks of 1–4 entries vs 7 required. Entry system = correct; execution pace = the failure.
+- **Late-momentum-entry timing risk:** CRWD entered Day 9 post-split after a +90% run from March lows; the position was down −5.75% the next day. For momentum probes (Type 4), earlier entries in the momentum arc (Day 1–3 post-catalyst, not Day 9) capture a better R:R. After 8 days of spread paralysis, the setup had aged — entering anyway was correct given spread gate passage, but the timing carried compounded execution risk.
+
+### Adjustments for Next Week (Jul 14–18)
+- **CRWD time stop Jul 16 (hard):** Place MOC by 3:50 PM ET Wed Jul 16. If CRWD recovers above $193.64 entry by Jul 14–15 → ratchet stop to entry (breakeven). If not → accept P&L at time stop close. No override.
+- **CPI Jul 14 (Monday AM):** No new entries Monday pre-open or morning; wait for CPI reaction before adding. Entry window opens Monday midday post-CPI digestion.
+- **AMD (Priority 1):** Re-entry gate: SMA 20 reclaim (~$529–535) with bounce confirmation. Spread ≤1.5% required. Do NOT chase above SMA 20. Only enter on dip to SMA 20.
+- **META (Priority 2):** Verify SMA 200 status (was ~$647 in Jun; price ~$610 then). Perplexity SMA confirm on Jul 14. If above SMA 200 → Type 3 SMA 50 pullback eligible.
+- **NVDA (Priority 3):** SMA 150 breached Jul 7; disqualified from Type 1. Wait for confirmed SMA 150 reclaim (Perplexity verify). If SMA 150 recaptured at open with closing confirmation → re-evaluate Type 1 entry.
+- **FOMC-free / post-sprint mode:** No FOMC this week; full 5-session window. Sprint counting done (Day 30 complete). Regular Aggressive Micha Method resumes — same 7-entry floor, same rules, no artificial urgency but pace discipline required.
+- **Floor target Jul 14–18:** Must achieve 7 new entries. With CRWD (1/4 slot, exits Jul 16), 3 slots open. Post-CPI and post-CRWD exit = 3 deployment windows. AMD, META, NVDA, AMZN, MRVL must all be pre-market scanned with Perplexity SMA verify.
+
+### Overall Grade: C+
+> Rationale: Process compliance clean all 5 sessions — NVDA stop honored without override, FOMC discipline applied, CRWD thesis verified midday, spread gates enforced throughout. CRWD entry on Day 9 post-split was well-researched (analyst stack MS $230/UBS $235, ARR +26% YoY, cybersecurity AI thesis confirmed). Sprint closed with no rule violations. Penalties: (1) 9th consecutive floor miss (1/7) — structurally limited to 2 viable entry days by FOMC block + 8-day spread paralysis, but still a process failure pattern; (2) −0.95% relative underperformance vs S&P; (3) sprint ended at −2.41% phase P&L; (4) CRWD enters next week at −3.35% unrealized with a 1.71% stop buffer, requiring recovery by Jul 16 time stop. Grade C+ not C because the structural constraints this week (FOMC + post-split paralysis) were more severe than prior floor misses, and the CRWD entry + thesis management were executed correctly.
