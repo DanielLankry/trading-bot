@@ -2,6 +2,40 @@
 
 ---
 
+### Jul 10 — Market-Open (Day 30/30 — FINAL SPRINT DAY — NO-TRADE-DAY)
+**Portfolio:** $98,075.54 | **Cash:** $88,232.04 (89.9%) | **Long MV:** $9,843.50 | **Phase P&L:** −$1,924.46 (−1.92%) | **Daytrade count:** 0
+
+**NO-TRADE-DAY — Rule A (zero qualifying setups)**
+
+| Ticker | Reason Skipped |
+|--------|----------------|
+| AMD | Extended $15+ above SMA 20 (~$529–535); Type 3 requires price AT SMA, not above |
+| NVDA | Below SMA 150 (~$203–210) — disqualified all setup types |
+| META/MSFT/PLTR | Below SMA 200 |
+| GOOGL | Below SMA 50 |
+| TQQQ/SOXL | QQQ above SMA 50 but not at pullback zone; Type 5 entry gate fails |
+| MU/AMZN/MRVL | No valid SMA structure / wide spreads |
+
+**Macro filter (confirmed at open):** QQQ ~$718 vs SMA 50 ~$707–714 → ABOVE ✓ | SPY above SMA 50 ✓ | VIX ~16.90 ✓ | **Standard mode — all 5 setup types active.** Zero tickers qualify in any type.
+
+**CRWD position confirmed:**
+| Ticker | Shares | Entry | Current | Unrealized P&L | Stop | Notes |
+|--------|--------|-------|---------|----------------|------|-------|
+| CRWD | 50 | $193.64 | $196.87 | +$161.50 (+1.67%) | Fixed GTC `6b7ffc37` $183.96 ✓ | Type 4 — ⚠ TIME STOP JUL 16 — MOC by 3:50 PM ET |
+
+Trail rules check: +15% trigger = $222.69 | +20% = $232.37 — NOT triggered. Stop unchanged.
+
+**Challenge final metrics (Day 30/30):**
+- Starting capital: $100,000
+- Live equity: $98,075.54
+- Phase P&L: **−$1,924.46 (−1.92%)** vs $100K start
+- Open unrealized (CRWD): +$161.50 (+1.67%) — carried through time stop Jul 16
+- Trades this week (Week 12): 1 (CRWD Jul 9) | Floor: 1/7 (under-pace — FOMC/post-split spread blocked Days 26–28; only 1 qualified setup Days 29–30)
+
+⚠ **CRITICAL REMINDER (next session — Jul 14/15/16):** CRWD time stop Jul 16 (Day 5/5). Place MOC order by 3:50 PM ET on Jul 16. Do NOT rely on GTC fixed stop `6b7ffc37` for time exit.
+
+---
+
 ### Jul 09 — EOD Snapshot (Day 29/30, Week 12 Thursday — FINAL SPRINT)
 **Portfolio:** $98,146.05 | **Cash:** $88,232.05 (89.9%) | **Day P&L:** +$232.00 (+0.24%) | **Phase P&L:** −$1,853.95 (−1.85%)
 
