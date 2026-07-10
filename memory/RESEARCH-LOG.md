@@ -5,6 +5,113 @@ Format each entry:
 
 ---
 
+## 2026-07-10 — Pre-Market Research (Day 30/30 — Week 12, Friday — FINAL SPRINT DAY)
+
+### Account Snapshot (Live, Pre-Market)
+- **Equity:** $98,184.54 | **Cash:** $88,232.04 (89.9%) | **BP:** $380,795.16
+- **Phase P&L:** −$1,815.46 (−1.82% vs $100K start)
+- **Positions:** 1/4 | **Open:** CRWD 50sh @ $193.64, current $199.05 (+$270.50, +2.79%)
+- **Open orders:** GTC stop `6b7ffc37` CRWD $183.96 ✓
+- **Daytrade count:** 0
+
+**Context:** Final sprint day (Day 30/30). CRWD 50sh (Type 4 probe, Day 2/5) carried from Jul 9. Time stop Jul 16 (Day 5/5) — MOC by 3:50 PM ET Jul 16. Challenge ends at today's close; CRWD stop managed through next week. Probe cap: 1/2. Leveraged ETF: 0/1.
+
+### Market Context
+| Indicator | Value | Signal |
+|-----------|-------|--------|
+| WTI crude | ~$71.40–$74.30/bbl (Aug CLQ26 −1.80% pre-mkt) | ⚠ Pulling back from prior highs |
+| Brent crude | ~$72–$75/bbl (est, data sparse) | Neutral |
+| S&P 500 futures (ES Sep) | ~$7,577–$7,581 (−0.10% to −0.15% from $7,588.75 prior close) | ⚠ Slightly negative open |
+| VIX | 16.90 (Jul 8 close); Jul 9 open 16.58, range 15.76–17.27; CBOE futures 15.84 | ✅ GREEN — well below 25 |
+| SPY above SMA 50 | Likely YES (S&P +1.2% YTD, SPY holding up; no disconfirmation) | ✅ Likely GREEN |
+| QQQ above SMA 50 | ⚠ **UNCERTAIN — YELLOW ALERT.** Investing.com (Jul 9): SMA 50 = $720.05 vs QQQ price ~$706–714 → BELOW. Financhill: SMA50 $712.62 vs $711.44 → BELOW. Finbox: SMA50 $707.13 (price borderline). DataTrek: QQQ "posted a loss over trailing 50 days." BUT Tickeron noted "exceeded 50-day MA on Jul 2." Prior trade logs (Jul 9 AM) confirmed "SPY/QQQ above SMA 50 ✓" | ⚠ BORDERLINE — confirm at open |
+
+**⚠ MACRO FILTER STATUS: YELLOW — QQQ AT/NEAR SMA 50**
+- If confirmed BELOW SMA 50 at open → **RESTRICTED MODE** (Type 1 + Type 3 only; no new Type 4/5)
+- If confirmed ABOVE SMA 50 at open → **STANDARD MODE** (all 5 types active)
+- VIX 15.84–16.90 ✓ GREEN (< 25) in either scenario
+
+**Sector YTD:** Energy +23.3% ↑ | Materials +17.4% ↑ | Industrials +14.1% ↑ | Tech −3.3% ↓ | S&P 500 +1.2% YTD. Sector rotation into hard assets; tech lagging full year despite 3M rebound.
+
+### Key Catalysts Today (July 10, 2026)
+1. **NO CPI / NO PPI / NO FOMC / NO NFP today.** Lightest macro day of the week. CPI June scheduled Jul 14 (Tuesday) — upcoming risk next week.
+2. **No universe earnings BMO today.** No market-moving reports scheduled week of Jul 6–10.
+3. **Michigan Consumer Sentiment (preliminary)** — possible today or Mon/Tue ~Jul 11–12. Low impact.
+4. **WTI pulling back −1.80%** — energy/inflation relief; mild positive for growth stocks.
+5. **S&P futures −0.15%** — essentially flat open; consolidation after yesterday's semiconductor rally (+CRWD +3.75%).
+6. **CRWD Perplexity brief pulled 2024 outage data** — historical noise, not current. Relevant CRWD context from prior research: ARR $1.39B Q1 FY2027 +26% YoY; analyst stack MS $230/UBS $235/Stifel $220/BTIG/Benchmark $230; +66% YTD; cybersecurity AI narrative intact; no earnings until ~Sep 2026 ✓. Claude/Anthropic Falcon integration (newsroom Jun 16, 2026) is recent positive.
+7. **CPI June comes Tuesday Jul 14** — next-week risk. May CPI was 4.2% YoY / 0.5% MoM (hot). June forecast: watch for acceleration or deceleration.
+
+### Universe Scan (All Setup Types — Day 30, FINAL)
+| Ticker | Price | SMA Status | Spread | Setup | Verdict |
+|--------|-------|------------|--------|-------|---------|
+| CRWD | $199.05 (pre-mkt) | SMA 50 $161.71 / SMA 200 $127.18 (Barchart) — well above all SMAs ✓ | ~0.3% est (Day 10 post-split) | HELD — Type 4 Day 2/5 | **HOLD — no action** |
+| AMD | ~$546–552 (Jul 9 close $546.72; intraday $552) | SMA 20 est ~$529–535 — price EXTENDED ~3–4% above SMA 20; NOT at pullback zone | ~0.3% ✓ | No pullback entry; Type 3 requires price AT SMA, not above it | **SKIP — extended** |
+| NVDA | ~$196–199 (Jul 10 range $195–205) | Per Perplexity: below SMA 150/200 (~$203–210 est). Stopped out Jul 7. Too soon. | — | SMA structure broken | **SKIP** |
+| META/MSFT/PLTR | — | Below SMA 200 (prior sessions) | — | Disqualified | **SKIP** |
+| GOOGL | — | Below SMA 50 (prior sessions) | — | No valid setup | **SKIP** |
+| TQQQ/SOXL | — | QQQ near/below SMA 50; not at pullback zone in either scenario | — | Type 5 not viable | **SKIP** |
+| MU | — | Stopped out Jul 1; no re-entry data | — | No thesis | **SKIP** |
+| AMZN/MRVL | — | Below SMA 20/50 (prior sessions) | Wide spreads | — | **SKIP** |
+
+**Type 1/3 universe in restricted mode:** No tickers currently at SMA 150/200 pullback zone (Type 1) or SMA 20/50 pullback zone (Type 3). AMD is extended above its SMA, not pulling back to it. NVDA below SMA 150 — disqualified. Universe exhausted.
+
+### Trade Ideas
+
+**NO new entries today.**
+
+**Reason A:** AMD ($546–552) is ~$15+ above SMA 20 (~$529–535) — not at pullback zone. Type 3 requires entry ON the SMA with bounce confirmation, not when price is extended. Even in standard mode, no valid Type 3 setup.
+
+**Reason B (if macro restricted):** QQQ at/below SMA 50 → restricted mode → no Type 4 or Type 5 new entries. Only Types 1/3 valid, and zero qualify.
+
+**Existing position:** CRWD 50sh → HOLD. Type 4 probe, Day 2/5. Stop $183.96 GTC. Time stop Jul 16. Trail rules: +15% trigger = $222.69, +20% = $232.37 (not reached).
+
+### Risk Factors
+- **QQQ SMA 50 ambiguity** — if confirmed below at open, restricted mode limits future entries (next week). CPI Jul 14 adds macro overhang.
+- **CRWD stop proximity** — $183.96 stop vs $199.05 current = 7.6% buffer. ⚠ If CRWD pulls back sharply (e.g., sector rotation, macro surprise), stop could trigger. Buffer is healthy but monitor.
+- **CRWD time stop Jul 16** — must place MOC by 3:50 PM ET Jul 16 (Day 5/5). Do NOT rely on trailing stop. This is an **operational obligation for next session**.
+- **CPI Jun 14 (Tue Jul 14)** — inflation print next week. If hot (>4.5% YoY or >0.5% MoM), could spike VIX and pressure growth/cyber names. CRWD would be at risk if VIX > 22.
+- **WTI pullback −1.80%** — energy sector weakness; limited direct impact on CRWD but oil-driven inflation concerns could resurface.
+- **FINAL DAY pressure** — resist forced entries. No setup qualifies; risk discipline overrides sprint floor.
+
+### CRWD Position Management
+| Metric | Value |
+|--------|-------|
+| Entry | $193.64 (Jul 9) |
+| Current (pre-mkt) | $199.05 |
+| Unrealized P&L | +$270.50 (+2.79%) |
+| Stop | GTC `6b7ffc37` $183.96 (5% below entry) |
+| Buffer to stop | $15.09 (7.6%) — healthy |
+| Time stop | Jul 16 — MOC by 3:50 PM ET (Day 5/5) |
+| Trail rules | +15% ($222.69) → breakeven stop; +20% ($232.37) → take 1/3 off |
+| Status | Thesis intact. Cybersecurity AI narrative ✓. No adverse catalyst. HOLD. |
+
+### Decision
+**NO NEW ENTRIES — NO-TRADE-DAY (Rule A)**
+
+Valid reasons:
+- Zero universe tickers qualify for any Setup Type in standard OR restricted mode
+- AMD extended above SMA 20 (Type 3 not valid — no pullback)
+- NVDA below SMA 150 — disqualified
+- All other universe tickers disqualified (SMA structure or spread)
+- QQQ ambiguity (borderline restricted) adds additional caution
+
+**Action today:**
+1. Monitor CRWD at open — confirm above $183.96 (stop buffer >7%)
+2. Check QQQ vs SMA 50 at 9:35 AM ET — if below, flag RESTRICTED MODE for next week
+3. No new positions
+4. CRWD: HOLD per plan. No manual intervention needed.
+5. ⚠ REMINDER (NEXT SESSION): CRWD time stop Jul 16 (Day 5/5) — MOC before 3:50 PM ET if held
+
+**Challenge Final Result (Day 30/30):**
+- Starting capital: $100,000
+- Final equity (pre-mkt): $98,184.54
+- Phase P&L: **−$1,815.46 (−1.82%)**
+- Open position (carried): CRWD +$270.50 unrealized (+2.79%)
+- Challenge officially ends today, but CRWD position managed through time stop Jul 16
+
+---
+
 ## 2026-07-09 — Pre-Market Research (Day 29/30 — Week 12, Thursday — FINAL SPRINT)
 
 ### Account Snapshot (Live, Pre-Market)
