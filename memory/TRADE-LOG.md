@@ -59,6 +59,17 @@ Trail rules check: +15% trigger = $222.69 | +20% = $232.37 — NOT triggered. St
 
 ---
 
+### Jul 10 — EOD Snapshot (Day 30/30 — FINAL SPRINT DAY, Week 12 Friday)
+**Portfolio:** $97,582.04 | **Cash:** $88,232.04 (90.4%) | **Day P&L:** −$570.00 (−0.58%) | **Phase P&L:** −$2,417.96 (−2.42%)**
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| CRWD | 50 | $193.64 | $187.00 | −5.75% | −$332 (−3.43%) | Fixed GTC `6b7ffc37` $183.96 — ⚠ TIME STOP JUL 16 (Day 2/5) |
+
+**Notes:** Day 30/30 — 30-day sprint ends today. NO-TRADE-DAY declared at open (zero qualifying setups; CRWD already held). CRWD fell sharply −5.75% from yesterday's $198.40 close to $187.00 EOD, driving the −$570 day loss. Stop buffer critically thin at $3.04 (1.63% from GTC stop $183.96 — did not trigger). No thesis break confirmed (Perplexity midday: profit-taking/flow, no adverse catalyst). Unrealized P&L from entry: −$332 (−3.43%). ⚠ CHALLENGE RESULT: 30-day sprint complete. Final Phase P&L: −$2,417.96 (−2.42%) vs $100,000 starting capital. SPY comparison TBD for weekly review. Trades today: 0 (NO-TRADE-DAY). Trades this week (Week 12): 1 (CRWD Jul 9) — floor missed (FOMC/spread blocked Days 26–28; only CRWD qualified on Days 29–30). Total open: 1/4. ⚠ NEXT SESSION (Jul 14–16): CRWD time stop Jul 16 (Day 5/5) — mandatory MOC exit by 3:50 PM ET.
+
+---
+
 ### Jul 09 — EOD Snapshot (Day 29/30, Week 12 Thursday — FINAL SPRINT)
 **Portfolio:** $98,146.05 | **Cash:** $88,232.05 (89.9%) | **Day P&L:** +$232.00 (+0.24%) | **Phase P&L:** −$1,853.95 (−1.85%)
 
