@@ -2,6 +2,27 @@
 
 ---
 
+### Jul 13 — Midday Scan (Post-Challenge Week 13, Monday)
+**Portfolio:** $97,327.07 | **Cash:** $97,327.07 (100%) | **Long MV:** $0 | **Phase P&L:** −$2,672.93 (−2.67%)
+
+**Cuts (−7% rule):** NONE — 0 positions open. CRWD stopped out at market-open by GTC `6b7ffc37` ($181.90 avg) — already logged in Market-Open entry.
+**Stop adjustments:** NONE — 0 positions.
+**Thesis breaks:** NONE — 0 positions.
+
+**Intraday research (Perplexity — Jul 13 context):**
+- **Market tone:** Sector rotation from AI/tech into value/defensives (financials, healthcare). Dow near record highs. Nasdaq/QQQ cooling after last week's +1.81% run.
+- **QQQ:** $725.54 close (last week); today trading with tech headwind but still well above SMA 50 (~$707–714). Standard mode intact ✓.
+- **VIX:** Cautious but no spike confirmed — below 25 ✓. No sizing reduction required.
+- **CRWD:** Stop-out at $181.90 today was well-timed — tech rotation ongoing, cybersecurity sector under pressure. No re-entry today (same session rule + spread gate + thesis reset required).
+- **AMD:** Extended above SMA 20 (~$529–535); tech selling today puts price at risk of dipping toward SMA zone — monitor tomorrow post-CPI. No entry valid today (price not confirmed at SMA zone).
+- **Sector:** Financials + Healthcare leading. Technology lagging. Consistent with pre-CPI repositioning ahead of bank earnings (JPM/WFC/BAC/GS/C — tomorrow).
+- **Tomorrow (Jul 14):** CPI June 2026 at 8:30 AM ET + major bank earnings. Binary catalyst. Conditional plan: cool CPI → scan AMD for SMA 20 pullback ($529–535) + check universe for Type 2/4 setups. Hot CPI → VIX spike → cash mode maintained; if VIX >25 reduce sizing 25%.
+
+**Open positions (0/4 max):** None.
+**Trades this week (Week 13):** 0. Floor requires 1 entry/day or explicit NO-TRADE-DAY. Today: Rule A (zero qualifying setups post-CRWD stop-out; CRWD/AMD/NVDA/others fail gate or SMA criteria). ⚠ Tomorrow: post-CPI scan at ~10:00 AM ET is the primary entry opportunity for Week 13.
+
+---
+
 ### Jul 13 — Market-Open (Post-Challenge Week 13, Monday — NO-TRADE-DAY)
 **Portfolio:** $97,327.07 | **Cash:** $97,327.07 (100%) | **Long MV:** $0 | **Phase P&L:** −$2,672.93 (−2.67%) | **Daytrade count:** 0
 

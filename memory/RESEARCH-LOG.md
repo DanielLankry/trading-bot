@@ -105,6 +105,21 @@ Valid reasons:
 
 ---
 
+### 2026-07-13 — Midday Addendum
+
+**Account (live):** $97,327.07 equity | $97,327.07 cash (100%) | 0 positions | Phase P&L: −$2,672.93 (−2.67%)
+
+**Intraday context (Perplexity):**
+- Tech/AI rotating into value/defensives today. Dow near record highs. Nasdaq cooling.
+- QQQ $725.54 (prior close) — still above SMA 50 (~$707–714). Standard mode ✓. VIX below 25 ✓.
+- CRWD stop-out at $181.90 this AM was mechanically correct — sector under rotation pressure today; no adverse company-specific catalyst beyond MS PT trim and general tech selling.
+- AMD: extended above SMA 20 ($529–535); watching for post-CPI pullback to SMA zone for Type 3 entry.
+- No valid entry setups identified intraday. All-cash maintained.
+
+**Tomorrow (Jul 14) plan:** Post-CPI scan at ~10 AM ET. Cool CPI → AMD Type 3 ($529–535) primary candidate + full universe scan. Hot CPI / VIX >25 → cash mode, 25% sizing reduction if VIX 25–30.
+
+---
+
 ## 2026-07-14 — Pre-Market Research (Post-Challenge Week 13, Monday)
 
 ### Account Snapshot (Live, Pre-Market)
