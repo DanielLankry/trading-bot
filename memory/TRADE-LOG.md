@@ -2413,3 +2413,34 @@ No positions yet. Bot launches tomorrow (2026-04-28).
 | NVDA | 18 | $194.052 | $197.08 | −1.50% | +$54.56 (+1.56%) | Fixed GTC `62d09a4e` $191.50 |
 
 **Notes:** Heavy down day driven by *The Information*'s Meta→Google AI chip switch report (July 1). MU 8sh trailing stop triggered intraday (sector sell-off), exiting ~$1,051.81 from HWM $1,168.68 → realized ~−$302 (−3.47%), two days ahead of July 3 time stop. NVDA re-entered 18sh @ $194.052 (Type 1 SMA 150 pullback; fixed stop $191.50). AMD (Type 4, Day 2/5) fell −7.04% to $540.02 — still above trailing stop $526.26 and above −7% cut threshold from entry (−3.62%), but thesis partially undermined; analyst consensus remains bullish. ⚠ Check SPY SMA 50 status at tomorrow's pre-market — if restricted mode triggered today, AMD (Type 4) may need early exit. Jun 30 EOD snapshot missing from log (routine appears to have not run). Trades this week: 4/7 floor (NVDA + MU Jun 29; AMD Jun 30; NVDA Jul 1). ⚠ Holiday-shortened week: Jul 3 CLOSED (July 4 observance), Jul 2 early close ~1 PM ET — only tomorrow remains to add entries before the break. Need 3 more entries; likely only possible to land 1–2 tomorrow (early close). ⚠ AMD: mandatory MOC exit by 3:50 PM ET July 7 (Day 2/5 today).
+
+---
+
+### Jul 2 — AMD Stop-Out (Week 11, Thursday — Intraday)
+- **AMD** — 35 shares @ $560.31 avg. Trailing stop GTC `9c61c53b` TRIGGERED intraday at $526.179429 (stop $526.257, HWM $584.73, 10% trail). Realized P&L: **−$1,194.57 (−6.09%)**. AMD broke below trailing stop floor on continued Meta/Google AI chip sector pressure. Time stop (Jul 7) would have been 3 trading days later — trailing stop accelerated exit.
+
+---
+
+### Jul 7 — NVDA Stop-Out (Week 12, Tuesday — Intraday)
+- **NVDA** — 18 shares @ $194.052 avg. Fixed stop GTC `62d09a4e` at $191.50 TRIGGERED at $191.47. Realized P&L: **−$46.48 (−1.33%)**. NVDA dipped below SMA 150 support zone ($191.50 fixed stop). Clean risk-rules exit.
+
+---
+
+### Jul 9 — CRWD Entry (Week 12, Thursday — Market Open)
+- **CRWD** — 50 shares @ $193.64 (market buy, filled 13:36:18Z). Stop GTC placed at $183.96 (5.0% from entry). Setup type and thesis not logged in routine (routine gap). Account post-entry: ~$88,200 cash + CRWD position.
+
+---
+
+### Jul 13 — CRWD Stop-Out (Week 13, Monday — Intraday)
+- **CRWD** — 50 shares @ $193.64 avg. Fixed stop GTC at $183.96 TRIGGERED at $181.9006 (filled 13:36:21Z). Realized P&L: **−$586.97 (−6.07%)**. CRWD gapped/broke below stop level at open. Three consecutive stop-outs since Jul 2 (AMD, NVDA, CRWD). Account now fully flat.
+
+---
+
+### Jul 13 — EOD Snapshot (Post-Challenge Day 31, Week 13 Monday)
+**Portfolio:** $97,327.07 | **Cash:** $97,327.07 (100%) | **Day P&L:** −$263.97 (−0.27%) | **Phase P&L:** −$2,672.93 (−2.67%)**
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| — | — | — | — | — | — | — |
+
+**Notes:** Fully flat at close. CRWD stop triggered at open ($181.90, 50 shares, −$586.97 realized). Three stop-outs in a row since Jul 2: AMD (Jul 2, −$1,195), NVDA (Jul 7, −$46), CRWD (Jul 13, −$587). Risk controls executing correctly — stops held, no rules violated. Account all-cash, 100%. ⚠ EOD routine gap: snapshots missing Jul 2–11 (routines may not have committed). Week 13 starts 0/7 entries — need to begin scanning for setups tomorrow (pre-market Jul 14). Phase P&L: −$2,672.93 (−2.67% vs $100K start). Trades today: 1 exit (CRWD stop). Week 12 trades unlogged.
