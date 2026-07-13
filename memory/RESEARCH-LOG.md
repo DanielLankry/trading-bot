@@ -103,6 +103,95 @@ Valid reasons:
 4. CRWD: HOLD per plan. No manual intervention needed.
 5. ⚠ REMINDER (NEXT SESSION): CRWD time stop Jul 16 (Day 5/5) — MOC before 3:50 PM ET if held
 
+---
+
+## 2026-07-14 — Pre-Market Research (Post-Challenge Week 13, Monday)
+
+### Account Snapshot (Live, Pre-Market)
+- **Equity:** $97,595.54 | **Cash:** $88,232.04 (90.4%) | **BP:** $379,145.96
+- **Phase P&L:** −$2,404.46 (−2.40% vs $100K start)
+- **Positions:** 1/4 | **Open:** CRWD 50sh @ $193.64, current $187.27 (−$318.50, −3.29%)
+- **Open orders:** GTC stop `6b7ffc37` CRWD $183.96 ✓ (stop buffer: $3.31 / **1.77% — CRITICALLY THIN**)
+- **Daytrade count:** 0
+
+**Context:** Post-30-day challenge. CRWD 50sh (Type 4 probe, Day 4/5 by entry-day-as-Day-1 count). ⚠ TIME STOP AMBIGUITY: logs say Jul 16 but strict day count (Day 1=Jul 9, Day 2=Jul 10, Day 3=Jul 11, Day 4=Jul 14, Day 5=Jul 15) puts time stop TOMORROW Jul 15. Recommend treating Jul 15 as the operative time stop — MOC order by 3:50 PM ET Jul 15. Probe cap: 1/2. Leveraged ETF: 0/1.
+
+### Market Context
+| Indicator | Value | Signal |
+|-----------|-------|--------|
+| WTI crude (Aug '26) | ~$74.50 (Jul 11 close); range Jul 13: $73.69–74.66 | ↑ Rebounding from $65.98 swing low |
+| Brent crude | ~$72.68 (Jul 1 confirmed); est $74–76 Jul 11 | Neutral |
+| S&P 500 futures (ES Sep '26) | ~$7,580–7,594 (−0.4% from $7,626 Jul 10 close) | ⚠ Slightly negative open |
+| VIX | 15.84 (Jul 9–11 close); VX Jul-15 futures 16.95 | ✅ GREEN — well below 25 |
+| SPY | $754.95, SMA 50 ~$741–744, SMA 200 ~$694–701 — Golden Cross | ✅ ABOVE BOTH — BULLISH |
+| QQQ | ~$725.51; SMA 50 ~$707–714 est (up from prior ~$707) | ✅ ABOVE SMA 50 — STANDARD MODE |
+
+**MACRO FILTER: GREEN — All 5 setup types active. VIX < 25 ✓. No sizing reduction.**
+
+**Sector YTD:** S&P 500 +9.6% H1 | Cybersecurity (CIBR) +22% YTD | Semiconductors (SMH) +64% YTD (consolidating) | July rotation into financials/value from tech
+
+### Key Catalysts Today (July 14, 2026)
+1. **⚠ CPI JUNE 2026 — 8:30 AM ET (TOP CATALYST).** Forecast: −0.2% MoM vs +0.5% prior; YoY ~4.0% (Cleveland Fed nowcast). Prior (May): +4.2% YoY / +0.5% MoM. Cool print = bullish growth/cyber; hot print = sell tech, VIX spike, CRWD stop at risk.
+2. **BMO EARNINGS — BANKS:** JPM (EPS $5.58 exp), WFC ($1.72), BAC ($1.12), C ($2.73), GS ($14.47). Strong bank earnings typical positive market catalyst. Could lift broad market tone at open.
+3. **NFIB Small Business Optimism — 6:00 AM ET.** Low impact (Index 95.3 prev).
+4. **WTI recovery +$3.09 Friday** — energy prices rising; mild inflationary concern but not dominant.
+5. **S&P futures −0.4%** — pre-CPI caution. Likely volatility spike at 8:30 AM.
+
+### CRWD Position Review
+| Metric | Value |
+|--------|-------|
+| Entry | $193.64 (Jul 9) |
+| Current (pre-mkt) | $187.27 |
+| Unrealized P&L | −$318.50 (−3.29%) |
+| Stop | GTC `6b7ffc37` $183.96 (5% below entry) |
+| Buffer to stop | **$3.31 (1.77%) — CRITICAL** |
+| Time stop | ⚠ JUL 15 (Day 5 per count) / JUL 16 per logs — MOC by 3:50 PM ET on operative day |
+| Trail rules | +15% ($222.69) → breakeven stop; +20% ($232.37) → take 1/3 off — NOT triggered |
+| Analyst stack | UBS $235 Buy ✓ | MS $172 Overweight (PT below price ⚠) | Benchmark $230 | TIKR model ~$183 (at stop!) |
+| Q2 earnings | ~Sep 2026 ✓ — no earnings within 5 days |
+| Status | Thesis intact (AI cybersecurity ARR $1.39B +26% YoY). MS PT trim bearish signal. TIKR model at stop level is risk. CPI print will determine fate. HOLD — stop manages. |
+
+**⚠ CRWD RISK:** Morgan Stanley trimmed PT to $172 (below current $187). TIKR model fair value ~$183 = exactly at stop. If CPI is HOT → growth sell-off → CRWD could breach $183.96 stop. Stop is mechanical — no intervention.
+
+### Universe Scan (All Setup Types)
+| Ticker | SMA Status (Jul 13 data) | Spread | Setup Type | Verdict |
+|--------|--------------------------|--------|------------|---------|
+| CRWD | Above all SMAs; SMA 50 ~$161 (Barchart post-split) | ~0.3% ✓ | HELD Type 4 Day 4/5 | **HOLD — time stop tomorrow** |
+| AMD | ~$546+ (Jul 10 close); SMA 20 ~$529–535 — price extended $11+ above SMA | ~0.3% ✓ | Type 3 entry requires price AT SMA zone, not above | **WATCH — no entry yet; valid if pullback to $529–535 post-CPI** |
+| NVDA | Below SMA 150/200 (prior scans) — stopped out Jul 7 | — | Disqualified all types | **SKIP** |
+| META/MSFT/PLTR | Below SMA 200 (prior scans) | — | Disqualified | **SKIP** |
+| GOOGL | Below SMA 50 (prior scans) | — | No valid setup | **SKIP** |
+| TQQQ/SOXL | QQQ ~$725 vs SMA 50 ~$707–714; extended ~$11–18 above — Type 5 not at pullback zone | — | Type 5 requires QQQ at SMA 50 | **SKIP — not at pullback zone** |
+| MU/AMZN | Below SMA 20/50 / stopped out | — | Disqualified | **SKIP** |
+| MRVL | Semiconductor sector rotation; below key SMAs per prior | — | Disqualified | **SKIP** |
+
+### Trade Ideas
+**Pre-CPI (before 8:30 AM): NO NEW ENTRIES.**
+CPI at 8:30 AM creates binary risk. Entering any position before the print is speculative, not systematic.
+
+**Post-CPI conditional (after 9:30 AM open, allow market to stabilize):**
+1. **AMD Type 3 SMA 20 pullback** — If AMD pulls back to $529–535 zone (SMA 20) with bounce confirmation: Type 3 entry valid. Target $560–580 (+5–8%). Stop: close below SMA 20 (~$525–529). R:R ~2:1. Size: 3–4% capital (~$3,000, ~5–6 shares). Catalyst: AI/data center demand; Wells Fargo PT raised $505→$615 Jun 30. Wait for dip to SMA zone — not viable at current $546+.
+2. **Type 4 momentum probe** — If CPI cool → market rips → CRWD recovers above $195, look for additional conviction names from universe that have gapped above resistance on volume. Check PLTR/NET if SMA structure has recovered.
+3. **TQQQ Type 5** — NOT viable today (QQQ extended). Would need QQQ pullback to $707–714 to qualify.
+
+**No pre-CPI entries. Conditional post-CPI scan warranted.**
+
+### Risk Factors
+1. **CPI HOT scenario** (above 4.2% YoY or above 0% MoM): VIX spikes, growth stocks sell off, CRWD risks breaching $183.96 stop. If VIX > 25, reduce all sizing 25%.
+2. **CRWD stop proximity (1.77% buffer)**: Any meaningful sell-off or risk-off move post-CPI could trigger GTC stop. Mechanical — no intervention per rules.
+3. **Time stop ambiguity**: Day count puts time stop at Jul 15 (tomorrow) but logs say Jul 16. Place MOC by 3:50 PM ET on Jul 15 to be safe. Do NOT rely on GTC stop `6b7ffc37` for time exit.
+4. **MS PT below current price** ($172 vs $187): If MS note circulates broadly, could add selling pressure to CRWD.
+5. **July tech rotation**: S&P July selloff targeting prior tech winners. CRWD fell 6% from $199→$187 on Jul 10 — rotation pressure ongoing.
+6. **Bank earnings beats could lift market**: JPM/GS beat expectations → broad rally → CRWD recovers. This is the bull case for today.
+
+### Decision
+**HOLD CRWD. Conditional new entry post-CPI.**
+
+- Pre-CPI (8:30 AM ET): NO ACTION. CRWD stop manages downside.
+- Post-CPI: Scan AMD for Type 3 SMA 20 pullback to $529–535 zone. Scan universe for Type 2/4 breakout if market rallies.
+- ⚠ CRITICAL — TIME STOP: Place CRWD MOC order by 3:50 PM ET on **Jul 15 (tomorrow)** per strict day count. Logs say Jul 16 but entry-day-as-Day-1 counting makes Day 5 = Jul 15. Conservative approach: execute Jul 15 MOC. Confirm in market-open routine tomorrow.
+- Stop $183.96 GTC is live and manages CRWD downside automatically. Do NOT move stop.
+
 **Challenge Final Result (Day 30/30):**
 - Starting capital: $100,000
 - Final equity (pre-mkt): $98,184.54
