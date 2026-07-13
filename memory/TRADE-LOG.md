@@ -2,6 +2,41 @@
 
 ---
 
+### Jul 13 — Market-Open (Post-Challenge Week 13, Monday — NO-TRADE-DAY)
+**Portfolio:** $97,327.07 | **Cash:** $97,327.07 (100%) | **Long MV:** $0 | **Phase P&L:** −$2,672.93 (−2.67%) | **Daytrade count:** 0
+
+**CRWD STOP-OUT — GTC stop `6b7ffc37` triggered at $183.96:**
+
+| Ticker | Shares | Entry | Exit | Realized P&L | Exit Time (ET) | Notes |
+|--------|--------|-------|------|--------------|----------------|-------|
+| CRWD | 50 | $193.64 | $181.9006 avg | −$586.97 (−6.07%) | 9:36 AM Jul 13 | GTC stop `6b7ffc37` triggered; stop price $183.96 → fill avg $181.90 (slippage $2.06/sh). Partial fill 3sh @ $182.41 at 9:34 AM, remainder filled ~9:36 AM. Day 2/5 time stop (Jul 16 entry-day-as-Day-0 count). |
+
+**NO-TRADE-DAY — Rule A (zero qualifying setups)**
+
+| Ticker | Reason Skipped |
+|--------|----------------|
+| AMD | Spread 1.8% (bid $531.09 / ask $540.77) → FAILS ≤1.5% gate. Price ~$536 near SMA 20 zone ($529–535) but spread gate is hard. |
+| NVDA | Stopped out Jul 7 at SMA 150 breach; no Perplexity-confirmed recovery above SMA 150/200 post-stop-out. Re-entry requires confirmed SMA structure + new thesis. CPI tomorrow adds binary risk. |
+| CRWD | Just stopped out; spread 5.88% (bid $181.95 / ask $192.64) → FAILS gate. No re-entry same session. |
+| META/MSFT/PLTR | Below SMA 200 (prior scans) — disqualified. |
+| GOOGL | Below SMA 50 (prior scans) — no valid setup. |
+| TQQQ/SOXL | QQQ extended above SMA 50 — not at pullback zone; Type 5 not viable. |
+
+**Macro filter (confirmed at open):** SPY ~$7,554 SPX (~−0.28% today) | VIX ~16 est ✓ | SPY/QQQ above SMA 50 ✓ | **Standard mode — all 5 setup types active.** Zero tickers qualify in any type. CPI (June 2026) tomorrow Jul 14 at 8:30 AM ET — overnight binary risk factor; entering today = holding through CPI.
+
+**⚠ CATALYSTS TOMORROW (Jul 14):** CPI June 2026 at 8:30 AM ET (forecast: 3.8% YoY) + JPM/WFC/BAC/C/GS Q2 bank earnings. Cool CPI → growth rally → scan NVDA (if above SMA 150/200 confirmed), AMD (if pullback to $529–535 zone, spread ≤1.5%). Hot CPI → VIX spike → cash mode maintained.
+
+**⚠ CRWD TRADE LOG:**
+- Entered: Jul 9 @ $193.64 (Type 4 momentum probe, Day 0)
+- Stopped out: Jul 13 @ $181.90 avg (GTC `6b7ffc37` triggered, Day 2)
+- Realized P&L: −$586.97 (−6.07%)
+- Time stop was Jul 16 (Day 5 per entry-day-as-Day-0 count) — mechanical stop pre-empted
+
+**Open positions (0/4 max):** None.
+**Trades this week (Week 13):** 0 — Floor requires 1 entry/day or explicit NO-TRADE-DAY reason. Rule A satisfied today. ⚠ Tomorrow (Jul 14, CPI day): post-CPI scan at ~10 AM ET, conditional on: AMD spread ≤1.5% + SMA 20 pullback OR NVDA SMA 150/200 confirmed + setup type.
+
+---
+
 ### Jul 10 — Market-Open (Day 30/30 — FINAL SPRINT DAY — NO-TRADE-DAY)
 **Portfolio:** $98,075.54 | **Cash:** $88,232.04 (89.9%) | **Long MV:** $9,843.50 | **Phase P&L:** −$1,924.46 (−1.92%) | **Daytrade count:** 0
 
