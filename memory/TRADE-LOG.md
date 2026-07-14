@@ -2,6 +2,18 @@
 
 ---
 
+### Jul 14 — EOD Snapshot (Post-Challenge Week 13, Tuesday)
+**Portfolio:** $97,658.48 | **Cash:** $59,182.43 (60.6%) | **Day P&L:** +$331.43 (+0.34%) | **Phase P&L:** −$2,341.52 (−2.34%)**
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| NVDA | 40 | $204.2155 | $211.80 | +4.06% | +$303.43 (+3.72%) | Fixed GTC `8b06edc4` $193.99 — ⚠ TIME STOP JUL 21 |
+| TQQQ | 400 | $74.94 | $75.01 | +3.26% | +$28.00 (+0.09%) | Fixed GTC `a1cc07e1` $68.94 |
+
+**Notes:** CPI day delivered a strong entry session. NVDA +4.06% on the day, closing $211.80 (+$303.43 / +3.72% unrealized from $204.22 entry) — H20 China export licenses confirmed, Jensen Beijing trip Jul 16 is a near-term catalyst. TQQQ +3.26% on the day but slender unrealized P&L (+$28 / +0.09%) as it was entered near today's high ($74.94 vs $75.01 close); QQQ well above SMA 50 ($701.41), standard mode confirmed. Day P&L +$331.43 (+0.34%) on mark-to-market from yesterday's last_equity $97,327.05. Phase P&L: −$2,341.52 (−2.34%) vs $100K start. Trades today: 2 (NVDA + TQQQ, both at market-open Jul 14). Week 13 floor: 2/7 — 5 more entries needed Wed–Fri. Open slots: 2 single names (3rd slot still available for high-conviction single name; leveraged ETF slot used). ⚠ NVDA time stop Jul 21 — place MOC by 3:50 PM ET. ⚠ TQQQ whipsaw guard: −8% from entry → exit at $68.94 GTC active.
+
+---
+
 ### Jul 14 — Midday Scan (Post-Challenge Week 13, Tuesday — CPI Day)
 **Portfolio:** $97,788.03 | **Cash:** $59,182.43 (60.5%) | **Long MV:** $38,605.60 | **Phase P&L:** −$2,211.97 (−2.21%)**
 
