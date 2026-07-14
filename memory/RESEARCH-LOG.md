@@ -4269,3 +4269,101 @@ None.
 - **Target today: 2 new entries** (need 5 more by Jul 3 for floor pace; current 2/7 for Week 11).
 - **NO-TRADE-DAY NOT valid today** — Macro filter is green, multiple qualified setups exist.
 - **MU:** HOLD — time stop July 7 reminder.
+
+---
+
+## 2026-07-14 — Pre-Market Research (Post-Challenge Day 32, Week 13 Tuesday)
+
+### Account Snapshot (Live, Pre-Market)
+- **Equity:** $97,327.05 | **Cash:** $97,327.05 (100%) | **Long MV:** $0 | **Buying Power:** $389,308.20
+- **Positions:** 0/4 | **Orders:** 0 open
+- **Phase P&L:** −$2,672.93 (−2.67% vs $100K start)
+- **Daytrade count:** 0 | **Week 13 entries:** 0/7 floor — URGENT, must trade today
+
+### Market Context (Pre-CPI, before 8:30 AM ET)
+| Indicator | Value | Signal |
+|-----------|-------|--------|
+| S&P 500 futures (ESU26) | ~7,554–7,577 (−0.57%) | Slightly negative |
+| QQQ premarket | ~$720.91 (Jul 13 close: $711.91, +1.3%) | Bouncing from SMA50 zone |
+| SPY | ~$749–752 (Jul 10 close $754.95) | Above SMA50 ~$730–740 est. ✓ |
+| VIX | ~16.38 (+9% from prior close ~15.03) | ✅ Green — no size cuts |
+| June CPI (8:30 AM ET) | Forecast 3.8% (prev 4.2%) — NOT YET RELEASED | ⚠ KEY EVENT |
+| Bank earnings BMO | JPM, BAC, GS, WFC, C | Q2 season kickoff — risk-on if beats |
+| Fed Chair Warsh | Testimony today (hawkish, 77% rate-hike prob by year-end) | ⚠ Watch tone |
+| Oil (WTI) | ~$74+ after Iran tension resurgence | Inflationary headwind |
+| Jensen Huang Beijing | July 16 (NVDA H20 China restart) | Chip sector catalyst |
+
+**Macro mode: ALL 5 SETUP TYPES ACTIVE** (SPY + QQQ above SMA50; VIX 16.38 < 25)
+⚠ Gate: Confirm after CPI print. Hot CPI (>4.0%) → watch VIX; Cool CPI (≤3.8%) → green-light entries.
+
+### Macro Filter Result
+- SPY ~$749: above SMA50 (~$730–740) ✓ — Type 2/4/5 active
+- QQQ ~$711.91 close (premarket +1.3% to $720): above SMA50 (~$695–710 est.) ✓ — leveraged ETF (Type 5) active
+- VIX 16.38: below 25 — full size; below 30 — leveraged ETF allowed
+- **All 5 setup types active. No mode restrictions.**
+
+### Universe Scan
+
+| Ticker | Price | SMA50 | SMA150/200 | Setup | Verdict |
+|--------|-------|-------|------------|-------|---------|
+| AMD | ~$534 (Jul 13 close) | ~$482 (above) | ~$287/$288 (above) ✓ | Type 3 — SMA20 pullback | **TOP PICK** |
+| NVDA | ~$205–210 | ~$200–206 | ~$190–194 SMA200 ✓ | Type 4 — momentum probe | **CONDITIONAL** |
+| TQQQ | ~$72 (Jul 13 close) | QQQ SMA50 ~$695–710 | QQQ above SMA50 ✓ | Type 5 — QQQ SMA50 bounce | **POST-CPI** |
+| META | ~$657 (Jul 10 close −1.86%) | Likely above | Above SMA150/200 ✓ | Type 3/4 possible | WATCH — earnings Jul 29 |
+| CRWD | ~$188 (Jul 13 close) | Unclear post-split | Likely above SMA200 ✓ | Type 2 possible | SKIP — just stopped out Jul 13 |
+| PLTR | ~$127–132 | Below | Below SMA150/200 ✗ | NONE | SKIP — SMA structure broken |
+| MSFT/GOOGL/AVGO | Not confirmed above SMA50/150 | — | — | NONE | SKIP |
+
+**AMD detail (Type 3 — HIGHEST CONVICTION):**
+- Close Jul 13: $534.39 (−4.21% on day, market-wide selloff, no AMD-specific news)
+- SMA20: ~$530.95; AMD at $534 = sitting ON SMA20 support
+- SMA50: ~$482; well above ✓
+- SMA150/200: ~$287–300; well above ✓
+- Earnings: Aug 4, 2026 — 15 trading days out ✓ (full size OK)
+- Catalyst: Q2 guidance $11.2B rev (+46% YoY); Rackspace 30MW AI deal; Bernstein $600 PT
+- Setup: Clean Type 3 — macro trend intact, pullback to SMA20, awaiting bounce confirmation at open
+- Entry gate: AMD opens ≥$530 AND shows positive price action vs SPY at open
+
+**TQQQ detail (Type 5 — CONDITIONAL):**
+- QQQ closed Jul 13 at $711.91 — near estimated SMA50 ($695–710)
+- QQQ premarket +1.3% to ~$720 = bouncing off SMA50 zone
+- This is the Type 5 entry signal: QQQ pulled to SMA50, now bouncing
+- Entry gate: CPI print ≤3.8% AND QQQ holds above SMA50 into open → BUY TQQQ
+- Stop: QQQ closes below SMA50 OR TQQQ intraday drop ≥8% from entry
+- TQQQ at ~$72–73; 8% stop = ~$66–67
+
+**NVDA detail (Type 4 — SECOND CHOICE):**
+- Surged 8.5% on Jul 10 (from ~$190 to $210.96) on chip/SK Hynix rally
+- Pulled back to ~$205 range (Jul 11–13 giveback)
+- Earnings: Aug 26, 2026 ✓ (full size)
+- Catalyst: H20 China restart license confirmed; Jensen Beijing Jul 16
+- Setup: Type 4 momentum probe (post-surge continuation) — HALF SIZE (1.5–2% risk)
+- Time stop: 5 trading days from entry (exit by Jul 21 EOD)
+- Entry gate: NVDA opens above $200 AND showing RS vs QQQ at open
+
+### Top Trade Ideas
+
+| # | Ticker | Type | Entry Gate | Shares (est.) | Stop | Target | Risk |
+|---|--------|------|------------|---------------|------|--------|------|
+| 1 | **AMD** | Type 3 (SMA20 bounce) | Open ≥$530 + positive price action vs SPY | ~50 shares (~$27K) | GTC ~$525 (below SMA20) | $560–580 | ~$450 (0.46%) |
+| 2 | **TQQQ** | Type 5 (QQQ SMA50 bounce) | Post-CPI: CPI ≤3.8% + QQQ >SMA50 | ~400 shares (~$29K) | −8% intraday OR QQQ below SMA50 | ~$85–90 | ~$2,340 (2.4%) |
+| 3 | **NVDA** | Type 4 (momentum probe, half size) | NVDA ≥$200 + RS vs QQQ | ~40 shares (~$8K) | 5% below entry (~$190) | $220+ | ~$400 (0.41%) |
+
+*Size notes: All positions sized to stay within $40–50K single-names + $40–50K leveraged ETF allocation. Max 4 total positions. After AMD + TQQQ = 2/4; adding NVDA = 3/4 total.*
+
+### Risk Factors
+1. **June CPI at 8:30 AM** — Hot print (>4.0%) could spike VIX; if VIX >25 → reduce all sizes 25%; if VIX >30 → exit/skip TQQQ
+2. **Bank earnings (JPM, BAC, GS)** — If big beats: risk-on, supports tech rally. If misses: risk-off, may pressure QQQ below SMA50
+3. **Fed Chair Warsh hawkish testimony** — 77% rate-hike probability by year-end; any surprise comments could reprice rates aggressively
+4. **U.S.-Iran oil tensions** — Oil ~$74+; if escalates → energy costs → CPI hotter → Fed tighter → tech headwind
+5. **Week 13 floor pressure** — 0/7 entries creates urgency but DO NOT force bad trades; CPI gate must be respected
+6. **AMD momentum reversal risk** — Drop from $557 to $534 in 2 days; if SMA20 fails at open, step aside; do NOT buy into a falling knife
+7. **CRWD re-entry temptation** — Just stopped out at $181.90 (Jul 13). Too soon to re-enter without seeing 2+ days of stabilization above $187
+
+### Decision: TRADE (conditional on CPI)
+- **AMD:** ENTER Type 3 at open IF AMD ≥$530 AND showing bounce (green candle, positive vs SPY). Stop GTC ~$525.
+- **TQQQ:** ENTER Type 5 AFTER CPI print (8:30 AM ET). Only if CPI ≤3.8% AND QQQ holds above SMA50. Skip if CPI hot or VIX spikes above 25.
+- **NVDA:** ENTER Type 4 (half size) IF NVDA shows RS at open above $200. Time stop Jul 21.
+- **Target today: 2–3 new entries** to get Week 13 started (0/7 floor; urgent).
+- **NO-TRADE-DAY is NOT valid** — macro filter green, multiple qualified setups across universe.
+- **Position cap after 3 trades:** 3/4 — 1 slot open for opportunistic rotation.
