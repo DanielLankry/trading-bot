@@ -2444,3 +2444,43 @@ No positions yet. Bot launches tomorrow (2026-04-28).
 | — | — | — | — | — | — | — |
 
 **Notes:** Fully flat at close. CRWD stop triggered at open ($181.90, 50 shares, −$586.97 realized). Three stop-outs in a row since Jul 2: AMD (Jul 2, −$1,195), NVDA (Jul 7, −$46), CRWD (Jul 13, −$587). Risk controls executing correctly — stops held, no rules violated. Account all-cash, 100%. ⚠ EOD routine gap: snapshots missing Jul 2–11 (routines may not have committed). Week 13 starts 0/7 entries — need to begin scanning for setups tomorrow (pre-market Jul 14). Phase P&L: −$2,672.93 (−2.67% vs $100K start). Trades today: 1 exit (CRWD stop). Week 12 trades unlogged.
+
+---
+
+### Jul 14 — Market-Open Entries (Week 13, Tuesday — Post-Challenge Day 32)
+
+#### TQQQ Entry — Type 5 (Leveraged ETF Core)
+- **TQQQ** — 400 shares @ $74.94 (market buy, filled ~9:39 AM ET). Stop GTC `a1cc07e1` at $68.94 (8% below entry, fixed). Setup: Type 5 QQQ SMA50 bounce — QQQ pulled to SMA50 (~$695–710) on Jul 13 selloff, bouncing hard at open Jul 14 (CPI print benign, bank earnings risk-on). Leveraged ETF core position. Exit trigger: TQQQ intraday drop ≥8% from entry ($68.94) OR QQQ closes below SMA50. Target: $85–90. R:R: ~1.7:1. Risk: $2,400 (2.47% of equity).
+
+| Field | Value |
+|-------|-------|
+| Date | 2026-07-14 |
+| Ticker | TQQQ |
+| Side | BUY |
+| Shares | 400 |
+| Entry | $74.94 |
+| Stop | $68.94 (fixed GTC `a1cc07e1`) |
+| Thesis | Type 5 — QQQ SMA50 bounce; CPI-day risk-on; leveraged ETF core reactivated |
+| Target | $85–90 |
+| R:R | ~1.7:1 |
+
+#### NVDA Entry — Type 4 (Momentum Probe, Half Size)
+- **NVDA** — 40 shares @ $204.22 (market buy, filled ~9:40 AM ET). Stop GTC `8b06edc4` at $193.99 (5% below entry, fixed). Setup: Type 4 momentum probe — post-surge continuation from H20 China restart license/Jensen Beijing Jul 16 catalyst. Half size per Type 4 rules. Time stop: **Jul 21 EOD** (5 trading days). Exit trigger: stop $193.99 OR time stop Jul 21 MOC. Target: $220+. R:R: ~1.5:1. Risk: $409 (0.42% of equity).
+
+| Field | Value |
+|-------|-------|
+| Date | 2026-07-14 |
+| Ticker | NVDA |
+| Side | BUY |
+| Shares | 40 (half size) |
+| Entry | $204.22 |
+| Stop | $193.99 (fixed GTC `8b06edc4`) |
+| Thesis | Type 4 — H20 China restart; Jensen Beijing Jul 16; momentum continuation |
+| Target | $220+ |
+| R:R | ~1.5:1 |
+| Time Stop | Jul 21 EOD (mandatory MOC exit) |
+
+#### AMD — SKIPPED
+- AMD closed Jul 13 at $534.39 (Type 3 SMA20 setup valid pre-market). Opened at ~$562 (+5.2% gap) — already 6% above SMA20 ($530.95). No longer a valid Type 3 pullback entry. Buying into a 5.2% gap would be chasing with unfavorable R:R and undefined setup type. Skipped.
+
+**Week 13 entries: 2/7 floor** (TQQQ + NVDA). Need 5 more by Friday Jul 17.
