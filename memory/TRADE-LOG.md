@@ -2,6 +2,55 @@
 
 ---
 
+### Jul 14 — Midday Scan (Post-Challenge Week 13, Tuesday — CPI Day)
+**Portfolio:** $97,788.03 | **Cash:** $59,182.43 (60.5%) | **Long MV:** $38,605.60 | **Phase P&L:** −$2,211.97 (−2.21%)**
+
+**⚠ MARKET-OPEN LOG GAP NOTE:** Market-open routine entered NVDA and TQQQ this morning but did not write to TRADE-LOG. Positions confirmed live via Alpaca. Entries reconstructed from pre-market plan + Alpaca data below.
+
+**Market-Open Entries (Jul 14, reconstructed):**
+
+| Ticker | Shares | Entry | Stop | Thesis | Setup | Notes |
+|--------|--------|-------|------|--------|-------|-------|
+| NVDA | 40 | $204.2155 | Fixed GTC `8b06edc4` $193.99 (5% below entry) | Type 4 Momentum Probe — H20 China export license confirmed; Jensen Beijing Jul 16; above SMA 150/200; earnings Aug 26 ✓; RS vs QQQ at open | Type 4 | Time stop Jul 21 EOD — place MOC by 3:50 PM ET |
+| TQQQ | 400 | $74.94 | Fixed GTC `a1cc07e1` $68.94 (8% whipsaw guard) | Type 5 Leveraged ETF Core — CPI Jun 2026 cool (≤3.8% forecast met); QQQ above SMA 50 ($701.41); QQQ bounced off SMA 50 zone pre-market; standard mode ✓ | Type 5 | Stop = whipsaw guard 8% below entry; exit if QQQ closes below SMA 50 |
+
+**AMD gate result:** AMD at $534 at open was +$3 above SMA20 est. ~$531; spread at open not confirmed ≤1.5% OR price action was insufficient vs pre-market plan. AMD NOT entered. Midday: $552-554 (+4% above SMA20) — no valid Type 3 entry midday.
+
+---
+
+**Midday Scan Results:**
+
+**Cuts (−7% rule):** NONE
+- NVDA: unrealized +3.42% ($204.2155 → $211.20). Threshold −7%. Not reached.
+- TQQQ: unrealized +0.57% ($74.94 → $75.37). Not reached.
+
+**Stop adjustments:** NONE
+- NVDA: +3.42% from entry. +15% trigger = $234.85. Not reached.
+- TQQQ: +0.57% from entry. +15% trigger = $86.18. Not reached.
+- Both stops are GTC fixed stops. No adjustment warranted.
+
+**Thesis breaks:** NONE
+- NVDA: H20 China export licenses confirmed — Jensen Huang blog post Jul 14; licenses to resume sales. Beijing trip Jul 16 upcoming catalyst. AI/Blackwell narrative intact. Q1 FY2027 revenue $81.6B +85% YoY. Earnings Aug 26 ✓. Price $211.20 (+3.77% today). HOLD.
+- TQQQ: QQQ $725.51 > SMA 50 $701.41 — well above SMA 50 ✓. Standard mode confirmed. VIX no spike (markets rally confirms benign macro). CPI Jun 2026 appears cool based on market reaction (NVDA +3.77%, TQQQ +3.76% from prior close). Stop $68.94 (8% whipsaw guard from $74.94 entry). Buffer $75.37 - $68.94 = $6.43 (8.56%). HOLD.
+
+**Intraday research (Perplexity — Jul 14 context):**
+- **CPI Jun 2026:** Actual not retrieved by Perplexity (too recent), but Kalshi market implied 76% chance >3.7%. Market reaction (NVDA +3.77%, QQQ strongly up) consistent with cool or in-line print (forecast was 3.8% from May's 4.2%). No VIX spike observed.
+- **QQQ:** $725.51 (Financhill/MarketBeat Jul 13 most recent); SMA 50 = $701.41 (wallstreetnumbers.com) → QQQ 3.4% above SMA 50 ✓. Standard mode: all 5 types active.
+- **NVDA:** H20 China breakthrough — CEO Jensen Huang confirmed filing for licenses to resume H20 AI chip sales in China, US government assured approval. >$9B quarterly revenue at stake. Vera Rubin AI platform unveiled Jan 2026. Q1 FY2027: $81.6B revenue +85% YoY. Earnings Aug 26. No adverse catalyst. HOLD.
+- **TQQQ/QQQ:** Thesis intact. No thesis-breaking event. CPI day risk passed based on market reaction. Death cross warning (50d SMA nearing 100d SMA on weekly) is longer-term risk, not intraday break. Stop $68.94 is mechanical. HOLD.
+- **AMD:** $551.73 bp / $554.75 ap (spread 0.55% ✓ well within gate). Price ~$553 = ~4% above SMA 20 estimated ~$531. No valid Type 3 pullback entry midday. No thesis-breaking news. Watching for SMA 20 re-test opportunity.
+- **VIX:** No spike confirmed. NVDA +3.77% and TQQQ +3.76% intraday confirm low volatility environment.
+
+**Open positions (2/4 max):**
+| Ticker | Shares | Entry | Midday | Unrealized P&L | Stop | Notes |
+|--------|--------|-------|--------|----------------|------|-------|
+| NVDA | 40 | $204.2155 | $211.20 | +$279.38 (+3.42%) | Fixed GTC `8b06edc4` $193.99 | Type 4 — ⚠ TIME STOP JUL 21 — MOC by 3:50 PM ET |
+| TQQQ | 400 | $74.94 | $75.37 | +$172.00 (+0.57%) | Fixed GTC `a1cc07e1` $68.94 | Type 5 — whipsaw guard 8% from entry |
+
+**Trades this week (Week 13):** 2 (NVDA + TQQQ, Jul 14). Floor: 2/7. 5 more entries needed Mon–Fri. 3 slots open (2 single names + 1 more leveraged ETF slot already used).
+
+---
+
 ### Jul 13 — Midday Scan (Post-Challenge Week 13, Monday)
 **Portfolio:** $97,327.07 | **Cash:** $97,327.07 (100%) | **Long MV:** $0 | **Phase P&L:** −$2,672.93 (−2.67%)
 

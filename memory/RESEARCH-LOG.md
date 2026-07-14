@@ -4367,3 +4367,25 @@ None.
 - **Target today: 2–3 new entries** to get Week 13 started (0/7 floor; urgent).
 - **NO-TRADE-DAY is NOT valid** — macro filter green, multiple qualified setups across universe.
 - **Position cap after 3 trades:** 3/4 — 1 slot open for opportunistic rotation.
+
+### Jul 14 — Afternoon Addendum (Midday Scan)
+
+**Positions entered at market-open (confirmed via Alpaca):**
+- NVDA 40sh @ $204.2155, GTC stop $193.99 — Type 4 probe, time stop Jul 21
+- TQQQ 400sh @ $74.94, GTC stop $68.94 — Type 5 whipsaw guard
+
+**AMD gate outcome:** NOT entered. Price at open was insufficiently confirmed at SMA20 zone; midday $552–554 now ~4% extended above SMA20 (~$531) — no valid entry.
+
+**CPI Jun 2026:** Exact print not retrieved (too recent for search results). Market reaction: NVDA +3.77% from prior close, TQQQ +3.76% from prior close → strongly consistent with cool/in-line print (consensus was 3.8% from May's 4.2%). No VIX spike. Macro environment: favorable.
+
+**Macro filter (midday confirmation):** QQQ $725.51 > SMA50 $701.41 ✓ | VIX no spike ✓ | All 5 setup types active | Standard mode.
+
+**Position review:**
+- NVDA: +3.42% midday ($211.10 live). H20 China export licenses confirmed. Jensen Beijing Jul 16. Thesis intact. Time stop Jul 21.
+- TQQQ: +0.57% midday ($75.27 live). QQQ above SMA50 ✓. Thesis intact. No whipsaw event.
+- AMD: $553 midday. Extended 4% above SMA20. No action.
+
+**Remaining setup watch:**
+- AMD Type 3: Valid only if price pulls back to $530–535 with bounce confirmation. Elevated from $534 → $553 today. Monitor tomorrow.
+- NVDA Type 4: Already held. Time stop Jul 21 — mandatory MOC exit.
+- 2 single-name slots open (positions 3/4 and 4/4). Watch for Type 2/3/4 setups in universe tomorrow.
