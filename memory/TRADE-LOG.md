@@ -2,6 +2,42 @@
 
 ---
 
+### Jul 15 — Market-Open (Post-Challenge Week 13, Wednesday — LATE EXECUTION ~1:09 PM ET)
+**Portfolio:** $96,789.32 | **Cash:** $40,272.34 (41.6%) | **Long MV:** $56,516.98 | **Phase P&L:** −$3,210.68 (−3.21%) | **Daytrade count:** 0
+
+⚠ **TIMING NOTE:** This market-open routine executed at ~1:09 PM ET, after the midday scan (noon). The midday scan had flagged META as "no valid Type 2 or Type 3" (SMA20 ~$584 < SMA50 ~$600). This entry classifies META as **Type 4 Momentum Probe** (RS criterion, not SMA20/50 alignment). The SMA20<SMA50 concern is noted — monitor RS; exit via time stop Jul 22.
+
+| Ticker | Shares | Entry | Stop | Thesis | Target | R:R |
+|--------|--------|-------|------|--------|--------|-----|
+| META | 28 | $675.36 | Fixed GTC `e2f634cb` $641.59 (5% below entry) | Type 4 Momentum Probe — RS +2.12% on down day (NVDA −1.68%, TQQQ −2.39%); above SMA200 ($642–647) + SMA50 ($600) ✓; SMA20 ($584) < SMA50 = no clean SMA alignment but RS criterion met; AMD Advancing AI summit Jul 22-23; earnings late Aug ✓; VIX < 25 ✓ | $710–730 (+5–8%) | ~1.1:1 |
+
+**Trades fired:**
+- **META BUY** — 28sh @ $675.36 avg (market order `26893a0b`, ~1:09 PM ET). Fill confirmed. Fixed stop GTC placed at $641.59 (order `e2f634cb`, 5% below entry per Type 4 rule). Position cost $18,910.08 (19.5% equity ✓ ≤20%). Risk: 28 × $33.77 = $946 (~1.0% capital ✓ — Type 4 half-size, constrained by 20% position cap). ⚠ **TIME STOP: Jul 22 (Day 5/5) — place MOC before 3:50 PM ET. Do NOT rely on GTC stop for time exit.**
+
+**Candidates skipped:**
+| Ticker | Reason |
+|--------|--------|
+| AMD | Price $519 — FAILS entry gate ($540 minimum) AND at/below SMA20 ($518 per midday scan). PPI Jun 2026: 6.5% YoY vs 6.2% forecast (hot). Retail Sales tomorrow 8:30 AM ET = overnight binary risk. |
+| NVDA | Already held — Type 4 probe, time stop Jul 21. No double-dip. |
+| TQQQ | Leveraged ETF slot filled. Above stop $68.94. HOLD. |
+
+**Macro (confirmed at execution):**
+- PPI June 2026: 6.5% YoY vs 6.2% forecast — slightly hot; mild risk-off
+- QQQ $719–725 above SMA50 $715–717 ✓ (confirmed by midday scan)
+- VIX not elevated ✓ | All 5 setup types active
+
+**Open positions (3/4 max):**
+| Ticker | Shares | Entry | Current | Unrealized P&L | Stop | Notes |
+|--------|--------|-------|---------|----------------|------|-------|
+| NVDA | 40 | $204.2155 | $208.24 | +$160.98 (+1.97%) | Fixed GTC `8b06edc4` $193.99 | Type 4 — ⚠ TIME STOP JUL 21 — MOC by 3:50 PM ET |
+| TQQQ | 400 | $74.94 | $73.23 | −$684.40 (−2.28%) | Fixed GTC `a1cc07e1` $68.94 | Type 5 — whipsaw guard; QQQ above SMA50 ✓ |
+| META | 28 | $675.36 | $675.04 | −$8.96 (−0.05%) | Fixed GTC `e2f634cb` $641.59 | Type 4 — ⚠ TIME STOP JUL 22 — MOC by 3:50 PM ET |
+
+**Probe cap:** 2/2 (NVDA semiconductor + META social/AI — different sectors ✓)
+**Trades this week (Week 13):** 3 (NVDA + TQQQ Jul 14, META Jul 15). Floor: 3/7. 4 more entries needed Thu–Fri.
+
+---
+
 ### Jul 15 — Midday Scan (Post-Challenge Week 13, Wednesday)
 **Portfolio:** $96,715.42 | **Cash:** $59,182.42 (61.2%) | **Long MV:** $37,533 | **Phase P&L:** −$3,284.58 (−3.28%)**
 
@@ -21,16 +57,16 @@
 - **NVDA:** H20 export license approved — US government confirmed. Jensen Huang Beijing trip Jul 16 complete (media briefing + CISCE expo opening). H20 supply chain reactivation ~9 months but license approval is the key milestone. Bipartisan senator warnings noted, not market-moving. AI/Blackwell thesis intact. No adverse catalyst. HOLD.
 - **QQQ/TQQQ:** QQQ $719–725 > SMA50 $715–717 ✓. Standard mode confirmed. TQQQ stop buffer 5.68% — safe. Today's pullback consistent with post-CPI consolidation (yesterday massive CPI beat: −0.4% MoM). No VIX spike.
 - **AMD:** Dropped ~4% intraday to $517.89, hit SMA20 at ~$518 as support floor, bounced to $519–526 (bid $519.17 / ask $526.20, spread 1.35% ✓). Pre-market open gate was "AMD opens ≥$540" — **gate FAILED at open**. NOT entered midday — Retail Sales tomorrow 8:30 AM ET = overnight binary catalyst. SMA20 ambiguity (pre-mkt est $531 vs intraday ref $518) adds uncertainty. Will reassess tomorrow pre-market.
-- **META:** ~$675–685. Above SMA200 (~$642–647) ✓. BUT SMA20 ($584–596) < SMA50 ($594–600) = bearish short-term alignment → **no valid Type 2 or Type 3 setup**. SKIP.
+- **META:** ~$675–685. Above SMA200 (~$642–647) ✓. BUT SMA20 ($584–596) < SMA50 ($594–600) = bearish short-term alignment → **no valid Type 2 or Type 3 setup**. SKIP. *(⚠ Subsequent market-open routine at 1:09 PM ET entered META 28sh @ $675.36 as Type 4 RS probe — see entry above.)*
 - **VIX:** Not elevated. Both NVDA and TQQQ declines modest — consistent with low-volatility profit-taking after yesterday's CPI catalyst rally.
 
-**Open positions (2/4 max):**
+**Open positions at midday (2/4 max):**
 | Ticker | Shares | Entry | Midday | Unrealized P&L | Stop | Notes |
 |--------|--------|-------|--------|----------------|------|-------|
 | NVDA | 40 | $204.2155 | $207.55 | +$133.38 (+1.63%) | Fixed GTC `8b06edc4` $193.99 | Type 4 — ⚠ TIME STOP JUL 21 — MOC by 3:50 PM ET Monday |
 | TQQQ | 400 | $74.94 | $73.09 | −$740.00 (−2.47%) | Fixed GTC `a1cc07e1` $68.94 | Type 5 — whipsaw guard; buffer 5.68% — healthy |
 
-**Trades this week (Week 13):** 2 (NVDA + TQQQ, Jul 14). Floor: 2/7. 5 more entries needed Wed–Fri. 2 single-name slots open. ⚠ AMD gate failed today; reassess tomorrow. META invalid (SMA20<SMA50). Target: 2–3 entries Thu–Fri.
+**Trades this week (Week 13):** 2 at midday (NVDA + TQQQ, Jul 14). Floor: 2/7. ⚠ AMD gate failed today; reassess tomorrow (Retail Sales 8:30 AM). META Type 4 entered post-midday — see above.
 
 ---
 
