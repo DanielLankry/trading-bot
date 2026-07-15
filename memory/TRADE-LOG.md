@@ -2,6 +2,19 @@
 
 ---
 
+### Jul 15 — EOD Snapshot (Post-Challenge Day 33, Week 13 Wednesday)
+**Portfolio:** $97,625.98 | **Cash:** $40,272.34 (41.2%) | **Day P&L:** −$36.44 (−0.04%) | **Phase P&L:** −$2,374.02 (−2.37%)**
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| META | 28 | $675.36 | $680.83 | +2.99% | +$153.16 (+0.81%) | Fixed GTC `e2f634cb` $641.59 — ⚠ TIME STOP JUL 22 |
+| NVDA | 40 | $204.2155 | $212.49 | +0.33% | +$330.97 (+4.05%) | Fixed GTC `8b06edc4` $193.99 — ⚠ TIME STOP JUL 21 |
+| TQQQ | 400 | $74.94 | $74.48 | −0.72% | −$184.12 (−0.61%) | Fixed GTC `a1cc07e1` $68.94 |
+
+**Notes:** Flat day (−0.04%) with 3 positions held. META entered ~1:09 PM ET as Type 4 Momentum Probe (28sh @ $675.36, stop $641.59, time stop Jul 22); closed at $680.83 (+2.99% from yesterday's $661.04, +0.81% from entry same day). NVDA holding well (+4.05% unrealized) with H20 China license catalyst intact; time stop Jul 21. TQQQ -0.72% day, unrealized -0.61% from entry, well above $68.94 stop (7.45% buffer). Probe cap full at 2/2 (META + NVDA); TQQQ fills leveraged ETF slot; one single-name slot still open. Week 13: 3/7 floor entries (NVDA + TQQQ Jul 14, META Jul 15) — need 4 more by Fri Jul 17. ⚠ NVDA time stop Jul 21 MOC. ⚠ META time stop Jul 22 MOC.
+
+---
+
 ### Jul 15 — Market-Open (Post-Challenge Week 13, Wednesday — LATE EXECUTION ~1:09 PM ET)
 **Portfolio:** $96,789.32 | **Cash:** $40,272.34 (41.6%) | **Long MV:** $56,516.98 | **Phase P&L:** −$3,210.68 (−3.21%) | **Daytrade count:** 0
 
