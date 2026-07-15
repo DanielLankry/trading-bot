@@ -4389,3 +4389,132 @@ None.
 - AMD Type 3: Valid only if price pulls back to $530–535 with bounce confirmation. Elevated from $534 → $553 today. Monitor tomorrow.
 - NVDA Type 4: Already held. Time stop Jul 21 — mandatory MOC exit.
 - 2 single-name slots open (positions 3/4 and 4/4). Watch for Type 2/3/4 setups in universe tomorrow.
+
+---
+
+## 2026-07-15 — Pre-Market Research (Post-Challenge Week 13, Wednesday)
+
+### Account Snapshot (Live, Pre-Market)
+- **Equity:** $98,152.52 | **Cash:** $59,182.42 (60.3%) | **Buying Power:** $290,953.15
+- **Long MV:** $38,970.10 | **Phase P&L:** −$1,847.48 (−1.85% vs $100K start)
+- **Positions:** 2/4 | **Slots open:** 2 single names | **Leveraged ETF:** TQQQ (slot used)
+- **Week 13 entries:** 2/7 — ⚠ FLOOR PRESSURE: 5 entries needed Wed–Fri
+
+**Open Positions (live quotes, pre-market):**
+| Ticker | Shares | Entry | Last Price | Unrealized P&L | Stop | Notes |
+|--------|--------|-------|------------|----------------|------|-------|
+| NVDA | 40 | $204.2155 | $211.85 | +$305.48 (+3.74%) | GTC `8b06edc4` $193.99 | Type 4 probe — ⚠ TIME STOP JUL 21 MOC by 3:50 PM ET |
+| TQQQ | 400 | $74.94 | $76.24 | +$520.00 (+1.74%) | GTC `a1cc07e1` $68.94 | Type 5 — whipsaw guard 8% from entry |
+
+**Trail rule check:** NVDA +15% trigger = $234.85 | TQQQ +15% trigger = $86.18. Neither reached. Both HOLD. Stops unchanged.
+
+---
+
+### Market Context
+| Indicator | Value | Signal |
+|-----------|-------|--------|
+| S&P 500 futures (ESU26) | ~7,606 (+0.19%) | Slightly positive — cooling rate fears + bank earnings |
+| QQQ (Jul 14 close) | $719.71 (+1.12%) | Well above SMA50 $701.41 ✓ |
+| VIX (Jul 14 close) | ~16.43–16.86 | ✅ GREEN — all types active; full size |
+| WTI crude | $79.87/bbl (+2.74%) | ⚠ Rising — Iran tanker attacks, Strait of Hormuz |
+| Brent crude | $86.30/bbl (+1.86%) | ⚠ Elevated — geopolitical premium |
+| June CPI (yesterday) | −0.4% MoM (HUGE BEAT) | 🟢 Massive disinflation — rate cut narrative rekindled |
+| PPI June (today 8:30 AM ET) | Forecast 0.1% MoM | ⚠ KEY RELEASE — cool = confirm bull; hot = VIX risk |
+| Fed Beige Book | Today 2:00 PM ET | Watch Warsh tone (hawkish) |
+| Retail Sales June | Tomorrow Jul 16 8:30 AM ET | Key demand data |
+
+**Macro mode: ALL 5 SETUP TYPES ACTIVE** (SPY + QQQ above SMA50; VIX <25)
+**Gate:** Confirm after PPI 8:30 AM ET. Hot print → VIX watch → possible size reduction.
+
+---
+
+### Position Thesis Checks
+
+**NVDA — INTACT, STRENGTHENED:**
+- $211.85 (+3.74% unrealized). Jensen Huang Beijing conference **TOMORROW Jul 16** — H20 chip restart confirmation. U.S. licenses granted for H20 resumption. Stock surged ~5% on news (already priced into yesterday's +4.06% move).
+- China reopening unlocks >$9B quarterly revenue. Earnings Aug 26 ✓ (no risk).
+- Stop $193.99 (5.0% below entry). No trail adjustment needed (+15% trigger = $234.85).
+- ⚠ **TIME STOP JUL 21 (Day 5/5)** — place MOC by 3:50 PM ET Monday. Do NOT rely on stop alone.
+- **HOLD**
+
+**TQQQ — INTACT:**
+- $76.24 (+1.74% unrealized). QQQ $719.71 vs SMA50 $701.41 — 2.6% above SMA50 ✓.
+- CPI cool catalyst intact. No whipsaw event (stop $68.94 = 8% below $74.94 entry).
+- +15% trigger = $86.18. Stop unchanged.
+- **HOLD**
+
+---
+
+### Key Catalysts Today (Jul 15)
+1. **PPI June 2026 at 8:30 AM ET** — Follow-up to yesterday's massive CPI beat (-0.4% MoM). If cool (≤0.2% MoM) → confirms disinflation, rate cuts back on table, risk-on; if hot (>0.5%) → VIX spike risk, reduce sizing 25% if VIX >25.
+2. **Jensen Huang Beijing — TOMORROW Jul 16** — Already driving NVDA +5% (pre-catalyzed). H20 restart imminent. NVDA likely to open higher today ahead of tomorrow's event.
+3. **Fed Beige Book 2:00 PM ET** — Warsh hawkish; any hint of rate hike language = afternoon risk-off.
+4. **Bank Q2 earnings (JPM/BAC/GS/WFC/C today)** — Generally beating estimates per early reports; supports risk-on backdrop.
+5. **AMD Advancing AI Jul 22-23** — Venice CPU launch + new AI platforms. Citi: "industry-shaking announcements." Bullish near-term catalyst for AMD.
+6. **Iran tanker attacks** — Oil near $80 WTI. Escalation = inflationary headwind + VIX risk. Ceasefire talks stalled.
+
+---
+
+### Universe Scan
+
+| Ticker | SMA Structure | Price (pre-mkt) | Setup | Verdict |
+|--------|--------------|-----------------|-------|---------|
+| AMD | Above SMA200 ($287) + SMA150 + SMA50 ($482) ✓; SMA20 ~$531 | $548 (gap from $534 close) | Type 3 — SMA20 bounce ← yesterday $534 ≈ SMA20, today bounce | **TOP PICK** |
+| META | Uncertain — may be above SMA200 (~$647) post-CPI rally | ~$657+ est | Type 2/3/4 possible — WATCH at open | CONDITIONAL — confirm SMA200 |
+| NVDA | Already held | $211.85 | — | HOLD (no double-dip) |
+| TQQQ | Leveraged ETF slot filled | $76.24 | — | HOLD |
+| CRWD | SMA structure intact but too soon (stopped out Jul 13) | ~$190 est | — | SKIP — 2-day stabilization rule |
+| PLTR | Below SMA150/200 | — | — | SKIP — disqualified |
+| MSFT/GOOGL/AVGO | Below SMA200/50 per prior scans | — | — | SKIP |
+| MRVL | Below SMA20/50/200 per prior scans | — | — | SKIP |
+
+**AMD Detail (Type 3 — SMA20 Pullback — HIGHEST CONVICTION):**
+- Jul 14 close: $534.39 (pulled back to SMA20 ~$531 zone; yesterday's action = pullback confirmation)
+- Jul 15 pre-market: ~$566; live open est ~$548 (intraday range $547–$574 per real-time data)
+- Today's gap-up = bounce confirmation above SMA20 ✓
+- SMA50: ~$482 (well below — not used for this setup); SMA150/200: $287 (well above ✓)
+- Earnings: Aug 4 (14 trading days) ✓ — full size OK
+- Analyst stack: GS $640 (Buy), KeyBanc $725 (Overweight), BofA $620 (Buy)
+- Catalysts: Advancing AI summit Jul 22-23 (Venice CPU reveal, Citi: "industry-shaking"); 6GW Meta partnership; EPYC revenue >70% YoY Q2; KeyBanc raising capacity >50% next year
+- **Probe sector check:** Type 3 is NOT a momentum probe → no conflict with NVDA (Type 4, semiconductor). Probe cap: 1/2 ✓. Total positions post-entry: 3/4 ✓.
+- Entry gate: AMD opens ≥$540 AND PPI is cool/in-line AND positive price action vs SPY
+- Stop: Fixed GTC ~$525 (below SMA20 $531 per Type 3 rule)
+- Risk: ~$23/sh × 36sh = $828 (<1% capital — tight stop relative to entry, position $19.7K)
+
+**META Watch (conditional):**
+- If META opened today above SMA200 (~$647) → potential Type 2/3 setup
+- Earnings Jul 29 (10 trading days) — at edge of 5-day rule; could hold full size but watch closely
+- If SMA200 confirmed above at open → check spread ≤1.5% + price action → conditional entry
+- If spread wide or below SMA200 → SKIP
+
+---
+
+### Trade Ideas
+
+| # | Ticker | Type | Entry Gate | Shares (est.) | Stop | Target | Risk |
+|---|--------|------|------------|---------------|------|--------|------|
+| 1 | **AMD** | Type 3 (SMA20 bounce) | Open ≥$540, PPI cool, positive vs SPY | ~35–40 | Fixed GTC ~$525 | $580–600 (+6–10%) | ~$700–900 (<1% cap) |
+| 2 | **META** | Type 2/3 (conditional) | Confirm above SMA200 ($647) at open + spread ≤1.5% | TBD at open | GTC below SMA200 | TBD | TBD |
+| 3 | **(Monitor)** NVDA | — | Already held — no add | — | Time stop Jul 21 MOC | — | — |
+
+---
+
+### Risk Factors
+1. **PPI at 8:30 AM ET** — Hot print (>0.5% MoM) → VIX spike; if VIX >25 → reduce all sizes 25%; if VIX >30 → no new leveraged ETF entries. This is the primary gate for today's trades.
+2. **Oil spike ($80 WTI)** — Iran hot war continuing; tanker attacks = Strait of Hormuz risk = energy shock = inflation. If WTI breaks $82 → macro risk rises.
+3. **Fed Warsh testimony** — Any explicit rate-hike language at 2 PM Beige Book release could trigger afternoon selloff. Avoid new entries after 12 PM if tone is hawkish.
+4. **NVDA time stop Jul 21** — Only 4 trading days left. Do NOT forget MOC by 3:50 PM Monday.
+5. **AMD entry quality** — Gap-up to $548 means entering ~$17 above SMA20 ($531). Stop-to-entry distance 4.2% (slightly above Type 3 typical). Entry quality is B-minus vs ideal A entry at SMA20.
+6. **META earnings Jul 29** — 10 trading days = at edge of full-size threshold. If META entered, keep size conservative.
+7. **Week 13 floor 5/7 remaining** — Urgency real but do NOT force bad trades. AMD + META max = 2 entries today; need 3 more Th–Fr.
+8. **Retail Sales tomorrow Jul 16 8:30 AM** — Another binary catalyst. If entered AMD today, holding overnight through retail data.
+
+---
+
+### Decision: TRADE (conditional on PPI)
+- **AMD:** ENTER Type 3 at open IF (a) PPI ≤0.3% MoM AND (b) AMD opens ≥$540 AND (c) positive price action vs SPY in first 2 minutes. Stop GTC ~$525. ~36 shares. No time stop.
+- **META:** CHECK at open — if above SMA200 ($647) AND spread ≤1.5% → evaluate Type 2/3 entry. Earnings Jul 29 (10 days) → full size if SMA structure clear.
+- **NVDA:** HOLD. Thesis intact. Jensen Beijing tomorrow = near-term catalyst. Time stop Jul 21 mandatory.
+- **TQQQ:** HOLD. QQQ above SMA50 ✓. Thesis intact.
+- **Target today: 1–2 new entries** (AMD primary; META conditional).
+- **NO-TRADE-DAY NOT valid** — macro green, AMD setup qualifies. PPI gate must be respected first.
