@@ -4518,3 +4518,22 @@ None.
 - **TQQQ:** HOLD. QQQ above SMA50 ✓. Thesis intact.
 - **Target today: 1–2 new entries** (AMD primary; META conditional).
 - **NO-TRADE-DAY NOT valid** — macro green, AMD setup qualifies. PPI gate must be respected first.
+
+---
+
+### 2026-07-15 — Afternoon Addendum (Midday Scan)
+
+**Market-open result:** AMD gate failed (did NOT open ≥$540). META: SMA20 < SMA50 = bearish alignment → no valid setup. No new entries today.
+
+**Portfolio:** $96,715.42 | Cash $59,182.42 | Long MV $37,533 | Phase P&L −$3,284.58 (−3.28%)
+
+**Position thesis confirmed (both HOLD):**
+- NVDA $207.55 (+1.63% unrealized): Jensen Beijing trip complete ✓. H20 licenses approved ✓. Today's −2.01% = post-catalyst profit-taking. Time stop Jul 21 — MOC by 3:50 PM ET Monday. Stop $193.99.
+- TQQQ $73.09 (−2.47% unrealized): QQQ $719–725 vs SMA50 $715–717 → standard mode ✓. Stop buffer 5.68% ($73.09 vs stop $68.94). HOLD.
+
+**AMD intraday:** Dropped to $517.89 (SMA20 ~$518 support), bounced to $519–526. Gate failed at open. Retail Sales tomorrow 8:30 AM = overnight binary catalyst → NOT entered. Reassess Thursday pre-market.
+
+**META:** ~$675–685 (above SMA200 $642–647 ✓) but SMA20 < SMA50 → no valid Type 2/3. SKIP.
+
+**Week 13 pace:** 2/7. 5 entries needed Thu–Fri. Primary targets: AMD (if SMA20 re-tests), CRWD (stabilization check), ARM, NET.
+⚠ NVDA TIME STOP JUL 21 — mandatory MOC by 3:50 PM ET Monday.
