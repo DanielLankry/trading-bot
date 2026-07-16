@@ -2,6 +2,54 @@
 
 ---
 
+### Jul 16 — Market-Open (Post-Challenge Week 13, Thursday)
+**Portfolio:** $96,361.21 | **Cash:** $40,272.33 (41.8%) | **Long MV:** $56,088.88 | **Phase P&L:** −$3,638.79 (−3.64%) | **Daytrade count:** 0
+
+**Trades fired:** NONE
+
+**NO-TRADE-DAY — Rule A (zero qualifying setups in open single-name slot)**
+
+| Ticker | Status | Reason |
+|--------|--------|--------|
+| CRWD | SKIP | Spread 5.53% (bid $201.51 / ask $213.30) at 9:36 AM ET → FAILS ≤1.5% gate. Pre-market gate was "open ≥$211 + spread ≤1.5%" — price at ask qualifies on price but spread gate is hard. |
+| ARM | WATCH ONLY | Probe cap 2/2 FULL (NVDA + META). Cannot add Type 4 probe. |
+| AMD | SKIP | Extended above SMA20 — no Type 3 pullback setup. |
+| MRVL/PLTR/MSFT | DISQUALIFIED | Below SMA 150/200. |
+| TQQQ | HOLD | ETF slot filled. |
+| NVDA/META | HOLD | Probe cap filled; TIME STOPS active (Jul 21 / Jul 22). |
+
+**⚠ CRITICAL — QQQ SMA50 BREACH INTRADAY:**
+- QQQ live: $710.34 (bid $710.02 / ask $710.66) vs SMA50 = $717.20. QQQ is $6.86 (−0.96%) **BELOW SMA50**.
+- Type 5 rule: "underlying daily close below SMA50 → exit TQQQ."
+- This is an intraday reading — rule requires DAILY CLOSE. GTC stop $68.94 (8% whipsaw guard from entry $74.94) protects catastrophic intraday moves.
+- **Action: Monitor QQQ SMA50 through session. If QQQ closes below $717.20 → place TQQQ MOC exit by 3:50 PM ET same day.**
+- TQQQ current: $72.17 (−3.69% unrealized). Stop buffer: $72.17 − $68.94 = $3.23 (4.5%). Not triggered.
+- **TSM earnings BMO** — likely driving chip selloff. NVDA −1.47% today; TQQQ −3.04%.
+
+**Open positions (3/4 max):**
+| Ticker | Shares | Entry | Current | Unrealized P&L | Stop | Notes |
+|--------|--------|-------|---------|----------------|------|-------|
+| NVDA | 40 | $204.2155 | $208.52 | +$173.78 (+2.12%) | Fixed GTC `8b06edc4` $193.99 | Type 4 — ⚠ TIME STOP JUL 21 — MOC by 3:50 PM ET Monday |
+| META | 28 | $675.36 | $668.89 | −$181.16 (−0.96%) | Fixed GTC `e2f634cb` $641.59 | Type 4 — ⚠ TIME STOP JUL 22 — MOC by 3:50 PM ET Tuesday |
+| TQQQ | 400 | $74.94 | $72.17 | −$1,108.00 (−3.69%) | Fixed GTC `a1cc07e1` $68.94 | Type 5 — ⚠ QQQ $710.34 BELOW SMA50 $717.20 — EXIT IF QQQ CLOSES BELOW $717.20 |
+
+**Macro:**
+- QQQ $710.34 vs SMA50 $717.20 — BELOW (−0.96%) ⚠ RESTRICTED MODE IF CLOSE CONFIRMS
+- VIX ~16.16 (pre-market) ✓ GREEN
+- TSM BMO earnings — chip selloff catalyst; NVDA −1.47%, TQQQ −3.04%
+- Retail Sales +0.5% (released 8:30 AM ET) — neutral/positive; not moving markets
+- Jensen Huang Beijing (CISCE expo Jul 16–20) — H20 catalyst partially priced in
+
+**Probe cap:** 2/2 FULL | **ETF slot:** 1/1 FULL | **Single-name slots open:** 1 (but no qualifying Type 1/2/3 entry today)
+**Trades this week (Week 13):** 3 (NVDA + TQQQ Jul 14, META Jul 15). Floor: 3/7. ⚠ 1 day remains (Fri Jul 17) — 4 entries needed to hit 7-entry floor. Floor miss likely unless 2+ setups clear gates Friday.
+
+⚠ **URGENT REMINDERS:**
+- **NVDA TIME STOP JUL 21 (Monday)** — Only 1 trading day after tomorrow. Place MOC before 3:50 PM ET Monday Jul 21. DO NOT rely on GTC stop `8b06edc4` for time exit.
+- **META TIME STOP JUL 22 (Tuesday)** — Place MOC before 3:50 PM ET Tuesday Jul 22.
+- **TQQQ QQQ MONITOR** — If QQQ daily close < $717.20 today → mandatory exit per Type 5 rule. Check at ~3:50 PM ET.
+
+---
+
 ### Jul 15 — EOD Snapshot (Post-Challenge Day 33, Week 13 Wednesday)
 **Portfolio:** $97,625.98 | **Cash:** $40,272.34 (41.2%) | **Day P&L:** −$36.44 (−0.04%) | **Phase P&L:** −$2,374.02 (−2.37%)**
 
