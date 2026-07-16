@@ -2,6 +2,18 @@
 
 ---
 
+### Jul 16 — EOD Snapshot (Post-Challenge Day 34, Week 13 Thursday)
+**Portfolio:** $95,711.20 | **Cash:** $68,823.78 (71.9%) | **Day P&L:** −$1,913.81 (−1.96%) | **Phase P&L:** −$4,288.80 (−4.29%)**
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| META | 28 | $675.36 | $664.13 | −2.52% | −$314.32 (−1.66%) | Fixed GTC `e2f634cb` $641.59 — ⚠ TIME STOP JUL 22 (Day 2/5) |
+| NVDA | 40 | $204.22 | $207.29 | −2.45% | +$123.04 (+1.51%) | Fixed GTC `8b06edc4` $193.99 — ⚠ TIME STOP JUL 21 (Day 3/5) |
+
+**Notes:** Down −1.96% driven by TQQQ exit midday (400sh, −$1,424.57, −4.75%) after QQQ breached SMA50 $717.20 intraday with no recovery path — Type 5 exit rule executed per thesis-break protocol. TSM posted record Q2 earnings (beat), so weakness was not chip-demand driven; Iran tensions + oil ($79.97 WTI) + sell-the-news on Jensen Beijing CISCE expo cited. Market-open was NO-TRADE-DAY (probe cap 2/2 full, zero qualifying Type 1/3 setups in open single-name slot). ⚠ MACRO RESTRICTED: QQQ closed below SMA50 → only Type 1 + Type 3 setups active Friday; no leveraged ETF, no new momentum probes until QQQ reclaims SMA50. NVDA (+1.51% unrealized) and META (−1.66% unrealized) held with stops intact; both time stops approaching. Week 13: 3/7 floor entries — floor miss near-certain, only Friday remains in restricted mode. ⚠ NVDA MOC Jul 21. ⚠ META MOC Jul 22.
+
+---
+
 ### Jul 16 — Market-Open (Post-Challenge Week 13, Thursday)
 **Portfolio:** $96,361.21 | **Cash:** $40,272.33 (41.8%) | **Long MV:** $56,088.88 | **Phase P&L:** −$3,638.79 (−3.64%) | **Daytrade count:** 0
 
