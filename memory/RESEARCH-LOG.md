@@ -4537,3 +4537,142 @@ None.
 
 **Week 13 pace:** 2/7. 5 entries needed Thu–Fri. Primary targets: AMD (if SMA20 re-tests), CRWD (stabilization check), ARM, NET.
 ⚠ NVDA TIME STOP JUL 21 — mandatory MOC by 3:50 PM ET Monday.
+
+---
+
+## 2026-07-16 — Pre-Market Research (Post-Challenge Week 13, Thursday)
+
+### Account Snapshot (Live, Pre-Market)
+- **Equity:** $96,908.33 | **Cash:** $40,272.33 (41.6%) | **Buying Power:** $267,232.52
+- **Long MV:** $56,636 | **Phase P&L:** −$3,091.67 (−3.09% vs $100K start)
+- **Day P&L:** −$716.68 (−0.73% vs yesterday close $97,625.01)
+- **Positions:** 3/4 | **Probe cap:** 2/2 FULL | **ETF slot:** 1/1 FULL | **Single-name slots open:** 1
+- **Week 13 entries:** 3/7 — ⚠ FLOOR PRESSURE: 4 entries needed Thu–Fri
+
+**Open Positions (live pre-market quotes):**
+| Ticker | Shares | Entry | Last Price | Unrealized P&L | Stop | Notes |
+|--------|--------|-------|------------|----------------|------|-------|
+| META | 28 | $675.36 | $683.00 | +$213.92 (+1.13%) | GTC `e2f634cb` $641.59 | Type 4 probe — ⚠ TIME STOP JUL 22 MOC 3:50 PM ET |
+| NVDA | 40 | $204.2155 | $209.50 | +$211.38 (+2.59%) | GTC `8b06edc4` $193.99 | Type 4 probe — ⚠ TIME STOP JUL 21 (MONDAY) MOC 3:50 PM ET |
+| TQQQ | 400 | $74.94 | $72.83 | −$844.00 (−2.82%) | GTC `a1cc07e1` $68.94 | Type 5 — ⚠ QQQ BARELY ABOVE SMA50 (0.35% buffer) |
+
+**Trail rule check:** NVDA +15% = $234.85, META +15% = $776.66, TQQQ +15% = $86.18. None reached. All stops unchanged.
+
+---
+
+### Market Context
+| Indicator | Value | Signal |
+|-----------|-------|--------|
+| S&P 500 futures (ESU26) | ~7,618 (+0.04%) | Flat/slightly positive |
+| QQQ (Jul 15 close) | $719.71 | ⚠ SMA50 = $717.20 — only 0.35% above; CRITICAL SUPPORT |
+| VIX (intraday Jul 16) | 16.16 (−2.06%) | ✅ GREEN — all types active; full size |
+| WTI crude | $79.97/bbl (+0.79%) | ⚠ Elevated — Iran tensions, Strait of Hormuz |
+| Brent crude | Mixed data ~$71-80 | ⚠ Watch for escalation |
+| June Retail Sales (8:30 AM ET today) | +0.5% MoM | Solid consumer — neutral-positive |
+| PPI June (yesterday) | −0.3% MoM — BEAT | 🟢 Disinflation confirmed; rate cut narrative intact |
+| CPI June (Jul 14) | −0.4% MoM — MASSIVE BEAT | 🟢 Multi-week risk-on catalyst |
+| TSM earnings | BMO today | 🔑 Critical AI/chip demand read — moves NVDA, AMD, QQQ |
+| Netflix earnings | AMC today | Sector: streaming/content |
+
+**Macro mode: ALL 5 SETUP TYPES ACTIVE** (SPY + QQQ above SMA50; VIX <25)
+**⚠ KEY RISK: QQQ barely above SMA50 ($719.71 vs $717.20 = +$2.51, +0.35%). TSM miss or hot Retail Sales reaction could breach this level. If QQQ closes below SMA50 → EXIT TQQQ.**
+
+---
+
+### Position Thesis Checks
+
+**NVDA — INTACT, STRENGTHENED. TODAY IS THE DAY:**
+- Jensen Huang Beijing media briefing TODAY (Jul 16). CISCE Supply Chain Expo Jul 16–20 (Nvidia's first-ever appearance).
+- H20 export licenses confirmed — $2–5B chips near-term delivery pipeline restored. $160B market cap added in one day (Jul 16 per reports).
+- Intraday: Stock +4–5% early, trading ~$208.95 ($209.50 pre-market). Today is the catalyst date — event already partially priced into Jul 14 (+4.06%) rally.
+- Earnings Aug 26 ✓. Stop $193.99 (5.0% below entry). Trail: +15% trigger = $234.85.
+- ⚠ **TIME STOP JUL 21 (MONDAY) — MOC by 3:50 PM ET. Only 3 trading days left (Jul 16, 17, 21). Do NOT wait. Plan now.**
+- **HOLD**
+
+**META — INTACT:**
+- Stock up 17% in July — AI strategy optimism (Muse Image, cloud expansion confirmed with Zuckerberg). Price $683 well above SMA50 (~$600) and SMA200 (~$658 mid-June data, likely higher now given rally).
+- Death cross (50d < 200d) flagged in mid-June data — may have resolved as price recovered. Monitor but not blocking.
+- Q2 earnings Jul 29 (9 trading days) — outside 5-day rule; full size OK.
+- Stop $641.59 (5% below entry; $683 vs $641.59 = buffer $41.41, 6.1%).
+- ⚠ **TIME STOP JUL 22 (TUESDAY) — MOC by 3:50 PM ET. Plan Monday.**
+- **HOLD**
+
+**TQQQ — HOLD WITH CAUTION:**
+- QQQ $719.71 vs SMA50 $717.20 — only $2.51 (0.35%) above. Macro filter at critical threshold.
+- TSM reports BMO today — a weak guide would pressure chips and QQQ. If QQQ closes below $717.20 → MUST EXIT TQQQ per Type 5 stop rule (daily close below SMA50).
+- Intraday whipsaw guard: TQQQ stop $68.94 = 8% below entry $74.94. Current $72.83 = 5.35% buffer. GTC stop intact.
+- **HOLD — but watch QQQ's SMA50 close today. Exit trigger: QQQ daily close < $717.20.**
+
+---
+
+### Key Catalysts Today (Jul 16)
+1. **Taiwan Semiconductor (TSM) — BMO** — Most critical event for AI trade. Reports Q2 2026. TSM guidance on chip demand directly moves NVDA, AMD, SMH, QQQ. Strong beat + raised guide = chip rally → NVDA/TQQQ support. Miss = risk-off → QQQ could breach SMA50 → TQQQ exit.
+2. **June Retail Sales +0.5% MoM** — Strong consumer. Neutral for tech (not inflationary catalyst). Released 8:30 AM ET — already known.
+3. **Jensen Huang Beijing / CISCE expo Jul 16–20** — Today's event. H20 catalyst partially priced; watch for additional details on delivery timeline or Blackwell China variant (B/B40RTX6000D per analysts).
+4. **Netflix (NFLX) — AMC** — Not in our universe but sentiment gauge. EPS est $0.79 on $12.58B revenue.
+5. **NVDA time stop Jul 21 approaching** — Only 3 trading days. Must plan MOC exit Monday morning.
+
+---
+
+### Universe Scan
+
+| Ticker | SMA Structure | Price (pre-mkt/open) | Setup | Verdict |
+|--------|--------------|---------------------|-------|---------|
+| NVDA | Above SMA150/200 ✓ | $209.50 | Type 4 probe (held) | HOLD — no add |
+| META | Above SMA200 ✓ (est) | $683 | Type 4 probe (held) | HOLD |
+| TQQQ | Type 5 (held) | $72.83 | — | HOLD — QQQ SMA50 watch |
+| **CRWD** | Above SMA50/200 ✓ (confirmed recovery) | ~$207 (Jul 15 $206.74) | **Type 2 breakout candidate** | **CONDITIONAL — see below** |
+| ARM | Above SMA50/100/200 ✓ | $153.90 (+4.62%) | Type 4 probe — BUT probe cap 2/2 FULL | WATCH ONLY — cannot enter without rotation |
+| AMD | Above SMA200 ✓; SMA20 ~$518-531 | Open $556 (gap-up from $529 close) | Type 3 requires SMA20 touch — NOT there today | SKIP — extended $25+ above SMA20 |
+| PLTR | Below SMA150/200 | — | — | SKIP — disqualified |
+| MSFT/GOOGL/META | Below SMA200 or prior disqualified | — | — | SKIP |
+| MRVL | Below SMA50/200 per prior scans | — | — | SKIP |
+
+**CRWD Detail (Type 2 Breakout — CONDITIONAL):**
+- Jul 13: Stopped out at $181.90 (GTC `6b7ffc37`). 2-day stabilization rule: Jul 14 (Day 1 +9.26% to $210.70) + Jul 15 (Day 2 $206.74) = stabilization complete. Jul 16 = eligible for re-entry.
+- Jul 14 surge: +9.26% on strong volume — clean breakout from post-split lows.
+- Current price ~$207 (Jul 15 close $206.74). Jul 15 range: $205.10–$217.50 (wide — consolidating post-surge).
+- SMA structure: Above SMA50 and SMA200 ✓ (Perplexity confirmed "above 50d and 200d SMAs" after split-adjusted recovery).
+- **Entry gate: CRWD opens ≥$211 AND volume confirms (above 5M in first 30 min) → Type 2 full size. Stop: daily close below SMA50 (~$190-195 est post-split; confirm at open).**
+- Risk: ~35–40sh × ~$15-20 stop distance = ~$600 (0.6% capital — conservative; Type 2 allows 3-4% risk = up to ~$3,000, but stop distance matters).
+- Probe cap: NOT a probe (Type 2). OK for slot 4.
+- Earnings: Next ~Sep 2026 (Q2 FY2027) — well outside 5-day rule ✓.
+
+**ARM Detail (Watch Only):**
+- $153.90, +4.62%, above all SMAs, MACD crossover, beta 3.78. Strong Type 4 momentum probe setup.
+- BLOCKED: Probe cap 2/2 FULL (NVDA + META). Cannot add Type 4 probe.
+- If NVDA exits (Jul 21) or META exits (Jul 22) → ARM becomes top probe candidate next week.
+- Earnings: ~Aug 2026 est. ✓ (outside 5-day rule).
+- **WATCH — do NOT enter today without closing a probe.**
+
+---
+
+### Trade Ideas
+
+| # | Ticker | Type | Entry Gate | Shares (est.) | Stop | Target | Risk |
+|---|--------|------|------------|---------------|------|--------|------|
+| 1 | **CRWD** | Type 2 (Breakout) | Open ≥$211 + volume >5M in 30 min | ~35–40sh (~$8.4K) | GTC below SMA50 (~$190-195 est) | $230–235 (+9–11%) | ~$600-800 (0.6-0.8% — full size constrained by stop distance) |
+| 2 | — | — | If CRWD fails gate → NO-TRADE-DAY | — | — | — | — |
+
+---
+
+### Risk Factors
+1. **TSM earnings BMO** — If TSM misses or guides weakly: chip selloff → QQQ approaches SMA50 → TQQQ exit potential. Single biggest risk today.
+2. **QQQ SMA50 breach (0.35% buffer)** — Watch intraday. If QQQ closes below $717.20 → mandatory TQQQ exit per Type 5 rule.
+3. **NVDA "sell the news" risk** — Jensen Beijing was the anticipated catalyst (priced in via Jul 14 +4.06% surge). Today's actual event may produce limited upside. Intraday dip −1.35% already noted.
+4. **Retail Sales +0.5%** — Strong data. Risk: if markets interpret this as "no Fed cuts needed" → yields rise → tech pressure.
+5. **Iran/oil** — WTI $80/bbl. Escalation = inflation risk = hawkish repricing.
+6. **⚠ NVDA TIME STOP JUL 21 (MONDAY)** — 3 trading days. Monday market-open routine MUST place MOC before 3:50 PM ET. DO NOT RELY ON GTC STOP for time exit.
+7. **⚠ META TIME STOP JUL 22 (TUESDAY)** — 4 trading days. Plan MOC on Jul 22 morning.
+8. **Week 13 floor pressure** — 3/7 entries. Need 4 by Fri Jul 18. If today is NO-TRADE-DAY, Friday must have 4 entries — extremely difficult with current probe cap constraints. Prioritize CRWD Type 2 today if gate clears.
+
+---
+
+### Decision: CONDITIONAL TRADE (CRWD Type 2 gate)
+- **CRWD:** ENTER Type 2 breakout IF (a) opens ≥$211 AND (b) volume >5M in first 30 minutes AND (c) price action positive vs SPY at open. Stop GTC below SMA50 (confirm level at open — est $190-195). ~35–40sh, full size. No time stop (Type 2).
+- **ARM:** WATCH ONLY. Probe cap full. Do NOT enter without first closing NVDA or META.
+- **NVDA:** HOLD. Jensen event today. Time stop Jul 21 — plan Monday.
+- **META:** HOLD. AI rally ongoing. Time stop Jul 22 — plan Tuesday.
+- **TQQQ:** HOLD WITH CAUTION. Monitor QQQ vs SMA50 ($717.20) throughout session. If QQQ daily close < $717.20 → place MOC exit TQQQ same day.
+- **If CRWD gate fails:** NO-TRADE-DAY (Rule A — no qualifying Type 1/2/3 in open single-name slot; probe cap 2/2 full; ETF slot 1/1 full).
+
