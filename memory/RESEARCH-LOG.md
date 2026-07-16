@@ -4676,3 +4676,36 @@ None.
 - **TQQQ:** HOLD WITH CAUTION. Monitor QQQ vs SMA50 ($717.20) throughout session. If QQQ daily close < $717.20 → place MOC exit TQQQ same day.
 - **If CRWD gate fails:** NO-TRADE-DAY (Rule A — no qualifying Type 1/2/3 in open single-name slot; probe cap 2/2 full; ETF slot 1/1 full).
 
+---
+
+### Afternoon Addendum — Midday Scan 2026-07-16 (~1:00 PM ET)
+
+**TQQQ EXITED — THESIS BREAK (Type 5 rule triggered)**
+
+- QQQ intraday price at 1:02 PM ET: **$707.75** (bid $707.53 / ask $707.96)
+- QQQ SMA50: **$717.20**
+- Gap: **−$9.45 (−1.32%)** below SMA50
+- Decision: Exit TQQQ immediately per thesis break. At 1 PM with QQQ 1.32% below SMA50, close above SMA50 is near-impossible. Type 5 rule: "QQQ daily close below SMA50 → exit TQQQ."
+- Execution: Canceled GTC stop `a1cc07e1`. Market sell 400sh TQQQ → filled `295e4fe8` at **$71.3786**. Realized P&L: **−$1,424.57 (−4.75%)**.
+
+**TSM Earnings — BEAT (Positive for AI thesis, NOT the selloff cause):**
+- TSM Q2 2026 revenue: **$39.63B** (+36% YoY, near top of $39.0–$40.2B guide)
+- Full-year 2026 guide: **>30% revenue growth** maintained
+- CoWoS capacity: "extremely tight and sold out" through 2027 — AI demand intact
+- TSM stock reaction: only −0.23% to −1.23% — not driving QQQ weakness
+- QQQ weakness attributed to: Iran/oil (WTI $79.97), "sell the news" on Jensen Beijing/CISCE expo, Netflix AMC uncertainty
+
+**Macro filter shift: RESTRICTED MODE**
+- QQQ below SMA50 → only Type 1 + Type 3 setups. No new leveraged ETF, no momentum probes.
+- Existing NVDA + META probes (Type 4) held — stops and time stops manage exits.
+- Probe cap 2/2 FULL regardless.
+- No new entries today: NO-TRADE-DAY (probe cap full + macro restricted).
+
+**Remaining positions (~1:05 PM ET):**
+| Ticker | Shares | Entry | ~Price | Unrealized | Stop |
+|--------|--------|-------|--------|------------|------|
+| NVDA | 40 | $204.22 | $206.89 | +$106.98 (+1.31%) | GTC `8b06edc4` $193.99 — ⚠ TIME STOP JUL 21 MOC |
+| META | 28 | $675.36 | $669.20 | −$172.48 (−0.91%) | GTC `e2f634cb` $641.59 — ⚠ TIME STOP JUL 22 MOC |
+
+**Portfolio:** ~$95,829 | **Cash:** ~$68,824 (71.8%) | **Phase P&L:** ~−$4,171 (−4.17%)
+

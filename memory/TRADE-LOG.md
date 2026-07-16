@@ -44,9 +44,31 @@
 **Trades this week (Week 13):** 3 (NVDA + TQQQ Jul 14, META Jul 15). Floor: 3/7. ⚠ 1 day remains (Fri Jul 17) — 4 entries needed to hit 7-entry floor. Floor miss likely unless 2+ setups clear gates Friday.
 
 ⚠ **URGENT REMINDERS:**
-- **NVDA TIME STOP JUL 21 (Monday)** — Only 1 trading day after tomorrow. Place MOC before 3:50 PM ET Monday Jul 21. DO NOT rely on GTC stop `8b06edc4` for time exit.
+- **NVDA TIME STOP JUL 21 (Monday)** — Place MOC before 3:50 PM ET Monday Jul 21. DO NOT rely on GTC stop `8b06edc4` for time exit.
 - **META TIME STOP JUL 22 (Tuesday)** — Place MOC before 3:50 PM ET Tuesday Jul 22.
-- **TQQQ QQQ MONITOR** — If QQQ daily close < $717.20 today → mandatory exit per Type 5 rule. Check at ~3:50 PM ET.
+- ~~TQQQ QQQ MONITOR~~ — **TQQQ EXITED MIDDAY (see below).**
+
+---
+
+### Jul 16 — TQQQ Exit (Midday Scan ~1:04 PM ET — Thesis Break)
+
+- **TQQQ** — 400 shares @ $74.94 avg. Market sell `295e4fe8` FILLED at **$71.3786** (~1:04 PM ET). GTC stop `a1cc07e1` canceled prior to market order.
+- **Realized P&L: −$1,424.57 (−4.75%)**
+- **Exit reason: Type 5 thesis break.** QQQ live price $707.75 (bid $707.53 / ask $707.96) vs SMA50 $717.20 — QQQ was **$9.45 (−1.32%) below SMA50** at 1:02 PM ET. At 1 PM with QQQ 1.3% below SMA50 on no recovery path (TSM reported RECORD earnings — beat bullish — so the SMA50 breach is NOT chip-news-driven; other macro factors: Iran/oil, "sell the news" on Jensen Beijing CISCE expo). Probability of QQQ closing above $717.20 near-zero. Type 5 rule: "underlying daily close below SMA50 → exit TQQQ." Exited midday on thesis break per Step 5, not waiting for close to limit further drawdown.
+- **Macro note:** TSM Q2 2026 BEAT ($39.63B revenue, +36% YoY, near top of guidance). TSM itself down only 0.23–1.23% post-earnings. QQQ weakness driven by other factor (Iran tensions, oil WTI $79.97, Netflix AMC uncertainty, "sell the news" on tech catalysts). AI chip demand remains intact long-term — does not change thesis-break call.
+
+**⚠ URGENT REMINDERS (updated):**
+- **NVDA TIME STOP JUL 21 (Monday)** — Day 3/5 today. 2 days remain (Jul 17, Jul 21). Place MOC before 3:50 PM ET Monday Jul 21.
+- **META TIME STOP JUL 22 (Tuesday)** — Day 2/5 today. Place MOC before 3:50 PM ET Tuesday Jul 22.
+- **MACRO FILTER: RESTRICTED MODE** — QQQ below SMA50 → only Type 1 + Type 3 setups active. No new leveraged ETF, no new momentum probes. NVDA + META existing probes held (stops + time stops active).
+
+**Open positions (2/4) post-TQQQ exit:**
+| Ticker | Shares | Entry | Current (~1:05 PM) | Unrealized P&L | Stop | Notes |
+|--------|--------|-------|---------------------|----------------|------|-------|
+| NVDA | 40 | $204.2155 | $206.89 | +$106.98 (+1.31%) | Fixed GTC `8b06edc4` $193.99 | Type 4 — ⚠ TIME STOP JUL 21 MOC |
+| META | 28 | $675.36 | $669.20 | −$172.48 (−0.91%) | Fixed GTC `e2f634cb` $641.59 | Type 4 — ⚠ TIME STOP JUL 22 MOC |
+
+**Portfolio post-exit:** ~$95,829 | **Cash:** ~$68,824 (71.8%) | **Probe cap:** 2/2 FULL | **ETF slot:** 0/1 open | **Macro: RESTRICTED (QQQ below SMA50)**
 
 ---
 
