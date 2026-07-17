@@ -4709,3 +4709,74 @@ None.
 
 **Portfolio:** ~$95,829 | **Cash:** ~$68,824 (71.8%) | **Phase P&L:** ~−$4,171 (−4.17%)
 
+---
+
+### Pre-Market Research 2026-07-17 (Week 13, Friday — Post-Challenge Day 35)
+
+**Account Snapshot (live ~6:00 AM ET):**
+- Equity: $95,249.30 | Cash: $68,823.70 (72.2%) | Phase P&L: −$4,750.70 (−4.75%)
+- Long Market Value: $26,425.60 | Positions: 2/4 | Day Trade Count: N/A
+
+**Open Positions:**
+| Ticker | Shares | Entry | Close Jul 16 | Unrealized | Stop | Notes |
+|--------|--------|-------|--------------|------------|------|-------|
+| NVDA | 40 | $204.22 | $202.12 | −$83.82 (−1.03%) | GTC `8b06edc4` $193.99 | Type 4 — ⚠ TIME STOP MON JUL 21 MOC |
+| META | 28 | $675.36 | $655.00 | −$570.08 (−3.02%) | GTC `e2f634cb` $641.59 | Type 4 — ⚠ TIME STOP TUE JUL 22 MOC |
+
+**Premarket Position Moves:**
+- NVDA: ~+1.7% (~$206–207) — H20 China restart + Computex 2026 momentum continuing
+- META: ~+4.0% (~$681) — Muse Spark 1.1 paid API launch (Day 2 of episodic AI pivot). ~$681 is ABOVE entry $675.36 → position may close profitable today or Monday
+
+**Market Context:**
+- VIX: 17.96 (+7.35% from 16.73 yesterday) — Low-vol bull, well below 25. Full sizing applies.
+- S&P 500 Futures: −0.79% to −0.90% (~7,509–7,518) — Risk-off premarket
+- WTI Oil: ~$80.08 (+1.43%) | Brent: ~$85.34 (+1.32%) — Middle East tensions; heading for biggest weekly gain in months
+- QQQ Jul 16 close: $705.94 (−1.64%). SMA50: ~$717.20 → QQQ ~1.6% below SMA50
+- **Macro Filter: RESTRICTED** (QQQ between SMA50 and SMA150) → Only Types 1+3. No leveraged ETF. No new probes.
+
+**Today's Economic Releases:**
+- Import/Export Price Index 8:30 AM ET — minor, not market-moving
+- No CPI, PPI, FOMC, retail sales today (all released earlier this week)
+- CPI Jun released Jul 14: +3.5% YoY (below 3.8% estimate) — mildly positive, already priced in
+
+**Earnings BMO Today:**
+- TRV, TFC, FITB, RF, MMM — all financials/industrials, no AI/tech names
+- NFLX reports after close — potential late-day sentiment catalyst
+
+**Key Catalysts:**
+1. **Trump/Powell drama** — Trump threatening to fire Fed Chair Powell + tariff barrage announced Aug 1 (150+ countries) → elevated policy uncertainty
+2. **Semiconductor rout** — Chip sector in broad global selloff despite TSM strong beat (+36% revenue YoY); "sell the news" dynamic; NVDA/AMD/MU all under pressure
+3. **META Muse Spark 1.1** — Day 2 of AI episodic pivot; +4% premarket to ~$681; Muse Compute cloud announced; stock erasing 2026 losses. Q2 earnings: Jul 29 (8+ trading days, no near-term risk)
+4. **Iran/oil rising** — WTI ~$80/bbl, biggest weekly gain in months → inflation risk, Fed hawkish repricing concern
+5. **NFLX earnings AMC** — If miss: QQQ pressure Monday open
+
+**Sector Momentum YTD:**
+- Leading: Energy +25.97%, Materials +17.4%, Industrials +14.1%, Consumer Staples +15.6%
+- Lagging: IT −3.3%, Financials −6.9%, Consumer Discretionary −3.8%
+- Week Jul 5: Healthcare + Financials led; Energy + Tech declined
+- AI/Tech vs Defensive: clear YTD rotation away from tech in 2026
+
+**Setup Scan:**
+- Probe cap 2/2 FULL → Type 4 closed
+- Macro restricted → Type 5 closed (no new leveraged ETF)
+- Available: Type 1 + Type 3 only (2 open slots remain in max-4 cap)
+- Type 1/3 requires: above SMA 150+200 (sloping up) AND pullback to SMA
+- Environment: S&P futures −0.9%, chip sector broad selloff → most tech names soft at open
+- Candidates needing at-open SMA confirmation: PLTR (Type 3?), NET (Type 3?), MSFT (Type 3?)
+- Without confirmed SMA levels at open, no entry gates can be set premarket
+- Perplexity SMA queries inconclusive on individual names given sector pressure
+
+**Risk Factors:**
+1. ⚠ **NVDA TIME STOP JUL 21 (MONDAY)** — Market-open routine MUST place MOC before 3:50 PM ET. DO NOT rely on GTC stop.
+2. ⚠ **META TIME STOP JUL 22 (TUESDAY)** — Market-open routine MUST place MOC before 3:50 PM ET. DO NOT rely on GTC stop.
+3. Trump/Powell escalation — if Fed independence fears spike, broad market dislocation possible intraday
+4. QQQ SMA50 (~$717) — restricted mode persists; need QQQ to close back above $717 to reactivate Types 2/4/5
+5. NFLX miss after close — could pressure QQQ Monday open
+6. ⚠ **Week 13 floor shortfall**: 3/7 entries (TQQQ Jul 14, NVDA Jul 14, META Jul 15). Need 4 more today — structurally impossible given probe cap 2/2 full + macro restricted + no confirmed Type 1/3 setups. Must flag in weekly review.
+
+**Decision: NO-TRADE-DAY**
+- **Rule A valid:** No Type 1/3 setup confirmed across universe. Probe cap 2/2 FULL (Types 4 closed). Macro restricted (Types 2/5 closed). S&P futures −0.9% + chip sector rout → entering a new position on broad down-day without confirmed SMA structure violates strategy.
+- **HOLD NVDA:** Stop $193.99 in place. Premarket +1.7% → position recovering. TIME STOP MON JUL 21: market-open routine must place MOC before 3:50 PM ET.
+- **HOLD META:** Stop $641.59 well below current. Premarket +4% (~$681) → above entry, may close profitable. TIME STOP TUE JUL 22: market-open routine must place MOC before 3:50 PM ET.
+- **⚠ Week 13 floor shortfall (3/7):** Valid per Rule A (probe cap full + no confirmed Type 1/3). Flag in Friday weekly review.
+
