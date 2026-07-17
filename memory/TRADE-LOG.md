@@ -48,6 +48,40 @@
 
 ---
 
+### Jul 17 — Midday Scan (Post-Challenge Week 13, Friday — Day 35)
+**Portfolio:** $95,025.62 | **Cash:** $86,785.42 (91.3%) | **Long MV:** $8,240.20 | **Phase P&L:** −$4,974.38 (−4.97%) | **Daytrade count:** 0
+
+**META STOPPED OUT — GTC `e2f634cb` triggered:**
+
+| Ticker | Shares | Entry | Exit | Realized P&L | Exit Time (ET) | Notes |
+|--------|--------|-------|------|--------------|----------------|-------|
+| META | 28 | $675.36 | $641.49 | −$948.36 (−5.01%) | ~1:36 PM Jul 17 | GTC stop `e2f634cb` triggered at $641.59 → fill $641.49 (slippage $0.10/sh). Buffer was 0.67% at morning log — auto-managed correctly. |
+
+**Cuts (−7% rule):** NONE
+- NVDA: unrealized +0.87% ($204.2155 → $205.9997). Threshold −7%. Not reached.
+- META: exited by GTC stop at −5.01% — stop rule, not −7% cut.
+
+**Stop adjustments:** NONE
+- NVDA: +0.87% from entry. +15% trigger = $234.85. Not reached. Fixed stop $193.99 (`8b06edc4`) unchanged.
+
+**Thesis breaks:** NONE
+- NVDA: Down −0.67% intraday. Perplexity Jul 17 confirms no company-specific adverse catalyst. Today's decline attributed to broad semiconductor sell-off on "AI bubble" valuation concerns and Apple reclaiming most-valuable-company title from NVDA. Japan National AI Infrastructure announcement (Fanuc/SoftBank/Hitachi + Vera Rubin) failed to lift shares. H20 China thesis: licenses approved but deal unformalized; no Q3 sales projected unless closes. Analysts remain bullish (Goldman $210, KeyCorp $330). AI thesis **intact but cooling on sector rotation** — not a company-specific break. **HOLD. ⚠ TIME STOP MON JUL 21 MOC.**
+
+**Intraday research — Perplexity Jul 17:**
+- NVDA down ~2.4% to ~$205 on sector selloff + valuation fears. Q2 FY2027 beat ($46.7B, +56% YoY) overshadowed by lowered growth outlook in recent report. H20 unformalized; export restrictions persist. Apple unseated NVDA as world's most valuable company (~$4.9T vs NVDA declining). Analysts bullish long-term. No adverse NVDA-specific catalyst today.
+- META: GTC stop triggered on continued selling from yesterday's $645.94 close. Muse Spark 1.1 catalyst pre-market (+4%) reversed; macro + semiconductor rout overwhelmed. No re-entry available (probe cap was 2/2 full; now 1/2).
+
+**Open positions (1/4 max):**
+| Ticker | Shares | Entry | Midday | Unrealized P&L | Stop | Notes |
+|--------|--------|-------|--------|----------------|------|-------|
+| NVDA | 40 | $204.2155 | $205.9997 | +$71.37 (+0.87%) | Fixed GTC `8b06edc4` $193.99 | Type 4 — Day 4/5 — ⚠ TIME STOP JUL 21 MOC by 3:50 PM ET |
+
+**Probe cap:** 1/2 (NVDA only; META exited) | **ETF slot:** 0/1 open | **Macro: RESTRICTED (QQQ below SMA50)**
+
+⚠ **CRITICAL: NVDA time stop Day 5/5 = MONDAY JUL 21. Place MOC before 3:50 PM ET. Do NOT rely on GTC stop `8b06edc4`.**
+
+---
+
 ### Jul 16 — EOD Snapshot (Post-Challenge Day 34, Week 13 Thursday)
 **Portfolio:** $95,711.20 | **Cash:** $68,823.78 (71.9%) | **Day P&L:** −$1,913.81 (−1.96%) | **Phase P&L:** −$4,288.80 (−4.29%)**
 

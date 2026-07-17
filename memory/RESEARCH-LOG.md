@@ -4780,3 +4780,11 @@ None.
 - **HOLD META:** Stop $641.59 well below current. Premarket +4% (~$681) → above entry, may close profitable. TIME STOP TUE JUL 22: market-open routine must place MOC before 3:50 PM ET.
 - **⚠ Week 13 floor shortfall (3/7):** Valid per Rule A (probe cap full + no confirmed Type 1/3). Flag in Friday weekly review.
 
+### Afternoon Addendum — Midday Scan Jul 17 (~1:40 PM ET)
+
+**META stopped out:** GTC `e2f634cb` filled at $641.49 (~1:36 PM ET) vs stop $641.59. Realized P&L: −$948.36 (−5.01%). Buffer from morning log was 0.67% — auto-managed. Pre-market +4% Muse Spark catalyst reversed intraday on continued semiconductor/macro selling.
+
+**NVDA thesis check (Perplexity):** NVDA ~$206 (−0.67% intraday). Broad chip sector sell-off driving today's decline — "AI bubble" valuation concerns, Apple regaining most-valuable-company title, H20 China deal still unformalized. No company-specific adverse catalyst. Analysts (Goldman $210, KeyCorp $330) remain bullish. AI thesis intact, **no thesis break. HOLD.** ⚠ TIME STOP MON JUL 21 — MOC before 3:50 PM ET is a mandatory operational obligation for the market-open routine.
+
+**Portfolio:** $95,025.62 | Cash: $86,785.42 (91.3%) | Phase P&L: −$4,974.38 (−4.97%) | Positions: 1 (NVDA 40sh)
+
