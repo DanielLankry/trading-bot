@@ -82,6 +82,17 @@
 
 ---
 
+### Jul 17 — EOD Snapshot (Post-Challenge Day 35, Week 13 Friday)
+**Portfolio:** $94,876.62 | **Cash:** $86,785.42 (91.5%) | **Day P&L:** −$850.20 (−0.89%) | **Phase P&L:** −$5,123.38 (−5.12%)**
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| NVDA | 40 | $204.2155 | $202.28 | −2.47% | −$77.42 (−0.95%) | Fixed GTC `8b06edc4` $193.99 — ⚠ TIME STOP JUL 21 MOC (Day 5/5) |
+
+**Notes:** META GTC stop `e2f634cb` triggered ~1:36 PM at $641.49 (slippage $0.10/sh; stop price $641.59) — realized −$948.36 (−5.01%). NVDA (40sh @ $204.22) closed $202.28 (−2.47%) on broad semiconductor selloff driven by AI bubble valuation concerns and Apple reclaiming most-valuable-company title from NVDA; no NVDA-specific adverse catalyst. H20 China license thesis intact; analysts bullish (Goldman $210, KeyCorp $330). Fixed stop $193.99 untouched (4.1% buffer). ⚠ CRITICAL: NVDA time stop MONDAY JUL 21 (Day 5/5) — place MOC by 3:50 PM ET; do NOT rely on GTC stop. Macro restricted: QQQ $690 vs SMA50 ~$717 (3.8% below) — only Type 1/3 active. Week 13 floor miss: 3/7 (probe cap 2/2 full + restricted mode = structurally blocked; flag in weekly review). Trades today: 1 exit (META stop-out). Phase P&L: −$5,123.38 (−5.12%) vs $100K start.
+
+---
+
 ### Jul 16 — EOD Snapshot (Post-Challenge Day 34, Week 13 Thursday)
 **Portfolio:** $95,711.20 | **Cash:** $68,823.78 (71.9%) | **Day P&L:** −$1,913.81 (−1.96%) | **Phase P&L:** −$4,288.80 (−4.29%)**
 
