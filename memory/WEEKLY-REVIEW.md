@@ -641,6 +641,78 @@ Template for each entry:
 
 ---
 
+## Week ending 2026-07-17
+
+### Stats
+| Metric | Value |
+|--------|-------|
+| Starting portfolio | $97,590.04 (Week 12 close, Jul 10) |
+| Ending portfolio | $94,876.62 (Jul 17 EOD) |
+| Week return | −$2,713.42 (−2.78%) |
+| S&P 500 week | +0.12% (SPX 7,524.59 Jul 10 → ~7,533.77 Jul 17) |
+| Bot vs S&P | −2.90% |
+| Trades | 4 (W:0 / L:3 closed / open:1) — 3 new entries + 1 carryover stop-out |
+| New entries (weekly floor) | 3 ⚠ (vs 7-entry floor — 10th consecutive miss) |
+| Win rate | 0% (0 of 3 closed) |
+| Best trade | N/A (no closed winners); open: NVDA −$77 (−0.95%) |
+| Worst trade | TQQQ −$1,424.57 (−4.75%, Type 5 thesis-break exit) |
+| Profit factor | N/A (no closed winners) |
+| Phase P&L | −$5,123.38 (−5.12%) vs $100K start |
+
+> **Week 13 (post-challenge, Jul 13–17).** Three closed losers; one open (NVDA, time stop Jul 21). CRWD carryover stopped out Jul 13; TQQQ exited Jul 16 on QQQ SMA50 thesis-break (midday, not waiting for close); META stopped out Jul 17 via GTC. All exits auto-managed by stops — zero manual overrides. Macro turned restricted mid-week: QQQ fell 3.8% below SMA50 by Jul 17, blocking new probes and leveraged ETF on Thu–Fri. Phase P&L: −5.12% vs $100K start.
+
+### Closed Trades
+| Ticker | Entry | Exit | P&L | Notes |
+|--------|-------|------|-----|-------|
+| CRWD (50sh) | $193.64 (Jul 9) | $181.90 avg (Jul 13) | −$586.97 | Carryover from Week 12; GTC `6b7ffc37` triggered at market open Day 2/5 of time window; slippage $2.06/sh |
+| TQQQ (400sh) | $74.94 (Jul 14) | $71.3786 (Jul 16) | −$1,424.57 | Type 5; QQQ crossed 1.3% below SMA50 at 1 PM Jul 16 with no recovery path; thesis-break midday market exit per rule |
+| META (28sh) | $675.36 (Jul 15) | $641.49 (Jul 17) | −$948.36 | Type 4; GTC `e2f634cb` triggered; stop buffer was only 0.67% at morning log Jul 17; auto-managed, no override |
+
+**Total realized this week: −$2,959.90**
+
+### Open Positions at Week End
+| Ticker | Entry | Close | Unrealized | Stop |
+|--------|-------|-------|------------|------|
+| NVDA | $204.2155 (Jul 14) | $202.28 | −$77.42 (−0.95%) | Fixed GTC `8b06edc4` $193.99 — ⚠ **TIME STOP MON JUL 21 — MOC by 3:50 PM ET, NO OVERRIDE** |
+
+> ⚠ **NVDA Monday mandate (hard):** Time stop Day 5/5 = Jul 21 (Monday). Place MOC before 3:50 PM ET. Do NOT rely on GTC stop `8b06edc4` for time exit. Stop buffer at week end: $8.29 (4.1% above $193.99). Macro: QQQ 3.8% below SMA50 at Friday close → restricted mode entering Monday; no new probes until QQQ recovers above SMA50.
+
+### What Worked
+- **All exits auto-managed without override:** CRWD GTC triggered at open Jul 13; TQQQ thesis-break MOC executed correctly midday Jul 16 when QQQ crossed 1.3% below SMA50 with no recovery path; META GTC triggered Jul 17 at $641.49 (0.67% buffer consumed exactly as designed). Zero manual interventions, zero hesitation.
+- **Macro filter applied correctly:** QQQ fell to $690.00 (3.8% below SMA50 $717.20) by Jul 17 open; restricted mode correctly identified — no new probes added despite available slots; leveraged ETF re-entry blocked; process worked as intended to prevent adding risk into a deteriorating market.
+- **TQQQ thesis-break timing justified:** TSM reported record Q2 earnings (beat) on Jul 16, so QQQ weakness was NOT chip-demand driven; other macro factors (Iran tensions, oil $79.97, sell-the-news Jensen Beijing). Probability of QQQ recovering above SMA50 same session = near zero by 1 PM ET. Midday exit limited further drawdown vs. waiting for close.
+- **NVDA CPI-day entry captured catalyst:** Entered Jul 14 on H20 China export license confirmation + CPI cool day; +4.06% on entry day. Position still intact with 4.1% stop buffer heading into time stop Jul 21.
+- **Probe sector diversification rule held:** NVDA (semiconductor) + META (social/AI) = two different sectors; compliance with the max-1-probe-per-sector rule added in Week 7.
+
+### What Didn't Work
+- **10th consecutive weekly floor miss (3/7):** Mon=0 (CRWD carryover stop-out, Rule A after exit); Tue=2 (NVDA+TQQQ, CPI day); Wed=1 (META, late 1:09 PM entry); Thu=0 (probe cap 2/2 full + zero qualifying Type 1/3 in single-name slot); Fri=0 (macro restricted + probe cap 2/2 full). Structurally blocked Thu–Fri, but 3/7 is still a process failure — 10 consecutive weeks under the floor.
+- **0% win rate on all closed trades:** CRWD −$587, TQQQ −$1,425, META −$948; all three entered (or carried over) in compressed windows and stopped out quickly. Total realized losses −$2,959.90 in 5 sessions.
+- **QQQ deteriorated faster than anticipated post-CPI:** TQQQ entered Jul 14 on CPI catalyst (QQQ well above SMA50 at $725+); by Jul 16 (2 sessions later) QQQ was $9.45 below SMA50. The catalyst rally reversed immediately. TQQQ correctly exited but entry timing absorbed a one-directional 4.75% drawdown.
+- **META entered 1 session before macro broke:** Entered Jul 15 at $675.36; next trading day (Jul 16) QQQ breached SMA50; the two-day macro deterioration consumed META's 5% stop cushion (0.67% remaining by Jul 17 morning). Entry valid per rules; macro turn timing was unlucky but the compacted cushion was a known risk at entry.
+- **Three correlated tech/AI positions simultaneously drawdown:** NVDA (semiconductor), META (social/AI), TQQQ (leveraged QQQ) — when QQQ fell, all three declined together. Probe sector diversification rule prevents two semis but doesn't prevent correlated beta drawdown when the whole tech complex sells.
+- **Phase P&L eroded to −5.12%:** Compounding losses across Weeks 11–13; from +4.14% peak (Week 5) to −5.12% now, a cumulative −9.26% drawdown from peak. Core failure mode: repeated stop-outs in low-conviction market environments while lacking offsetting winners.
+
+### Key Lessons
+- **Macro break speed is the key risk to compressed-stop entries:** A 5% stop on a Type 4 probe is designed for normal volatility. When a macro event (QQQ falling 4–5% in 2 sessions) is the catalyst, 5% is consumed quickly. In restricted-mode approaches, consider waiting for confirmed QQQ recovery above SMA50 before placing new probes rather than entering 1-2 sessions before the break is clear.
+- **TQQQ thesis-break midday exit rule is vindicated again:** QQQ closed Jul 16 at $705 (well below $717 SMA50); waiting for close would have cost additional points. The "probability near-zero" intraday judgment was correct. The rule is proven across two events (Jul 16 2026, Jun 2026 period).
+- **Stop system is the only structural defense in a down market:** Three simultaneous losses managed automatically without any manual action. In a week where every trade was negative, the system protected against catastrophic drawdown by capping each loss at 5–6%. Process integrity preserved.
+- **Post-CPI catalyst entries need a longer leash or smaller size:** CPI cool on Jul 14 generated a clean rally (NVDA +4.06%, QQQ +3.26%), but the rally fully reversed within 2 sessions. For entries made on macro-catalyst days, consider whether the catalyst durability supports a full probe position vs. half of half-size with a slightly wider stop (6–7%).
+- **10 consecutive floor misses requires a structural fix, not just better scanning:** The universe is chronically too narrow on any given day (5+ of 8 primary names below SMA thresholds or illiquid). Solution: add AMZN, SHOP, NET, SNOW to mandatory daily pre-market SMA table even when they haven't been recent picks; requires only Perplexity query each morning.
+
+### Adjustments for Next Week (Jul 21–25)
+- **NVDA time stop Jul 21 (hard):** Place MOC before 3:50 PM ET Monday, no override. Macro still restricted at week end — if QQQ below SMA50 at Monday open, entry window for new positions is limited to Type 1/3 after NVDA exits.
+- **Macro recovery watch (Priority 0):** QQQ needs to close above SMA50 (~$717) to reactivate full 5-setup-type menu. Check QQQ at Monday open: if QQQ > $717 → standard mode; if < $717 → restricted (Type 1+3 only, no ETF, no probes).
+- **NVDA post-exit (Priority 1 — conditional on macro):** If QQQ recovers above SMA50, reassess NVDA: new Type 1 (SMA150 reclaim) or Type 3 (SMA50 pullback) depending on where price lands after Jul 21 MOC exit. Do NOT re-enter below SMA150 (~$191–193).
+- **AMD (Priority 2):** SMA20 pullback zone ($529–535); spread ≤1.5% required; only enter on dip to SMA20 with bounce confirmation + macro filter green.
+- **META re-evaluation (Priority 3):** Stopped at $641.49; SMA200 ~$641–647 zone. If SMA200 holds as support and macro recovers → Type 3 SMA200 re-entry at lower size; Perplexity verify first.
+- **Weekly floor Jul 21–25:** Must hit 7 new entries. After NVDA exits Monday (1 slot opens), 4 slots available by Tuesday. Requires aggressive scanning across NVDA/AMD/META/AMZN/NET/SHOP/GOOGL — add SHOP and AMZN to mandatory pre-market table.
+- **NFLX earnings AMC Jul 17:** Monitor Monday AM for QQQ impact from Netflix report; sector signal for streaming/tech sentiment.
+
+### Overall Grade: C
+> Rationale: Stop system executed flawlessly across all three exits — zero manual interventions, GTC stops and thesis-break MOC all auto-managed. Macro filter correctly applied (restricted mode Jul 16-17), probe sector diversification rule observed (NVDA semi + META social/AI = different sectors). Process compliance clean throughout. Penalties: (1) 10th consecutive weekly floor miss (3/7) — structural, not tactical; (2) 0% win rate on all 3 closed positions; (3) −2.78% return vs S&P +0.12% = −2.90% relative underperformance; (4) phase P&L deteriorated to −5.12%, compounding losses from Weeks 11–13; (5) TQQQ entered 2 sessions before macro broke — timing risk that was partially avoidable. Grade C not D because stop discipline and macro filter execution were correct; the losses are the cost of the strategy's stop-loss system working as designed, not of rule violations.
+
+---
+
 ## Week ending 2026-07-10
 
 ### Stats
