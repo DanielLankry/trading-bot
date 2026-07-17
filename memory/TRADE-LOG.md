@@ -2,6 +2,52 @@
 
 ---
 
+### Jul 17 — Market-Open (Post-Challenge Week 13, Friday — Day 35)
+**Portfolio:** $94,908.22 | **Cash:** $68,823.70 (72.5%) | **Long MV:** $26,084.52 | **Phase P&L:** −$5,091.78 (−5.09%) | **Daytrade count:** 0
+
+**Trades fired:** NONE
+
+**NO-TRADE-DAY — Rule A (probe cap full + macro restricted + no confirmed Type 1/3 setups)**
+
+| Reason | Detail |
+|--------|--------|
+| Probe cap 2/2 FULL | NVDA (semiconductor) + META (social/AI) — no new Type 4 probes |
+| Macro RESTRICTED | QQQ live $690.00 vs SMA50 ~$717.20 (−3.8% below) → only Type 1+3; no Type 2/4/5 |
+| No Type 1/3 setups | Universe scan (pre-market + open): PLTR/NET/MSFT/GOOGL below SMA 150/200 or SMA50; chip sector broad selloff; no pullback-to-SMA confirmation across candidates |
+| Slot math | 2 positions open (NVDA + META), 2 slots available — but available setup types (1+3) yield zero qualified entries |
+
+**⚠ CRITICAL — META STOP PROXIMITY:**
+- META live: $645.94 | Stop GTC `e2f634cb` $641.59 | Buffer: **$4.35 (0.67%)** — EXTREMELY TIGHT
+- Any further selling today could trigger the stop. Auto-managed. Do NOT intervene.
+
+**⚠ MACRO DEEPENING:**
+- QQQ at $690 is now 3.8% below SMA50 $717.20 (vs 1.6% below at yesterday's close $705.94)
+- Restricted mode firmly active. Recovery to SMA50 requires QQQ close above $717 — not today.
+
+**Open positions:**
+| Ticker | Shares | Entry | Current | Unrealized P&L | Stop | Notes |
+|--------|--------|-------|---------|----------------|------|-------|
+| NVDA | 40 | $204.2155 | $200.24 | −$158.82 (−1.95%) | Fixed GTC `8b06edc4` $193.99 | Type 4 — ⚠ TIME STOP MON JUL 21 — MOC by 3:50 PM ET |
+| META | 28 | $675.36 | $645.94 | −$823.76 (−4.36%) | Fixed GTC `e2f634cb` $641.59 | Type 4 — ⚠ TIME STOP TUE JUL 22 — MOC by 3:50 PM ET ⚠ STOP BUFFER 0.67% |
+
+**Macro:**
+- QQQ $690.00 vs SMA50 ~$717.20 — RESTRICTED (3.8% below)
+- VIX: 17.96 (pre-market) — below 25 ✓ Full sizing applies
+- S&P Futures: −0.79% to −0.90% at open
+- WTI Oil: ~$80.08 (+1.43%) — inflation risk
+- NFLX reports AMC tonight — potential QQQ impact Monday open
+- Earnings BMO today: TRV, TFC, FITB, RF, MMM (no AI/tech names)
+
+**Probe cap:** 2/2 FULL | **ETF slot:** 0/1 open (blocked by macro restriction) | **Single-name slots:** 2 open (no qualified Type 1/3 entries)
+**Trades this week (Week 13):** 3 (NVDA + TQQQ Jul 14, META Jul 15). Floor: 3/7. ⚠ FLOOR MISS — Week 13 ends today. Probe cap 2/2 full + macro restricted = structurally impossible to add entries. Flag in weekly review.
+
+⚠ **URGENT REMINDERS:**
+- **NVDA TIME STOP JUL 21 (Monday)** — Day 4/5 today. Place MOC before 3:50 PM ET Monday. Do NOT rely on GTC stop `8b06edc4`.
+- **META TIME STOP JUL 22 (Tuesday)** — Day 3/5 today. Place MOC before 3:50 PM ET Tuesday. Do NOT rely on GTC stop `e2f634cb`.
+- **META STOP WATCH** — $641.59 stop, current $645.94, buffer 0.67%. Auto-stop manages. If triggered today: log realized P&L, update TRADE-LOG.
+
+---
+
 ### Jul 16 — EOD Snapshot (Post-Challenge Day 34, Week 13 Thursday)
 **Portfolio:** $95,711.20 | **Cash:** $68,823.78 (71.9%) | **Day P&L:** −$1,913.81 (−1.96%) | **Phase P&L:** −$4,288.80 (−4.29%)**
 
