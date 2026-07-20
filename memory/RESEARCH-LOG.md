@@ -4918,3 +4918,22 @@ None.
 - AMZN: Re-check SMA50 structure tomorrow pre-market; if confirmed above and holds, Type 3 entry possible
 - Earnings this week to watch: TSLA (Jul 23 AMC), GOOGL (Jul 29), META (Jul 29)
 
+### Midday Addendum — 2026-07-20 (~12:00 PM ET)
+
+**Portfolio:** $95,086.60 | Cash: 100% | Phase P&L: −$4,913.40 (−4.91%) | Day P&L: +$188.80 (+0.20%)
+
+**Macro (midday):**
+- QQQ: ~$699–701 vs SMA50 ~$717–719 — RESTRICTED. No intraday SMA50 recovery.
+- VIX: ~19 at last reading (below 25) — sizing at 100% if setups qualify
+- QQQ needs +2.7% to reclaim SMA50 $719 — not happening same session
+
+**Position review:** 0 positions open. NVDA exited at market-open (time stop Day 5/5, +$132.58 realized).
+
+**Cuts / stops / thesis checks:** None applicable — 0 positions.
+
+**Universe scan (Type 1+3 only):**
+- No new setups vs market-open. AMZN SMA50 still ambiguous, AAPL extended, GOOGL bounce day.
+- QQQ bearish configuration (price below 5/20/50d SMA) — no Type 5 leverage entry.
+
+**Decision: NO-TRADE confirmed at midday.** Same Rule A basis as market-open. Full pre-market scan required Tuesday.
+

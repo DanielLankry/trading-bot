@@ -112,6 +112,33 @@
 
 ---
 
+### Jul 20 — Midday Scan (Week 14, Monday — Day 36)
+**Portfolio:** $95,086.60 | **Cash:** $95,086.60 (100%) | **Long MV:** $0 | **Phase P&L:** −$4,913.40 (−4.91%) | **Day P&L:** +$188.80 (+0.20%)
+
+**Cuts (−7% rule):** NONE — 0 positions open.
+**Stop adjustments:** NONE — 0 positions open.
+**Thesis breaks:** NONE — 0 positions open.
+
+**Macro state (midday):**
+- QQQ: ~$699–701 vs SMA50 ~$717–719 — RESTRICTED (2.5–3% below SMA50). No recovery to SMA50 intraday.
+- VIX: Not elevated (Perplexity query inconclusive on exact value; prior 9:35 AM reading ~19 — below 25 ✓)
+- Status: Macro RESTRICTED → only Type 1 + Type 3 active. Types 2/4/5 remain blocked.
+
+**Universe check (Type 1/3 only):**
+- No new setups confirmed vs market-open scan. AMZN SMA50 still ambiguous; AAPL extended; GOOGL bounce day. No entries available.
+- QQQ recovering slightly from open ($695.33 → $700 midday) but remains well below SMA50 $719 — restricted mode intact.
+
+**Intraday research (Perplexity — Jul 20):**
+- QQQ intraday range: $699–$701 (support $687.09, resistance $706.20 per MarketChameleon 1-std-dev range). SMA50 consensus ~$717–719 across Barchart/Investing.com/Financhill. Price below all short-term MAs (5/20/50d) — bearish trend signal. Some sources show bullish intraday candle forming but price well below SMA50.
+- No new adverse catalysts identified for Week 14 universe names.
+- QQQ recovery to SMA50 $719 requires +2.7% from midday level — unlikely same session.
+
+**Open positions:** NONE
+**Probe cap:** 0/2 | **ETF slot:** 0/1 (macro restricted) | **Single-name slots:** 4/4 open
+**Trades this week (Week 14):** 0 entries (Day 1). Floor: 0/7. ⚠ Pre-market scan Tue Jul 21 is critical — full universe coverage required. Watch for AMZN SMA50 confirmation and any Type 1/3 pullback names.
+
+---
+
 ### Jul 17 — EOD Snapshot (Post-Challenge Day 35, Week 13 Friday)
 **Portfolio:** $94,876.62 | **Cash:** $86,785.42 (91.5%) | **Day P&L:** −$850.20 (−0.89%) | **Phase P&L:** −$5,123.38 (−5.12%)**
 
