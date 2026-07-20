@@ -5,6 +5,87 @@ Format each entry:
 
 ---
 
+## 2026-07-21 — Pre-Market Research (Post-Challenge Week 14, Monday)
+
+### Account Snapshot (Live, Pre-Market)
+- **Equity:** $94,986.27 | **Cash:** $86,785.40 (91.4%) | **BP:** $370,104.03
+- **Phase P&L:** −$5,013.73 (−5.01% vs $100K start)
+- **Positions:** 1/4 | **Open:** NVDA 40sh @ $204.2155, current $205.02 (+$32.25, +0.40%)
+- **Open orders:** GTC stop `8b06edc4` NVDA $193.99 ✓
+- **Daytrade count:** 0
+- **Probe cap:** 1/2 (NVDA only) | **ETF slot:** 0/1 open | **Single-name slots:** 3 open
+
+⚠ **CRITICAL — NVDA TIME STOP DAY 5/5 TODAY (JUL 21)**
+- Entry Jul 14. Day 5/5 = today. **Mandatory MOC by 3:50 PM ET. Do NOT rely on GTC stop `8b06edc4`.**
+
+### Market Context
+| Indicator | Value | Signal |
+|-----------|-------|--------|
+| WTI crude | ~$83.52/bbl (CLQ26 +2.74%) | ⚠ Oil elevated vs $80 last week |
+| Brent crude | Spiked $88.10 Jul 17 (Iran/Hormuz), pulling back ~$79-83 range | ⚠ Geopolitical driver |
+| S&P 500 futures | ~$7,497–7,519 (+0.02–0.13%) | Flat to slightly positive open |
+| VIX | 18.28–18.77 (up +12.19% from 16.73 on Jul 16) | ⚠ Jumped on expiration Friday; still < 25 ✓ |
+| QQQ (Jul 17 close) | $695.33 vs SMA50 ~$717.20 (−3.2% below) | 🔴 RESTRICTED MODE — only Type 1 + Type 3 |
+| SPY | Above SMA50 (inferred from S&P futures ~7,497–7,519) | ✓ Green |
+| Macro filter | **RESTRICTED** — QQQ below SMA50 | No Type 2/4/5 |
+
+### Key Catalysts (Jul 21, 2026)
+1. **⚠ NVDA TIME STOP DAY 5/5** — Mandatory MOC by 3:50 PM ET. Primary action today.
+2. **Mega-cap earnings week**: GOOGL likely Jul 22–24, MSFT Jul 24, META Jul 23–24 — MAJOR QQQ-moving events this week. Binary risk on all AI/tech single names.
+3. **Netflix (AMC Jul 16)**: Q2 EPS beat ($0.80 vs $0.79), revenue slight miss ($12.56B vs $12.58B), Q3 guidance miss → shares down ~10%. Potential QQQ headwind Monday.
+4. **PPI Jun 2026** (released ~Jul 15): −0.3% MoM — deflationary. Bullish for growth/rate pivot thesis.
+5. **CPI Jun 2026** (released Jul 14): 3.5% YoY (down from 4.2% May) — inflation cooling ✓.
+6. **FOMC**: Jul 28–29 meeting; 83.4% probability no rate change. No macro-moving releases today.
+7. **Iran/Hormuz**: Fragile 60-day ceasefire; Brent spiked to $88 Jul 17. Oil-driven inflation tail risk.
+8. **Economic calendar today**: BLS State Employment & Unemployment 10:00 AM — low impact. No CPI/PPI/NFP/FOMC this week until Jul 28.
+
+### NVDA Position Summary
+| Metric | Value |
+|--------|-------|
+| Entry | $204.2155 (Jul 14) |
+| Current (pre-mkt) | $205.02 (+$32.25, +0.40%) |
+| Stop | GTC `8b06edc4` $193.99 (5.4% below current) |
+| Time Stop | DAY 5/5 TODAY JUL 21 — MOC by 3:50 PM ET |
+| Unrealized P&L | +$32.25 (+0.40%) |
+| Action | **PLACE MOC SELL 40sh before 3:50 PM ET today** |
+| Thesis notes | AI/H20 intact; Q1 FY2027 $81.6B (+85% YoY); Q3 guidance $91B; analyst avg PT $303.84 (Strong Buy). Exit via time stop per rule — not a thesis break. |
+
+### Universe Scan (Restricted Mode — Type 1/3 Only)
+| Ticker | Price (approx) | SMA Status | Spread | Setup | Verdict |
+|--------|---------------|------------|--------|-------|---------|
+| NVDA | $205.02 | Near SMA150 ~$203–210 (borderline); SMA200 ~$190 ↑. Exit today via time stop. | ✓ | Time stop TODAY — exit | **MOC TODAY** |
+| META | ~$641 (stopped out Jul 17) | Below SMA200 ~$642; SMA20 ($584) < SMA50 ($600) — bearish structure | — | Earnings Jul 23–24 ⚠ | **SKIP — earnings binary + SMA disqualified** |
+| GOOGL | — | Below SMA50 (prior scans) | — | Earnings Jul 22–24 ⚠ | **SKIP — SMA + earnings** |
+| MSFT | — | Below SMA200 (prior scans) | — | Earnings Jul 24 ⚠ | **SKIP — disqualified** |
+| AMD | ~$546 (Jul 17) | SMA20 est ~$529–535; price extended ~$10–15 above SMA20 last check. If pulled back to SMA zone, Type 3 possible — needs confirmation at open. | est ~0.3% ✓ | Type 3 only if at SMA20 zone; NOT extended above it | **WATCH — confirm price at SMA20 at open** |
+| CRWD | ~$181–200 (stopped out Jul 13 @$181.90; recovered to $194 by Jul 9 entry) | SMA20 ~$177, SMA50 ~$161 (below price). Above SMA150/200 ✓. Check price vs SMA20 for Type 3. Earnings ~Sep 2026 ✓. | est 0.3–1.5% ✓ | Type 3 if at SMA20 zone; check spread ≤1.5% | **WATCH — check spread and SMA20 proximity at open** |
+| PLTR/MRVL/SHOP | — | Below SMA150/200 (prior scans) | — | Disqualified | **SKIP** |
+| TQQQ | — | Blocked by restricted mode (QQQ below SMA50) | — | Type 5 NOT valid in restricted mode | **BLOCKED** |
+
+### Actionable Trade Ideas
+**NO new entries at open** — restricted mode + mega-cap earnings binary risk (GOOGL/MSFT/META this week).
+
+**Post-NVDA-exit candidates (watch at midday after time stop executed):**
+1. **AMD Type 3** — if price pulls back to SMA20 ~$529–535 zone by midday with spread ≤1.5% and bounce confirmation. Risk: mega-cap earnings sector contagion. Entry gate: AMD at/near $529–535, spread ≤1.5%, no earnings within 5 days (AMD not reporting this week ✓).
+2. **CRWD Type 3** — if price at SMA20 zone (~$177–185), spread ≤1.5% (was normalized by Jul 9). Cybersecurity sector non-correlated to GOOGL/MSFT/META prints. Entry gate: spread ≤1.5% at open + SMA20 proximity. Earnings ~Sep 2026 ✓.
+3. **NVDA re-entry (Type 3)** — post time-stop exit, NVDA above SMA200 (~$190) but borderline SMA150 (~$203–210). Can re-enter only after confirming SMA150 recovery + pullback to SMA20/50. Not a same-day re-entry — too soon post-exit and earnings Aug 26 means no same-day probe.
+
+### Risk Factors
+- **QQQ restricted mode** — needs +3.2% close above $717+ to lift all setup types. With GOOGL/MSFT/META earnings this week, QQQ could swing ±3–5% intraday.
+- **Mega-cap binary risk** — GOOGL/MSFT/META all reporting this week. Any miss pressures QQQ further from SMA50 recovery. Any beat could spike QQQ above SMA50.
+- **Netflix -10% AMC** — Q3 guidance miss adds tech/streaming headwind to Monday open.
+- **VIX +12% jump** to 18.77 on Jul 17 expiration Friday — elevated but < 25. Full sizing still valid. Monitor: > 25 → -25% sizing; > 30 → no leveraged ETF.
+- **Iran/Hormuz oil** — WTI ~$83.52, elevated vs $74-80 range. Sustained oil can revive inflation concerns and pressure growth stocks.
+- **Week 14 floor** — 0/7 so far (Week 14 starts today). Need 7 entries by Friday. With restricted mode and mega-cap earnings risk, will lean Type 2/4 if macro lifts; Type 3 AMD/CRWD if restricted continues.
+
+### Decision
+⚠ **MANDATORY: Execute NVDA time stop MOC by 3:50 PM ET today.**
+**NO NEW ENTRIES at open** — Restricted mode (Type 1/3 only) + mega-cap earnings binary risk.
+**NO-TRADE-DAY Rule A pre-market** — no confirmed Type 1/3 setups at open. Reassess at midday post-NVDA exit.
+**Watch:** AMD at SMA20 zone ($529–535) + CRWD spread/SMA check at midday after NVDA time stop executes.
+
+---
+
 ## 2026-07-10 — Pre-Market Research (Day 30/30 — Week 12, Friday — FINAL SPRINT DAY)
 
 ### Account Snapshot (Live, Pre-Market)
