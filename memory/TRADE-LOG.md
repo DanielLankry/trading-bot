@@ -82,6 +82,36 @@
 
 ---
 
+### Jul 20 — Market-Open (Week 14, Monday — Day 36)
+**Portfolio:** $95,086.60 | **Cash:** $95,086.60 (100%) | **Long MV:** $0 | **Phase P&L:** −$4,913.40 (−4.91%) | **Daytrade count:** 0
+
+**NVDA EXIT — Time Stop Day 5/5 (mandatory close):**
+
+| Ticker | Shares | Entry | Exit | Realized P&L | Exit Time (ET) | Notes |
+|--------|--------|-------|------|--------------|----------------|-------|
+| NVDA | 40 | $204.2155 | $207.53 | **+$132.58 (+1.62%)** | ~9:38 AM Jul 20 | Type 4 Day 5/5 time stop. Canceled GTC `8b06edc4` (qty_available=0) → market sell order `11e3a5bc` filled. MOC `cls` TIF returned 403 (paper API unsupported); used DELETE /positions instead. |
+
+**Trades fired (new entries):** NONE
+
+**NO-TRADE-DAY — Rule A (no confirmed Type 1/3 setups + macro restricted)**
+
+| Reason | Detail |
+|--------|--------|
+| Macro RESTRICTED | QQQ $695.33 vs SMA50 $719.01 (−3.3% below) → only Type 1+3 active |
+| AMZN — no entry | SMA50 ambiguous ($244–252 across sources as of Jul 20); cannot confirm above SMA50 — entry without confirmed SMA position violates Type 3 requirements |
+| AAPL — skip | RSI 77–89 (overbought); $333 vs SMA50 ~$302 — well extended, no pullback forming |
+| GOOGL — skip | Up ~3% today ($357 vs $347 close); bounce day, not pullback entry zone |
+| PANW — skip | $353–359 vs SMA50 $284 — too extended above SMAs, no pullback |
+| Types 2/4/5 blocked | Macro restricted (QQQ < SMA50) |
+
+**Open positions:** NONE
+**Probe cap:** 0/2 | **ETF slot:** 0/1 (blocked — macro restricted) | **Single-name slots:** 4/4 open
+**Trades this week (Week 14):** 0 new entries (Day 1 of 5). Floor: 0/7.
+
+⚠ **Week 14 priority:** Floor requires 7 entries Mon–Fri. Macro restricted limits to Type 1+3. Run full universe pre-market scan tomorrow. Watch QQQ vs SMA50 $719 — recovery above $719 re-activates Types 2/4/5.
+
+---
+
 ### Jul 17 — EOD Snapshot (Post-Challenge Day 35, Week 13 Friday)
 **Portfolio:** $94,876.62 | **Cash:** $86,785.42 (91.5%) | **Day P&L:** −$850.20 (−0.89%) | **Phase P&L:** −$5,123.38 (−5.12%)**
 

@@ -4869,3 +4869,52 @@ None.
 
 **Portfolio:** $95,025.62 | Cash: $86,785.42 (91.3%) | Phase P&L: −$4,974.38 (−4.97%) | Positions: 1 (NVDA 40sh)
 
+---
+
+### Market-Open 2026-07-20 (Week 14, Monday — Day 36)
+
+**Account Snapshot (live ~9:38 AM ET):**
+- Equity: $95,086.60 | Cash: $95,086.60 (100%) | Phase P&L: −$4,913.40 (−4.91%)
+- Long Market Value: $0 | Positions: 0/4 | Day Trade Count: 0
+
+**NVDA Time Stop Executed:**
+- Day 5/5 mandatory close per Type 4 time stop rule (entered Jul 14)
+- Canceled GTC stop `8b06edc4` ($193.99) → freed qty_available
+- Market sell 40sh NVDA → order `11e3a5bc` filled at $207.53 (~9:38 AM ET)
+- Realized P&L: **+$132.58 (+1.62%)** on cost basis $8,168.62
+
+**Macro State (live 9:35–9:40 AM ET):**
+- QQQ: $695.33 vs SMA50 $719.01 → RESTRICTED MODE (−3.3% below SMA50)
+- SPY: Above SMA50 ✓
+- VIX: ~19 (below 25) — full sizing applies if setups qualify
+- Macro filter: RESTRICTED → only Type 1 + Type 3 active. Types 2, 4 (probes), 5 (leveraged ETF) blocked.
+
+**Universe Scan — Types 1 + 3 only (inline research via Perplexity):**
+
+| Ticker | ~Price | SMA50 | SMA200 | vs SMA50 | Notes |
+|--------|--------|-------|--------|----------|-------|
+| AAPL | $333.74 | ~$302–303 | ~$274–276 | +10% above | RSI 77–89 (overbought), no pullback → SKIP |
+| AMZN | $249 | $244–252* | $234–236 | Ambiguous | At/near SMA50 boundary; data contradictory across sources |
+| GOOGL | $357 | N/A | N/A | Unknown | Up +3% today; bounce not pullback → SKIP |
+| PANW | $353–359 | ~$284 | ~$208 | +25% above | Too extended above all SMAs → SKIP |
+
+*AMZN SMA50: AltIndex $243.90 (above), Financhill/Barchart $252.13 (below), Investing.com $248.46 (below) — contradictory.
+
+**Key Findings:**
+- Zacks Jul 16: AMZN "just overtook the 50-day MA" — brief breakout that reversed by Jul 17 close ($247.23)
+- CNBC Jul 16: AMZN stop zone $245, target $270 — but SMA50 confirmation needed first
+- AAPL Jul 15: China AI Intelligence approval (Alibaba Qwen); HSBC upgrade Buy/$366 target; 12% rally; reclaimed world's most-valuable-company title — but RSI extended, not a pullback entry
+- No pre-market routine ran today (weekend gap into Week 14)
+
+**Decision: NO-TRADE-DAY**
+- **Rule A valid:** No confirmed Type 1 or Type 3 setup with clean SMA structure across surveyed universe
+- AMZN at SMA50 boundary is ambiguous — contradictory data violates entry confirmation requirement for Type 3 ("above SMA50, pullback to SMA50" requires clear confirmation)
+- GOOGL up 3% is a bounce, not a pullback entry zone
+- AAPL overbought, no setup
+- PANW too extended
+
+**Macro watchlist for tomorrow:**
+- QQQ SMA50 recovery level: $719.01 — close above re-activates Types 2/4/5
+- AMZN: Re-check SMA50 structure tomorrow pre-market; if confirmed above and holds, Type 3 entry possible
+- Earnings this week to watch: TSLA (Jul 23 AMC), GOOGL (Jul 29), META (Jul 29)
+
