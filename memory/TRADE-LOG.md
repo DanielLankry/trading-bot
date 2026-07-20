@@ -139,6 +139,17 @@
 
 ---
 
+### Jul 20 — EOD Snapshot (Post-Challenge Day 36, Week 14 Monday)
+**Portfolio:** $95,086.60 | **Cash:** $95,086.60 (100%) | **Day P&L:** +$188.80 (+0.20%) | **Phase P&L:** −$4,913.40 (−4.91%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| — | — | — | — | — | — | — |
+
+**Notes:** NVDA (40sh, Type 4) time stop Day 5/5 executed at market open: market sell `11e3a5bc` filled @ $207.53 — realized +$132.58 (+1.62%). Account fully flat (100% cash) since ~9:38 AM ET. Macro restricted: QQQ closed ~$701 vs SMA50 ~$719 (2.5% below) — only Type 1 + Type 3 active; Types 2/4/5 blocked. No new entries — no qualifying Type 1/3 setups identified in full universe scan (market-open + midday). Trades today: 1 exit (NVDA time stop). Week 14: 0/7 floor entries (Day 1 of 5). ⚠ Pre-market Tue Jul 21 critical — full universe scan required; watch AMZN SMA50 confirmation; QQQ recovery to $719 re-activates Types 2/4/5. Phase P&L: −$4,913.40 (−4.91%) vs $100K start.
+
+---
+
 ### Jul 17 — EOD Snapshot (Post-Challenge Day 35, Week 13 Friday)
 **Portfolio:** $94,876.62 | **Cash:** $86,785.42 (91.5%) | **Day P&L:** −$850.20 (−0.89%) | **Phase P&L:** −$5,123.38 (−5.12%)**
 
