@@ -4937,3 +4937,92 @@ None.
 
 **Decision: NO-TRADE confirmed at midday.** Same Rule A basis as market-open. Full pre-market scan required Tuesday.
 
+
+---
+
+## 2026-07-21 — Pre-Market Research (Week 14, Tuesday)
+
+### Account Snapshot
+| Field | Value |
+|-------|-------|
+| Equity | $95,086.58 |
+| Cash | $95,086.58 (100%) |
+| Buying Power | $380,346.32 (4×) |
+| Long Market Value | $0 |
+| Positions | 0 (fully flat) |
+| Day Trade Count | 0 |
+| Phase P&L | −$4,913.42 (−4.91% vs $100K start) |
+
+**Log gap noted:** TQQQ (entered Jul 14 @ $74.94, stop $68.94) has no exit log entry. Based on account math ($97,327 pre-entry → $95,086 now vs −$2,400 TQQQ stop + +$132 NVDA time stop ≈ $94,927–$95,059), TQQQ stop was triggered at $68.94 at some point Jul 15–18. Must be reconciled in next weekly review.
+
+### Market Context
+
+**Macro filter:**
+- QQQ: ~$695 close Jul 20 → pre-market Nasdaq +1.44% → opens ~$705. SMA50: $719–720. **QQQ 2.1% below SMA50 → RESTRICTED MODE** (even after today's gap, QQQ cannot reclaim SMA50 intraday without a further +2.1% move from open)
+- QQQ above SMA200 ($640–650) → not in cash mode
+- SPY: S&P futures +0.57% at ~7,526 → SPY opening higher; likely above own SMA50
+- **Active setups: Type 1 (SMA 150/200 pullback) + Type 3 (SMA 20/50 pullback) ONLY. Types 2, 4, 5 blocked.**
+- VIX: 17.58 (−5.74% from 18.65 prior close) → below 25 → full sizing applies
+
+**Indices & Commodities:**
+- S&P 500 futures: +0.57% (+42pts) at ~7,526
+- Nasdaq 100 futures: +1.44% (tech/AI-led)
+- WTI: $82.47 | Brent: $88.87 (−0.4% on Iran mediation hopes offsetting fresh strikes)
+
+**Catalysts today (Jul 21):**
+- NVDA +6.2% pre-market: AWS capex confirmation (+$8.2B) → data center demand beat
+- AVGO +7.8% pre-market: Q3 2026 revenue guidance $16.8B (+12% vs consensus)
+- SHOP +3.7% pre-market: 8% workforce cut, $180M redirected to AI infrastructure
+- MRVL +3.32% on AI chip optimism
+- Iran ceasefire mediation efforts → oil pulling back, equities rallying
+- No major U.S. economic releases today (CPI was Jul 14 −0.4%/3.5% yoy; FOMC next Sep 17–18; Jobs next Aug 7; July CPI Aug 12)
+
+**Earnings BMO today (not in our universe):** GM, 3M, DHR, SCHW, HAL, MMM, NOC, MMC
+
+**Earnings watch (our universe):**
+- TSLA: Jul 23 AMC (2 trading days → **half size or skip if entering TSLA**)
+- AMZN: Jul 30 AMC (7 trading days → full size applies today, drops to half size by Jul 22–23 if within 5 days)
+- GOOGL, META: ~Jul 29 AMC
+
+**Sector momentum (YTD 2026):**
+- Technology +23.5% (AI-driven; 85% of S&P gains from 20 AI names; sole Q2 outperformer)
+- Energy +23.5% (geopolitical bid; momentum slowing)
+- Financials −6.9% (laggard)
+
+### Trade Ideas (Restricted Mode — Types 1 & 3 Only)
+
+**1. AMZN — Type 3 (SMA50 Pullback Bounce) | WATCH → conditional entry at open**
+- Price Jul 20 close: ~$249.99–$250.65; SMA50: $249–252 (price AT SMA50 boundary)
+- Jul 16 Zacks: "AMZN just overtook 50-day MA" → then pulled back to SMA50 zone by Jul 20
+- Today Nasdaq +1.44% → AMZN likely opens $253–256, above SMA50 → potential Type 3 bounce confirmation
+- Entry trigger: open above $252 AND holds above SMA50 in first 15 min with volume
+- Shares: ~150–185 (represents 40% of equity at ~$252) — stop risk ~1–1.5% capital (tight SMA stop)
+- Stop: daily close below SMA50 (~$246–248 fixed GTC)
+- Target: $265–270 (+6–8%) per analyst consensus, AWS AI capex tailwind
+- Earnings: Jul 30 AMC (7 days out, full size OK for today)
+- ⚠ Risk: price has been ambiguous at SMA50 boundary all week; "Buy" and "Sell" signals vary by source. Confirm with live quote and volume at open before entry.
+
+**2. QQQ SMA50 reclaim monitoring | No trade, macro unlock condition**
+- QQQ SMA50 at $719; today's open ~$705 → needs +2% from open to reclaim
+- If QQQ closes above $719 today → full mode (Types 2/4/5) resumes Wed Jul 22
+- Nasdaq futures +1.44% → insufficient for SMA50 reclaim in single session; unlikely today
+- Watch for close: if QQQ ≥$719 at 4 PM ET → pre-market Jul 22 can enter TQQQ (Type 5) + probes
+
+**3. AVGO — Type 2 (Breakout) | BLOCKED under restricted mode**
+- AVGO +7.8% pre-market on guidance beat → would be a Type 2 gap breakout
+- BLOCKED: Type 2 not permitted in restricted mode (QQQ below SMA50)
+- Watchlist for if/when full mode resumes
+
+### Risk Factors
+- QQQ structural weakness: price below 5/20/50d SMA, bearish MACD. RESTRICTED MODE may persist through this week.
+- AI earnings week: GOOGL/META Jul 29, TSLA Jul 23 → binary risk events → sector volatility
+- Fed: no cut expected; September hike at 63% odds → tightening backdrop caps multiple expansion
+- Iran: ceasefire hopes are fragile; reversal would spike oil/VIX and sell risk
+- Week 14 trade floor: 0/7 entries. Today is first opportunity; must enter or log NO-TRADE-DAY.
+- AMZN setup is thin (1–2% margin above SMA50); gap-and-fail reversal below SMA50 = immediate stop.
+
+### Decision
+**CONDITIONAL: Watch AMZN at open (9:30–9:45 AM ET).** If AMZN opens and holds above $252 (SMA50 confirmed) on volume, enter Type 3 ~150–185 shares. Place stop GTC below SMA50 (~$246–248). If price reverses at open or fails to confirm above SMA50 → **NO-TRADE-DAY** (Rule A: no confirmed pullback setup with clean SMA structure across surveyed universe under restricted mode).
+
+- Week 14: 0/7. Rotation or entry needed today to stay on pace.
+- Tomorrow: re-check QQQ vs SMA50. If reclaimed → full mode unlocks TQQQ + NVDA/AVGO probe.
