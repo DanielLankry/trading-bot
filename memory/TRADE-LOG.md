@@ -26,6 +26,17 @@
 
 ---
 
+### Jul 21 — EOD Snapshot (Week 14 Tuesday — Day 37)
+**Portfolio:** $95,086.58 | **Cash:** $95,086.58 (100%) | **Day P&L:** $0.00 (0.00%) | **Phase P&L:** −$4,913.42 (−4.91%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| — | — | — | — | — | — | — |
+
+**Notes:** Fully flat at close. NO-TRADE-DAY declared at market-open (macro restricted: QQQ ~$702–704 vs SMA50 ~$717–719, −2.5–3% below; no Type 1/3 setups confirmed; mega-cap earnings binary risk GOOGL/META/MSFT this week blocks Type 3 entries). NVDA time stop executed Jul 20 @ $207.53 (40sh, +$132.58 realized). Week 13 exits fully logged: TQQQ sold Jul 16 @ $71.38 (400sh, −$1,424.55); META GTC stop triggered Jul 17 @ $641.49 (28sh, −$948.36); NVDA time-stop Jul 20 @ $207.53 (40sh, +$132.58). Net Week 13 realized: −$2,240.33. Week 14 starts 0/7 entries — recovery setup window pending QQQ reclaim of SMA50 ($717+) or post-earnings clarity Wed–Fri.
+
+---
+
 ### Jul 17 — Market-Open (Post-Challenge Week 13, Friday — Day 35)
 **Portfolio:** $94,908.22 | **Cash:** $68,823.70 (72.5%) | **Long MV:** $26,084.52 | **Phase P&L:** −$5,091.78 (−5.09%) | **Daytrade count:** 0
 
