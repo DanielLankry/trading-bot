@@ -2,6 +2,30 @@
 
 ---
 
+### Jul 21 — Market-Open (Week 14, Tuesday — Day 37)
+**Portfolio:** $95,086.58 | **Cash:** $95,086.58 (100%) | **Long MV:** $0 | **Phase P&L:** −$4,913.42 (−4.91%) | **Daytrade count:** 0
+
+**Trades fired:** NONE
+
+**NO-TRADE-DAY — Rule A (macro restricted + no confirmed Type 1/3 setups + mega-cap earnings binary risk)**
+
+| Reason | Detail |
+|--------|--------|
+| Macro RESTRICTED | QQQ closed Jul 20 $696.06 / today open ~$702–704 vs SMA50 ~$717–719 (−2.5–3% below) → only Type 1+3 active |
+| AMD — no valid Type 3 | Price ~$527, SMA20 $531.33 — AMD recovering FROM below SMA20, not pulling back TO it from above. Not a clean Type 3 setup. Mega-cap earnings sector contagion risk. |
+| CRWD — spread fails | bid $189.24 / ask $198.34 → spread 4.7% ❌ (gate requires ≤1.5%). Skip. |
+| AMZN — SMA ambiguous | SMA50 sources conflict ($244–252 range). Cannot confirm above SMA50 → entry violates Type 3 requirements per Jul 20 precedent. |
+| Mega-cap earnings binary | GOOGL likely Jul 22–24, META Jul 23–24, MSFT Jul 24 — binary events this week; AI/tech sector contagion risk suppresses all Type 3 entries |
+| Types 2/4/5 blocked | Macro restricted (QQQ < SMA50) |
+
+**Open positions:** NONE (NVDA time stop executed Jul 20 @ $207.53)
+**Probe cap:** 0/2 | **ETF slot:** 0/1 (blocked — macro restricted) | **Single-name slots:** 4/4 open
+**Trades this week (Week 14):** 0 new entries (Day 2 of 5). Floor: 0/7.
+
+⚠ **Watch for Week 14 entries:** QQQ recovery above $717+ re-activates Types 2/4/5. Post-earnings clarity Wed-Fri (GOOGL/META/MSFT reports) may create setup window. AMD needs clean pullback to SMA20 with bounce confirmation.
+
+---
+
 ### Jul 17 — Market-Open (Post-Challenge Week 13, Friday — Day 35)
 **Portfolio:** $94,908.22 | **Cash:** $68,823.70 (72.5%) | **Long MV:** $26,084.52 | **Phase P&L:** −$5,091.78 (−5.09%) | **Daytrade count:** 0
 
