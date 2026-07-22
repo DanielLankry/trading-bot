@@ -87,6 +87,25 @@ Format each entry:
 - If QQQ closes above $719 today (unlikely, −0.81% premarket) → full mode unlocks Thursday.
 - FOMC statement 14:00 ET → any dovish pivot language → setup watch begins immediately post-decision.
 
+### Afternoon Addendum — Midday Scan 2026-07-22
+
+**QQQ intraday:** $709.22 (+1.89% vs yesterday close) | Support $697.99 | Resistance $719.95 (≈ SMA50)
+**Status: RESTRICTED MODE INTACT** — QQQ still ~$10.70 below SMA50 at midday. No regime change.
+
+**Positions:** 0 open | No cuts, no stop adjustments, no thesis breaks (flat account).
+
+**Catalyst watch remaining today:**
+- GOOGL earnings AMC — primary read-through for cloud/AI capex; beats likely trigger QQQ gap toward SMA50 Thu morning
+- TSLA earnings AMC — beat may add risk-on fuel; miss may suppress tech open Thu
+- AMD Advancing AI 2026 event (San Francisco) — no tradeable catalyst confirmed midday; monitor for after-hours commentary
+- FOMC tomorrow 14:00 ET — pre-meeting drift possible PM today
+
+**Thu pre-market action plan:**
+- QQQ > $719 → full mode unlocks (Type 2/4/5 active)
+- AMZN above SMA50 ($249–252) on open → Type 3 setup valid; size full
+- META SMA50 structure confirm at 9:30 → if above SMA50 with pullback → Type 3 candidate
+- VIX check first: if >25 after earnings reaction → reduce sizing 25%
+
 ---
 
 ## 2026-07-21 — Pre-Market Research (Post-Challenge Week 14, Monday)
