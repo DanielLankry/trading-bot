@@ -5,6 +5,90 @@ Format each entry:
 
 ---
 
+## 2026-07-22 — Pre-Market Research (Post-Challenge Week 14, Wednesday)
+
+### Account Snapshot (Live, Pre-Market)
+| Field | Value |
+|-------|-------|
+| Equity | $95,086.58 |
+| Cash | $95,086.58 (100%) |
+| Buying Power | $380,346.32 (4×) |
+| Long Market Value | $0 |
+| Positions | 0/4 — fully flat |
+| Open orders | 0 |
+| Daytrade count | 0 |
+| Phase P&L | −$4,913.42 (−4.91% vs $100K start) |
+
+**Note:** Jul 21 NVDA time stop (Day 5/5) executed per plan — account now all-cash.
+
+### Market Context
+| Indicator | Value | Signal |
+|-----------|-------|--------|
+| WTI crude | ~$85–88/bbl (+3–5% spike) | 🔴 Iran ceasefire collapsed (Rubio: "not serious") |
+| Brent crude | ~$91–95/bbl (+2.5%) | 🔴 Geopolitical risk-on for oil |
+| S&P 500 futures | −0.34% (~7,520) | ⚠ Bearish open |
+| Nasdaq 100 futures | −0.81% (~29,080) | 🔴 Chip/tech reversal after yesterday's +5.2% SOX rally |
+| VIX | 17.05 (Jul 21 close); futures ~17.35–17.41 | ✓ Below 25 — full sizing permitted |
+| QQQ | $708.97 (Jul 21 close); SMA50 ~$719 | 🔴 RESTRICTED MODE — Type 1 + Type 3 ONLY |
+| SPY | Above SMA50 (S&P futures ~7,520) | ✓ Green |
+| Macro filter | **RESTRICTED** — QQQ −$10 below SMA50 (~1.4% gap); today's open ~$703–705 deepens it | No Type 2/4/5 |
+
+### Key Catalysts Today
+- **GOOGL earnings AMC** — cloud/AI capex; primary Q2 tech sentiment driver. ⚠ SKIP — earnings day.
+- **TSLA earnings AMC** — ⚠ SKIP — earnings day; binary event.
+- **AMD Advancing AI 2026 event** (San Francisco, runs today) — roadmap/demand commentary may move AI chip sentiment mid-session.
+- Yesterday's chip rally (+5.2% Philadelphia Semiconductor Index; MU +12%) now partially reversing premarket.
+- Iran: ceasefire talks collapsed (Secretary Rubio statement) → oil spike, risk-off tone at open.
+- **FOMC meeting tomorrow (Jul 23, 14:00 ET)** — no cut expected; pre-meeting caution likely weighs on tape.
+- No major US economic releases today (CPI was Jul 14; next Aug 12).
+- Earnings BMO today (not in universe): AT&T, CME Group, GE Vernova, Philip Morris International.
+
+### Sector YTD Momentum (Q2 2026 End Reference)
+- Technology: +17–27% (AI-driven; dominant)
+- Energy: +20–27% (geopolitical bid; spiking today on Iran)
+- Industrials: +13–21%
+- Financials: −4 to −8% (laggard)
+
+### Universe Scan — Type 1 & Type 3 Only (Restricted Mode)
+
+**AMZN** — Type 3 conditional (BEST CANDIDATE)
+- Jul 21 close: ~$250. SMA50: ~$249–252.
+- Today Nasdaq −0.81% → AMZN likely opens ~$248 → **below SMA50** → invalid Type 3 entry.
+- Earnings Jul 30 AMC (8 days out → full size OK when setup qualifies).
+- Status: **BLOCKED today** — price below SMA50 at expected open. Revisit if price reclaims SMA50 intraday on volume.
+
+**META** — Type 3 watchlist
+- Earnings Jul 29 AMC (7 days out → full size OK today if setup qualifies).
+- Nasdaq down today; META likely opens below recent consolidation zone.
+- SMA50 structure unclear — needs live price confirmation at open.
+- Status: **MONITOR** — too uncertain pre-open; confirm SMA50 status at 9:30 ET.
+
+**GOOGL** — ⚠ SKIP — earnings AMC today. No trade regardless of setup.
+
+**TSLA** — ⚠ SKIP — earnings AMC today. No trade regardless of setup.
+
+**NVDA / AMD / MU / MRVL** — yesterday's SOX +5.2% rally is partially reversing (Nasdaq −0.81%). No confirmed pullback-to-SMA setups in Type 1/3 form.
+
+**PLTR / CRWD / NET / SHOP** — restricted mode blocks Type 4 probes; no Type 1/3 SMA pullback setups confirmed.
+
+### Risk Factors
+- Iran: oil spike could sustain or worsen if escalation continues → VIX risk
+- FOMC tomorrow: market may position defensively all day
+- GOOGL + TSLA AMC: if either misses, tech/AI sector selloff extends
+- Week 14 pace: 0/7 entries — under-pace Wednesday; need quality setups rest of week
+- Restricted mode blocks the highest-frequency setup types (2/4/5)
+
+### Decision: NO-TRADE-DAY ✗
+**Rule A (zero qualified setups):** Restricted mode (QQQ below SMA50) limits entries to Type 1/3. With Nasdaq futures −0.81%, AMZN (best candidate) opens below its SMA50 zone → entry gate fails. META SMA50 structure unconfirmed. No other universe name has a confirmed pullback-to-SMA setup. GOOGL and TSLA are earnings-day skips.
+**Secondary:** FOMC tomorrow + oil spike create elevated session uncertainty.
+
+**Watch tomorrow (Jul 23 post-FOMC):**
+- If GOOGL/TSLA beat AMC tonight → risk-on open Thu; check AMZN/META for Type 3.
+- If QQQ closes above $719 today (unlikely, −0.81% premarket) → full mode unlocks Thursday.
+- FOMC statement 14:00 ET → any dovish pivot language → setup watch begins immediately post-decision.
+
+---
+
 ## 2026-07-21 — Pre-Market Research (Post-Challenge Week 14, Monday)
 
 ### Account Snapshot (Live, Pre-Market)
