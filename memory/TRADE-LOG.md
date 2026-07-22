@@ -2,6 +2,30 @@
 
 ---
 
+### Jul 22 — Market-Open (Week 14, Wednesday — Day 38)
+**Portfolio:** $95,086.58 | **Cash:** $95,086.58 (100%) | **Long MV:** $0 | **Phase P&L:** −$4,913.42 (−4.91%) | **Daytrade count:** 0
+
+**Trades fired:** NONE
+
+**NO-TRADE-DAY — Rule A (macro restricted + no confirmed Type 1/3 setups + binary earnings risk)**
+
+| Reason | Detail |
+|--------|--------|
+| Macro RESTRICTED | QQQ live $704.81 (bid $704.68 / ask $704.94) vs SMA50 ~$719 → −2.0% below. Only Type 1+3 active. |
+| AMZN — entry gate fails | Price $244.97 (bid $244.91 / ask $245.04) vs SMA50 ~$249–252 → BELOW SMA50, not pulling back TO it from above. No valid Type 3 setup. Spread 0.05% ✓ but structure gate fails. |
+| META — no pullback setup | Price $635–638 (bid $635 / ask $638.74). SMA50 ~$600 → price well above SMA50, not at pullback-to-SMA level. No Type 3 bounce confirmation. Earnings Jul 29 AMC (7 days → full size OK) but entry structure not there. |
+| GOOGL — ⚠ earnings AMC | Earnings AMC today Jul 22 → binary event. SKIP regardless of setup. |
+| TSLA — ⚠ earnings AMC | Earnings AMC today Jul 22 → binary event. SKIP regardless of setup. |
+| Types 2/4/5 blocked | Macro restricted (QQQ < SMA50). FOMC meeting tomorrow Jul 23 adds session caution. |
+
+**Open positions:** NONE
+**Probe cap:** 0/2 | **ETF slot:** 0/1 (blocked — macro restricted) | **Single-name slots:** 4/4 open
+**Trades this week (Week 14):** 0 new entries (Day 3 of 5). Floor: 0/7.
+
+⚠ **Watch tomorrow (Jul 23 post-FOMC):** GOOGL/TSLA AMC tonight — beat → risk-on open Thu, check AMZN/META for Type 3; miss → extended tech selloff. FOMC 14:00 ET — any dovish pivot → setup watch immediately post-decision. QQQ needs to reclaim $719 for Types 2/4/5 to reactivate. Week 14 still salvageable with 2 trading days (Thu–Fri) if setups emerge post-earnings/FOMC.
+
+---
+
 ### Jul 21 — Market-Open (Week 14, Tuesday — Day 37)
 **Portfolio:** $95,086.58 | **Cash:** $95,086.58 (100%) | **Long MV:** $0 | **Phase P&L:** −$4,913.42 (−4.91%) | **Daytrade count:** 0
 
