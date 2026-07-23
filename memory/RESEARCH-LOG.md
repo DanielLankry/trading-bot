@@ -5,6 +5,55 @@ Format each entry:
 
 ---
 
+## 2026-07-23 — Market-Open Research (Post-Challenge Week 14, Thursday — Day 39)
+
+### Account Snapshot (Live, Market-Open)
+| Field | Value |
+|-------|-------|
+| Equity | $95,086.58 |
+| Cash | $95,086.58 (100%) |
+| Buying Power | $95,086.58 |
+| Long Market Value | $0 |
+| Positions | 0/4 — fully flat |
+| Open orders | 0 |
+| Daytrade count | 0 |
+| Phase P&L | −$4,913.42 (−4.91% vs $100K start) |
+
+### Market Context
+| Indicator | Value | Signal |
+|-----------|-------|--------|
+| QQQ | ~$696 (bid $695.95 / ask $696.38) | 🔴 RESTRICTED — SMA50 ~$719 (−3.2% below); deepened from $709 yesterday |
+| SPY | ~$741.50 (bid $741.49 / ask $741.53) | ⚠ Monitor vs SMA50 |
+| Macro filter | **RESTRICTED** — QQQ well below SMA50; only Type 1 + Type 3 active | No Type 2/4/5 |
+| FOMC | Today 14:00 ET — no cut expected; binary guidance risk | 🔴 Session caution |
+
+### Earnings Post-Mortems (AMC Jul 22)
+- **GOOGL:** Revenue $119.8B +24% YoY ✓ beat; Google Cloud $24.8B +82% YoY ✓ monster; BUT FY26 capex raised to ~$92B (nearly double YoY) → stock fell AH on spending concerns
+- **TSLA:** Revenue $28.2B beat; BUT EPS miss, GAAP margin 1.4%, FCF negative, Cybercab/Semi/Megapack 3 timelines delayed → down ~4% AH
+
+### Universe Scan — Type 1 & Type 3 Only (Restricted Mode)
+| Ticker | Live Price | Key SMA | Status |
+|--------|------------|---------|--------|
+| AMZN | $236 | SMA50 ~$249–252 | ❌ Well below SMA50 → entry gate fails |
+| META | $601–606 | SMA50 $600.60 / SMA200 $624.70 | ❌ Death cross; below SMA200 → fails Type 3 macro trend requirement; earnings Jul 29 (5 days) |
+| NVDA | $209.30 | SMA150/200 unconfirmed | ⚠ Structure not verified; skip without confirmation |
+| AMD | $547–552 | SMA20 ~$531–535 | ❌ Extended $12–20 above SMA20; no pullback setup |
+| GOOGL | $320–321 | Below SMA50 (prior scans) | ❌ Fell post-earnings capex concern; SKIP |
+| TSLA | $337 | Below SMAs | ❌ Post-earnings miss; SKIP |
+
+### Decision: NO-TRADE-DAY ✗
+Rule A: zero qualified setups + FOMC binary event. All Type 1/3 candidates fail structure gates. META below SMA200 (death cross) disqualifies Type 3. FOMC at 14:00 ET — binary macro risk makes new entries inadvisable regardless.
+
+### Watch Tomorrow (Jul 24)
+- Post-FOMC direction: dovish → setup scan resumes; hawkish → extended cash mode
+- MSFT earnings AMC tonight (Jul 23) — beat may help tech recovery; miss extends selloff
+- QQQ must close above $719 to reactivate Types 2/4/5
+- META: needs SMA200 reclaim (~$625) before Type 3 valid; earnings countdown (Jul 29)
+- AMZN: needs SMA50 reclaim (~$249–252) for Type 3 entry
+
+---
+
+
 ## 2026-07-22 — Pre-Market Research (Post-Challenge Week 14, Wednesday)
 
 ### Account Snapshot (Live, Pre-Market)
@@ -301,6 +350,8 @@ Format each entry:
 **Watch:** AMD at SMA20 zone ($529–535) + CRWD spread/SMA check at midday after NVDA time stop executes.
 
 ---
+
+
 
 ## 2026-07-10 — Pre-Market Research (Day 30/30 — Week 12, Friday — FINAL SPRINT DAY)
 

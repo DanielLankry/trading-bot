@@ -2,6 +2,37 @@
 
 ---
 
+### Jul 23 — Market-Open (Week 14, Thursday — Day 39)
+**Portfolio:** $95,086.58 | **Cash:** $95,086.58 (100%) | **Long MV:** $0 | **Phase P&L:** −$4,913.42 (−4.91%) | **Daytrade count:** 0
+
+**Trades fired:** NONE
+
+**NO-TRADE-DAY — Rule A (macro restricted + no confirmed Type 1/3 setups + FOMC binary event)**
+
+| Reason | Detail |
+|--------|--------|
+| Macro RESTRICTED | QQQ live $696 (bid $695.95 / ask $696.38) vs SMA50 ~$719 → −3.2% below. Deeper than yesterday ($709). Only Type 1+3 active. |
+| Post-earnings tech selloff | GOOGL AMC Jul 22: Revenue $119.8B +24% beat, Cloud $24.8B +82%, BUT FY26 capex raised to $92B → stock fell AH on spending concerns. TSLA AMC Jul 22: Revenue beat $28.2B, but EPS miss, GAAP margin 1.4%, FCF negative, Cybercab/Semi delays → down ~4% AH. QQQ dropped $13 from yesterday's $709 close. |
+| META — DISQUALIFIED | Live $601-$606 (bid $601 / ask $606.61). SMA50 $600.60 / SMA200 $624.70 → **death cross (SMA50 < SMA200); price below SMA200** → fails Type 3 "macro trend intact" (above SMA 150/200) requirement. Earnings Jul 29 AMC (within 5 trading days → half size anyway). |
+| AMZN — entry gate fails | Live $236 (bid $236.05 / ask $236.28) vs SMA50 ~$249–252 → well below SMA50, no pullback setup. |
+| NVDA — unconfirmed structure | Live $209.30. Previously time-stopped Jul 20 @ $207.53. SMA structure (above SMA150/200?) not confirmed today — cannot enter without Perplexity-verified SMA position. |
+| AMD — extended | Live $547-$552 vs SMA20 ~$531–535 → extended $12–20 above SMA20; no Type 3 pullback setup. |
+| FOMC 14:00 ET | Federal Open Market Committee decision today at 2 PM ET — binary macro event. Entering now = holding through Fed announcement. No cut expected but tone/guidance is binary risk. |
+| Types 2/4/5 blocked | Macro restricted (QQQ < SMA50). |
+
+**Open positions:** NONE
+**Probe cap:** 0/2 | **ETF slot:** 0/1 (blocked — macro restricted) | **Single-name slots:** 4/4 open
+**Trades this week (Week 14):** 0 new entries (Day 4 of 5). Floor: 0/7. ⚠ Last day Friday Jul 25 — floor miss incoming unless multiple setups clear gates.
+
+⚠ **Watch tomorrow (Jul 24):**
+- Post-FOMC clarity: if dovish pivot language → scan for Type 3 setups in AMZN (needs SMA50 reclaim), NVDA (confirm SMA150/200), META (needs SMA200 reclaim)
+- QQQ must reclaim $719 for Types 2/4/5 to reactivate
+- META earnings Jul 29 AMC — window closing; any entry requires half size + SMA200 reclaim
+- MSFT reports AMC tonight (Jul 23) — beat may help QQQ recovery; miss extends selloff
+
+---
+
+
 ### Jul 22 — Market-Open (Week 14, Wednesday — Day 38)
 **Portfolio:** $95,086.58 | **Cash:** $95,086.58 (100%) | **Long MV:** $0 | **Phase P&L:** −$4,913.42 (−4.91%) | **Daytrade count:** 0
 
@@ -230,6 +261,8 @@
 **Notes:** META GTC stop `e2f634cb` triggered ~1:36 PM at $641.49 (slippage $0.10/sh; stop price $641.59) — realized −$948.36 (−5.01%). NVDA (40sh @ $204.22) closed $202.28 (−2.47%) on broad semiconductor selloff driven by AI bubble valuation concerns and Apple reclaiming most-valuable-company title from NVDA; no NVDA-specific adverse catalyst. H20 China license thesis intact; analysts bullish (Goldman $210, KeyCorp $330). Fixed stop $193.99 untouched (4.1% buffer). ⚠ CRITICAL: NVDA time stop MONDAY JUL 21 (Day 5/5) — place MOC by 3:50 PM ET; do NOT rely on GTC stop. Macro restricted: QQQ $690 vs SMA50 ~$717 (3.8% below) — only Type 1/3 active. Week 13 floor miss: 3/7 (probe cap 2/2 full + restricted mode = structurally blocked; flag in weekly review). Trades today: 1 exit (META stop-out). Phase P&L: −$5,123.38 (−5.12%) vs $100K start.
 
 ---
+
+
 
 ### Jul 16 — EOD Snapshot (Post-Challenge Day 34, Week 13 Thursday)
 **Portfolio:** $95,711.20 | **Cash:** $68,823.78 (71.9%) | **Day P&L:** −$1,913.81 (−1.96%) | **Phase P&L:** −$4,288.80 (−4.29%)**
