@@ -51,6 +51,14 @@ Rule A: zero qualified setups + FOMC binary event. All Type 1/3 candidates fail 
 - META: needs SMA200 reclaim (~$625) before Type 3 valid; earnings countdown (Jul 29)
 - AMZN: needs SMA50 reclaim (~$249–252) for Type 3 entry
 
+### Midday Addendum (Jul 23 ~12:00 ET)
+- **QQQ:** $694–705 intraday vs SMA50 $719.17 — RESTRICTED (2–4% below). No recovery. FOMC at 14:00 ET still pending; market cautious. Post-earnings GOOGL/TSLA selloff lingering.
+- **No new setups.** All Type 1/3 candidates unchanged from market-open scan. Types 2/4/5 blocked.
+- **Portfolio:** $95,086.58 | 100% cash | 0 positions | 0 orders.
+- **FOMC watch:** Post-decision (14:00 ET): dovish pivot → scan AMZN (SMA50 zone) + NVDA (structure confirm) immediately. Hawkish → extend cash mode.
+- **MSFT AMC:** Key overnight catalyst; strong Azure guidance = potential setup window pre-market Jul 24.
+- **Week 14 critical:** 0/7 floor, Day 4/5. Friday Jul 25 is last chance to avoid floor miss.
+
 ---
 
 

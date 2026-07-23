@@ -32,6 +32,42 @@
 
 ---
 
+### Jul 23 — Midday Scan (Week 14, Thursday — Day 39)
+**Portfolio:** $95,086.58 | **Cash:** $95,086.58 (100%) | **Long MV:** $0 | **Phase P&L:** −$4,913.42 (−4.91%)
+
+**Cuts (−7% rule):** NONE — 0 positions open.
+**Stop adjustments:** NONE — 0 positions open.
+**Thesis breaks:** NONE — 0 positions open.
+
+**Macro state (midday):**
+- QQQ: ~$694–705 intraday (Benzinga 10:09 AM: $694.33; Clearank $705.35; ChartExchange pre-mkt $695.57) vs SMA50 $719.17 — **RESTRICTED (~2–4% below SMA50)**. No intraday recovery toward SMA50.
+- VIX: Not confirmed via query; prior sessions sub-25 — full sizing theoretically applies but no positions.
+- FOMC: 14:00 ET — decision pending at midday. Market trading cautiously. No cut expected; binary guidance risk.
+- Status: Macro RESTRICTED → only Type 1 + Type 3 active. Types 2/4/5 remain blocked.
+
+**Universe check (Type 1/3 only):**
+- No new setups vs market-open scan. QQQ trending lower (pre-market −1.4% from Jul 22 close $705.35 → ~$694–695 early session). Post-GOOGL/TSLA AH selloff weighing on tech sector.
+- AMZN, META, NVDA, AMD, GOOGL, TSLA — same disqualifications as market-open (structure gates fail or SMA requirements unmet).
+
+**Intraday research (Perplexity — Jul 23):**
+- **QQQ:** Intraday ~$694–705 vs SMA50 $719.17 (Clearank/Financhill consensus). Below 8-day SMA ($707.61) and 20-day SMA ($714.25). Restricted mode intact. Support $697.99 / resistance $719.95 (1-std-dev from MarketChameleon). Recovery to SMA50 requires +2–4% from current levels — not achievable intraday.
+- **FOMC (14:00 ET):** Decision pending. No rate cut expected. Binary event: hawkish guidance → further QQQ weakness; dovish pivot language → potential rally leg toward SMA50 $719. Post-decision direction determines tomorrow's (Jul 24) setup window.
+- **MSFT (AMC tonight):** Earnings AMC Jul 23. Beat + strong Azure cloud guidance could catalyze tech recovery and help QQQ gap toward SMA50 tomorrow. Miss = extended selloff.
+- **GOOGL/TSLA post-earnings:** Both dropped AH Jul 22 (GOOGL on capex concerns; TSLA EPS miss + guidance). Weighing on sector sentiment today.
+- **No new setups identified.** Restricted mode + FOMC binary = correct to hold cash.
+
+**Open positions:** NONE
+**Probe cap:** 0/2 | **ETF slot:** 0/1 (macro restricted) | **Single-name slots:** 4/4 open
+**Trades today:** 0 | **Week 14 floor:** 0/7 (Day 4/5) ⚠ CRITICAL — last entry day Friday Jul 25.
+
+⚠ **Watch this afternoon / tomorrow (Jul 24):**
+- 14:00 ET FOMC — if dovish pivot, immediately scan AMZN (SMA50 reclaim ~$249) + NVDA (SMA structure confirm) for afternoon/tomorrow entry.
+- MSFT AMC — beat → pre-market setup window; miss → extended caution.
+- QQQ must close above $719.17 to reactivate Types 2/4/5.
+- Week 14 floor 0/7: Friday Jul 25 is the last day — need any qualified setup to avoid a second consecutive floor miss.
+
+---
+
 
 ### Jul 22 — Market-Open (Week 14, Wednesday — Day 38)
 **Portfolio:** $95,086.58 | **Cash:** $95,086.58 (100%) | **Long MV:** $0 | **Phase P&L:** −$4,913.42 (−4.91%) | **Daytrade count:** 0
