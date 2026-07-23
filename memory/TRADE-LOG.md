@@ -3006,3 +3006,43 @@ No positions yet. Bot launches tomorrow (2026-04-28).
 - AMD closed Jul 13 at $534.39 (Type 3 SMA20 setup valid pre-market). Opened at ~$562 (+5.2% gap) — already 6% above SMA20 ($530.95). No longer a valid Type 3 pullback entry. Buying into a 5.2% gap would be chasing with unfavorable R:R and undefined setup type. Skipped.
 
 **Week 13 entries: 2/7 floor** (TQQQ + NVDA). Need 5 more by Friday Jul 17.
+
+---
+
+### Jul 15 — META Entry (Week 13, Wednesday — Post-Challenge Day 33)
+- **META** — 28 shares @ $675.36 (market buy, filled ~1:09 PM ET). Stop GTC placed at $641.59 (5.0% from entry, fixed). Setup type not logged by routine. Risk: ~$948 (0.97% of equity). Week 13 entries: 3/7 floor.
+
+| Field | Value |
+|-------|-------|
+| Date | 2026-07-15 |
+| Ticker | META |
+| Side | BUY |
+| Shares | 28 |
+| Entry | $675.36 |
+| Stop | $641.59 (fixed GTC) |
+
+---
+
+### Jul 16 — TQQQ Exit (Week 13, Thursday — Post-Challenge Day 34)
+- **TQQQ** — 400 shares @ $74.94 avg. GTC stop `a1cc07e1` ($68.94) CANCELED at 1:04 PM ET; market SELL 400 @ $71.378625 filled at 1:04 PM ET. Realized P&L: **−$1,424.55 (−4.75%)**. Exit 2 trading days after entry — likely routine-triggered (QQQ SMA50 close below or intraday weakness; routine gap prevents definitive classification). TQQQ leveraged ETF slot freed.
+
+---
+
+### Jul 17 — META Stop-Out (Week 13, Friday — Post-Challenge Day 35)
+- **META** — 28 shares @ $675.36 avg. Fixed stop GTC at $641.59 TRIGGERED at $641.49 (filled 9:36 AM ET). Realized P&L: **−$948.36 (−5.01%)**. Stopped out on Day 2 — gap/break below stop at open. Week 13 closed out: TQQQ −$1,424.55, NVDA pending, META −$948.36.
+
+---
+
+### Jul 20 — NVDA Time Stop Exit (Week 14, Monday — Post-Challenge Day 37)
+- **NVDA** — 40 shares @ $204.2155 avg. GTC stop `8b06edc4` ($193.99) CANCELED at 9:37 AM ET; market SELL 40 @ $207.53 filled at 9:38 AM ET. Realized P&L: **+$132.58 (+1.62%)**. Time stop Day 5/5 from Jul 14 entry — clean rule-based exit. Only winner from Jul 14 cluster.
+
+---
+
+### Jul 23 — EOD Snapshot (Post-Challenge Day 39, Week 15 Thursday)
+**Portfolio:** $95,086.58 | **Cash:** $95,086.58 (100%) | **Day P&L:** ~$0.00 (all-cash, no intraday activity) | **Phase P&L:** −$4,913.42 (−4.91%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| — | — | — | — | — | — | — |
+
+**Notes:** Fully flat at close. All Jul 14 cluster positions resolved: TQQQ stopped/exited Jul 16 (−$1,425), META stopped Jul 17 (−$948), NVDA time-stop exited Jul 20 (+$133). Net from Jul 14 cluster: −$2,240. Account all-cash since Jul 20. No trades Jul 21–23 (Week 15 so far: 0/7 floor — ⚠ critical deficit; need 7 entries in 2 remaining trading days Jul 24–25 or accept floor miss). Phase P&L: −$4,913.42 (−4.91% vs $100K start). API last_equity returned "0" (all-cash account, balance_asof 2026-07-21) — Day P&L calculated as ~$0 (cash unchanged). Unlogged exits backfilled above: META entry Jul 15, TQQQ exit Jul 16, META stop Jul 17, NVDA time-stop Jul 20.
