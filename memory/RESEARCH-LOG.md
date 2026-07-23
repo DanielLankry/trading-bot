@@ -108,6 +108,119 @@ Format each entry:
 
 ---
 
+## 2026-07-23 — Pre-Market Research (Post-Challenge Week 14, Thursday)
+
+### Account Snapshot (Live, Pre-Market)
+| Field | Value |
+|-------|-------|
+| Equity | $95,086.58 |
+| Cash | $95,086.58 (100%) |
+| Buying Power | $95,086.58 |
+| Long Market Value | $0 |
+| Positions | 0/4 — fully flat |
+| Open orders | 0 |
+| Daytrade count | 0 |
+| Phase P&L | −$4,913.42 (−4.91% vs $100K start) |
+
+### Market Context
+| Indicator | Value | Signal |
+|-----------|-------|--------|
+| WTI crude | $88.54 (+3.85% today) | 🔴 Iran tensions; major daily spike |
+| Brent crude | $98.49 (+$3.02 vs yesterday 6:15 AM ET) | 🔴 Geopolitical bid holding |
+| S&P 500 futures | −0.40% (~7,510) | 🔴 Risk-off open |
+| Nasdaq 100 futures | −0.46% (~29,045) | 🔴 Tech under pressure from GOOGL capex |
+| VIX | 17.44 (open 17.67, prev close 16.64) | ✓ Below 25 — full sizing permitted |
+| QQQ | ~$702–705 pre-market; SMA50 $719 | 🔴 RESTRICTED MODE — ~$15 below SMA50 |
+| SPY | ~$744 pre-market; SMA50 ~$745–749 | ⚠ Borderline at/below SMA50 zone |
+| Macro filter | **RESTRICTED** — QQQ firmly below SMA50. Type 1 + Type 3 ONLY | No Type 2/4/5 |
+
+**⚠ FOMC decision today at 14:00 ET** — hold expected; commentary on Sep cut odds is the vol trigger. Pre-FOMC drift will suppress setups until ~14:30.
+
+### Key Catalysts Today
+- **GOOGL (reported AMC Jul 22):** Revenue $119.8B (+24% YoY, beat); EPS $9.11 (boosted by equity gains; core ops ~$2.85 miss vs $2.89 est). **Capex raised to $195–205B 2026** (vs $180–190B prior guide) with "significant 2027 increase" signaled → AI spending concern outweighs revenue beat. GOOGL −3.3% pre-market to ~$330.
+- **FOMC statement 14:00 ET** — hold; watching tone on Sep cut odds. Oil at $88 = inflation concern, could turn hawkish → VIX risk.
+- **TSLA earnings AMC** — binary event, no position, no entry.
+- **INTC earnings AMC** — not in universe; AI/data-center commentary reads through to NVDA/AMD.
+- **Oil +3.85% WTI:** Iran strike continuation; inflates CPI expectations.
+- **Jobless claims 8:30 AM ET** — only notable US economic release today.
+- GDP Q2 Advance: July 30. CPI: July 14 (done). PCE: July 30.
+- Earnings BMO (not in universe): TMO, TMUS, CMCSA, BX, HON, RTX, LMT.
+
+### Sector Momentum YTD 2026
+| Sector | YTD | Trend |
+|--------|-----|-------|
+| Energy | +27–30% | Leading — oil spike adds |
+| Information Technology | +17–32% | Volatile — GOOGL capex concern today |
+| Industrials | +13–21% | Steady |
+| Financials | −4 to −7% | Laggard |
+
+### Universe Scan — Type 1 & Type 3 Only (Restricted Mode)
+
+**AMZN — Type 3 conditional (ONLY CANDIDATE)**
+- Jul 22 close ~$244–247; SMA50 ~$250–251 (BELOW SMA50)
+- SMA20 ~$243–244 → AMZN has pulled to SMA20 zone
+- Pre-market Nasdaq −0.46% → AMZN likely opens ~$243, right at SMA20
+- Entry gate: open at SMA20, confirmed hold + bounce first 30 min on volume
+- Stop: fixed GTC ~$239–240 (below SMA20)
+- Target: SMA50 reclaim ($250–251) = +3–4%; R:R ~1.5:1
+- ⚠ EARNINGS Jul 30 AMC = 5 trading days → **HALF SIZE mandatory**
+- ⚠ FOMC 14:00 ET: pre-FOMC entry carries binary risk; wait for post-FOMC clarity before triggering
+- Status: CONDITIONAL / HALF SIZE ONLY
+
+**META — watchlist only**
+- Earnings Jul 29 AMC (6 days out today; drops to 5-day window by tomorrow)
+- SMA50 structure unclear in risk-off tape
+- Status: reassess pre-market Jul 24
+
+**NVDA / AMD / AVGO / MRVL** — Type 4/2 blocked. No Type 1/3 SMA setups confirmed; all pulling lower.
+
+**PLTR / CRWD / NET / SHOP** — growth names down with tape; no Type 1/3 bounce.
+
+**TSLA / INTC** — earnings AMC today: NO TRADE.
+
+**TQQQ / SOXL / SPXL** — BLOCKED: restricted mode.
+
+### Risk Factors
+- FOMC 14:00 ET: hawkish oil-inflation tone could spike VIX, invalidate any open position
+- WTI $88.54: sustained spike pressures Fed optionality, limits dovish pivot
+- GOOGL capex $195–205B: AI spending concern dragging tech multiples broadly
+- TSLA AMC: miss would dump tech into close
+- QQQ SMA50 reclaim ($719) requires +2.5% from $702 → unlikely today; restricted mode likely persists through Friday
+- Week 14 floor: 0/7 entries with 2 sessions left (today + Jul 24)
+
+### Trade Ideas
+
+**1. AMZN — Type 3 SMA20 bounce, half size (conditional)**
+- Entry: $243–244 (SMA20 zone), first 30 min confirmation + volume
+- Stop: fixed GTC ~$239–240
+- Target: $250–251 (SMA50 reclaim); R:R ~1.5:1
+- Risk: ~1.5–2% capital ($1,400–$1,900 max loss at half size)
+- Catalyst: AWS AI capex tailwind; SMA20 structural support; FOMC neutral scenario
+- Disqualifiers: FOMC hawkish; AMZN breaks SMA20 at open; Nasdaq accelerates lower
+
+**2. FOMC-triggered mode unlock (watch only)**
+- If FOMC neutral/dovish + QQQ gaps to $719+ → full mode intraday
+- Pre-FOMC: no leveraged ETF or probes. Post-14:30: reassess for TQQQ Type 5 if QQQ ≥ $719
+- Very low probability given oil at $88
+
+**3. META — Type 3 (tomorrow, not today)**
+- Half-size entry if SMA pullback confirms at open Jul 24
+- Skip today; reassess pre-market Friday
+
+### Decision: NO-TRADE-DAY ✗
+
+**Rule A (zero confirmed setups) + FOMC event risk:**
+- QQQ restricted (−$15 below SMA50) → only Type 1/3 active
+- AMZN is only candidate: at SMA20 zone but FOMC binary risk + 5-day earnings proximity + risk-off tape; SMA20 bounce unconfirmed
+- No other universe name qualifies for Type 1/3 today
+- Entering before FOMC 14:00 ET on an oil-inflation day with QQQ below SMA50 violates risk discipline
+
+**Conditional upgrade:** If AMZN opens at $243–244, holds SMA20 through first 15 min on volume, AND post-FOMC (14:30+) tone is neutral → market-open execution routine may enter AMZN half size with stop below SMA20. Not a pre-market commitment.
+
+**Week 14 floor flag:** 0/7 entries with 2 sessions remaining. Restricted mode + FOMC event risk are valid Rule A justifications for today. Tomorrow (Jul 24) must produce 1–2 entries OR a valid Rule A/B NO-TRADE-DAY note. Flag in Friday weekly review.
+
+---
+
 ## 2026-07-21 — Pre-Market Research (Post-Challenge Week 14, Monday)
 
 ### Account Snapshot (Live, Pre-Market)
