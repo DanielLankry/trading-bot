@@ -2,6 +2,49 @@
 
 ---
 
+### Jul 24 — Market-Open (Week 14, Friday — Day 40)
+**Portfolio:** $95,086.58 | **Cash:** $95,086.58 (100%) | **Long MV:** $0 | **Phase P&L:** −$4,913.42 (−4.91%) | **Daytrade count:** 0
+
+**Trades fired:** NONE
+
+**NO-TRADE-DAY — Rule A (macro restricted + no confirmed Type 1/3 setups)**
+
+| Reason | Detail |
+|--------|--------|
+| Macro RESTRICTED | QQQ live $692.23 (bid $692.23 / ask $692.30) vs SMA50 ~$731.34 (Investing.com Jul 22) → −5.3% below SMA50. Deeper than yesterday ($696). Only Type 1+3 active. |
+| Pre-market research error | Pre-market log estimated QQQ at ~$753 (FULL MODE). Actual QQQ at open $692 → corrected to RESTRICTED. Pre-market estimate was based on stale/incorrect QQQ data. |
+| TQQQ — BLOCKED | Type 5 blocked — QQQ below SMA50. Gate: QQQ must be above SMA50 ($731+). Current: $692 (−5.6% needed for recovery). |
+| AMZN — entry gate fails | Live $233.45–$233.81. SMA50 ~$249–252 → AMZN 6.4% below SMA50, not at pullback-to-SMA level. No valid Type 3 setup. |
+| NVDA — BLOCKED | Type 4 blocked (macro restricted). Type 1/3 possible only if SMA150/200 confirmed above — but SMA structure unconfirmed per prior logs (Jul 7 SMA150 breach; unverified recovery through Jul 20–23). Cannot enter without Perplexity-confirmed SMA position. |
+| AMD — spread fails | Bid $530 / ask $543.38 → spread 2.47% ❌ (gate requires ≤1.5%). Even if spread compressed, SMA150 structure unconfirmed. |
+| META — disqualified | Death cross (SMA50 < SMA200); price below SMA200 — confirmed Jul 23. Earnings Jul 29 AMC (5 days → half size, but still disqualified on structure). |
+| GOOGL — AI capex selloff | Down ~4–5% AH Jul 23 on capex surge ($100B+ AI spend → margin pressure). Sympathy selling pressure on entire AI sector today. SMA structure not checked — environment hostile. |
+| Types 2/4/5 blocked | Macro restricted (QQQ < SMA50 $731). |
+
+**Open positions:** NONE
+**Probe cap:** 0/2 | **ETF slot:** 0/1 (blocked — macro restricted) | **Single-name slots:** 4/4 open
+**Trades this week (Week 14):** 0 new entries (Day 5 of 5 — final day). Floor: 0/7. ⚠ WEEK 14 FLOOR MISS CONFIRMED — fifth consecutive NO-TRADE-DAY.
+
+⚠ **Week 14 floor miss diagnosis (for weekly review):**
+- Mon Jul 20: RESTRICTED + no Type 1/3 setups (NVDA time stop executed)
+- Tue Jul 21: RESTRICTED + mega-cap earnings binary risk
+- Wed Jul 22: RESTRICTED + GOOGL/TSLA earnings AMC binary
+- Thu Jul 23: RESTRICTED + FOMC 14:00 ET binary
+- Fri Jul 24: RESTRICTED + GOOGL AI capex selloff + no qualified Type 1/3 setups
+- QQQ has been below SMA50 all week (Jul 20–24). RESTRICTED mode throughout blocks Types 2/4/5. No Type 1/3 setups cleared gates in universe. Rule A (A) valid for all 5 days.
+- Valid NO-TRADE-DAY per Rule A(A): zero universe tickers qualify for any setup type.
+
+⚠ **Watch next week (Week 15, Mon Jul 28):**
+- QQQ must reclaim $731+ for Types 2/4/5 to reactivate (needs +5.6% from $692)
+- META earnings Jul 29 AMC — binary event; any entry before requires half size
+- AMZN earnings Jul 30 AMC — 7 trading days out; full size OK if structure qualifies
+- NVDA SMA150/200 structure must be Perplexity-confirmed before any entry
+- MSFT: earnings window passed (was Jul 23); check SMA structure next week
+- GOOGL: post-earnings pressure; assess SMA structure recovery next week
+- If QQQ remains below SMA50: only Type 1+3 active; run full universe scan for any SMA150/200 pullback names
+
+---
+
 ### Jul 23 — Market-Open (Week 14, Thursday — Day 39)
 **Portfolio:** $95,086.58 | **Cash:** $95,086.58 (100%) | **Long MV:** $0 | **Phase P&L:** −$4,913.42 (−4.91%) | **Daytrade count:** 0
 
