@@ -776,3 +776,73 @@ Template for each entry:
 
 ### Overall Grade: C+
 > Rationale: Process compliance clean all 5 sessions — NVDA stop honored without override, FOMC discipline applied, CRWD thesis verified midday, spread gates enforced throughout. CRWD entry on Day 9 post-split was well-researched (analyst stack MS $230/UBS $235, ARR +26% YoY, cybersecurity AI thesis confirmed). Sprint closed with no rule violations. Penalties: (1) 9th consecutive floor miss (1/7) — structurally limited to 2 viable entry days by FOMC block + 8-day spread paralysis, but still a process failure pattern; (2) −0.95% relative underperformance vs S&P; (3) sprint ended at −2.41% phase P&L; (4) CRWD enters next week at −3.35% unrealized with a 1.71% stop buffer, requiring recovery by Jul 16 time stop. Grade C+ not C because the structural constraints this week (FOMC + post-split paralysis) were more severe than prior floor misses, and the CRWD entry + thesis management were executed correctly.
+
+---
+
+## Week ending 2026-07-24
+
+### Stats
+| Metric | Value |
+|--------|-------|
+| Starting portfolio | $94,876.62 (Week 13 close, Jul 17) |
+| Ending portfolio | $95,086.58 (Jul 24 EOD) |
+| Week return | +$209.96 (+0.22%) |
+| S&P 500 week | ~−0.7% est. (SPX entered Friday down ~0.7% per Investopedia Jul 24; Nasdaq −1.5%, Dow −0.8%) |
+| Bot vs S&P | **+0.92%** (outperformed in a down week — 2nd positive relative week since Week 5) |
+| Trades | 1 (W:1 / L:0 / open:0) — NVDA time stop exit Jul 20; 0 new entries |
+| New entries (weekly floor) | 0 ⚠ (vs 7-entry floor — **11th consecutive miss**; QQQ below SMA50 all 5 sessions → macro restricted throughout) |
+| Win rate | 100% (1 of 1 closed) |
+| Best trade | NVDA +$132.58 (+1.62%) — time stop Jul 20 |
+| Worst trade | N/A (no losses) |
+| Profit factor | N/A (no losses this week) |
+| Phase P&L | −$4,913.42 (−4.91%) vs $100K start |
+
+> **Week 14 (post-challenge, Jul 20–24).** Single trade: NVDA Type 4 time stop executed correctly at market open Jul 20 (Day 5/5), +$132.58 realized. All 5 sessions produced valid NO-TRADE-DAY declarations under Rule A(A) — QQQ held 2–5.6% below SMA50 ($719–731) the entire week; macro restricted mode blocked Types 2/4/5; no qualifying Type 1/3 setups in the universe (NVDA SMA structure unconfirmed, AMZN below SMA50, META death cross/below SMA200, AMD spread fails or extended, GOOGL AI-capex selloff). Second consecutive positive relative performance week — bot preserved capital (+0.22%) while S&P fell ~−0.7%.
+
+### Closed Trades
+| Ticker | Entry | Exit | P&L | Notes |
+|--------|-------|------|-----|-------|
+| NVDA (40sh) | $204.2155 (Jul 14) | $207.53 (Jul 20) | +$132.58 | Type 4 time stop Day 5/5; MOC placed at market open Jul 20; +1.62% in 5 trading days; GTC `8b06edc4` canceled and market sell `11e3a5bc` filled |
+
+**Total realized this week: +$132.58**
+
+### Open Positions at Week End
+| Ticker | Entry | Close | Unrealized | Stop |
+|--------|-------|-------|------------|------|
+| — | — | — | — | — |
+
+**100% cash: $95,086.58**
+
+### What Worked
+- **NVDA time stop executed correctly — no repeat of Week 8 lapse:** Day 5/5 = Jul 21; MOC placed at Jul 20 market open. Filled $207.53 vs. entry $204.22 → +$132.58 (+1.62%). Time stop rule applied exactly as written (explicit MOC, not relying on GTC). The Week 8 lapse lesson was operationally absorbed.
+- **All 5 NO-TRADE-DAY calls were valid Rule A(A):** QQQ documented below SMA50 every session (Jul 20: −3.3%; Jul 21: −2.5–3%; Jul 22: −2.0%; Jul 23: −3.2%; Jul 24: −5.3%); Types 2/4/5 correctly blocked; full universe scans run each day; zero qualified Type 1/3 setups. Rule A(A) satisfied — not discretionary avoidance.
+- **Macro restricted mode correctly prevented adding risk into deepening selloff:** GOOGL capex miss Jul 22 AH; FOMC Jul 23; GOOGL AI capex impact Jul 24 — all potential entry catalysts but macro filter was correctly prioritized. Cash preserved as market deteriorated.
+- **Second consecutive week of positive relative performance:** Bot +0.22% vs S&P ~−0.7% = +0.92% relative outperformance. The stop system and cash positioning delivered two consecutive outperformance weeks (Week 8 was the last; now repeated in a down-market environment).
+- **Phase P&L improvement:** −5.12% (Week 13 end) → −4.91% (Week 14 end) = +0.21% improvement driven entirely by NVDA time stop captured gain.
+
+### What Didn't Work
+- **11th consecutive weekly floor miss (0/7):** Complete shutout — zero new entries Mon–Fri. Valid Rule A(A) reasons for all 5 sessions, but the systemic pattern of 0 entries per week in restricted macro environments is now chronic. 11 weeks at 0–4 entries vs. the 7-entry floor.
+- **QQQ deepened to 5.6% below SMA50 by week end (Jul 24: $692.23 vs. $731.34):** The macro environment worsened throughout the week; QQQ needs +5.6% recovery to reactivate Types 2/4/5. At this depth, even Type 1/3 opportunities disappear as the entire high-beta universe (NVDA, AMD, META, GOOGL) falls below SMA150/200.
+- **Pre-market research error Jul 24:** Pre-market log estimated QQQ ~$753 (full mode) — actual QQQ at open $692 → 8%+ estimation error; corrected after seeing live Alpaca quotes. Stale/incorrect QQQ data caused an inaccurate macro state pre-assessment. This must not recur.
+- **Zero capital deployed for 7th consecutive session (Jul 17–24):** Last new entry was META on Jul 15 (stopped Jul 17). Eleven sessions of zero new entries since. Phase P&L −4.91% with 100% cash — recovery requires deploying capital in qualified setups, not pure capital preservation.
+- **GOOGL AI capex selloff Jul 24 created a hostile environment for AI names:** $92B FY26 capex guidance → margin pressure fears → broad AI sector selling. NVDA SMA structure still unconfirmed post-Jul 7 SMA150 breach. The AI-capex overhang may persist into next week.
+
+### Key Lessons
+- **Macro restricted mode with QQQ 5%+ below SMA50 is structurally a zero-entry zone:** When QQQ is this far below SMA50, the entire high-beta universe (the strategy's primary hunting ground) falls below its own SMA150/200 thresholds simultaneously. Type 1/3 requires stocks ABOVE SMA150/200, which is structurally rare when QQQ is 5%+ below its SMA50. The floor rule's Rule A(A) correctly handles this — the floor is NOT violated when zero universe names qualify. But the pattern also signals to scan non-tech sectors (XLE, XLF, healthcare) for names that may still hold above SMA150/200 during tech selloffs.
+- **Pre-market QQQ SMA50 check must use live Alpaca quote, not estimated/recalled values:** The Jul 24 pre-market error (estimated $753 vs. actual $692 = 8% error) is a critical process failure. SMA50 comparisons must start with a live Alpaca quote (`bash scripts/alpaca.sh quote QQQ`) at the top of every pre-market routine. Never use a remembered or estimated QQQ level — it determines the entire setup type menu for the day.
+- **Time stop operational improvement is locked in:** Week 8 lapse (NVDA time stop missed, exposed to FOMC weekend risk) → Week 14 execution (NVDA time stop placed at market open Day 5/5, filled correctly, +$132.58). The fix worked. One lesson converted to operational habit.
+- **Second consecutive positive relative week confirms the stop/cash system's defensive value:** When the market falls 0.7–2.5% in a week, 100% cash outperforms by design. The strategy's trailing/fixed stops and macro-triggered cash mode are functioning correctly as the protective layer. This is the correct posture when no qualified setups exist — the system is working, not failing.
+- **Post-earnings capex-surge signals are macro headwinds for the entire AI/tech sector:** GOOGL $92B FY26 capex raised → margin pressure narrative. TSLA EPS miss Jul 22. These catalysts suppressed the entire universe of AI/tech names that the strategy scans. When two+ mega-cap AI names miss on margins in the same week, expect the restricted environment to persist 1–2 additional sessions post-earnings as repricing completes.
+
+### Adjustments for Next Week (Jul 28 – Aug 1)
+- **QQQ recovery check (Priority 0 — pre-market Monday Jul 28):** Live Alpaca quote (`bash scripts/alpaca.sh quote QQQ`) first action every morning. Compare to SMA50 consensus (~$719–731). If QQQ > SMA50 → standard mode: all 5 types active. If still below SMA50 → restricted.
+- **Expand scan to non-tech sectors when macro is restricted:** AAPL (consumer tech, post-WWDC, check SMA150/200), AMZN (cloud/retail, check SMA50 reclaim at ~$249–252), XLE energy names (oil macro tailwind), healthcare leaders (JNJ/UNH) — any name above its own SMA150/200 qualifies for Type 1/3 regardless of sector. This is not a new rule; it is the existing rule applied more broadly.
+- **META earnings Jul 29 AMC (critical binary):** META Jul 29 earnings = binary event. If entering META pre-earnings (any Type): half size + stop at SMA200. Post-earnings: if gap-up confirms AI thesis + SMA200 hold → re-assess full-size entry. Do NOT enter full-size pre-earnings.
+- **AMZN earnings Jul 30 AMC:** 7 trading days out from Jul 24 = full size OK per T-5 rule. Check SMA50 status pre-market Jul 28 — if AMZN at/above SMA50 (~$249) with spread ≤1.5% → Type 3 candidate.
+- **NVDA SMA150/200 Perplexity verify (Priority 2):** Last confirmed SMA150 breach was Jul 7 (~$191–193). Need fresh Perplexity query: "Is NVDA currently above its 150-day and 200-day SMAs?" If confirmed above SMA150 → Type 1 or Type 3 eligible. If still below → disqualified.
+- **AMD (Priority 3):** SMA20 pullback zone (~$531–545); spread ≤1.5% required; confirm SMA150/200 above via Perplexity before entering any type.
+- **Pre-market QQQ quote is now MANDATORY first step:** Never estimate QQQ level — pull live Alpaca quote. Classify mode (full/restricted/cash). Then scan universe per active setup types. This is an operational rule, not advisory.
+- **Weekly floor Jul 28 – Aug 1:** With 100% cash and 4 open slots, all 5 setup types potentially active (pending QQQ recovery). Must hit 7 new entries. Earnings-week earnings (META Jul 29, AMZN Jul 30) create binary risk — plan entries for Mon/Tue pre-earnings (if setups clear gates) and post-earnings window Wed–Fri.
+
+### Overall Grade: B−
+> Rationale: Second consecutive week of positive relative performance — +0.22% vs S&P ~−0.7% = +0.92% outperformance; defensive positioning in a down market is the correct application of the strategy. NVDA time stop executed cleanly on Day 5/5, converting the Week 8 operational lapse into a confirmed habit. All 5 NO-TRADE-DAY calls were valid Rule A(A) with documented universe scans — not discretionary avoidance. Phase P&L improved from −5.12% to −4.91%. Penalties: (1) 11th consecutive floor miss (0/7) — systemic pattern requires next week's environment to change; (2) pre-market QQQ estimation error Jul 24 (estimated $753 vs. actual $692) — critical process lapse that must not recur; (3) zero new capital deployed in 11 consecutive sessions; (4) phase P&L −4.91% requires meaningful deployment to reverse. Grade B− not C because the process worked correctly for the environment given — macro filter, stop execution, and cash preservation all functioned as designed. The floor miss is Rule A(A) compliant, not a rule violation. Next week's grade depends on whether the macro environment recovers and entries are deployed.
