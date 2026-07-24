@@ -5301,3 +5301,106 @@ None.
 
 - Week 14: 0/7. Rotation or entry needed today to stay on pace.
 - Tomorrow: re-check QQQ vs SMA50. If reclaimed → full mode unlocks TQQQ + NVDA/AVGO probe.
+
+---
+
+## 2026-07-24 — Pre-Market Research (Week 15, Friday — Post-Challenge Day 40)
+
+### Account Snapshot
+| Field | Value |
+|-------|-------|
+| Equity | $95,086.58 |
+| Cash | $95,086.58 (100%) |
+| Buying Power | $380,346.32 (4×) |
+| Long Market Value | $0 |
+| Positions | 0 (fully flat) |
+| Day Trade Count | 0 |
+| Phase P&L | −$4,913.42 (−4.91% vs $100K start) |
+
+Balance_asof: 2026-07-23. All Jul 14 cluster exits resolved (TQQQ −$1,425 Jul 16, META −$948 Jul 17, NVDA +$133 Jul 20). Account all-cash since Jul 20.
+
+### Market Context
+
+**Macro filter:**
+- S&P 500 futures: +0.35% at ~7,524 — recovery after prior session sharp decline
+- Nasdaq futures: +0.76% — partial bounce after NASDAQ −2.15% Wed (GOOGL capex selloff)
+- QQQ 50-day SMA: ~$711–721 range (Barchart Jul 22: $711.66; AltIndex Jul 23: $721.30). QQQ was trading ~$770 on Jul 22 (+8.9% above SMA50) → after −2.15% NASDAQ drop Jul 23, QQQ estimated at ~$753. **Still above SMA50 → FULL MODE (all 5 setup types active)**
+- SPY: Above SMA50 (confirmed from prior sessions; futures +0.35% today)
+- VIX: ~16.64 (−2.40% from prior close). Well below 25 → full sizing applies. Below 30 → leveraged ETF permitted.
+- **Macro filter: FULL MODE** — all 5 setup types active.
+
+**Oil & Commodities:**
+- WTI: ~$68–72/bbl (best estimate: ~$70, down from $76–80 range earlier in July)
+- Brent: ~$72–79/bbl
+- Oil declining from prior highs — benign for inflation, mild headwind for energy sector
+
+**Today's economic releases:**
+- US Preliminary Manufacturing PMI + Services PMI (~9:45 AM ET) — market-moving if miss
+- New Home Sales (10:00 AM ET)
+- No CPI / PPI / FOMC / Jobs / GDP today (next CPI: Aug 12)
+- Russia Central Bank rate decision (pre-market, non-US)
+
+**Earnings BMO today (not in our universe):**
+- AXP (American Express), VZ (Verizon), HCA Healthcare, Rivian (RIVN, during hours)
+
+**Earnings watchlist (our universe):**
+- GOOGL: Reported Wed Jul 23 AMC — beat Q2 (EPS $9.11 vs $2.88 consensus, rev $119.8B vs $116.5B est, +24% YoY) but stock fell ~4–5% AH on capex surge ($100B+ AI infra spend → margin pressure). GOOGL opening lower today.
+- META: Jul 29 AMC (5 trading days: Jul 24, 25, 28, 29 = 4 days out → **within 5-day window → half size or skip META entries today**)
+- AMZN: Jul 30 AMC (6 trading days out → full size OK today)
+- MSFT: ~Jul 28–30 range
+
+**Sector momentum (YTD 2026, mid-July estimate):**
+- Energy: +21–26% (leader, geopolitical bid)
+- Technology: +23.5% through May/Jun; cooling in July on AI capex rotation fears
+- Financials: −5 to −7% (laggard)
+- Industrials/Materials: mid-double-digit YTD leaders
+
+**Key catalysts today:**
+1. **GOOGL capex reaction** — AI stocks may face sympathy selling (NVDA, MSFT, AMD, AVGO) as investors question ROI on massive AI spend. Rotation risk from growth to value.
+2. **AXP BMO earnings** — consumer/financial read-through; if strong, supports risk-on.
+3. **US PMIs (9:45 AM ET)** — miss would compound tech weakness; beat could support recovery.
+
+### Trade Ideas
+
+**1. TQQQ — Type 5 (Leveraged ETF Core) | HIGH PRIORITY**
+- Thesis: QQQ above SMA50 (~$720–730). Yesterday's −2.15% NASDAQ decline = short pullback within intact uptrend. Futures +0.76% signal bounce. AI capex fears are GOOGL-specific, not systemic. QQQ has rebounded from SMA50 test twice since Jul 14.
+- Entry trigger: QQQ stable above SMA50 in first 15 min (9:30–9:45 AM ET). Do NOT enter if QQQ opens below $721 or immediately rolls over.
+- Shares: ~400–500 TQQQ (~$80 est price → $32–40K, 34–42% of capital)
+- Stop: TQQQ intraday −8% from entry (whipsaw guard) OR QQQ daily close below SMA50
+- Target: $90+ (prior high zone)
+- Risk: 4–5% of capital per Type 5 rules (~$3,800–4,750 max loss)
+- ⚠ Gate: Verify QQQ live quote at open vs. SMA50 before entry. If QQQ < SMA50 → Type 5 blocked, pivot to restricted mode.
+
+**2. AMZN — Type 3 (SMA 50 Pullback Bounce) | WATCH**
+- Thesis: AMZN was at SMA50 boundary (~$249–252) all last week. After yesterday's Nasdaq selloff, AMZN likely pulled back further toward SMA50. AWS AI tailwind (spending = revenue driver for AMZN, not cost center). Earnings Jul 30 AMC = 6 days out → full size permitted.
+- Entry trigger: AMZN opens at or above SMA50 (~$249–252 range) and holds in first 15 min
+- Shares: Size to risk 3–4% of capital ($2,853–$3,803) with stop at SMA50 close basis (~$246)
+- Stop: GTC fixed slightly below SMA50 (~$246–247)
+- Target: $270+ (AWS rerating catalyst into earnings)
+- ⚠ Gate: Need live AMZN quote at open. If AMZN already below SMA50 → skip (gap-below-SMA is not a Type 3 entry).
+
+**3. NVDA — Type 4 (Momentum Probe, Half Size) | CONDITIONAL**
+- Thesis: NVDA structural uptrend intact (H20 China licenses, GPU demand). Short-term sympathy weakness from GOOGL capex narrative may create re-entry near SMA50.
+- Entry trigger: Only if NVDA holds above SMA50 at open (no falling-knife entries). Check live SMA50 level.
+- Size: HALF size per Type 4 rules (~$5K position, risk 1.5–2%)
+- Stop: 5% below entry (fixed GTC)
+- Time stop: EOD Day 5 from entry (MOC mandatory per strategy rule)
+- ⚠ Risk: NVDA may face heavy AI capex sympathy selloff today. Do not chase if dropping at open. Wait for stabilization.
+- ⚠ Sector constraint: If TQQQ is already entered, a second semiconductor-heavy probe (NVDA) doubles semis exposure on a day when semis are under pressure.
+
+### Risk Factors
+1. **AI capex rotation**: GOOGL −5% AH triggers "AI show me the money" narrative; NVDA/AMD/MSFT may sell off in sympathy
+2. **QQQ SMA50 proximity**: QQQ is ~$750 vs. SMA50 $721 (est); a further −4% day (possible if PMIs disappoint) flips to RESTRICTED mode mid-session
+3. **Week 15 floor miss**: 0/7 entries so far in Week 15. Max possible today + tomorrow = 2 (unless multiple same-day entries). Floor miss is locked in — accept it, focus on qualified setups only. Log miss in weekly review.
+4. **META earnings proximity**: META = 4 trading days out → any META trade today = half size or skip
+5. **Oil stability**: WTI ~$70 (benign); not a macro headwind today
+
+### Decision
+**TRADE**
+- Priority 1: TQQQ (Type 5) at open if QQQ confirms above SMA50. Set stop immediately at entry −8% intraday.
+- Priority 2: AMZN (Type 3) if opens at/above SMA50 on volume.
+- Priority 3: NVDA (Type 4, half size) only if TQQQ + AMZN both entered AND NVDA stabilizes above SMA50 (not a falling knife).
+- Max 4 positions total; max 1 leveraged ETF (TQQQ fills that slot).
+- Accept Week 15 floor miss (0/7). Do not force entries to "catch up" — floor forces the scan and trigger, not bad sizing.
+- Floor miss diagnosis for weekly review: restricted mode Jul 20–21, tech selloff Jul 23, NVDA time-stop exit Jul 20 left no carry-over positions to build on.
+
