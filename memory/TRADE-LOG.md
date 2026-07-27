@@ -2,6 +2,39 @@
 
 ---
 
+### Jul 27 — Market-Open (Week 15, Monday — Day 41)
+**Portfolio:** $95,086.58 | **Cash:** $95,086.58 (100%) | **Long MV:** $0 | **Phase P&L:** −$4,913.42 (−4.91%) | **Daytrade count:** 0
+
+**Trades fired:** NONE
+
+**NO-TRADE-DAY — Rule A(A): zero universe tickers qualify for any setup type**
+
+| Reason | Detail |
+|--------|--------|
+| Macro RESTRICTED | QQQ live $691.57 (bid $691.33 / ask $691.81) vs SMA50 ~$731 → −5.3% below. Unchanged from Jul 24 ($692). Only Type 1+3 active despite Iran/oil catalyst. |
+| TQQQ — BLOCKED | Type 5 blocked — QQQ below SMA50. Gate: QQQ must be above SMA50 ($731+). |
+| NVDA — entry gate fails | Live $206.25 (bid $206.21 / ask $206.28). SMA20 ~$210.51 / SMA50 ~$210.04 (Moneycontrol Jul 24) → NVDA BELOW both SMA20 and SMA50. Not a pullback-to-SMA bounce — price has broken through. No Type 3 entry. Type 4 blocked (macro restricted). |
+| AMD — spread fails | Bid $521.58 / ask $546 → spread 4.57% ❌ (gate requires ≤1.5%). Recurring gate failure. |
+| META — disqualified | Death cross (SMA50 < SMA200) intact. Earnings AMC Jul 29 (2 trading days) → binary event. SKIP. |
+| AMZN — low priority/skip | Earnings AMC Jul 30 (3 days → half size only). SMA50 ambiguous; price likely below SMA50. No clean Type 3 setup confirmed. |
+| FOMC binary risk | FOMC rate decision AMC Wednesday Jul 29 — holding any new position through Wednesday = Fed binary. Additional deterrent for entries today. |
+| Types 2/4/5 blocked | Macro restricted (QQQ < SMA50 $731). |
+
+**Open positions:** NONE
+**Probe cap:** 0/2 | **ETF slot:** 0/1 (blocked — macro restricted) | **Single-name slots:** 4/4 open
+**Trades this week (Week 15):** 0 new entries (Day 1 of 5). Floor: 0/7.
+
+⚠ **Watch rest of week (Week 15):**
+- QQQ must reclaim $731+ for Types 2/4/5 to reactivate (needs +5.8% from $691)
+- FOMC AMC Wednesday Jul 29 — no new long entries Mon/Tue unless very high conviction; hold through Fed is a binary
+- META earnings AMC Jul 29 — SKIP. MSFT earnings AMC Jul 29 — check SMA structure if macro clears
+- AMZN earnings AMC Jul 30 — half size if entering; AAPL AMC Jul 30 — half size
+- NVDA: needs to reclaim SMA20 ($210.51) and SMA50 ($210.04) before any re-entry. Price at $206 is below both. Monitor for recovery.
+- AMD: spread must compress to ≤1.5% for any entry to proceed
+- If QQQ remains below SMA50 all week: only Type 1+3 active; run full universe scan daily for any SMA150/200 pullback-to-SMA with bounce
+
+---
+
 ### Jul 24 — Market-Open (Week 14, Friday — Day 40)
 **Portfolio:** $95,086.58 | **Cash:** $95,086.58 (100%) | **Long MV:** $0 | **Phase P&L:** −$4,913.42 (−4.91%) | **Daytrade count:** 0
 
