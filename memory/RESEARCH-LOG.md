@@ -5545,3 +5545,12 @@ Priority:
 3. If no clean setups materialize → **NO-TRADE-DAY** (Rule A valid: FOMC binary week, earnings stacked Wed–Thu, QQQ SMA50 uncertain).
 4. Do NOT force entries to satisfy weekly floor. FOMC + earnings gauntlet this week = heightened binary risk environment.
 
+### Midday Addendum (Jul 27 ~12:00 ET)
+- **QQQ:** ~$704–712 intraday (open $704.95; range $700.91–$712.26; last ~$711.44) vs SMA50 ~$728–731 — **RESTRICTED (~2.5–3% below SMA50)**. No meaningful recovery toward SMA50 intraday. Pre-market was ~$715 (+0.62%) — early strength faded at open.
+- **VIX:** ~19 (unchanged from pre-market; below 25 → full sizing OK; below 30 → leveraged ETF permitted, but Type 5 blocked by macro restriction regardless).
+- **FOMC:** Wednesday Jul 29 — 2 days out. Market caution visible in muted intraday action; no strong directional move. Holding any new long through Wednesday is a Fed binary.
+- **No new setups emerged intraday.** RESTRICTED mode, zero Type 1/3 candidates cleared gates, Types 2/4/5 blocked. Correct to hold cash.
+- **No cuts / stop adjustments / thesis breaks** — 0 open positions.
+- **Portfolio:** $95,086.58 | 100% cash | 0 positions | 0 orders.
+- **Week 15 status:** 0/7 floor entries (Day 1/5). Wednesday FOMC + META/MSFT earnings binary makes Tue–Wed entries high-risk. Best entry window may be Thu post-FOMC/earnings if macro clears.
+

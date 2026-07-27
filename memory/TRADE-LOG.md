@@ -2,6 +2,41 @@
 
 ---
 
+### Jul 27 — Midday Scan (Week 15, Monday — Day 41)
+**Portfolio:** $95,086.58 | **Cash:** $95,086.58 (100%) | **Long MV:** $0 | **Phase P&L:** −$4,913.42 (−4.91%)
+
+**Cuts (−7% rule):** NONE — 0 positions open.
+**Stop adjustments:** NONE — 0 positions open.
+**Thesis breaks:** NONE — 0 positions open.
+
+**Macro state (midday):**
+- QQQ: ~$704–712 intraday (open $704.95; daily range $700.91–$712.26; Perplexity ~$711.44) vs SMA50 ~$728–731 — **RESTRICTED (~2.5–3% below SMA50)**. No recovery toward SMA50 intraday.
+- VIX: ~19 (below 25 — full sizing permitted, but Types 2/4/5 blocked by macro restriction).
+- FOMC: Wednesday Jul 29 14:00 ET — binary event 2 days out. Market cautious.
+- Status: Macro RESTRICTED → only Type 1 + Type 3 active. Types 2/4/5 remain blocked.
+
+**Universe check (Type 1/3 only):**
+- Same disqualifications as market-open: no qualified Type 1/3 setups in universe.
+- META/MSFT: earnings AMC Wednesday (2 days) — binary. SKIP.
+- AMZN: earnings AMC Thursday (3 days) — half size only; SMA50 structure still unconfirmed above price. LOW PRIORITY.
+- NVDA: SMA structure unconfirmed; pre-market scan noted possible Type 3/4 but no live confirmation this session.
+- AMD: spread history of failure; no intraday setup confirmation.
+
+**No new entries. Holding cash.**
+
+**Open positions:** NONE
+**Probe cap:** 0/2 | **ETF slot:** 0/1 (blocked — macro restricted) | **Single-name slots:** 4/4 open
+**Trades today:** 0 | **Week 15 floor:** 0/7 (Day 1/5)
+
+⚠ **Watch this afternoon / rest of week:**
+- QQQ SMA50 reclaim (~$728–731) → FULL MODE — would unlock Types 2/4/5; TQQQ viable (but FOMC Wednesday makes any new position a binary hold)
+- FOMC Wednesday Jul 29 — no cut expected; guidance/tone = binary. No new longs Mon/Tue unless very high conviction given Wed risk.
+- META/MSFT earnings AMC Wednesday — any position entered today held through these
+- AMZN/AAPL AMC Thursday — further binary stacking
+- If QQQ fails to reclaim SMA50 by Friday: second consecutive week of 0/7 floor (process review required)
+
+---
+
 ### Jul 27 — Market-Open (Week 15, Monday — Day 41)
 **Portfolio:** $95,086.58 | **Cash:** $95,086.58 (100%) | **Long MV:** $0 | **Phase P&L:** −$4,913.42 (−4.91%) | **Daytrade count:** 0
 
