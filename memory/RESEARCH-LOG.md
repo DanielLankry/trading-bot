@@ -5404,3 +5404,144 @@ Balance_asof: 2026-07-23. All Jul 14 cluster exits resolved (TQQQ −$1,425 Jul 
 - Accept Week 15 floor miss (0/7). Do not force entries to "catch up" — floor forces the scan and trigger, not bad sizing.
 - Floor miss diagnosis for weekly review: restricted mode Jul 20–21, tech selloff Jul 23, NVDA time-stop exit Jul 20 left no carry-over positions to build on.
 
+
+---
+
+## 2026-07-27 — Pre-Market Research (Week 15, Monday — Post-Challenge Day 41)
+
+### Account Snapshot
+| Field | Value |
+|-------|-------|
+| Equity | $95,086.58 |
+| Cash | $95,086.58 (100%) |
+| Buying Power | $380,346.32 (4×) |
+| Long Market Value | $0 |
+| Positions | 0 (fully flat) |
+| Open Orders | 0 |
+| Day Trade Count | 0 |
+| Phase P&L | −$4,913.42 (−4.91% vs $100K start) |
+
+Balance_asof: 2026-07-24. Fully flat since NVDA time stop Jul 20. Week 14 ended 0/7 floor entries (fifth consecutive NO-TRADE-DAY; QQQ below SMA50 all week; valid Rule A).
+
+### Market Context
+
+**Macro filter:**
+- QQQ: Last confirmed close ~$692–711 (Jul 24 open $692; Perplexity shows $711–724 latest). SMA50 cited at ~$728–731 (Investing.com Jul 22). **QQQ LIKELY STILL BELOW SMA50 → RESTRICTED MODE** — verify live quote at market open.
+- US-Iran ceasefire/48-hour calm: Oil collapsing sharply today (WTI −8%, Brent −13%) → risk-on equity bid. QQQ may approach SMA50 zone at open.
+- SPY: Above own SMA50 (implied by S&P futures holding elevated levels). If QQQ reclaims SMA50 → FULL MODE.
+- VIX: ~19.31 (Investing.com) — below 25 → full sizing. Below 30 → leveraged ETF permitted.
+- **Active setups: RESTRICTED (Types 1+3 only) unless QQQ confirms above SMA50 at open — then FULL MODE all 5 types.**
+
+**Oil & Commodities:**
+- WTI: ~$83.08 (−8%+ today) | Brent: ~$85.23 (−13%+ today)
+- Driver: US-Iran 48-hour calm/ceasefire hopes; sharp unwind of geopolitical risk premium
+- Benign for inflation but note: energy sector headwind; oil can snap back if Iran deal breaks
+
+**Indices & Futures (pre-market):**
+- S&P 500 futures: ~7,492–7,580 (+0.6–0.9% Sunday eve / Polymarket 93% chance "Up")
+- Nasdaq 100 futures: conflicting (one source −0.62% at ~10:50 PM Sat, another +0.61% Sunday eve)
+- Best estimate: Markets opening higher Monday driven by Iran/oil relief, tech stable
+
+**Key catalysts today (Mon Jul 27):**
+- US Durable Goods Orders June (8:30 AM ET) — moderate market-mover
+- No CPI / FOMC / GDP today
+
+**Earnings BMO today (not in our universe):** No major BMO earnings from our universe.
+
+**Earnings watch — this week (high impact, BINARY EVENTS):**
+| Ticker | When | Days Out | Sizing Rule |
+|--------|------|----------|-------------|
+| META | AMC Wed Jul 29 | 2 days | ⚠ HALF SIZE or SKIP |
+| MSFT | AMC Wed Jul 29 | 2 days | ⚠ HALF SIZE or SKIP |
+| AMZN | AMC Thu Jul 30 | 3 days | ⚠ HALF SIZE |
+| AAPL | AMC Thu Jul 30 | 3 days | HALF SIZE if entering |
+| NVDA | AMC Aug 26 | 21 days | Full size OK |
+| AMD | Late Aug est. | >21 days | Full size OK |
+
+**FOMC Decision: Wednesday Jul 29** — NO cut expected (rates hold). Press conference / forward guidance is the binary. Markets could rally or sell off on tone. Holding positions through Wednesday = Fed risk.
+
+**Economic calendar this week:**
+- Mon Jul 27: Durable Goods Orders (8:30 AM ET)
+- Tue Jul 28: Consumer Confidence, ADP Weekly Employment
+- Wed Jul 29: **FOMC Rate Decision** + MSFT + META earnings AMC ← BIG DAY
+- Thu Jul 30: **Q2 GDP + Core PCE** + Initial Jobless Claims + AMZN + AAPL earnings AMC
+- Fri Jul 31: Eurozone CPI, Chicago PMI, BoJ Decision
+
+**Sector momentum YTD 2026 (mid-July):**
+- Energy: +24–27% (leader; today reversing on Iran calm)
+- Information Technology: +17–24% (recovering; AI narrative dominant)
+- Industrials: +13–14% (mid-tier)
+- Financials: −5 to −7% (laggard)
+- Communication Services: mixed (+2–3% through Jun)
+
+### Universe Scan (Types 1+3 if RESTRICTED; all 5 if FULL MODE)
+
+**NVDA:**
+- Last time-stopped Jul 20 @ $207.53. H20 China license thesis intact.
+- Current price est: ~$210–220 (recovering from Jul selloff). SMA50/150/200 position unconfirmed — need live check.
+- ⚠ Type 3 viable only if: (a) NVDA above SMA150/200 sloping up, (b) price pulled back to SMA20 or SMA50, (c) bounce confirmation. Perplexity SMA check required at open.
+- Type 4 viable only if: FULL MODE (QQQ above SMA50) + NVDA not at SMA zone (momentum continuation). Half size. Time stop Day 5.
+- Earnings: Aug 26 ✓ (no restriction). Risk: AI capex narrative headwind from GOOGL report (capex $100B+); sector may face "show me the money" pressure.
+
+**TQQQ (Type 5):**
+- BLOCKED if RESTRICTED (QQQ below SMA50). 
+- If QQQ reclaims SMA50 at open → TQQQ entry viable. 
+- ⚠ FOMC RISK: Entering TQQQ today = holding through Wednesday Fed decision. If entering, use smaller size (~$20–28K, 300–350sh at ~$80) rather than full $38–40K allocation to manage binary risk.
+- Stop: QQQ daily close below SMA50 OR TQQQ −8% intraday from entry.
+
+**AMZN (Type 3):**
+- Earnings AMC Jul 30 (3 trading days) → HALF SIZE only. Max risk ~1.5–2% if entering.
+- SMA50 has been ambiguous all of last week ($244–252 across sources). Price was $233–236 as of Jul 24 — likely below SMA50.
+- If AMZN opened below SMA50 on Jul 24 and market sold off that day, structure gate likely fails today too.
+- **LOW PRIORITY.** Skip unless live quote confirms at or above SMA50 with clean bounce.
+
+**META (Type 3 or Type 4):**
+- Earnings AMC Jul 29 (2 TRADING DAYS OUT) → ⚠ HALF SIZE. Too close to earnings binary.
+- Death cross (SMA50 < SMA200) confirmed Jul 23. Below SMA200.
+- **SKIP today.** Earnings binary overrides.
+
+**AMD:**
+- Extended above SMA20 throughout last week ($520–552 range).
+- Price has been choppy; spread issues. Check at open if pulled back toward SMA20.
+- Type 3 possible if price at SMA20 with confirmed bounce and spread ≤1.5%.
+
+**CRWD:**
+- Stopped out Jul 13 @ $181.90 (−6.07%). Spread has been wide (4–5%) in recent sessions.
+- Check spread at open. Skip if spread >1.5%.
+
+### Risk Factors
+1. **FOMC Wednesday binary** — entering today = holding through Fed decision (Wed AMC). Use half or reduced size if entering.
+2. **META/MSFT earnings AMC Wednesday** — AI capex narrative binary. Any AI position entered today held through these reports.
+3. **AMZN/AAPL AMC Thursday** — further binary stacking; entire week is a gauntlet.
+4. **QQQ SMA50 proximity** — QQQ at ~$711–724 vs SMA50 ~$728–731; even small weakness could flip to deeper RESTRICTED mode.
+5. **Oil reversal risk** — today's oil collapse driven by geopolitical hopes; Iran deal fragile. Reversal would spike VIX and roll markets.
+6. **Week 15 pace** — 0/7 entries (Day 1 of 5). Floor requires aggressive scanning and triggers, NOT bad sizing. Accept conditional NO-TRADE-DAY if no clean setups materialize.
+
+### Trade Ideas
+
+**Idea 1 — TQQQ (Type 5) | Conditional, FULL MODE only**
+- Entry gate: QQQ stable above SMA50 (~$728–731) first 15 min at open (9:30–9:45 AM ET)
+- Size: 300–350sh (~$24–28K, 25–30% of equity) — reduced from normal $38–40K due to FOMC risk
+- Stop: −8% intraday from entry (whipsaw guard) OR QQQ daily close below SMA50
+- Risk: 4–5% of capital × 75% factor = ~3–3.75% effective risk
+- Time sensitivity: FOMC Wednesday is a stop-check event; reassess hold vs exit by Wed AM
+
+**Idea 2 — NVDA (Type 3 or Type 4) | Conditional**
+- Requires Perplexity SMA check at/before open: "Is NVDA currently above its 150-day and 200-day SMAs? Where is price relative to SMA20 and SMA50?"
+- If RESTRICTED (Type 3): Enter only if NVDA at SMA20/50 zone with bounce confirmation + above SMA150/200
+- If FULL MODE (Type 4): Half-size probe if NVDA trending up with RS strength; 5% stop below entry; time stop Day 5 (Fri Aug 1 EOD)
+- Size: Type 3 → 40sh (~$8–9K, risk 3–4%); Type 4 → 20sh (~$4–4.5K, risk 1.5–2%)
+
+**Idea 3 — AMD (Type 3) | Conditional**
+- Check live: AMD at SMA20 (~$530–540 est)? Spread ≤1.5%?
+- Skip if extended or spread too wide (recurring issue).
+
+### Decision
+**CONDITIONAL — Watch at open (9:30–9:45 AM ET)**
+
+Priority:
+1. Verify QQQ live vs SMA50. If above → FULL MODE → TQQQ (reduced size, FOMC-aware) + scan for single name.
+2. If RESTRICTED → look for NVDA at SMA20/50 zone (Type 3 entry if SMA structure confirmed by Perplexity).
+3. If no clean setups materialize → **NO-TRADE-DAY** (Rule A valid: FOMC binary week, earnings stacked Wed–Thu, QQQ SMA50 uncertain).
+4. Do NOT force entries to satisfy weekly floor. FOMC + earnings gauntlet this week = heightened binary risk environment.
+
