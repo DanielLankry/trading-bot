@@ -2,6 +2,17 @@
 
 ---
 
+### Jul 27 — EOD Snapshot (Week 15, Monday — Day 41)
+**Portfolio:** $95,086.58 | **Cash:** $95,086.58 (100%) | **Day P&L:** $0.00 (0.00%) | **Phase P&L:** −$4,913.42 (−4.91%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| — | — | — | — | — | — | — |
+
+**Notes:** Fully flat at close. All-cash since Jul 20. Macro RESTRICTED: QQQ ~$691–712 intraday vs SMA50 ~$728–731 (3–5% below) — only Type 1+3 active throughout. No qualified setups — NVDA below SMA20/50, AMD spread ≥4.5%, META death cross + earnings AMC Jul 29 binary, AMZN earnings AMC Jul 30. FOMC Wednesday Jul 29 14:00 ET binary adds risk to any new entry Mon/Tue. Types 2/4/5 blocked. Week 15 floor: 0/7 (Day 1/5) — ⚠ second consecutive floor miss underway; aggressive scan required Tue–Fri if macro/FOMC clears. Phase P&L: −$4,913.42 (−4.91% vs $100K start). Trades today: NONE.
+
+---
+
 ### Jul 27 — Midday Scan (Week 15, Monday — Day 41)
 **Portfolio:** $95,086.58 | **Cash:** $95,086.58 (100%) | **Long MV:** $0 | **Phase P&L:** −$4,913.42 (−4.91%)
 
