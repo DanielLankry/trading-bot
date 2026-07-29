@@ -5554,3 +5554,108 @@ Priority:
 - **Portfolio:** $95,086.58 | 100% cash | 0 positions | 0 orders.
 - **Week 15 status:** 0/7 floor entries (Day 1/5). Wednesday FOMC + META/MSFT earnings binary makes Tue–Wed entries high-risk. Best entry window may be Thu post-FOMC/earnings if macro clears.
 
+
+---
+
+## 2026-07-29 — Pre-Market Research (Week 16, Wednesday — Day 2/5)
+
+### Account Snapshot (Live, Pre-Market)
+| Field | Value |
+|-------|-------|
+| Equity | $95,086.58 |
+| Cash | $95,086.58 (100%) |
+| Buying Power | $380,346.32 (4×) |
+| Long Market Value | $0 |
+| Positions | 0/4 — fully flat |
+| Open orders | 0 |
+| Daytrade count | 0 |
+| Phase P&L | −$4,913.42 (−4.91% vs $100K start) |
+
+### Market Context
+| Indicator | Value | Signal |
+|-----------|-------|--------|
+| WTI crude | ~$71–72/bbl (−2–3% from recent highs) | Neutral / mild softening |
+| Brent crude | ~$74–75/bbl | Neutral |
+| S&P 500 futures | +0.23% (+17.5 pts ~7,567) | ⚠ Cautious; pre-FOMC drift |
+| VIX | ~19 (estimated; Investing.com ~19.36) | ✅ Below 25 (full sizing OK); below 30 (ETF permitted by VIX alone) |
+| QQQ | ~$712 (Jul 28 close) vs SMA50 ~$721 | 🔴 **RESTRICTED MODE** — 1.3% below SMA50; Type 1 + Type 3 ONLY |
+| SPY | Est. above SMA50 (S&P futures constructive) | ✅ Green — but QQQ alone triggers restriction |
+| Macro filter | **RESTRICTED** — QQQ below SMA50 ($721), above SMA150/200 (~$645) | No Type 2/4/5 |
+| **FOMC decision** | **TODAY 2:00 PM ET** — Chair Warsh announcement; no SEP/dot plot | 🔴 MAJOR BINARY |
+
+### Key Catalysts Today
+- **FOMC 2:00 PM ET**: Current rate 3.50–3.75% (held since Jan 2026). Consensus = hold (89% CME FedWatch). BUT Chair Warsh has kept market guessing (~26% hike odds per Polymarket). Non-projection meeting. Press conference 2:30 PM ET. Even a hold can whipsaw markets if Warsh sounds hawkish on oil/inflation.
+- **Earnings AMC tonight**: META ($7.20 EPS est / $60.21B rev), MSFT ($4.24 EPS est / $87.62B rev), QCOM, ARM, SBUX, PG. → **THE AI capex read-through event**. META/MSFT commentary on AI spending = direct driver for NVDA, AMD, and QQQ direction tomorrow.
+- **NVDA: Jensen Huang met with Commerce Sec. Lutnick** (Jul 29) re: China AI chip export probe. Geopolitical overhang. NVDA pre-market ~$195–202.
+- **AMD** losing customer to NVDA's Vera AI CPUs (Robinhood newsfeed Jul 28) — confirms NVDA's competitive position.
+- **Oil**: WTI ~$71–72, down from Iran-driven spike peak (~$83–88). Inflation pressure easing slightly but remains above Fed's comfort zone.
+- **No major BMO earnings in universe** — SoFi, Biogen, Garmin BMO (not in universe).
+- **Economic calendar**: No CPI/PPI/NFP today. GDP Q2 Advance on Jul 30. PCE on Jul 30. Today = FOMC only.
+
+### Sector Momentum (YTD 2026 reference)
+| Sector | YTD | Note |
+|--------|-----|------|
+| Energy | +22–26% | Leading — oil bid from geopolitics |
+| Materials | +16–18% | Strong |
+| Consumer Staples | +10–16% | Defensive bid |
+| Industrials | +10–14% | AI capex infrastructure tailwind |
+| Information Technology | Recovering | Lagged most of 2026; AI names bouncing Jun–Jul |
+| Financials | Negative YTD | Laggard |
+
+### Universe Scan — Type 1 & Type 3 Only (Restricted Mode)
+
+| Ticker | Pre-mkt Price | SMA Status | Verdict |
+|--------|--------------|------------|---------|
+| NVDA | ~$202 | Above SMA150/200 ✓ (likely ~$155–175); SMA50 unconfirmed (entry was $204, now ~$202 — borderline SMA50 zone). China probe overhang. Earnings Aug 26 ✓ | ⚠ CONDITIONAL — SMA50 confirmation needed at open; **HOLD pending MSFT/META AMC** |
+| META | ~$603 | Death cross (SMA50 < SMA200); below SMA200 ~$624; earnings AMC tonight | ❌ SKIP — SMA200 disqualifies Type 3; earnings binary |
+| MSFT | — | Earnings AMC tonight | ❌ SKIP — earnings binary |
+| AMZN | ~$236–250 | Earnings AMC Jul 30 (1 trading day) → half size only; SMA50 status unclear | ❌ SKIP — 1-day earnings proximity; too tight |
+| AMD | ~$530–552 | SMA20 ~$530–540; may still be extended above SMA20 from prior data | ❌ No confirmed pullback to SMA zone |
+| CRWD | ~$181–200 | Stopped out Jul 13; spread was 4–5% recently | ❌ Spread check needed; skip without clean SMA bounce |
+| GOOGL | ~$320+ | Below SMA50 (post AI-capex selloff Jul 24) | ❌ Below SMA50 → entry gate fails |
+| TSLA | ~$337 | Below SMAs (post earnings miss Jul 17 area) | ❌ SMA structure fails |
+| TQQQ/SOXL/SPXL | — | BLOCKED — RESTRICTED mode (QQQ below SMA50) | ❌ No Type 5 until QQQ reclaims SMA50 |
+
+### Trade Ideas
+
+**Idea 1 — NVDA Type 3 (WATCH ONLY — hold for post-earnings clarity)**
+- Thesis: NVDA ~$202 is potentially in SMA50 pullback zone (SMA50 est. ~$195–205). Above SMA150/200 ✓. Earnings Aug 26 (safe). Strong AI demand thesis (Meta announcing tens of billions in NVDA chip purchases Jul 26).
+- Problem: MSFT + META report AI capex AMC today → these are the primary sentiment drivers for NVDA price. Entering NVDA before these reports is functionally equivalent to holding through an earnings binary.
+- Action: **DO NOT ENTER TODAY.** Reassess pre-market Thu Jul 31 after AMC earnings prints. If MSFT/META confirm AI capex bullish + QQQ gaps toward SMA50 → NVDA Type 3 entry Thu AM.
+- Sizing when ready: 40–50sh (~$8–10K), stop below SMA50, risk 3–4% of equity.
+
+**Idea 2 — TQQQ Type 5 (conditional on Thu, not today)**
+- Gate: QQQ must reclaim SMA50 ($721) on daily close. If MSFT/META AMC tonight are strong → QQQ could gap to/above $721 Thu morning.
+- If confirmed at Thu open: 300–350sh TQQQ (~$24–28K), stop −8% intraday from entry.
+- Today: BLOCKED (restricted mode; FOMC binary adds further risk to any new ETF position).
+
+**Idea 3 — AMD Type 3 (backup watch, Thu)**
+- Needs: AMD at SMA20 zone (~$530–540) with bounce confirmation at Thu open. Spread ≤ 1.5%.
+- Today: SMA zone unconfirmed; AMD may still be extended. Skip today.
+
+### Risk Factors
+1. **FOMC binary (2 PM ET today)**: 26% hike probability = unusually uncertain for a "skip" expectation. Hawkish surprise would slam equities and spike VIX.
+2. **META + MSFT AI capex binary (AMC)**: Both stocks are THE bellwether for AI infrastructure spending. MSFT Azure growth + META capex guidance = market's read on whether the AI trade continues.
+3. **QQQ SMA50 gap**: ~$9 below SMA50 ($721). Even a moderate rally today may not reclaim SMA50. RESTRICTED mode likely persists through close.
+4. **Week 16 pace**: 0/7 entries in Days 1–2 (Mon Jul 28, Tue Jul 29). Need 7 by Fri Aug 1. Thu-Fri represent the prime entry window IF post-FOMC/post-earnings environment clears.
+5. **NVDA China probe**: Jensen/Lutnick meeting signals active investigation. Export restrictions could tighten — headwind for AI chip allocation thesis.
+6. **Oil softening**: WTI $71–72 down from ~$83–88 spike. Inflation pressure easing slightly → may give Warsh room to hold. But still above target range.
+
+### Decision: NO-TRADE-DAY ✗
+
+**Rationale (Rule A + judgment):**
+- **RESTRICTED mode (QQQ $712 vs SMA50 $721)** → Types 2/4/5 blocked. Only Type 1/3 available.
+- **Universe scan**: Only NVDA is a plausible Type 3 candidate. However, NVDA position today = holding through MSFT/META AI capex AMC. These reports are the primary sentiment driver for NVDA — functionally equivalent to NVDA's own earnings binary in terms of risk.
+- **FOMC 2 PM ET**: Second stacked binary today. Entering any long before 2 PM carries Warsh decision risk; entering after 2 PM leaves 30 min before close (no time to validate setup).
+- **Rule B does not apply** (QQQ above SMA150 ~$645; VIX 19 < 35). This is a judgment call, not a rule-B cash-out.
+- **Floor note**: Today's NO-TRADE-DAY is justifiable by extraordinary binary stacking (FOMC + AI earnings). The floor cannot be satisfied by entering a setup where two simultaneous binary events make stop placement irrelevant to outcome. Must be flagged in Friday weekly review.
+
+**ACTION PLAN FOR THU JUL 31:**
+1. Check MSFT/META AMC prints pre-market (AI capex tone, Azure growth)
+2. QQQ pre-market — does it gap toward/above SMA50 ($721)? If yes → FULL MODE → TQQQ + NVDA simultaneously
+3. NVDA Type 3: confirm price at SMA50 zone (~$195–210), spread ≤1%, stop below SMA50
+4. TQQQ Type 5 (if QQQ > $721 close): 300–350sh, stop −8% intraday; reduced from max allocation given GDP/PCE Jul 30 data risk
+5. GDP Q2 Advance + PCE release **Jul 30 8:30 AM ET** — major macro print; factor into Thu sizing
+6. AMZN earnings AMC Jul 30 → skip AMZN as a single-name entry unless >5 days out
+7. **Week 16 urgency**: 0 entries in 2 days. Thu + Fri MUST produce minimum 4–5 entries to avoid floor miss. Priority: TQQQ + NVDA (if conditions met) = 2 on Thu; 2 more on Fri.
+
