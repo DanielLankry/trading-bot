@@ -2,6 +2,38 @@
 
 ---
 
+### Jul 29 — Market-Open (Week 15, Wednesday — Day 43)
+**Portfolio:** $95,086.58 | **Cash:** $95,086.58 (100%) | **Long MV:** $0 | **Phase P&L:** −$4,913.42 (−4.91%) | **Daytrade count:** 0
+
+**Trades fired:** NONE
+
+**NO-TRADE-DAY — Rule A (macro deeply restricted + FOMC binary + META/MSFT earnings AMC tonight)**
+
+| Reason | Detail |
+|--------|--------|
+| Macro DEEPLY RESTRICTED | QQQ live $677.22 (bid $677.19 / ask $677.26) at 1:35 PM ET vs SMA50 ~$721 → −6.1% below SMA50. Deepest restriction since peak selloff. Only Type 1+3 active. QQQ has fallen from ~$712 (Jul 28 close) to $677 intraday — pre-FOMC sell-off. |
+| FOMC binary imminent | FOMC rate decision at 2:00 PM ET (~25 min from quote). Chair Warsh announcement + press conference 2:30 PM. ~26% hike probability per Polymarket pre-decision. Entering any long now = holding through Fed decision. |
+| META earnings AMC tonight | Death cross (SMA50 < SMA200) intact + below SMA200 (~$624) → fails Type 3 macro trend requirement. Earnings AMC tonight → binary event. SKIP. |
+| MSFT earnings AMC tonight | Earnings binary tonight → AI capex/Azure print = primary sentiment driver for NVDA and QQQ direction Thursday. Any AI position entered today held through this. SKIP. |
+| NVDA — no entry | Live $196.96 (bid $196.93 / ask $196.98). Prior SMA50 est ~$200–210 → NVDA at or below SMA50 zone with no confirmed bounce. Pre-market plan: hold for post-FOMC/META/MSFT AMC clarity Thu AM. Jensen/Lutnick meeting on China AI probe adds geopolitical overhang. |
+| AMZN — disqualified | Earnings AMC Jul 30 (1 trading day) → skip, earnings too close. |
+| AMD, CRWD — disqualified | AMD: extended / no confirmed SMA20 pullback. CRWD: spread historically wide (4–5%). |
+| Types 2/4/5 blocked | Macro restricted (QQQ $677 << SMA50 $721, −6.1%). No TQQQ, no breakouts, no momentum probes. |
+
+**Open positions:** NONE
+**Probe cap:** 0/2 | **ETF slot:** 0/1 (blocked — macro restricted) | **Single-name slots:** 4/4 open
+**Trades this week (Week 15):** 0 new entries (Day 3 of 5). Floor: 0/7. ⚠ Third consecutive floor-miss day in Week 15.
+
+⚠ **Watch Thursday Jul 31 post-FOMC/earnings:**
+- **FOMC outcome (2 PM ET today)**: Hold + dovish language → QQQ may gap toward SMA50 ($721) Thu morning. Hike/hawkish surprise → extended selloff, stay cash.
+- **META/MSFT AMC prints**: Strong AI capex / Azure guidance = bullish for NVDA/TQQQ Thu; miss = extended tech selloff; stay cash.
+- **GDP Q2 Advance + Core PCE at 8:30 AM ET Jul 31**: Major macro print; factor into Thu sizing and risk.
+- **NVDA**: Monitor pre-market Thu. If price at SMA50 zone (~$200–210) with confirmed bounce + above SMA150/200 → Type 3 entry (40–50sh, risk 3–4%). H20 China license thesis intact.
+- **TQQQ**: Only viable if QQQ CLOSES above SMA50 (~$721). From $677 today, requires +6.5% recovery — unlikely without major FOMC catalyst.
+- **Week 15 floor**: 0/7 through Day 3. Need 7 by Fri EOD — aggressive Thu+Fri required if macro clears. AMZN/AAPL earnings AMC Jul 31 add binary risk to any positions opened Thursday.
+
+---
+
 ### Jul 27 — EOD Snapshot (Week 15, Monday — Day 41)
 **Portfolio:** $95,086.58 | **Cash:** $95,086.58 (100%) | **Day P&L:** $0.00 (0.00%) | **Phase P&L:** −$4,913.42 (−4.91%)
 
