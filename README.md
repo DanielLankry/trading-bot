@@ -47,3 +47,22 @@ trading-bot/
 ## Required Credentials
 
 See `env.template` for the full list. Set as environment variables on each cloud routine — never commit a `.env` file to the repo.
+
+## Keep operational account logs local
+
+Portfolio snapshots, order references and account-specific research belong in the local files below, which Git ignores:
+
+- `DAILY-SUMMARY.md`
+- `memory/RESEARCH-LOG.md`
+- `memory/TRADE-LOG.md`
+- `memory/WEEKLY-REVIEW.md`
+
+Before updating an existing checkout, keep a private copy of these logs so your running routines retain their account history. Restore that copy at the same paths after updating. The strategy, project context and routine definitions remain versioned.
+
+For a fresh checkout, initialize missing logs from the empty templates:
+
+```bash
+python scripts/init-local-logs.py
+```
+
+The initializer preserves existing files. Templates under `examples/local-logs/` contain no account data. Never force-add generated logs or copy account snapshots into templates.
